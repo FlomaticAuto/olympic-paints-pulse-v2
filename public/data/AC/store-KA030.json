@@ -1,0 +1,63 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "curef": "KA030",
+    "customer_name": "Hassan & Sons Hardware",
+    "town": "Kliptown",
+    "accno": "KA030",
+    "last_purchase_date": "21 Apr 2026",
+    "last_purchase_amt": 795.0,
+    "last_purchase_prod": "12X2KG PUTTY",
+    "total_12m": 21820.079999999998,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 50.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 4372.7,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 4372.7
+  },
+  "invoice": {
+    "invoice_no": "131029",
+    "date": "21 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L MASTER DECOR BLACK",
+        "qty": 3.0,
+        "unit_price": 184.5,
+        "value": 553.5
+      },
+      {
+        "prodname": "5L MASTER DECOR UMHLANGA TAN",
+        "qty": 5.0,
+        "unit_price": 184.5,
+        "value": 922.5
+      },
+      {
+        "prodname": "5L PICK 'N SAVE  ECONO BLACK",
+        "qty": 3.0,
+        "unit_price": 235.0,
+        "value": 705.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 275.45,
+        "value": 826.35
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 265.0,
+        "value": 795.0
+      }
+    ],
+    "total": 3802.35,
+    "count": 5
+  },
+  "competitor_forms_outstanding": 15
+}

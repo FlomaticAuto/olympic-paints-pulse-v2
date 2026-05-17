@@ -1,0 +1,33 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Jane Furse Building Supply",
+    "accno": "KJ022",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "25163",
+    "date": "20 Dec 2024",
+    "lines": [
+      {
+        "prodname": "5Kg PUTTY",
+        "qty": 11.0,
+        "unit_price": 45.68,
+        "value": 502.48
+      }
+    ],
+    "total": 502.48,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}

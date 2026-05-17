@@ -1,0 +1,309 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Best Build Hardware",
+    "accno": "KB073",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "24586",
+    "date": "30 Sep 2024",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 38.73,
+        "value": 232.38
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 38.73,
+        "value": 232.38
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 4.0,
+        "unit_price": 38.73,
+        "value": 154.92
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) P BROWN",
+        "qty": 6.0,
+        "unit_price": 38.73,
+        "value": 232.38
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 57.71,
+        "value": 346.26
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 57.71,
+        "value": 346.26
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 57.71,
+        "value": 346.26
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 57.71,
+        "value": 173.13
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 4.0,
+        "unit_price": 57.71,
+        "value": 230.84
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 57.71,
+        "value": 173.13
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 38.73,
+        "value": 116.19
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 8.0,
+        "unit_price": 193.53,
+        "value": 1548.24
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 8.0,
+        "unit_price": 193.53,
+        "value": 1548.24
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 193.53,
+        "value": 1161.18
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 193.53,
+        "value": 1161.18
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 6.0,
+        "unit_price": 193.53,
+        "value": 1161.18
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 193.53,
+        "value": 967.65
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 193.53,
+        "value": 580.59
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 72.14999999999999,
+        "value": 432.9
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 83.32000000000001,
+        "value": 499.92
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 83.32000000000001,
+        "value": 499.92
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 83.32000000000001,
+        "value": 499.92
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 83.32000000000001,
+        "value": 499.92
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 4.0,
+        "unit_price": 259.27,
+        "value": 1037.08
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 303.73,
+        "value": 1214.92
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 303.73,
+        "value": 1214.92
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 303.73,
+        "value": 1214.92
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 303.73,
+        "value": 1214.92
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 67.89,
+        "value": 203.67
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 70.51,
+        "value": 423.06
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 4.0,
+        "unit_price": 236.37,
+        "value": 945.48
+      },
+      {
+        "prodname": "5L EGGSHELL WHITE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 326.58,
+        "value": 1306.32
+      },
+      {
+        "prodname": "5L MASTER DECOR WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 117.35000000000001,
+        "value": 704.1
+      },
+      {
+        "prodname": "5L MASTER DECOR CREAM PVA",
+        "qty": 3.0,
+        "unit_price": 117.35000000000001,
+        "value": 352.05
+      },
+      {
+        "prodname": "20L MASTER DECOR WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 434.92,
+        "value": 2609.52
+      },
+      {
+        "prodname": "20L MASTER DECOR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 434.92,
+        "value": 1739.68
+      },
+      {
+        "prodname": "20L MASTER DECOR AFRICAN KUDU",
+        "qty": 4.0,
+        "unit_price": 457.01,
+        "value": 1828.04
+      },
+      {
+        "prodname": "20L MASTER DECOR KALAHARI PVA",
+        "qty": 6.0,
+        "unit_price": 457.01,
+        "value": 2742.06
+      },
+      {
+        "prodname": "20L MASTER DECOR BRAZIL NUT",
+        "qty": 6.0,
+        "unit_price": 457.01,
+        "value": 2742.06
+      },
+      {
+        "prodname": "20L MASTER DECOR SILVER SANDS",
+        "qty": 6.0,
+        "unit_price": 457.01,
+        "value": 2742.06
+      },
+      {
+        "prodname": "20L MASTER DECOR STONE GREY",
+        "qty": 6.0,
+        "unit_price": 457.01,
+        "value": 2742.06
+      },
+      {
+        "prodname": "20L MASTER DECOR TENNESSEE PVA",
+        "qty": 3.0,
+        "unit_price": 457.01,
+        "value": 1371.03
+      },
+      {
+        "prodname": "20L MASTER DECOR NIGHT SKY",
+        "qty": 4.0,
+        "unit_price": 457.01,
+        "value": 1828.04
+      },
+      {
+        "prodname": "20L MASTER DECOR UMHLANGA TAN",
+        "qty": 4.0,
+        "unit_price": 457.01,
+        "value": 1828.04
+      },
+      {
+        "prodname": "20L MASTER DECOR FOSSIL GREEN",
+        "qty": 3.0,
+        "unit_price": 457.01,
+        "value": 1371.03
+      },
+      {
+        "prodname": "20L MASTER DECOR AUTUMN WHEAT",
+        "qty": 3.0,
+        "unit_price": 457.01,
+        "value": 1371.03
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 4.0,
+        "unit_price": 743.12,
+        "value": 2972.48
+      }
+    ],
+    "total": 50863.54,
+    "count": 47
+  },
+  "competitor_forms_outstanding": 15
+}

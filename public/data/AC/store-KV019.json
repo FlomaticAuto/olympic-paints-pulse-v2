@@ -1,0 +1,171 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Vaal Electrical Hardware",
+    "accno": "KV019",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "120369",
+    "date": "02 Jul 2024",
+    "lines": [
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 261.31,
+        "value": 783.93
+      },
+      {
+        "prodname": "5L HI HIDING CONT PVA WHITE",
+        "qty": 6.0,
+        "unit_price": 118.8,
+        "value": 712.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 238.19000000000003,
+        "value": 1429.14
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 5.0,
+        "unit_price": 238.19,
+        "value": 1190.95
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 3.0,
+        "unit_price": 238.19000000000003,
+        "value": 714.57
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 238.19,
+        "value": 1190.95
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 238.19,
+        "value": 1190.95
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 40.94,
+        "value": 245.64
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 47.699999999999996,
+        "value": 286.2
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 47.699999999999996,
+        "value": 286.2
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 47.699999999999996,
+        "value": 286.2
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 47.699999999999996,
+        "value": 286.2
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 47.699999999999996,
+        "value": 286.2
+      },
+      {
+        "prodname": "500ML EBONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 47.699999999999996,
+        "value": 143.1
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 65.5,
+        "value": 131.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 79.02000000000001,
+        "value": 395.1
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 2.0,
+        "unit_price": 79.02,
+        "value": 158.04
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 5.0,
+        "unit_price": 79.02000000000001,
+        "value": 395.1
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 79.02,
+        "value": 158.04
+      },
+      {
+        "prodname": "20L DECOR CREAM PVA",
+        "qty": 2.0,
+        "unit_price": 259.2,
+        "value": 518.4
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 2.0,
+        "unit_price": 259.2,
+        "value": 518.4
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 2.0,
+        "unit_price": 259.2,
+        "value": 518.4
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 2.0,
+        "unit_price": 259.2,
+        "value": 518.4
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 212.0,
+        "value": 212.0
+      }
+    ],
+    "total": 12555.91,
+    "count": 24
+  },
+  "competitor_forms_outstanding": 15
+}

@@ -1,0 +1,39 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Sunshine 786 Trading",
+    "accno": "KB047",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "25323",
+    "date": "06 Feb 2025",
+    "lines": [
+      {
+        "prodname": "5Kg PUTTY",
+        "qty": 5.0,
+        "unit_price": 42.78,
+        "value": 213.9
+      },
+      {
+        "prodname": "PKT 2KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 16.45,
+        "value": 82.25
+      }
+    ],
+    "total": 296.15,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 15
+}

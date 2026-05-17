@@ -1,0 +1,483 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Quick Save Hardware",
+    "accno": "KM011",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "122790",
+    "date": "27 Nov 2024",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 70.0,
+        "value": 420.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 70.0,
+        "value": 420.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PEACH",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) IVORY",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) M PEACH",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 250.0,
+        "value": 1250.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 5.0,
+        "unit_price": 250.0,
+        "value": 1250.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) L BROWN",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) PEACH",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S RED",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) IVORY",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) IVORY",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) M PEACH",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 59.5,
+        "value": 357.0
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "500ML EBONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 63.75,
+        "value": 382.5
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 81.44,
+        "value": 488.64
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 92.99000000000001,
+        "value": 557.94
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 106.25,
+        "value": 637.5
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 6.0,
+        "unit_price": 123.25,
+        "value": 739.5
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 100.89,
+        "value": 605.34
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 310.0,
+        "value": 3100.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 2.0,
+        "unit_price": 310.0,
+        "value": 620.0
+      },
+      {
+        "prodname": "5L Q.D. SILVER",
+        "qty": 2.0,
+        "unit_price": 350.0,
+        "value": 700.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 20.0,
+        "unit_price": 130.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 5.0,
+        "unit_price": 259.2,
+        "value": 1296.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 49.330000000000005,
+        "value": 147.99
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 49.330000000000005,
+        "value": 147.99
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 3.0,
+        "unit_price": 49.330000000000005,
+        "value": 147.99
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 8.0,
+        "unit_price": 95.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 8.0,
+        "unit_price": 95.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREEN",
+        "qty": 8.0,
+        "unit_price": 95.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 8.0,
+        "unit_price": 95.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 8.0,
+        "unit_price": 95.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 224.74,
+        "value": 674.22
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 59.35,
+        "value": 178.05
+      },
+      {
+        "prodname": "5 CARBOLINEUM",
+        "qty": 10.0,
+        "unit_price": 130.0,
+        "value": 1300.0
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 278.13,
+        "value": 278.13
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 15.0,
+        "unit_price": 161.54,
+        "value": 2423.1
+      },
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 15.0,
+        "unit_price": 161.54,
+        "value": 2423.1
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 5.0,
+        "unit_price": 161.54000000000002,
+        "value": 807.7
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L DECOR CREAM PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 5.0,
+        "unit_price": 275.0,
+        "value": 1375.0
+      },
+      {
+        "prodname": "5L DECOR CREAM PVA",
+        "qty": 3.0,
+        "unit_price": 85.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 40.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "5L DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 85.0,
+        "value": 255.0
+      }
+    ],
+    "total": 50279.89,
+    "count": 76
+  },
+  "competitor_forms_outstanding": 15
+}

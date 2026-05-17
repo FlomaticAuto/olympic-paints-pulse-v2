@@ -1,0 +1,195 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "curef": "KH032",
+    "customer_name": "Hardware Hub",
+    "town": "Next to Brent Oil Garage",
+    "accno": "KH032",
+    "last_purchase_date": "03 Dec 2024",
+    "last_purchase_amt": 1076.04,
+    "last_purchase_prod": "20L KALAHARI  CONTR NIGHT SKY",
+    "total_12m": 0.0,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 9.5,
+    "is_recovery": true,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 39416.04,
+    "d_total": 39416.04
+  },
+  "invoice": {
+    "invoice_no": "122918",
+    "date": "03 Dec 2024",
+    "lines": [
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 30.0,
+        "unit_price": 158.23999999999998,
+        "value": 4747.2
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 30.0,
+        "unit_price": 158.23999999999998,
+        "value": 4747.2
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 20.0,
+        "unit_price": 172.26,
+        "value": 3445.2
+      },
+      {
+        "prodname": "20L ECLIPSE BLUE PVA",
+        "qty": 6.0,
+        "unit_price": 172.26,
+        "value": 1033.56
+      },
+      {
+        "prodname": "5L ECLIPSE PEACH PVA",
+        "qty": 20.0,
+        "unit_price": 71.28,
+        "value": 1425.6
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 30.0,
+        "unit_price": 71.28,
+        "value": 2138.4
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 218.3,
+        "value": 2183.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BURGANDY",
+        "qty": 10.0,
+        "unit_price": 218.3,
+        "value": 2183.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 10.0,
+        "unit_price": 218.3,
+        "value": 2183.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREEN",
+        "qty": 10.0,
+        "unit_price": 224.53000000000003,
+        "value": 2245.3
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 218.3,
+        "value": 2183.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 12.0,
+        "unit_price": 284.83,
+        "value": 3417.96
+      },
+      {
+        "prodname": "DOZEN 750ML RAW LINSEED OIL",
+        "qty": 5.0,
+        "unit_price": 694.62,
+        "value": 3473.1
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 4.0,
+        "unit_price": 243.37,
+        "value": 973.48
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 4.0,
+        "unit_price": 227.14,
+        "value": 908.56
+      },
+      {
+        "prodname": "5Kg PUTTY",
+        "qty": 24.0,
+        "unit_price": 47.66,
+        "value": 1143.84
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 40.0,
+        "unit_price": 71.21000000000001,
+        "value": 2848.4
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 12.0,
+        "unit_price": 106.44,
+        "value": 1277.28
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 24.0,
+        "unit_price": 71.21,
+        "value": 1709.04
+      },
+      {
+        "prodname": "24x500GM BLACK OXIDE",
+        "qty": 4.0,
+        "unit_price": 145.05,
+        "value": 580.2
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 4.0,
+        "unit_price": 145.05,
+        "value": 580.2
+      },
+      {
+        "prodname": "20L KALAHARI CONTR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 346.81,
+        "value": 1387.24
+      },
+      {
+        "prodname": "20L KALAHARI CONTR  HAZEL",
+        "qty": 6.0,
+        "unit_price": 358.68,
+        "value": 2152.08
+      },
+      {
+        "prodname": "20L KALAHARI CONTR JAIPUR PVA",
+        "qty": 2.0,
+        "unit_price": 358.68,
+        "value": 717.36
+      },
+      {
+        "prodname": "20L KALAHARI CONT SILVER MIST",
+        "qty": 4.0,
+        "unit_price": 358.68,
+        "value": 1434.72
+      },
+      {
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 346.81,
+        "value": 2080.86
+      },
+      {
+        "prodname": "20L KALAHARI  CONTR NIGHT SKY",
+        "qty": 3.0,
+        "unit_price": 358.68,
+        "value": 1076.04
+      }
+    ],
+    "total": 54274.82,
+    "count": 27
+  },
+  "competitor_forms_outstanding": 15
+}

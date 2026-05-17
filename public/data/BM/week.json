@@ -1,0 +1,140 @@
+{
+  "rep": "BM",
+  "rep_name": "Byron Minnie",
+  "generated_at": "2026-05-13",
+  "week_label": "11 May \u2013 15 May",
+  "total_stores": 5,
+  "days": [
+    {
+      "date_iso": "2026-05-11",
+      "date_label": "Mon 11 May",
+      "is_today": false,
+      "stores": [
+        {
+          "curef": "KA116",
+          "customer_name": "Allandale Trading CC",
+          "town": "President Park",
+          "accno": "KA116",
+          "last_purchase_date": "23 Mar 2026",
+          "last_purchase_amt": 560.0,
+          "last_purchase_prod": "5L Q D BLACK ENAMEL",
+          "total_12m": 6339.82,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 25.5,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 0.0
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-12",
+      "date_label": "Tue 12 May",
+      "is_today": false,
+      "stores": [
+        {
+          "curef": "KB115",
+          "customer_name": "Build Africa Hardware",
+          "town": null,
+          "accno": "KB115",
+          "last_purchase_date": "15 May 2026",
+          "last_purchase_amt": 1094.73,
+          "last_purchase_prod": "5L MAHOGONY VARNISH",
+          "total_12m": 54691.53,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 35.3,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 20094.13,
+          "d60": 983.33,
+          "d90": 0.0,
+          "d_total": 21077.46
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-13",
+      "date_label": "Wed 13 May",
+      "is_today": true,
+      "stores": [
+        {
+          "curef": "KC055",
+          "customer_name": "CKW life Style (PTY) LTD",
+          "town": "Saxonworld",
+          "accno": "KC055",
+          "last_purchase_date": "16 Jul 2025",
+          "last_purchase_amt": 68.88,
+          "last_purchase_prod": "225MM Platinum Paint Roller",
+          "total_12m": 2137.58,
+          "velocity_category": null,
+          "health_tier": "Dead / Dormant",
+          "health_score": 9.5,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 0.0
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-14",
+      "date_label": "Thu 14 May",
+      "is_today": false,
+      "stores": [
+        {
+          "curef": "KP060",
+          "customer_name": "Pepper Tree Lane Body Corporat",
+          "town": "Northwold",
+          "accno": "KP060",
+          "last_purchase_date": "12 May 2026",
+          "last_purchase_amt": 281.48,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 6801.080000000002,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 21.7,
+          "is_recovery": false,
+          "d_current": 1056.25,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 1056.25
+        }
+      ]
+    },
+    {
+      "date_iso": "2026-05-15",
+      "date_label": "Fri 15 May",
+      "is_today": false,
+      "stores": [
+        {
+          "curef": "KP063",
+          "customer_name": "Projo Projects",
+          "town": null,
+          "accno": "KP063",
+          "last_purchase_date": "28 Apr 2026",
+          "last_purchase_amt": 3183.94,
+          "last_purchase_prod": "20LT N/ELEGANCE NECTAR 8125-5",
+          "total_12m": 35953.18000000001,
+          "velocity_category": null,
+          "health_tier": "Active but Narrow",
+          "health_score": 10.6,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": -0.02,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": -0.02
+        }
+      ]
+    }
+  ],
+  "competitor_forms_outstanding": 15
+}

@@ -1,0 +1,141 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Moosas Supermarket",
+    "accno": "KM076",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "128068",
+    "date": "30 Oct 2025",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 2.0,
+        "unit_price": 375.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L KALAHARI CONTR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 118.52999999999999,
+        "value": 355.59
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) BLACK",
+        "qty": 1.0,
+        "unit_price": 999.0,
+        "value": 999.0
+      },
+      {
+        "prodname": "20LT HIGH GLOSS (MQ) BRILL GREEN",
+        "qty": 1.0,
+        "unit_price": 999.0,
+        "value": 999.0
+      },
+      {
+        "prodname": "20LT HIGH GLOSS SUMMER BLUE",
+        "qty": 1.0,
+        "unit_price": 999.0,
+        "value": 999.0
+      },
+      {
+        "prodname": "20LT HIGH GLOSS (MQ) B/YELLOW",
+        "qty": 1.0,
+        "unit_price": 999.0,
+        "value": 999.0
+      },
+      {
+        "prodname": "20LT HIGH GLOSS (MQ) S/RED",
+        "qty": 1.0,
+        "unit_price": 999.0,
+        "value": 999.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B GREEN",
+        "qty": 1.0,
+        "unit_price": 50.04,
+        "value": 50.04
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 2.0,
+        "unit_price": 50.04,
+        "value": 100.08
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREEN",
+        "qty": 1.0,
+        "unit_price": 600.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 246.4,
+        "value": 246.4
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 233.2,
+        "value": 466.4
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 51.04,
+        "value": 255.2
+      }
+    ],
+    "total": 8859.11,
+    "count": 19
+  },
+  "competitor_forms_outstanding": 15
+}

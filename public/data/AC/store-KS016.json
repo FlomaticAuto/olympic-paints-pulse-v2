@@ -1,0 +1,45 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Super Stores Hardware & Elec",
+    "accno": "KS016",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "28517",
+    "date": "30 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L PICK 'N SAVE ECONO WHITE",
+        "qty": 15.0,
+        "unit_price": 79.32,
+        "value": 1189.8
+      },
+      {
+        "prodname": "5L PICK 'N SAVE  ECONO G BROWN",
+        "qty": 10.0,
+        "unit_price": 86.65,
+        "value": 866.5
+      },
+      {
+        "prodname": "5L PICK 'N SAVE  ECONO BLUE",
+        "qty": 5.0,
+        "unit_price": 86.65,
+        "value": 433.25
+      }
+    ],
+    "total": 2489.55,
+    "count": 3
+  },
+  "competitor_forms_outstanding": 15
+}

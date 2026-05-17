@@ -1,0 +1,159 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Maserumo Xpress",
+    "accno": "KM116",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "123088",
+    "date": "09 Dec 2024",
+    "lines": [
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 5.0,
+        "unit_price": 280.13,
+        "value": 1400.65
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 5.0,
+        "unit_price": 280.13,
+        "value": 1400.65
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 280.13,
+        "value": 1400.65
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREEN",
+        "qty": 2.0,
+        "unit_price": 835.21,
+        "value": 1670.42
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 3.0,
+        "unit_price": 751.6700000000001,
+        "value": 2255.01
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 2.0,
+        "unit_price": 751.67,
+        "value": 1503.34
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 110.80999999999999,
+        "value": 1108.1
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 110.80999999999999,
+        "value": 1108.1
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 110.80999999999999,
+        "value": 554.05
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 82.6,
+        "value": 826.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 5.0,
+        "unit_price": 82.6,
+        "value": 413.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 82.6,
+        "value": 413.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 5.0,
+        "unit_price": 82.6,
+        "value": 413.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 51.510000000000005,
+        "value": 515.1
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 57.69,
+        "value": 288.45
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 84.7,
+        "value": 423.5
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 75.1,
+        "value": 375.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 5.0,
+        "unit_price": 267.57,
+        "value": 1337.85
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 347.65999999999997,
+        "value": 1738.3
+      },
+      {
+        "prodname": "5 CARBOLINEUM",
+        "qty": 15.0,
+        "unit_price": 116.8,
+        "value": 1752.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 280.66,
+        "value": 561.32
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 25.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 21457.989999999998,
+    "count": 22
+  },
+  "competitor_forms_outstanding": 15
+}

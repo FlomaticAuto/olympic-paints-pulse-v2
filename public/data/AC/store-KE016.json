@@ -1,0 +1,39 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "curef": "KE016",
+    "customer_name": "Eeezee Foam (Pty) Ltd",
+    "town": "Robertsham",
+    "accno": "KE016",
+    "last_purchase_date": "04 Mar 2024",
+    "last_purchase_amt": 13287.6,
+    "last_purchase_prod": "20L UNIVERSAL ROOF GREY",
+    "total_12m": 0.0,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 1.1,
+    "is_recovery": true,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0
+  },
+  "invoice": {
+    "invoice_no": "118654",
+    "date": "04 Mar 2024",
+    "lines": [
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 20.0,
+        "unit_price": 664.38,
+        "value": 13287.6
+      }
+    ],
+    "total": 13287.6,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}

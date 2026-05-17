@@ -1,0 +1,69 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "DIY Tool Time",
+    "accno": "KD061",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "125045",
+    "date": "13 May 2025",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 1.0,
+        "unit_price": 309.0,
+        "value": 309.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 1.0,
+        "unit_price": 309.0,
+        "value": 309.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 2.0,
+        "unit_price": 105.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 2.0,
+        "unit_price": 105.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 2.0,
+        "unit_price": 105.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 1.0,
+        "unit_price": 324.0,
+        "value": 324.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 6.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 1572.0,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 15
+}

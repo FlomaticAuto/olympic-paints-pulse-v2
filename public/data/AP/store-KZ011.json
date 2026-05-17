@@ -1,0 +1,123 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Z Build Khubvi",
+    "accno": "KZ011",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "129848",
+    "date": "05 Feb 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 79.31,
+        "value": 396.55
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 79.31,
+        "value": 793.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 79.31,
+        "value": 793.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 275.0,
+        "value": 1375.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 233.28,
+        "value": 233.28
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 288.28,
+        "value": 576.56
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 30.0,
+        "unit_price": 50.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 10.0,
+        "unit_price": 140.4,
+        "value": 1404.0
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 10.0,
+        "unit_price": 131.68,
+        "value": 1316.8
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 80.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 80.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 30.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 12698.39,
+    "count": 16
+  },
+  "competitor_forms_outstanding": 15
+}

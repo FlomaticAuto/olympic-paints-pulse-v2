@@ -1,0 +1,249 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Premium Build Hardware",
+    "accno": "KP054",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "124697",
+    "date": "16 Apr 2025",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "20L DECOR CREAM PVA",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 2.0,
+        "unit_price": 265.0,
+        "value": 530.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 2.0,
+        "unit_price": 265.0,
+        "value": 530.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20L DECOR FOSSIL GREEN PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 46.13999999999999,
+        "value": 276.84
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S GREEN",
+        "qty": 6.0,
+        "unit_price": 46.13999999999999,
+        "value": 276.84
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 72.75,
+        "value": 727.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 72.75,
+        "value": 436.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 6.0,
+        "unit_price": 72.75,
+        "value": 436.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 6.0,
+        "unit_price": 72.75,
+        "value": 436.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 6.0,
+        "unit_price": 72.75,
+        "value": 436.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 72.75,
+        "value": 436.5
+      },
+      {
+        "prodname": "1LT Q.D.BLACK OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 20.0,
+        "unit_price": 89.0,
+        "value": 1780.0
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 20.0,
+        "unit_price": 89.0,
+        "value": 1780.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 20.0,
+        "unit_price": 89.0,
+        "value": 1780.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 20.0,
+        "unit_price": 89.0,
+        "value": 1780.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 20.0,
+        "unit_price": 89.0,
+        "value": 1780.0
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 60.0,
+        "value": 360.0
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 60.0,
+        "value": 360.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 60.0,
+        "value": 360.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 84.0,
+        "value": 504.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 84.0,
+        "value": 504.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 84.0,
+        "value": 504.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 84.0,
+        "value": 504.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 220.0,
+        "value": 220.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 10.0,
+        "unit_price": 208.0,
+        "value": 2080.0
+      },
+      {
+        "prodname": "DOZEN 750ML RAW LINSEED OIL",
+        "qty": 3.0,
+        "unit_price": 462.0,
+        "value": 1386.0
+      },
+      {
+        "prodname": "1LT Q.D ENAMEL MATT BLACK",
+        "qty": 4.0,
+        "unit_price": 100.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 100.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 30385.68,
+    "count": 37
+  },
+  "competitor_forms_outstanding": 15
+}

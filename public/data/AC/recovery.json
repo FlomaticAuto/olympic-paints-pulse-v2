@@ -1,0 +1,127 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "accounts": [
+    {
+      "accno": "KE016",
+      "store_name": "Eeezee Foam (Pty) Ltd",
+      "score": 1.1,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 803
+    },
+    {
+      "accno": "KD061",
+      "store_name": "DIY Tool Time",
+      "score": 4.3,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 368
+    },
+    {
+      "accno": "KV019",
+      "store_name": "Vaal Electrical Hardware",
+      "score": 5.5,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 683
+    },
+    {
+      "accno": "KW014",
+      "store_name": "Walwati Properties (PTY) LTD",
+      "score": 6.1,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 345
+    },
+    {
+      "accno": "KB085",
+      "store_name": "Best Build Hardware",
+      "score": 7.3,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 366
+    },
+    {
+      "accno": "KV018",
+      "store_name": "Vantis Gift Centre CC",
+      "score": 7.5,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 190
+    },
+    {
+      "accno": "KB073",
+      "store_name": "Best Build Hardware",
+      "score": 7.6,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 598
+    },
+    {
+      "accno": "KZ010",
+      "store_name": "Z & K Building Consultants",
+      "score": 8.7,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 521
+    },
+    {
+      "accno": "KP054",
+      "store_name": "Premium Build Hardware",
+      "score": 9.8,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 395
+    },
+    {
+      "accno": "KF034",
+      "store_name": "Faeez Cassim",
+      "score": 12.0,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 99
+    },
+    {
+      "accno": "KS016",
+      "store_name": "Super Stores Hardware & Elec",
+      "score": 14.8,
+      "tier": "At-Risk",
+      "days_since_purchase": 16
+    },
+    {
+      "accno": "KT057",
+      "store_name": "Takolias Hardware Devland",
+      "score": 17.2,
+      "tier": "At-Risk",
+      "days_since_purchase": 24
+    },
+    {
+      "accno": "KE037",
+      "store_name": "Epic Foods (Pty) Ltd",
+      "score": 18.8,
+      "tier": "At-Risk",
+      "days_since_purchase": 36
+    },
+    {
+      "accno": "KJ037",
+      "store_name": "Jad Doors (PTY) LTD",
+      "score": 19.2,
+      "tier": "At-Risk",
+      "days_since_purchase": 72
+    },
+    {
+      "accno": "KE040",
+      "store_name": "Exclusive Wholesalers",
+      "score": 19.8,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 100
+    },
+    {
+      "accno": "KE031",
+      "store_name": "IL Molino (PTY) Ltd",
+      "score": 19.8,
+      "tier": "At-Risk",
+      "days_since_purchase": 11
+    },
+    {
+      "accno": "KT035",
+      "store_name": "Totalbuild (Vosloorus)",
+      "score": 22.0,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 318
+    }
+  ],
+  "competitor_forms_outstanding": 15
+}

@@ -1,0 +1,87 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Scenic Route Trading 580 cc",
+    "accno": "KS046",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "121412",
+    "date": "06 Sep 2024",
+    "lines": [
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 5.0,
+        "unit_price": 176.4,
+        "value": 882.0
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 5.0,
+        "unit_price": 189.47,
+        "value": 947.35
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 10.0,
+        "unit_price": 176.4,
+        "value": 1764.0
+      },
+      {
+        "prodname": "20L ECLIPSE BLUE PVA",
+        "qty": 3.0,
+        "unit_price": 189.47,
+        "value": 568.41
+      },
+      {
+        "prodname": "5L ECLIPSE CREAM PVA",
+        "qty": 5.0,
+        "unit_price": 56.67,
+        "value": 283.35
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 56.67,
+        "value": 283.35
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLUE",
+        "qty": 1.0,
+        "unit_price": 365.08,
+        "value": 365.08
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BROWN",
+        "qty": 1.0,
+        "unit_price": 365.08,
+        "value": 365.08
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS GREEN",
+        "qty": 1.0,
+        "unit_price": 365.08,
+        "value": 365.08
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS VIOLET",
+        "qty": 1.0,
+        "unit_price": 365.08,
+        "value": 365.08
+      }
+    ],
+    "total": 6188.780000000001,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 15
+}

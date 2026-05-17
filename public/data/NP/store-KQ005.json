@@ -1,0 +1,153 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Qwa Qwa HW - TA Mica HWare",
+    "accno": "KQ005",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "124574",
+    "date": "08 Apr 2025",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 50.54,
+        "value": 101.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B GREEN",
+        "qty": 2.0,
+        "unit_price": 50.54,
+        "value": 101.08
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 2.0,
+        "unit_price": 50.54,
+        "value": 101.08
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 4.0,
+        "unit_price": 72.38,
+        "value": 289.52
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 4.0,
+        "unit_price": 72.38,
+        "value": 289.52
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 2.0,
+        "unit_price": 72.38,
+        "value": 144.76
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 245.99,
+        "value": 491.98
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 245.99,
+        "value": 491.98
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 245.99,
+        "value": 491.98
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 245.99,
+        "value": 491.98
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 245.99,
+        "value": 491.98
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 56.0,
+        "value": 112.0
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 2.0,
+        "unit_price": 60.0,
+        "value": 120.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 84.0,
+        "value": 168.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 2.0,
+        "unit_price": 96.0,
+        "value": 192.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 329.67,
+        "value": 659.34
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 1.0,
+        "unit_price": 220.0,
+        "value": 220.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 88.55,
+        "value": 531.3
+      },
+      {
+        "prodname": "1L Q D DARK GREY ENAMEL",
+        "qty": 2.0,
+        "unit_price": 104.0,
+        "value": 208.0
+      },
+      {
+        "prodname": "1L Q D  PWD BROWN ENAMEL",
+        "qty": 2.0,
+        "unit_price": 104.0,
+        "value": 208.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 334.97,
+        "value": 1339.88
+      }
+    ],
+    "total": 7245.460000000001,
+    "count": 21
+  },
+  "competitor_forms_outstanding": 15
+}

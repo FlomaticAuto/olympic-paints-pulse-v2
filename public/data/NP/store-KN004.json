@@ -1,0 +1,129 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Neha HW & Bldg. Mat.",
+    "accno": "KN004",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "124717",
+    "date": "17 Apr 2025",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 73.66,
+        "value": 736.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 73.66,
+        "value": 736.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 73.66,
+        "value": 736.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 6.0,
+        "unit_price": 73.66,
+        "value": 441.96
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 249.48000000000002,
+        "value": 1496.88
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 249.48000000000002,
+        "value": 1496.88
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 249.48000000000002,
+        "value": 2494.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 249.48000000000002,
+        "value": 2494.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 249.48000000000002,
+        "value": 1496.88
+      },
+      {
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 6.0,
+        "unit_price": 450.0,
+        "value": 2700.0
+      },
+      {
+        "prodname": "5L  WATERBASED PLASTER PRIMER",
+        "qty": 4.0,
+        "unit_price": 150.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 74.17,
+        "value": 445.02
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 89.64999999999999,
+        "value": 537.9
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 89.65,
+        "value": 896.5
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 89.64999999999999,
+        "value": 537.9
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 10.0,
+        "unit_price": 110.47999999999999,
+        "value": 1104.8
+      },
+      {
+        "prodname": "5L Q.D. SILVER",
+        "qty": 6.0,
+        "unit_price": 350.0,
+        "value": 2100.0
+      }
+    ],
+    "total": 21054.120000000003,
+    "count": 17
+  },
+  "competitor_forms_outstanding": 15
+}

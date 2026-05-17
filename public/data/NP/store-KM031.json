@@ -1,0 +1,81 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Mica Hardware - Purple Rain",
+    "accno": "KM031",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "131210",
+    "date": "07 May 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 82.5,
+        "value": 495.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 4.0,
+        "unit_price": 82.5,
+        "value": 330.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 3.0,
+        "unit_price": 82.5,
+        "value": 247.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 295.0,
+        "value": 1180.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 295.0,
+        "value": 1180.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 295.0,
+        "value": 590.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 295.0,
+        "value": 590.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 2.0,
+        "unit_price": 295.0,
+        "value": 590.0
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 187.79999999999998,
+        "value": 1126.8
+      }
+    ],
+    "total": 6329.3,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 15
+}

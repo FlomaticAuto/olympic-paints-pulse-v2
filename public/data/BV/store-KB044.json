@@ -1,0 +1,39 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Border Plumbing & Hardware",
+    "accno": "KB044",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "24902",
+    "date": "27 Nov 2024",
+    "lines": [
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 3.0,
+        "unit_price": 37.86,
+        "value": 113.58
+      },
+      {
+        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "qty": 5.0,
+        "unit_price": 77.53999999999999,
+        "value": 387.7
+      }
+    ],
+    "total": 501.28,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 15
+}

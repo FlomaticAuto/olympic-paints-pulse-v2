@@ -1,0 +1,87 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Memel Hardware",
+    "accno": "KM141",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "130990",
+    "date": "20 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 310.5,
+        "value": 1552.5
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 268.27,
+        "value": 536.54
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 268.27,
+        "value": 804.81
+      },
+      {
+        "prodname": "6x2KG DISTEMPER GREEN",
+        "qty": 1.0,
+        "unit_price": 160.95,
+        "value": 160.95
+      },
+      {
+        "prodname": "6x2KG DISTEMPER BLUE",
+        "qty": 3.0,
+        "unit_price": 160.95000000000002,
+        "value": 482.85
+      },
+      {
+        "prodname": "6x2KG DISTEMPER YELLOW",
+        "qty": 1.0,
+        "unit_price": 160.95,
+        "value": 160.95
+      },
+      {
+        "prodname": "6x2KG DISTEMPER PINK",
+        "qty": 3.0,
+        "unit_price": 160.95000000000002,
+        "value": 482.85
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 30.0,
+        "unit_price": 194.48,
+        "value": 5834.4
+      },
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 20.0,
+        "unit_price": 194.48,
+        "value": 3889.6
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 15.0,
+        "unit_price": 194.48,
+        "value": 2917.2
+      }
+    ],
+    "total": 16822.65,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 15
+}

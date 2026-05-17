@@ -1,0 +1,141 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Zonelite Enterprises Pty Ltd",
+    "accno": "KZ008",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "126691",
+    "date": "19 Aug 2025",
+    "lines": [
+      {
+        "prodname": "PALLETS",
+        "qty": 1.0,
+        "unit_price": 250.0,
+        "value": 250.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 75.71000000000001,
+        "value": 757.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 75.71000000000001,
+        "value": 378.55
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 75.71000000000001,
+        "value": 757.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 3.0,
+        "unit_price": 75.71,
+        "value": 227.13
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B BLUE",
+        "qty": 5.0,
+        "unit_price": 75.71000000000001,
+        "value": 378.55
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 75.71000000000001,
+        "value": 378.55
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 248.0,
+        "value": 744.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 248.0,
+        "value": 1488.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 3.0,
+        "unit_price": 248.0,
+        "value": 744.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 248.0,
+        "value": 1488.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 95.44,
+        "value": 572.64
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 332.64,
+        "value": 997.92
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 54.08,
+        "value": 270.4
+      },
+      {
+        "prodname": "1L RAINPROOF CHARCOAL",
+        "qty": 5.0,
+        "unit_price": 54.08,
+        "value": 270.4
+      },
+      {
+        "prodname": "1L RAINPROOF GREY",
+        "qty": 5.0,
+        "unit_price": 54.08,
+        "value": 270.4
+      },
+      {
+        "prodname": "1L RAINPROOF BURGANDY",
+        "qty": 5.0,
+        "unit_price": 54.08,
+        "value": 270.4
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 5.0,
+        "unit_price": 99.74,
+        "value": 498.7
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 99.74,
+        "value": 498.7
+      }
+    ],
+    "total": 11240.54,
+    "count": 19
+  },
+  "competitor_forms_outstanding": 15
+}

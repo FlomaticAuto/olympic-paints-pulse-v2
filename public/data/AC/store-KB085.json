@@ -1,0 +1,315 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Best Build Hardware",
+    "accno": "KB085",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "125083",
+    "date": "15 May 2025",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 7.0,
+        "unit_price": 250.59,
+        "value": 1754.13
+      },
+      {
+        "prodname": "20L DECOR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 250.59,
+        "value": 1002.36
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 4.0,
+        "unit_price": 270.75,
+        "value": 1083.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 4.0,
+        "unit_price": 270.75,
+        "value": 1083.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 4.0,
+        "unit_price": 270.75,
+        "value": 1083.0
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 4.0,
+        "unit_price": 270.75,
+        "value": 1083.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 4.0,
+        "unit_price": 270.75,
+        "value": 1083.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 7.0,
+        "unit_price": 270.75,
+        "value": 1895.25
+      },
+      {
+        "prodname": "20LT DECOR APRICOT PVA",
+        "qty": 3.0,
+        "unit_price": 270.75,
+        "value": 812.25
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 7.0,
+        "unit_price": 270.75,
+        "value": 1895.25
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 7.0,
+        "unit_price": 88.39,
+        "value": 618.73
+      },
+      {
+        "prodname": "5L DECOR CREAM PVA",
+        "qty": 5.0,
+        "unit_price": 88.39,
+        "value": 441.95
+      },
+      {
+        "prodname": "5L DECOR MUSHROOM PVA",
+        "qty": 5.0,
+        "unit_price": 105.67,
+        "value": 528.35
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 515.0,
+        "value": 1545.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREEN",
+        "qty": 5.0,
+        "unit_price": 550.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 5.0,
+        "unit_price": 515.0,
+        "value": 2575.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 5.0,
+        "unit_price": 515.0,
+        "value": 2575.0
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 8.0,
+        "unit_price": 37.78,
+        "value": 302.24
+      },
+      {
+        "prodname": "1L RAINPROOF GREY",
+        "qty": 8.0,
+        "unit_price": 37.78,
+        "value": 302.24
+      },
+      {
+        "prodname": "1L RAINPROOF GREEN",
+        "qty": 8.0,
+        "unit_price": 37.78,
+        "value": 302.24
+      },
+      {
+        "prodname": "1L RAINPROOF RED",
+        "qty": 8.0,
+        "unit_price": 37.78,
+        "value": 302.24
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 7.0,
+        "unit_price": 108.76,
+        "value": 761.32
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 7.0,
+        "unit_price": 108.76,
+        "value": 761.32
+      },
+      {
+        "prodname": "5L RAINPROOF GREEN",
+        "qty": 7.0,
+        "unit_price": 108.76,
+        "value": 761.32
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 7.0,
+        "unit_price": 108.76,
+        "value": 761.32
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 4.0,
+        "unit_price": 44.97,
+        "value": 179.88
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 52.28,
+        "value": 209.12
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 52.28,
+        "value": 209.12
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 52.28,
+        "value": 209.12
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 52.28,
+        "value": 209.12
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 52.28,
+        "value": 209.12
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 77.92,
+        "value": 389.6
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 89.99,
+        "value": 449.95
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 89.99,
+        "value": 449.95
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 5.0,
+        "unit_price": 89.99,
+        "value": 449.95
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 89.99,
+        "value": 449.95
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 5.0,
+        "unit_price": 89.99,
+        "value": 449.95
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 4.0,
+        "unit_price": 280.01,
+        "value": 1120.04
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 328.03,
+        "value": 1312.12
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 328.03,
+        "value": 1312.12
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 328.03,
+        "value": 1312.12
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 328.03,
+        "value": 1312.12
+      },
+      {
+        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "qty": 4.0,
+        "unit_price": 433.13,
+        "value": 1732.52
+      },
+      {
+        "prodname": "5L HI HIDING CONT PVA WHITE",
+        "qty": 4.0,
+        "unit_price": 116.64,
+        "value": 466.56
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 1.0,
+        "unit_price": 114.75,
+        "value": 114.75
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 1.0,
+        "unit_price": 114.75,
+        "value": 114.75
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 28.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "75mm x 10m Membrane",
+        "qty": 32.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 40724.439999999995,
+    "count": 48
+  },
+  "competitor_forms_outstanding": 15
+}

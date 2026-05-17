@@ -1,0 +1,117 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-13",
+  "store": {
+    "customer_name": "Discount Builders",
+    "accno": "KD054",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "121361",
+    "date": "04 Sep 2024",
+    "lines": [
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 285.03000000000003,
+        "value": 1425.15
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 286.14,
+        "value": 2861.4
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 280.8,
+        "value": 1684.8
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 24.0,
+        "unit_price": 68.19,
+        "value": 1636.56
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 24.0,
+        "unit_price": 78.59,
+        "value": 1886.16
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 12.0,
+        "unit_price": 78.59,
+        "value": 943.08
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 12.0,
+        "unit_price": 78.59,
+        "value": 943.08
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 78.59,
+        "value": 471.54
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 12.0,
+        "unit_price": 78.59,
+        "value": 943.08
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 24.0,
+        "unit_price": 67.55,
+        "value": 1621.2
+      },
+      {
+        "prodname": "1L  ALKYD ROOF/STOEP RED",
+        "qty": 6.0,
+        "unit_price": 85.7,
+        "value": 514.2
+      },
+      {
+        "prodname": "1L ALKYD ROOF/STOEP BLACK",
+        "qty": 12.0,
+        "unit_price": 85.7,
+        "value": 1028.4
+      },
+      {
+        "prodname": "1L  ALKYD ROOF/STOEP BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 85.7,
+        "value": 514.2
+      },
+      {
+        "prodname": "1L ALKYD ROOF/STOEP GREEN",
+        "qty": 6.0,
+        "unit_price": 85.7,
+        "value": 514.2
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 250.01,
+        "value": 2500.1
+      }
+    ],
+    "total": 19487.15,
+    "count": 15
+  },
+  "competitor_forms_outstanding": 15
+}

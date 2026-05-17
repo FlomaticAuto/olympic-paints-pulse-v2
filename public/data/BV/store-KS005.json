@@ -1,0 +1,39 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-13",
+  "store": {
+    "curef": "KS005",
+    "customer_name": "Skeerpoort Handelhuis",
+    "town": "Dist. Brits",
+    "accno": "KS005",
+    "last_purchase_date": "19 Nov 2025",
+    "last_purchase_amt": 1977.04,
+    "last_purchase_prod": "5L HIGH GLOSS (MQ) GREY",
+    "total_12m": 29314.06,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 34.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0
+  },
+  "invoice": {
+    "invoice_no": "128480",
+    "date": "19 Nov 2025",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 247.13000000000002,
+        "value": 2471.3
+      }
+    ],
+    "total": 2471.3,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}
