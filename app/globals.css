@@ -1,0 +1,118 @@
+/* Olympic Paints design tokens — same palette as the Jinja templates */
+:root {
+  --_y50:#FEF9E0; --_y100:#FDF0A0; --_y200:#FAE04D;
+  --_y400:#F5C400; --_y600:#D4A800; --_y800:#A88000; --_y900:#6A5000;
+  --_n50:#E8EFF8; --_n100:#B8CCE8; --_n300:#6B9ED0;
+  --_n500:#2D6BA8; --_n700:#1A3D6E; --_n900:#0D2040; --_n950:#071022;
+  --_g0:#FFFFFF; --_g50:#F7F6F3; --_g100:#E8E7E2; --_g200:#C8C7C0;
+  --_g400:#949390; --_g600:#5C5B58; --_g800:#2E2E2C; --_g900:#1A1A18; --_g950:#0D0D0B;
+  --_teal:#2D8C7A; --_teal-light:#C8EDE7; --_teal-dark:#1a5c50;
+  --_terra:#C97A3A; --_coral:#E86060; --_coral-light:#FDDCDC;
+
+  --font-display: 'Barlow Condensed', sans-serif;
+  --font-body: 'Barlow', sans-serif;
+  --r-sm:4px; --r-md:8px; --r-lg:12px; --r-xl:16px; --r-pill:50px;
+
+  /* Navy theme by default */
+  color-scheme: dark;
+  --color-surface-page: var(--_n950);
+  --color-surface-base: var(--_n900);
+  --color-surface-elevated: var(--_n700);
+  --color-surface-sunken: var(--_n950);
+  --color-surface-brand: var(--_y400);
+  --color-surface-secondary: var(--_n700);
+  --color-text-primary: var(--_g0);
+  --color-text-secondary: var(--_n100);
+  --color-text-tertiary: var(--_n300);
+  --color-text-on-brand: var(--_g950);
+  --color-text-on-navy: var(--_g0);
+  --color-brand-primary: var(--_y400);
+  --color-brand-hover: var(--_y200);
+  --color-border-subtle: rgba(107,158,208,0.12);
+  --color-border-default: rgba(107,158,208,0.20);
+  --color-border-strong: rgba(107,158,208,0.35);
+  --color-success-bg: rgba(45,140,122,0.15);
+  --color-success-fg: var(--_teal-light);
+  --color-success-bd: rgba(45,140,122,0.35);
+  --color-warning-bg: rgba(245,196,0,0.12);
+  --color-warning-fg: var(--_y200);
+  --color-warning-bd: rgba(245,196,0,0.30);
+  --color-danger-bg: rgba(232,96,96,0.14);
+  --color-danger-fg: var(--_coral-light);
+  --color-danger-bd: rgba(232,96,96,0.35);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--color-surface-page);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+a { color: var(--color-brand-primary); text-decoration: none; }
+button { font-family: inherit; }
+
+.pulse-page { max-width: 900px; margin: 0 auto; padding: 20px 16px; }
+.pulse-shell { background: var(--color-surface-base); border-radius: var(--r-lg); border: 1px solid var(--color-border-subtle); overflow: hidden; }
+.pulse-header { background: var(--color-surface-elevated); padding: 20px 22px; display: flex; align-items: center; gap: 14px; border-bottom: 1px solid var(--color-border-subtle); }
+.pulse-logo { width: 48px; height: 48px; border-radius: 50%; overflow: hidden; flex-shrink: 0; background: var(--_y400); }
+.pulse-logo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pulse-h1 { font-family: var(--font-display); font-weight: 900; font-size: 22px; line-height: 1.05; text-transform: uppercase; letter-spacing: 0.02em; color: var(--color-text-primary); margin: 0; }
+.pulse-h1-sub { font-family: var(--font-body); font-size: 13px; color: var(--color-text-secondary); margin-top: 4px; }
+
+.pulse-section { padding: 18px 20px; border-bottom: 1px solid var(--color-border-subtle); }
+.pulse-section:last-child { border-bottom: 0; }
+.pulse-section h2 { font-family: var(--font-display); font-weight: 800; font-size: 14px; letter-spacing: 0.10em; text-transform: uppercase; color: var(--color-text-secondary); margin: 0 0 12px; }
+
+.tab-strip { position: sticky; top: 0; z-index: 5; display: flex; gap: 0; background: var(--color-surface-secondary); border-bottom: 1px solid var(--color-border-default); overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.tab-strip a { flex: 1 0 auto; min-width: 84px; min-height: 48px; display: flex; align-items: center; justify-content: center; padding: 12px 14px; color: var(--color-text-on-navy); font-family: var(--font-display); font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; border-bottom: 3px solid transparent; }
+.tab-strip a.active { color: var(--color-brand-primary); border-bottom-color: var(--color-brand-primary); }
+
+.store-link { display: block; padding: 16px; background: var(--color-surface-sunken); border: 1px solid var(--color-border-subtle); border-radius: var(--r-md); margin-bottom: 12px; text-decoration: none; color: inherit; min-height: 44px; }
+.store-link:active { background: var(--color-surface-elevated); }
+.store-row-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.store-row-meta { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 10px; font-size: 13px; color: var(--color-text-secondary); }
+.store-row-meta strong { color: var(--color-text-primary); display: block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-text-tertiary); margin-bottom: 2px; }
+
+.badge { display: inline-block; padding: 3px 10px; border-radius: var(--r-pill); font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+.badge-success { background: var(--color-success-bg); color: var(--color-success-fg); border: 1px solid var(--color-success-bd); }
+.badge-warning { background: var(--color-warning-bg); color: var(--color-warning-fg); border: 1px solid var(--color-warning-bd); }
+.badge-danger { background: var(--color-danger-bg); color: var(--color-danger-fg); border: 1px solid var(--color-danger-bd); }
+.badge-neutral { background: rgba(255,255,255,0.05); color: var(--color-text-secondary); border: 1px solid var(--color-border-default); }
+
+.back-link { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 14px; color: var(--color-text-secondary); font-size: 14px; text-decoration: none; }
+.back-link:active { color: var(--color-brand-primary); }
+
+.metric { background: var(--color-surface-sunken); border: 1px solid var(--color-border-subtle); border-radius: var(--r-md); padding: 14px; }
+.metric-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-text-tertiary); margin-bottom: 6px; }
+.metric-value { font-family: var(--font-display); font-weight: 900; font-size: 24px; color: var(--color-text-primary); }
+.metric-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+
+.invoice-table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+.invoice-table th { font-family: var(--font-display); font-weight: 700; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-text-tertiary); padding: 8px 6px; border-bottom: 1px solid var(--color-border-subtle); text-align: left; }
+.invoice-table th.num, .invoice-table td.num { text-align: right; }
+.invoice-table td { padding: 10px 6px; font-size: 14px; color: var(--color-text-primary); border-bottom: 1px solid var(--color-border-subtle); }
+.invoice-table tr:last-child td { border-bottom: 0; }
+.invoice-table .prod { font-weight: 600; }
+.invoice-foot { display: flex; justify-content: space-between; align-items: center; padding: 14px 6px 0; border-top: 2px solid var(--color-border-default); margin-top: 6px; }
+.invoice-foot .total-label { font-family: var(--font-display); font-weight: 700; font-size: 13px; text-transform: uppercase; color: var(--color-text-secondary); }
+.invoice-foot .total-amt { font-family: var(--font-display); font-weight: 900; font-size: 24px; color: var(--color-brand-primary); }
+.pulse-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: var(--r-md); }
+
+.empty { text-align: center; padding: 30px 16px; color: var(--color-text-tertiary); font-size: 14px; }
+
+@media (max-width: 768px) {
+  .pulse-page { padding: 12px 8px; }
+  .pulse-header { padding: 16px; gap: 10px; }
+  .pulse-h1 { font-size: 20px; }
+  .pulse-section { padding: 16px 14px; }
+}
+@media (max-width: 480px) {
+  .invoice-table th, .invoice-table td { padding: 8px 4px; font-size: 13px; }
+  .invoice-table th.qty, .invoice-table td.qty { width: 40px; }
+  .invoice-table .prod { font-size: 12px; line-height: 1.25; }
+  .metric-value { font-size: 20px; }
+}
