@@ -1,0 +1,153 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-18",
+  "store": {
+    "curef": "KD008",
+    "customer_name": "Dada's World of Hardware CC",
+    "town": "Polokwane",
+    "accno": "KD008",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 10169.2,
+    "last_purchase_prod": "20L DECOR PVA CREAM",
+    "total_12m": 3883888.51,
+    "velocity_category": "cooling",
+    "health_tier": "Active & Growing",
+    "health_score": 75.1,
+    "is_recovery": false,
+    "d_current": 201002.52,
+    "d30": 267988.85,
+    "d60": 114984.5,
+    "d90": 2529.72,
+    "d_total": 586505.59
+  },
+  "invoice": {
+    "invoice_no": "131298",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 50.0,
+        "unit_price": 254.23,
+        "value": 12711.5
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 896.26,
+        "value": 8962.6
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 10.0,
+        "unit_price": 982.8,
+        "value": 9828.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 15.0,
+        "unit_price": 48.55,
+        "value": 728.25
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 5.0,
+        "unit_price": 67.83,
+        "value": 339.15
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 10.0,
+        "unit_price": 67.83,
+        "value": 678.3
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 15.0,
+        "unit_price": 247.5,
+        "value": 3712.5
+      },
+      {
+        "prodname": "5L SANDING SEALER",
+        "qty": 3.0,
+        "unit_price": 287.67,
+        "value": 863.01
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE F BLUE",
+        "qty": 5.0,
+        "unit_price": 79.41,
+        "value": 397.05
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE D BLUE",
+        "qty": 5.0,
+        "unit_price": 79.41,
+        "value": 397.05
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE P O  RED",
+        "qty": 10.0,
+        "unit_price": 79.41,
+        "value": 794.1
+      },
+      {
+        "prodname": "5L PP ULTIMATE SHINE F BLUE",
+        "qty": 5.0,
+        "unit_price": 306.46,
+        "value": 1532.3
+      },
+      {
+        "prodname": "5L PP ULTIMATE SHINE P O RED",
+        "qty": 10.0,
+        "unit_price": 306.46,
+        "value": 3064.6
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 76.92,
+        "value": 769.2
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 2.0,
+        "unit_price": 146.02,
+        "value": 292.04
+      },
+      {
+        "prodname": "5KG CRACK FILLER",
+        "qty": 5.0,
+        "unit_price": 142.12,
+        "value": 710.6
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS CHR YELLOW",
+        "qty": 2.0,
+        "unit_price": 120.15,
+        "value": 240.3
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS Y OCHRE",
+        "qty": 2.0,
+        "unit_price": 120.15,
+        "value": 240.3
+      },
+      {
+        "prodname": "1L Q D DARK GREY ENAMEL",
+        "qty": 10.0,
+        "unit_price": 88.0,
+        "value": 880.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 262.96,
+        "value": 1314.8
+      }
+    ],
+    "total": 48455.65000000001,
+    "count": 20
+  },
+  "competitor_forms_outstanding": 15
+}

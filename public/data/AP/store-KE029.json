@@ -1,0 +1,32 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-18",
+  "store": {
+    "curef": "KE029",
+    "customer_name": "Diy Madombibzha",
+    "town": "Madombibzha",
+    "accno": "KE029",
+    "last_purchase_date": null,
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": null,
+    "total_12m": 0.0,
+    "velocity_category": null,
+    "health_tier": null,
+    "health_score": null,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 18800.09,
+    "d_total": 18800.09
+  },
+  "invoice": {
+    "invoice_no": null,
+    "date": null,
+    "lines": [],
+    "total": 0.0,
+    "count": 0
+  },
+  "competitor_forms_outstanding": 15
+}

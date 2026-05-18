@@ -1,0 +1,99 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-18",
+  "store": {
+    "curef": "KM109",
+    "customer_name": "Mullas  Hardware",
+    "town": "Center 13 Tre Nothe Road",
+    "accno": "KM109",
+    "last_purchase_date": "30 Mar 2026",
+    "last_purchase_amt": 320.0,
+    "last_purchase_prod": "5L Q D  GREEN ENAMEL",
+    "total_12m": 57114.08,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 46.2,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0
+  },
+  "invoice": {
+    "invoice_no": "130644",
+    "date": "30 Mar 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 47.85,
+        "value": 95.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 280.0,
+        "value": 1120.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 280.0,
+        "value": 840.0
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 55.0,
+        "value": 165.0
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 55.0,
+        "value": 110.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 55.0,
+        "value": 110.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 95.0,
+        "value": 190.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 95.0,
+        "value": 190.0
+      },
+      {
+        "prodname": "5L TEAK VARNISH",
+        "qty": 1.0,
+        "unit_price": 295.0,
+        "value": 295.0
+      },
+      {
+        "prodname": "5L Q.D. PWD BROWM",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L Q D  GREEN ENAMEL",
+        "qty": 1.0,
+        "unit_price": 320.0,
+        "value": 320.0
+      }
+    ],
+    "total": 4395.7,
+    "count": 11
+  },
+  "competitor_forms_outstanding": 15
+}

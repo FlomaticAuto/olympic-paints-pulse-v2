@@ -1,12 +1,12 @@
 {
-  "rep": "AC",
-  "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-13",
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-18",
   "store": {
-    "curef": "KM126",
-    "customer_name": "Manjra Hardware",
-    "town": "Randfontein",
-    "accno": "KM126",
+    "curef": "KM088",
+    "customer_name": "Mukula Hardware",
+    "town": "Same Road as  Kubvi before",
+    "accno": "KM088",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -18,8 +18,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": 0.0,
-    "d_total": 0.0
+    "d90": 12074.63,
+    "d_total": 12074.63
   },
   "invoice": {
     "invoice_no": null,

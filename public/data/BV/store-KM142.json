@@ -1,12 +1,12 @@
 {
-  "rep": "NP",
-  "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-13",
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-18",
   "store": {
-    "curef": "KS040",
-    "customer_name": "Sandelowitz ta Kwik Build HW",
-    "town": "Vrede",
-    "accno": "KS040",
+    "curef": "KM142",
+    "customer_name": "Sephaku hardware",
+    "town": "Love & Peace 4 way Sephaku",
+    "accno": "KM142",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -18,8 +18,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": 0.0,
-    "d_total": 0.0
+    "d90": -708.47,
+    "d_total": -708.47
   },
   "invoice": {
     "invoice_no": null,
