@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 35,
   "days": [
     {
       "date_iso": "2026-05-18",
       "date_label": "Mon 18 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA100",
@@ -148,7 +148,7 @@
     {
       "date_iso": "2026-05-19",
       "date_label": "Tue 19 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA103",
@@ -616,7 +616,7 @@
           "last_purchase_date": "12 May 2026",
           "last_purchase_amt": 530.64,
           "last_purchase_prod": "DRUM",
-          "total_12m": 77985.59999999999,
+          "total_12m": 77700.79,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 48.7,

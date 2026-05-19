@@ -1,11 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "store": {
     "curef": "KM004",
-    "customer_name": "MAGEZI HW WHOLESALE VILLAGE",
-    "town": "ROAD AS MAGEZI ABOUT 30KM",
+    "customer_name": "Magezi Hardware",
+    "town": "Elim to Giyani Road R578",
     "accno": "KM004",
     "last_purchase_date": "29 Apr 2026",
     "last_purchase_amt": 3400.0,
@@ -287,5 +287,5 @@
     "total": 55272.6,
     "count": 43
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 14
 }

@@ -1,14 +1,14 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 55,
   "days": [
     {
       "date_iso": "2026-05-18",
       "date_label": "Mon 18 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA104",
@@ -224,7 +224,7 @@
     {
       "date_iso": "2026-05-19",
       "date_label": "Tue 19 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KB002",

@@ -1,0 +1,51 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-19",
+  "store": {
+    "curef": "KB086",
+    "customer_name": "Best Build Hardware  Elim",
+    "town": "400m From Elim",
+    "accno": "KB086",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 542.9,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 53187.69,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 48.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 18838.77,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 18838.77
+  },
+  "invoice": {
+    "invoice_no": "131097",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 10.0,
+        "unit_price": 155.56,
+        "value": 1555.6
+      },
+      {
+        "prodname": "24x500GM GREEN OXIDE",
+        "qty": 5.0,
+        "unit_price": 516.86,
+        "value": 2584.3
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 5.0,
+        "unit_price": 155.56,
+        "value": 777.8
+      }
+    ],
+    "total": 4917.7,
+    "count": 3
+  },
+  "competitor_forms_outstanding": 14
+}

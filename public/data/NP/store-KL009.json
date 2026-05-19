@@ -1,0 +1,57 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-19",
+  "store": {
+    "curef": "KL009",
+    "customer_name": "Low Cost Hardware",
+    "town": "Malamulele",
+    "accno": "KL009",
+    "last_purchase_date": "06 May 2026",
+    "last_purchase_amt": 971.0,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 48517.92999999999,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 47.3,
+    "is_recovery": false,
+    "d_current": 3719.84,
+    "d30": 1849.64,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 5569.48
+  },
+  "invoice": {
+    "invoice_no": "131184",
+    "date": "06 May 2026",
+    "lines": [
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 4.0,
+        "unit_price": 300.0,
+        "value": 1200.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 105.0,
+        "value": 525.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 269.32,
+        "value": 538.64
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 48.55,
+        "value": 971.0
+      }
+    ],
+    "total": 3234.64,
+    "count": 4
+  },
+  "competitor_forms_outstanding": 15
+}

@@ -1,12 +1,12 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "store": {
-    "curef": "KM142",
-    "customer_name": "Sephaku hardware",
-    "town": "Love & Peace 4 way Sephaku",
-    "accno": "KM142",
+    "curef": "KT029",
+    "customer_name": "Tzaneen Hardware",
+    "town": "Opp CTM Tile",
+    "accno": "KT029",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -18,8 +18,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": -708.47,
-    "d_total": -708.47
+    "d90": 0.0,
+    "d_total": 0.0
   },
   "invoice": {
     "invoice_no": null,

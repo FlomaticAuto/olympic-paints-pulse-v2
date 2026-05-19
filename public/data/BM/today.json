@@ -1,29 +1,29 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-05-18",
-  "date_label": "Mon 18 May 2026",
-  "date_iso": "2026-05-18",
+  "generated_at": "2026-05-19",
+  "date_label": "Tue 19 May 2026",
+  "date_iso": "2026-05-19",
   "stores": [
     {
-      "curef": "KA116",
-      "customer_name": "Allandale Trading CC",
-      "town": "President Park",
-      "accno": "KA116",
-      "last_purchase_date": "23 Mar 2026",
-      "last_purchase_amt": 560.0,
-      "last_purchase_prod": "5L Q D BLACK ENAMEL",
-      "total_12m": 6339.82,
+      "curef": "KB115",
+      "customer_name": "Build Africa Hardware",
+      "town": null,
+      "accno": "KB115",
+      "last_purchase_date": "15 May 2026",
+      "last_purchase_amt": 1094.73,
+      "last_purchase_prod": "5L MAHOGONY VARNISH",
+      "total_12m": 54691.53,
       "velocity_category": null,
       "health_tier": "At-Risk",
-      "health_score": 25.5,
+      "health_score": 35.3,
       "is_recovery": false,
       "d_current": 0.0,
-      "d30": 0.0,
-      "d60": 0.0,
+      "d30": 20094.13,
+      "d60": 983.33,
       "d90": 0.0,
-      "d_total": 0.0
+      "d_total": 21077.46
     }
   ],
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 13
 }

@@ -1,0 +1,111 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-19",
+  "store": {
+    "curef": "KM159",
+    "customer_name": "MTS Hardware",
+    "town": "Road, Next to Mr Laptop",
+    "accno": "KM159",
+    "last_purchase_date": "20 Apr 2026",
+    "last_purchase_amt": 1513.28,
+    "last_purchase_prod": "5L FACE BRICK DRESSING",
+    "total_12m": 238239.56,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 51.8,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 16303.99,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 16303.99
+  },
+  "invoice": {
+    "invoice_no": "130985",
+    "date": "20 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 341.57,
+        "value": 683.14
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 1.0,
+        "unit_price": 395.81,
+        "value": 395.81
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 1.0,
+        "unit_price": 395.81,
+        "value": 395.81
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 3.0,
+        "unit_price": 615.0,
+        "value": 1845.0
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 69.5,
+        "value": 278.0
+      },
+      {
+        "prodname": "500ML EBONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 69.5,
+        "value": 278.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 20.0,
+        "unit_price": 95.65,
+        "value": 1913.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 109.5,
+        "value": 1095.0
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 109.5,
+        "value": 219.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 15.0,
+        "unit_price": 320.8,
+        "value": 4812.0
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 1.0,
+        "unit_price": 375.0,
+        "value": 375.0
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 1.0,
+        "unit_price": 375.0,
+        "value": 375.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 4.0,
+        "unit_price": 378.32,
+        "value": 1513.28
+      }
+    ],
+    "total": 14178.04,
+    "count": 13
+  },
+  "competitor_forms_outstanding": 15
+}

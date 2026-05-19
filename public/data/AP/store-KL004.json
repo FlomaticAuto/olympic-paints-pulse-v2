@@ -1,11 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "store": {
     "curef": "KL004",
     "customer_name": "World Focus 1932 CC",
-    "town": "Simon Complex  Behind Engen",
+    "town": "Master Service Centre Mutale",
     "accno": "KL004",
     "last_purchase_date": "07 May 2026",
     "last_purchase_amt": 254.6,
@@ -35,5 +35,5 @@
     "total": 509.2,
     "count": 1
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 14
 }
