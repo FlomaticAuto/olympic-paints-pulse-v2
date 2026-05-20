@@ -1,0 +1,74 @@
+{
+  "period_label": "Mon 02 May → Fri 15 May 2026",
+  "summary": {
+    "team_mtd": 4409632.08,
+    "team_pct_target": 0.32390550454169237,
+    "team_visits_actual": 185,
+    "team_visits_planned": 70,
+    "team_acks": 0,
+    "team_acks_required": 70,
+    "team_plan_adherence": 2.642857142857143
+  },
+  "rep_rows": [
+    {
+      "rep": "AC",
+      "name": "Aboo Cassim",
+      "sales": 416492.7100000001,
+      "pct_target": 0.2381740190743558,
+      "visits_actual": 44,
+      "visits_planned": 20,
+      "plan_adherence": 1.0,
+      "leads": 0,
+      "new_stores": 0,
+      "ack_pct": 0.0
+    },
+    {
+      "rep": "AP",
+      "name": "Amit Patel",
+      "sales": 476772.52,
+      "pct_target": 0.6034310408708846,
+      "visits_actual": 18,
+      "visits_planned": 10,
+      "plan_adherence": 1.0,
+      "leads": 0,
+      "new_stores": 0,
+      "ack_pct": 0.0
+    },
+    {
+      "rep": "BV",
+      "name": "Bhadresh Vallabh",
+      "sales": 1661238.2600000002,
+      "pct_target": 0.29061438788697197,
+      "visits_actual": 26,
+      "visits_planned": 10,
+      "plan_adherence": 1.0,
+      "leads": 0,
+      "new_stores": 0,
+      "ack_pct": 0.0
+    },
+    {
+      "rep": "NP",
+      "name": "Nikhil Panchal",
+      "sales": 1851195.83,
+      "pct_target": 0.3454461364197453,
+      "visits_actual": 29,
+      "visits_planned": 10,
+      "plan_adherence": 1.0,
+      "leads": 0,
+      "new_stores": 0,
+      "ack_pct": 0.0
+    },
+    {
+      "rep": "BM",
+      "name": "Byron Minnie",
+      "sales": 3932.7599999999998,
+      "pct_target": 0.0,
+      "visits_actual": 68,
+      "visits_planned": 20,
+      "plan_adherence": 1.0,
+      "leads": 0,
+      "new_stores": 0,
+      "ack_pct": 0.0
+    }
+  ]
+}
