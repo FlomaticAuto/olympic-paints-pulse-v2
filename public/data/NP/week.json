@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-19",
+  "generated_at": "2026-05-20",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 77,
   "days": [
@@ -227,7 +227,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1267780.06,
+          "total_12m": 1211401.01,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 78.1,
@@ -319,7 +319,7 @@
     {
       "date_iso": "2026-05-19",
       "date_label": "Tue 19 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA095",
@@ -538,7 +538,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1267780.06,
+          "total_12m": 1211401.01,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 78.1,
@@ -630,7 +630,7 @@
     {
       "date_iso": "2026-05-20",
       "date_label": "Wed 20 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA096",
@@ -1008,7 +1008,7 @@
           "last_purchase_date": "08 May 2026",
           "last_purchase_amt": 700.0,
           "last_purchase_prod": "5L Q D SIGNAL RED ENAMEL",
-          "total_12m": 1534713.2800000003,
+          "total_12m": 1481088.6700000002,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 42.5,
@@ -1027,7 +1027,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 11531374.22,
+          "total_12m": 11530190.129999999,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 79.0,
@@ -1084,7 +1084,7 @@
           "last_purchase_date": "08 May 2026",
           "last_purchase_amt": 4125.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 1038232.25,
+          "total_12m": 1001276.31,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 61.7,
@@ -1300,7 +1300,7 @@
           "last_purchase_date": "08 May 2026",
           "last_purchase_amt": 700.0,
           "last_purchase_prod": "5L Q D SIGNAL RED ENAMEL",
-          "total_12m": 1534713.2800000003,
+          "total_12m": 1481088.6700000002,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 42.5,
@@ -1319,7 +1319,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 11531374.22,
+          "total_12m": 11530190.129999999,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 79.0,

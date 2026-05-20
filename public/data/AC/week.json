@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-19",
+  "generated_at": "2026-05-20",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 35,
   "days": [
@@ -18,7 +18,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 368.5,
           "last_purchase_prod": "5L Q D SIGNAL RED ENAMEL",
-          "total_12m": 156809.64,
+          "total_12m": 155566.15999999997,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 75.5,
@@ -148,7 +148,7 @@
     {
       "date_iso": "2026-05-19",
       "date_label": "Tue 19 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA103",
@@ -288,7 +288,7 @@
     {
       "date_iso": "2026-05-20",
       "date_label": "Wed 20 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA109",
@@ -597,7 +597,7 @@
           "last_purchase_date": "05 May 2026",
           "last_purchase_amt": 1288.0,
           "last_purchase_prod": "5L Q D BLUE GREY ENAMEL",
-          "total_12m": 150206.18,
+          "total_12m": 146364.18,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 40.5,

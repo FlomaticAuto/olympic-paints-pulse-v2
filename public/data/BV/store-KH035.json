@@ -1,0 +1,39 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-20",
+  "store": {
+    "curef": "KH035",
+    "customer_name": "HGM Steelboys CC",
+    "town": "Tzaneen",
+    "accno": "KH035",
+    "last_purchase_date": "28 Apr 2026",
+    "last_purchase_amt": 13750.0,
+    "last_purchase_prod": "20L DECOR PVA CREAM",
+    "total_12m": 4412843.0,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 61.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 615997.49,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 615997.49
+  },
+  "invoice": {
+    "invoice_no": "131059",
+    "date": "28 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 55.0,
+        "unit_price": 250.0,
+        "value": 13750.0
+      }
+    ],
+    "total": 13750.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}

@@ -1,0 +1,93 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-20",
+  "store": {
+    "curef": "KS061",
+    "customer_name": "OLYMPIC HARDWARE",
+    "town": "GET DIRECTIONS FROM SABRI HW",
+    "accno": "KS061",
+    "last_purchase_date": "04 May 2026",
+    "last_purchase_amt": 570.0,
+    "last_purchase_prod": "1L Q D BRONZE ENAMEL",
+    "total_12m": 101901.16,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 58.8,
+    "is_recovery": false,
+    "d_current": 8948.61,
+    "d30": 32271.48,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 41220.09
+  },
+  "invoice": {
+    "invoice_no": "131139",
+    "date": "04 May 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 86.94,
+        "value": 521.64
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 310.5,
+        "value": 1863.0
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 79.39999999999999,
+        "value": 476.4
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 89.02,
+        "value": 534.12
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 101.46,
+        "value": 608.76
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 101.46,
+        "value": 608.76
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 330.0,
+        "value": 660.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 6.0,
+        "unit_price": 161.66,
+        "value": 969.96
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 6.0,
+        "unit_price": 161.46,
+        "value": 968.76
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      }
+    ],
+    "total": 7781.4,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 14
+}

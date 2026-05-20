@@ -1,0 +1,123 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-20",
+  "store": {
+    "curef": "KS127",
+    "customer_name": "Prestige Auto Paint",
+    "town": "3rd Avenue",
+    "accno": "KS127",
+    "last_purchase_date": "08 May 2026",
+    "last_purchase_amt": 2200.0,
+    "last_purchase_prod": "20L UNIVERSAL ROOF RED",
+    "total_12m": 410327.94999999995,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 56.7,
+    "is_recovery": false,
+    "d_current": 21191.05,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 21191.05
+  },
+  "invoice": {
+    "invoice_no": "131223",
+    "date": "08 May 2026",
+    "lines": [
+      {
+        "prodname": "20L MASTER DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 495.0,
+        "value": 1485.0
+      },
+      {
+        "prodname": "20L MASTER DECOR FOSSIL GREEN",
+        "qty": 1.0,
+        "unit_price": 550.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L MASTER DECOR BRAZIL NUT",
+        "qty": 1.0,
+        "unit_price": 550.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L MASTER DECOR NIGHT SKY",
+        "qty": 3.0,
+        "unit_price": 550.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 4.0,
+        "unit_price": 75.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 4.0,
+        "unit_price": 75.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 280.0,
+        "value": 560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 280.0,
+        "value": 560.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 550.0,
+        "value": 2200.0
+      },
+      {
+        "prodname": "20L UNIV ROOF  GREEN",
+        "qty": 4.0,
+        "unit_price": 599.0,
+        "value": 2396.0
+      },
+      {
+        "prodname": "20L UNIV ROOF  OCEAN BLUE",
+        "qty": 4.0,
+        "unit_price": 599.0,
+        "value": 2396.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 4.0,
+        "unit_price": 550.0,
+        "value": 2200.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 4.0,
+        "unit_price": 550.0,
+        "value": 2200.0
+      }
+    ],
+    "total": 18427.0,
+    "count": 15
+  },
+  "competitor_forms_outstanding": 15
+}

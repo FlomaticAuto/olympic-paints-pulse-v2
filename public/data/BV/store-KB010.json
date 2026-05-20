@@ -1,0 +1,39 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-20",
+  "store": {
+    "curef": "KB010",
+    "customer_name": "Beras Hardware Wholesaler",
+    "town": "Modimolle",
+    "accno": "KB010",
+    "last_purchase_date": "22 Apr 2026",
+    "last_purchase_amt": 1363.0,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 263091.12,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 53.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 21999.48,
+    "d60": 0.0,
+    "d90": 378.59,
+    "d_total": 22378.07
+  },
+  "invoice": {
+    "invoice_no": "28477",
+    "date": "22 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 29.0,
+        "unit_price": 47.0,
+        "value": 1363.0
+      }
+    ],
+    "total": 1363.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}
