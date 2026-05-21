@@ -1,25 +1,25 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-20",
+  "generated_at": "2026-05-21",
   "store": {
     "curef": "KF018",
-    "customer_name": "Fairplay Hardware Mabopane",
-    "town": "Shoprite Centre",
+    "customer_name": "Fairplay Hardware Nobody",
+    "town": "Nobody",
     "accno": "KF018",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 1274193.7400000002,
+    "total_12m": 1222555.62,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 34.7,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 52510.15,
     "d30": 105974.52,
     "d60": 31142.17,
     "d90": 0.0,
-    "d_total": 137116.69
+    "d_total": 189626.84
   },
   "invoice": {
     "invoice_no": "131297",
@@ -83,5 +83,5 @@
     "total": 11906.2,
     "count": 9
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 13
 }

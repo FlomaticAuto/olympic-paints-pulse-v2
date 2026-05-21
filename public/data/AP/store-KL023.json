@@ -1,0 +1,213 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-21",
+  "store": {
+    "curef": "KL023",
+    "customer_name": "MA Hardware",
+    "town": "MAKHADO",
+    "accno": "KL023",
+    "last_purchase_date": "16 Apr 2026",
+    "last_purchase_amt": 6000.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 145058.51,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 54.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 37362.47,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 37362.47
+  },
+  "invoice": {
+    "invoice_no": "130941",
+    "date": "16 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 294.0,
+        "value": 1470.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 5.0,
+        "unit_price": 294.0,
+        "value": 1470.0
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 5.0,
+        "unit_price": 85.0,
+        "value": 425.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 52.720000000000006,
+        "value": 263.6
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 20.0,
+        "unit_price": 52.720000000000006,
+        "value": 1054.4
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B GREEN",
+        "qty": 4.0,
+        "unit_price": 52.72,
+        "value": 210.88
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S GREEN",
+        "qty": 10.0,
+        "unit_price": 52.720000000000006,
+        "value": 527.2
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 52.72,
+        "value": 158.16
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 4.0,
+        "unit_price": 52.72,
+        "value": 210.88
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 75.6,
+        "value": 378.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 15.0,
+        "unit_price": 75.6,
+        "value": 1134.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 20.0,
+        "unit_price": 75.6,
+        "value": 1512.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 4.0,
+        "unit_price": 75.6,
+        "value": 302.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 75.6,
+        "value": 378.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 75.60000000000001,
+        "value": 453.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 10.0,
+        "unit_price": 75.6,
+        "value": 756.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 265.42,
+        "value": 796.26
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 265.41999999999996,
+        "value": 2654.2
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 4.0,
+        "unit_price": 265.42,
+        "value": 1061.68
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 5.0,
+        "unit_price": 265.41999999999996,
+        "value": 1327.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 265.42,
+        "value": 530.84
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 5.0,
+        "unit_price": 265.41999999999996,
+        "value": 1327.1
+      },
+      {
+        "prodname": "2.5L PLASTER & TILE BONDING LI",
+        "qty": 10.0,
+        "unit_price": 72.09,
+        "value": 720.9
+      },
+      {
+        "prodname": "5L PLASTER & TILE BONDING LIQU",
+        "qty": 5.0,
+        "unit_price": 147.1,
+        "value": 735.5
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 10.0,
+        "unit_price": 274.34000000000003,
+        "value": 2743.4
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 90.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 90.0,
+        "value": 1800.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 90.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 3.0,
+        "unit_price": 96.0,
+        "value": 288.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 300.0,
+        "value": 6000.0
+      }
+    ],
+    "total": 32489.100000000002,
+    "count": 30
+  },
+  "competitor_forms_outstanding": 14
+}

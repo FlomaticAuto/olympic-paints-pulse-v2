@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-20",
+  "generated_at": "2026-05-21",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 60,
   "days": [
@@ -389,7 +389,7 @@
           "total_12m": 225753.99,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
-          "health_score": 66.7,
+          "health_score": 66.6,
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 77.21,
@@ -464,8 +464,8 @@
           "last_purchase_prod": "5LT THINNERS",
           "total_12m": 39300.61,
           "velocity_category": "falling",
-          "health_tier": "At-Risk",
-          "health_score": 42.8,
+          "health_tier": "Dead / Dormant",
+          "health_score": 40.3,
           "is_recovery": false,
           "d_current": -1.47,
           "d30": 0.0,
@@ -478,7 +478,7 @@
     {
       "date_iso": "2026-05-20",
       "date_label": "Wed 20 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA008",
@@ -509,8 +509,8 @@
           "last_purchase_prod": "5L WATERBASE RED OXIDE PRIMER",
           "total_12m": 245104.22,
           "velocity_category": "growing",
-          "health_tier": "Active & Growing",
-          "health_score": 68.0,
+          "health_tier": "At-Risk",
+          "health_score": 54.6,
           "is_recovery": false,
           "d_current": -1562.56,
           "d30": 26376.72,
@@ -532,9 +532,9 @@
           "health_score": 73.4,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 230826.48,
+          "d30": 234790.21,
           "d60": 0.0,
-          "d90": 39153.73,
+          "d90": 35190.0,
           "d_total": 269980.21
         },
         {
@@ -569,11 +569,11 @@
           "health_tier": "At-Risk",
           "health_score": 49.7,
           "is_recovery": false,
-          "d_current": 37301.72,
+          "d_current": 36939.68,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 37301.72
+          "d_total": 36939.68
         },
         {
           "curef": "KM004",
@@ -624,7 +624,7 @@
           "total_12m": 225753.99,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
-          "health_score": 66.7,
+          "health_score": 66.6,
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 77.21,
@@ -683,11 +683,11 @@
           "health_tier": "At-Risk",
           "health_score": 51.4,
           "is_recovery": false,
-          "d_current": 31071.32,
+          "d_current": 29310.73,
           "d30": -1186.75,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 29884.57
+          "d_total": 28123.98
         },
         {
           "curef": "KV007",
@@ -713,7 +713,7 @@
     {
       "date_iso": "2026-05-21",
       "date_label": "Thu 21 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA082",
@@ -749,9 +749,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 20732.09,
-          "d60": 17736.85,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 38468.94
+          "d_total": 20732.09
         },
         {
           "curef": "KC053",
@@ -820,8 +820,8 @@
           "last_purchase_prod": "5L Q.D. BURGUNDY",
           "total_12m": 210324.27000000002,
           "velocity_category": null,
-          "health_tier": "Active but Narrow",
-          "health_score": 48.8,
+          "health_tier": "At-Risk",
+          "health_score": 47.8,
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 96603.7,
@@ -918,11 +918,11 @@
           "health_tier": "At-Risk",
           "health_score": 51.4,
           "is_recovery": false,
-          "d_current": 31071.32,
+          "d_current": 29310.73,
           "d30": -1186.75,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 29884.57
+          "d_total": 28123.98
         },
         {
           "curef": "KZ007",
@@ -960,8 +960,8 @@
           "last_purchase_prod": "5KG PUTTY",
           "total_12m": 141013.24,
           "velocity_category": "growing",
-          "health_tier": "Active but Narrow",
-          "health_score": 58.6,
+          "health_tier": "At-Risk",
+          "health_score": 47.8,
           "is_recovery": false,
           "d_current": -2751.73,
           "d30": 21153.14,
@@ -984,9 +984,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 20732.09,
-          "d60": 17736.85,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 38468.94
+          "d_total": 20732.09
         },
         {
           "curef": "KC054",

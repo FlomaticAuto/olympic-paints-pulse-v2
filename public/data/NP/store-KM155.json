@@ -1,0 +1,123 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-21",
+  "store": {
+    "curef": "KM155",
+    "customer_name": "Mr Build LTT (PTY) LTD",
+    "town": "Cnr Rissik & Grobler Street",
+    "accno": "KM155",
+    "last_purchase_date": "08 May 2026",
+    "last_purchase_amt": 4125.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 1001276.31,
+    "velocity_category": "cooling",
+    "health_tier": "At-Risk",
+    "health_score": 61.7,
+    "is_recovery": false,
+    "d_current": 37381.44,
+    "d30": 104205.58,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 141587.02
+  },
+  "invoice": {
+    "invoice_no": "131226",
+    "date": "08 May 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI CONT KIWI",
+        "qty": 2.0,
+        "unit_price": 414.0,
+        "value": 828.0
+      },
+      {
+        "prodname": "20L KALAHARI  CONTR NIGHT SKY",
+        "qty": 2.0,
+        "unit_price": 414.0,
+        "value": 828.0
+      },
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 4.0,
+        "unit_price": 265.0,
+        "value": 1060.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 3.0,
+        "unit_price": 285.0,
+        "value": 855.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 4.0,
+        "unit_price": 285.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 4.0,
+        "unit_price": 285.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 6.0,
+        "unit_price": 285.0,
+        "value": 1710.0
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) PEACH",
+        "qty": 3.0,
+        "unit_price": 1055.0,
+        "value": 3165.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 280.0,
+        "value": 1400.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 280.0,
+        "value": 1680.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 15.0,
+        "unit_price": 85.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 305.0,
+        "value": 1220.0
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 305.0,
+        "value": 1220.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 20.0,
+        "unit_price": 333.48,
+        "value": 6669.6
+      }
+    ],
+    "total": 24760.6,
+    "count": 15
+  },
+  "competitor_forms_outstanding": 15
+}

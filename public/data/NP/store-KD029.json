@@ -1,0 +1,87 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-21",
+  "store": {
+    "curef": "KD029",
+    "customer_name": "Door to Door Trade 1005 CC",
+    "town": "Behind Best  S/Market",
+    "accno": "KD029",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 40283.79,
+    "velocity_category": "cooling",
+    "health_tier": "At-Risk",
+    "health_score": 41.3,
+    "is_recovery": false,
+    "d_current": -1.37,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": -1.37
+  },
+  "invoice": {
+    "invoice_no": "131080",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 110.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 110.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 105.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 105.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "1L PP FIBRE RESTORE GREY",
+        "qty": 4.0,
+        "unit_price": 101.34,
+        "value": 405.36
+      },
+      {
+        "prodname": "1L PP FIBRE RESTORE BURGUNDY",
+        "qty": 4.0,
+        "unit_price": 101.34,
+        "value": 405.36
+      },
+      {
+        "prodname": "5L PP FIBRE RESTORE GREY",
+        "qty": 4.0,
+        "unit_price": 397.08,
+        "value": 1588.32
+      },
+      {
+        "prodname": "5L PP FIBRE RESTORE BURGUNDY",
+        "qty": 4.0,
+        "unit_price": 397.08,
+        "value": 1588.32
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 20.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 6817.36,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 15
+}

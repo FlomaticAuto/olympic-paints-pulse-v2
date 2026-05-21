@@ -1,0 +1,123 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-21",
+  "store": {
+    "curef": "KK021",
+    "customer_name": "Kit Kat Group (Pty) Ltd",
+    "town": "Selby",
+    "accno": "KK021",
+    "last_purchase_date": "20 May 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 12157787.69,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 84.1,
+    "is_recovery": false,
+    "d_current": 257475.73,
+    "d30": 1387248.52,
+    "d60": 162628.93,
+    "d90": 23120.01,
+    "d_total": 1830473.19
+  },
+  "invoice": {
+    "invoice_no": "131350",
+    "date": "20 May 2026",
+    "lines": [
+      {
+        "prodname": "1LT 3IN1 Q.D GRIP COAT WHITE",
+        "qty": 4.0,
+        "unit_price": 125.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "1LT QD 3IN1 GRIP COAT BLACK",
+        "qty": 4.0,
+        "unit_price": 125.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 10.0,
+        "unit_price": 292.0,
+        "value": 2920.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 5.0,
+        "unit_price": 292.0,
+        "value": 1460.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 15.0,
+        "unit_price": 292.0,
+        "value": 4380.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 10.0,
+        "unit_price": 292.0,
+        "value": 2920.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 40.0,
+        "unit_price": 285.0,
+        "value": 11400.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 15.0,
+        "unit_price": 285.0,
+        "value": 4275.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 20.0,
+        "unit_price": 285.0,
+        "value": 5700.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 10.0,
+        "unit_price": 285.0,
+        "value": 2850.0
+      }
+    ],
+    "total": 40805.0,
+    "count": 15
+  },
+  "competitor_forms_outstanding": 15
+}

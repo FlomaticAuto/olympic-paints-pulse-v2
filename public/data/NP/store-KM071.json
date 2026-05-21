@@ -1,25 +1,25 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-20",
+  "generated_at": "2026-05-21",
   "store": {
     "curef": "KM071",
-    "customer_name": "Inyameko Trading 1605",
-    "town": "Next to Carlton Motor Spares",
+    "customer_name": "Inyameko Trading 1605cc",
+    "town": "Main Raod",
     "accno": "KM071",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 825.0,
     "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-    "total_12m": 2169706.15,
+    "total_12m": 2167707.19,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
-    "health_score": 50.8,
+    "health_score": 50.1,
     "is_recovery": false,
-    "d_current": 40144.96,
+    "d_current": 152408.19,
     "d30": 283283.24,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 323428.2
+    "d_total": 435691.43
   },
   "invoice": {
     "invoice_no": "131307",
