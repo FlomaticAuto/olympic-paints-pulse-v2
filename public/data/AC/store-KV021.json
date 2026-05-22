@@ -1,0 +1,51 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KV021",
+    "customer_name": "Vaal Auto Paints",
+    "town": "Vereeniging",
+    "accno": "KV021",
+    "last_purchase_date": "19 Mar 2026",
+    "last_purchase_amt": 1208.4,
+    "last_purchase_prod": "20L MASTER DECOR JAIPUR PVA",
+    "total_12m": 145870.65,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 48.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0
+  },
+  "invoice": {
+    "invoice_no": "130537",
+    "date": "19 Mar 2026",
+    "lines": [
+      {
+        "prodname": "20L MASTER DECOR DESERT CAMEL",
+        "qty": 1.0,
+        "unit_price": 402.8,
+        "value": 402.8
+      },
+      {
+        "prodname": "20L MASTER DECOR SUNSET YELLOW",
+        "qty": 5.0,
+        "unit_price": 402.8,
+        "value": 2014.0
+      },
+      {
+        "prodname": "20L MASTER DECOR JAIPUR PVA",
+        "qty": 3.0,
+        "unit_price": 402.8,
+        "value": 1208.4
+      }
+    ],
+    "total": 3625.2000000000003,
+    "count": 3
+  },
+  "competitor_forms_outstanding": 15
+}

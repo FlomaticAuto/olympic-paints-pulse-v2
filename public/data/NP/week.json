@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 77,
   "days": [
@@ -214,10 +214,10 @@
           "health_score": 51.8,
           "is_recovery": false,
           "d_current": 16257.69,
-          "d30": 40013.74,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 56271.43
+          "d_total": 16257.69
         },
         {
           "curef": "KS011",
@@ -251,11 +251,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS019",
@@ -270,11 +270,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS068",
@@ -507,9 +507,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 6.84,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 6.84
+          "d_total": 0.0
         },
         {
           "curef": "KR008",
@@ -525,10 +525,10 @@
           "health_score": 51.8,
           "is_recovery": false,
           "d_current": 16257.69,
-          "d30": 40013.74,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 56271.43
+          "d_total": 16257.69
         },
         {
           "curef": "KS011",
@@ -562,11 +562,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS024",
@@ -836,10 +836,10 @@
           "health_score": 51.8,
           "is_recovery": false,
           "d_current": 16257.69,
-          "d30": 40013.74,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 56271.43
+          "d_total": 16257.69
         },
         {
           "curef": "KS018",
@@ -873,11 +873,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS026",
@@ -922,7 +922,7 @@
     {
       "date_iso": "2026-05-21",
       "date_label": "Thu 21 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA106",
@@ -935,8 +935,8 @@
           "total_12m": 157628.66,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
-          "health_score": 27.5,
-          "is_recovery": true,
+          "health_score": 34.0,
+          "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
@@ -1024,19 +1024,19 @@
           "customer_name": "Kit Kat Group (Pty) Ltd",
           "town": "Selby",
           "accno": "KK021",
-          "last_purchase_date": "20 May 2026",
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 12157787.69,
+          "last_purchase_date": "21 May 2026",
+          "last_purchase_amt": 715.0,
+          "last_purchase_prod": "20LT 7-IN-1 PVA RIM ROCK",
+          "total_12m": 12161487.899999999,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
-          "health_score": 84.1,
+          "health_score": 83.7,
           "is_recovery": false,
-          "d_current": 257475.73,
+          "d_current": 1595992.71,
           "d30": 1387248.52,
           "d60": 162628.93,
           "d90": 23120.01,
-          "d_total": 1830473.19
+          "d_total": 3168990.17
         },
         {
           "curef": "KL035",
@@ -1128,10 +1128,10 @@
           "health_score": 51.8,
           "is_recovery": false,
           "d_current": 16257.69,
-          "d30": 40013.74,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 56271.43
+          "d_total": 16257.69
         },
         {
           "curef": "KS019",
@@ -1146,11 +1146,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS019",
@@ -1165,11 +1165,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS043",
@@ -1214,7 +1214,7 @@
     {
       "date_iso": "2026-05-22",
       "date_label": "Fri 22 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA110",
@@ -1316,19 +1316,19 @@
           "customer_name": "Kit Kat Group (Pty) Ltd",
           "town": "Opposite Mam's Mall",
           "accno": "KK021",
-          "last_purchase_date": "20 May 2026",
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 12157787.69,
+          "last_purchase_date": "21 May 2026",
+          "last_purchase_amt": 715.0,
+          "last_purchase_prod": "20LT 7-IN-1 PVA RIM ROCK",
+          "total_12m": 12161487.899999999,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
-          "health_score": 84.1,
+          "health_score": 83.7,
           "is_recovery": false,
-          "d_current": 257475.73,
+          "d_current": 1595992.71,
           "d30": 1387248.52,
           "d60": 162628.93,
           "d90": 23120.01,
-          "d_total": 1830473.19
+          "d_total": 3168990.17
         },
         {
           "curef": "KL037",
@@ -1401,10 +1401,10 @@
           "health_score": 51.8,
           "is_recovery": false,
           "d_current": 16257.69,
-          "d30": 40013.74,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 56271.43
+          "d_total": 16257.69
         },
         {
           "curef": "KS003",
@@ -1438,11 +1438,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS019",
@@ -1457,11 +1457,11 @@
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 521887.33,
+          "d_current": 521049.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 521887.33
+          "d_total": 521049.04
         },
         {
           "curef": "KS053",
@@ -1495,11 +1495,11 @@
           "health_tier": "Active & Growing",
           "health_score": 67.6,
           "is_recovery": false,
-          "d_current": 67399.91,
+          "d_current": 66864.26,
           "d30": 101043.31,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 168443.22
+          "d_total": 167907.57
         }
       ]
     }

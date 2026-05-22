@@ -1,11 +1,11 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "store": {
     "curef": "KR008",
-    "customer_name": "WONDERBUILD HARDWARE",
-    "town": "MALAMULELE",
+    "customer_name": "BUDGET HARDWARE",
+    "town": "Saslamani Shikundu",
     "accno": "KR008",
     "last_purchase_date": "06 May 2026",
     "last_purchase_amt": 305.75,
@@ -16,10 +16,10 @@
     "health_score": 51.8,
     "is_recovery": false,
     "d_current": 16257.69,
-    "d30": 40013.74,
+    "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 56271.43
+    "d_total": 16257.69
   },
   "invoice": {
     "invoice_no": "131185",

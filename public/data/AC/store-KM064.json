@@ -1,0 +1,183 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KM064",
+    "customer_name": "Masons Home Hardware",
+    "town": "NEXT TO A.I.B. BAKERY",
+    "accno": "KM064",
+    "last_purchase_date": "04 May 2026",
+    "last_purchase_amt": 161.69,
+    "last_purchase_prod": "24x500GM RED OXIDE",
+    "total_12m": 211812.78,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 54.4,
+    "is_recovery": false,
+    "d_current": 19007.96,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 19007.96
+  },
+  "invoice": {
+    "invoice_no": "131136",
+    "date": "04 May 2026",
+    "lines": [
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 1.0,
+        "unit_price": 995.0,
+        "value": 995.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 78.75,
+        "value": 472.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 78.75,
+        "value": 472.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 78.75,
+        "value": 472.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 82.5,
+        "value": 247.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 82.5,
+        "value": 412.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 6.0,
+        "unit_price": 78.75,
+        "value": 472.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 3.0,
+        "unit_price": 82.5,
+        "value": 247.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 2.0,
+        "unit_price": 82.5,
+        "value": 165.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 4.0,
+        "unit_price": 82.5,
+        "value": 330.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 15.0,
+        "unit_price": 270.0,
+        "value": 4050.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 303.0,
+        "value": 909.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 2.0,
+        "unit_price": 303.0,
+        "value": 606.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 3.0,
+        "unit_price": 303.0,
+        "value": 909.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREY",
+        "qty": 3.0,
+        "unit_price": 175.0,
+        "value": 525.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 60.0,
+        "value": 360.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 85.0,
+        "value": 510.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 98.5,
+        "value": 394.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 98.5,
+        "value": 591.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 1.0,
+        "unit_price": 161.69,
+        "value": 161.69
+      },
+      {
+        "prodname": "24x500GM BROWN OXIDE",
+        "qty": 1.0,
+        "unit_price": 163.78,
+        "value": 163.78
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 1.0,
+        "unit_price": 161.69,
+        "value": 161.69
+      }
+    ],
+    "total": 16528.66,
+    "count": 25
+  },
+  "competitor_forms_outstanding": 15
+}

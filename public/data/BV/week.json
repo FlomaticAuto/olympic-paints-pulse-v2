@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 55,
   "days": [
@@ -61,11 +61,11 @@
           "health_tier": "Active & Growing",
           "health_score": 75.1,
           "is_recovery": false,
-          "d_current": 285239.25,
+          "d_current": 284654.52,
           "d30": 267988.85,
           "d60": 114984.5,
           "d90": 2529.72,
-          "d_total": 670742.32
+          "d_total": 670157.59
         },
         {
           "curef": "KF018",
@@ -75,7 +75,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
@@ -277,11 +277,11 @@
           "health_tier": "At-Risk",
           "health_score": 51.7,
           "is_recovery": false,
-          "d_current": 44692.68,
-          "d30": 36.21,
+          "d_current": 37.59,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 44728.89
+          "d_total": 37.59
         },
         {
           "curef": "KF018",
@@ -291,7 +291,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
@@ -507,7 +507,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
@@ -656,7 +656,7 @@
     {
       "date_iso": "2026-05-21",
       "date_label": "Thu 21 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KB066",
@@ -704,7 +704,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
@@ -723,7 +723,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
@@ -872,7 +872,7 @@
     {
       "date_iso": "2026-05-22",
       "date_label": "Fri 22 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KB089",
@@ -920,7 +920,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1222555.62,
+          "total_12m": 1153559.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,

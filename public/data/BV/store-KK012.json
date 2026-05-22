@@ -1,0 +1,39 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KK012",
+    "customer_name": "Pacfic Beach Trading 8cc",
+    "town": "Stand No 495 Mobins Cross",
+    "accno": "KK012",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 618.0,
+    "last_purchase_prod": "5LT THINNERS",
+    "total_12m": 171977.68,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 67.3,
+    "is_recovery": false,
+    "d_current": 16601.5,
+    "d30": 6703.21,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 23304.71
+  },
+  "invoice": {
+    "invoice_no": "28592",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 6.0,
+        "unit_price": 103.0,
+        "value": 618.0
+      }
+    ],
+    "total": 618.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 13
+}

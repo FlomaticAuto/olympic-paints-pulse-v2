@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "store": {
     "customer_name": "Nimmi Investment",
     "accno": "KN033",
@@ -16,42 +16,18 @@
     "last_purchase_amt": 0
   },
   "invoice": {
-    "invoice_no": "127638",
-    "date": "08 Oct 2025",
+    "invoice_no": "131358",
+    "date": "21 May 2026",
     "lines": [
       {
-        "prodname": "5L EGGSHELL WHITE ENAMEL",
+        "prodname": "20L ALKYD ROOF/STOEP BLACK",
         "qty": 2.0,
-        "unit_price": 316.04,
-        "value": 632.08
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) WHITE",
-        "qty": 1.0,
-        "unit_price": 266.69,
-        "value": 266.69
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 3.0,
-        "unit_price": 309.03000000000003,
-        "value": 927.09
-      },
-      {
-        "prodname": "5L ALKYD ROOF/STOEP BLACK",
-        "qty": 4.0,
-        "unit_price": 369.96,
-        "value": 1479.84
-      },
-      {
-        "prodname": "5L TURPENTINE",
-        "qty": 1.0,
-        "unit_price": 122.22,
-        "value": 122.22
+        "unit_price": 1399.0,
+        "value": 2798.0
       }
     ],
-    "total": 3427.9199999999996,
-    "count": 5
+    "total": 2798.0,
+    "count": 1
   },
   "competitor_forms_outstanding": 13
 }

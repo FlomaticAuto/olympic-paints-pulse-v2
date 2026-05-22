@@ -1,0 +1,39 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KB038",
+    "customer_name": "Bob's Hardware C.C.",
+    "town": "Ironside  - De Deur",
+    "accno": "KB038",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 175.0,
+    "last_purchase_prod": "5L UNIVERSAL ROOF BLACK",
+    "total_12m": 493096.70999999996,
+    "velocity_category": "cooling",
+    "health_tier": "At-Risk",
+    "health_score": 60.4,
+    "is_recovery": false,
+    "d_current": 169697.84,
+    "d30": -201.25,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 169496.59
+  },
+  "invoice": {
+    "invoice_no": "28585",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 1.0,
+        "unit_price": 175.0,
+        "value": 175.0
+      }
+    ],
+    "total": 175.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 15
+}

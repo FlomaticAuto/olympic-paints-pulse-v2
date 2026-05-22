@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "week_label": "18 May \u2013 22 May",
   "total_stores": 60,
   "days": [
@@ -25,9 +25,9 @@
           "is_recovery": false,
           "d_current": -603.75,
           "d30": 28489.53,
-          "d60": 0.01,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 27885.79
+          "d_total": 27885.78
         },
         {
           "curef": "KA108",
@@ -260,9 +260,9 @@
           "is_recovery": false,
           "d_current": -603.75,
           "d30": 28489.53,
-          "d60": 0.01,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 27885.79
+          "d_total": 27885.78
         },
         {
           "curef": "KA117",
@@ -317,9 +317,9 @@
           "is_recovery": false,
           "d_current": 29232.36,
           "d30": 0.0,
-          "d60": 14346.08,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 43578.44
+          "d_total": 29232.36
         },
         {
           "curef": "KL004",
@@ -495,9 +495,9 @@
           "is_recovery": false,
           "d_current": -603.75,
           "d30": 28489.53,
-          "d60": 0.01,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 27885.79
+          "d_total": 27885.78
         },
         {
           "curef": "KB003",
@@ -510,7 +510,7 @@
           "total_12m": 245104.22,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
-          "health_score": 54.6,
+          "health_score": 55.9,
           "is_recovery": false,
           "d_current": -1562.56,
           "d30": 26376.72,
@@ -713,7 +713,7 @@
     {
       "date_iso": "2026-05-21",
       "date_label": "Thu 21 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA082",
@@ -948,7 +948,7 @@
     {
       "date_iso": "2026-05-22",
       "date_label": "Fri 22 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA090",

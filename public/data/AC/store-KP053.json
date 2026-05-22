@@ -1,11 +1,11 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "store": {
     "curef": "KP053",
-    "customer_name": "Paint Mart",
-    "town": "Apex",
+    "customer_name": "Paint Mart (Benoni)",
+    "town": "Benoni",
     "accno": "KP053",
     "last_purchase_date": "15 Aug 2025",
     "last_purchase_amt": 380.0,

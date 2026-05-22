@@ -1,12 +1,12 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "store": {
-    "curef": "KP022",
-    "customer_name": "Perfect Build & Hardware",
-    "town": "Main Road - NEXT TO ELIM HOSP",
-    "accno": "KP022",
+    "curef": "KR010",
+    "customer_name": "Raj Wholesalers",
+    "town": "Alldays",
+    "accno": "KR010",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,

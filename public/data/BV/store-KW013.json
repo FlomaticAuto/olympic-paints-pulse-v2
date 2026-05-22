@@ -1,0 +1,93 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KW013",
+    "customer_name": "Wood Corner Pty Ltd",
+    "town": "Polokwane",
+    "accno": "KW013",
+    "last_purchase_date": "09 Mar 2026",
+    "last_purchase_amt": 960.0,
+    "last_purchase_prod": "5L WALNUT VARNISH",
+    "total_12m": 69943.38,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 33.3,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0
+  },
+  "invoice": {
+    "invoice_no": "130359",
+    "date": "09 Mar 2026",
+    "lines": [
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 4.0,
+        "unit_price": 82.5,
+        "value": 330.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 69.92,
+        "value": 419.52
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 57.02,
+        "value": 342.12
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 10.0,
+        "unit_price": 74.5,
+        "value": 745.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 92.25,
+        "value": 369.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 92.25,
+        "value": 369.0
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 320.0,
+        "value": 1920.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      }
+    ],
+    "total": 7374.639999999999,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 13
+}

@@ -1,12 +1,12 @@
 {
-  "rep": "AP",
-  "rep_name": "Amit Patel",
-  "generated_at": "2026-05-21",
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-22",
   "store": {
-    "curef": "KA082",
-    "customer_name": "Ashrafi Hardware",
-    "town": "NEXT TO TAXI RANK",
-    "accno": "KA082",
+    "curef": "KS053",
+    "customer_name": "Spring Rose (Proprietary) Ltd",
+    "town": "Botswana",
+    "accno": "KS053",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -28,5 +28,5 @@
     "total": 0.0,
     "count": 0
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 15
 }

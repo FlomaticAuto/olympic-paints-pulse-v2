@@ -1,0 +1,39 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-22",
+  "store": {
+    "curef": "KS045",
+    "customer_name": "Siloam Hardware",
+    "town": "Edison Park",
+    "accno": "KS045",
+    "last_purchase_date": "16 Apr 2026",
+    "last_purchase_amt": 6876.4,
+    "last_purchase_prod": "5L SANDING SEALER",
+    "total_12m": 276643.91000000003,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 57.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 49733.78,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 49733.78
+  },
+  "invoice": {
+    "invoice_no": "130943",
+    "date": "16 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L SANDING SEALER",
+        "qty": 20.0,
+        "unit_price": 343.82,
+        "value": 6876.4
+      }
+    ],
+    "total": 6876.4,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 14
+}
