@@ -1,11 +1,11 @@
 {
-  "rep": "AP",
-  "rep_name": "Amit Patel",
-  "generated_at": "2026-05-22",
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-25",
   "store": {
     "curef": "KA090",
     "customer_name": "A A Owaish Maize Depot Pty Ltd",
-    "town": "Next to U Save Randzus Complex",
+    "town": "Opp Taxi Rank,Next TO Boxer HW",
     "accno": "KA090",
     "last_purchase_date": "12 May 2026",
     "last_purchase_amt": 670.5,
@@ -47,5 +47,5 @@
     "total": 2392.8,
     "count": 3
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 15
 }

@@ -1,14 +1,14 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-22",
-  "week_label": "18 May \u2013 22 May",
+  "generated_at": "2026-05-25",
+  "week_label": "25 May \u2013 29 May",
   "total_stores": 60,
   "days": [
     {
-      "date_iso": "2026-05-18",
-      "date_label": "Mon 18 May",
-      "is_today": false,
+      "date_iso": "2026-05-25",
+      "date_label": "Mon 25 May",
+      "is_today": true,
       "stores": [
         {
           "curef": "KA008",
@@ -241,8 +241,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-19",
-      "date_label": "Tue 19 May",
+      "date_iso": "2026-05-26",
+      "date_label": "Tue 26 May",
       "is_today": false,
       "stores": [
         {
@@ -476,8 +476,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-20",
-      "date_label": "Wed 20 May",
+      "date_iso": "2026-05-27",
+      "date_label": "Wed 27 May",
       "is_today": false,
       "stores": [
         {
@@ -711,8 +711,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-21",
-      "date_label": "Thu 21 May",
+      "date_iso": "2026-05-28",
+      "date_label": "Thu 28 May",
       "is_today": false,
       "stores": [
         {
@@ -946,9 +946,9 @@
       ]
     },
     {
-      "date_iso": "2026-05-22",
-      "date_label": "Fri 22 May",
-      "is_today": true,
+      "date_iso": "2026-05-29",
+      "date_label": "Fri 29 May",
+      "is_today": false,
       "stores": [
         {
           "curef": "KA090",
@@ -1050,19 +1050,19 @@
           "customer_name": "Goldville SM  ta Meem H/War",
           "town": "Near Donald Fraser Hospital",
           "accno": "KM043",
-          "last_purchase_date": "18 Mar 2026",
-          "last_purchase_amt": 1495.0,
-          "last_purchase_prod": "5L Q D CHARCOAL",
-          "total_12m": 90100.52999999998,
+          "last_purchase_date": "22 May 2026",
+          "last_purchase_amt": 960.0,
+          "last_purchase_prod": "5L Q D BLACK ENAMEL",
+          "total_12m": 97353.98999999999,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 49.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 8341.48,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 8341.48
         },
         {
           "curef": "KM160",
@@ -1107,19 +1107,19 @@
           "customer_name": "Siloam Hardware",
           "town": "Edison Park",
           "accno": "KS045",
-          "last_purchase_date": "16 Apr 2026",
-          "last_purchase_amt": 6876.4,
-          "last_purchase_prod": "5L SANDING SEALER",
-          "total_12m": 276643.91000000003,
+          "last_purchase_date": "22 May 2026",
+          "last_purchase_amt": 6400.0,
+          "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+          "total_12m": 317429.26,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 57.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 46903.15,
           "d30": 49733.78,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 49733.78
+          "d_total": 96636.93
         },
         {
           "curef": "KS061",

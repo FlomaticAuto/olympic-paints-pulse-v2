@@ -1,25 +1,19 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-22",
+  "generated_at": "2026-05-25",
   "store": {
-    "curef": "KS016",
     "customer_name": "Super Stores Hardware & Elec",
-    "town": "Actonville Benoni",
     "accno": "KS016",
-    "last_purchase_date": "30 Apr 2026",
-    "last_purchase_amt": 986.1,
-    "last_purchase_prod": "5L PICK 'N SAVE  ECONO BLUE",
-    "total_12m": 36411.74,
-    "velocity_category": null,
-    "health_tier": "At-Risk",
-    "health_score": 14.8,
-    "is_recovery": true,
-    "d_current": 0.0,
-    "d30": 3941.11,
-    "d60": 0.0,
-    "d90": 0.0,
-    "d_total": 3941.11
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
   },
   "invoice": {
     "invoice_no": "28517",
@@ -47,5 +41,5 @@
     "total": 2489.55,
     "count": 3
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 7
 }

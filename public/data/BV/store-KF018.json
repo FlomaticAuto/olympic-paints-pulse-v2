@@ -1,25 +1,25 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-22",
+  "generated_at": "2026-05-25",
   "store": {
     "curef": "KF018",
-    "customer_name": "Fairplay Hardware Jane Furse",
-    "town": "Old Hospital Road",
+    "customer_name": "Fairplay Hardware Kwamhlanga",
+    "town": "Moloto Road (R5730)",
     "accno": "KF018",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 1153559.17,
+    "total_12m": 1153470.17,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 34.7,
     "is_recovery": false,
     "d_current": 52510.15,
-    "d30": 105974.52,
-    "d60": 31142.17,
+    "d30": 96735.73,
+    "d60": 0.0,
     "d90": 0.0,
-    "d_total": 189626.84
+    "d_total": 149245.88
   },
   "invoice": {
     "invoice_no": "131297",

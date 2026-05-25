@@ -1,29 +1,9 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-05-22",
-  "date_label": "Fri 22 May 2026",
-  "date_iso": "2026-05-22",
-  "stores": [
-    {
-      "curef": "KP063",
-      "customer_name": "Projo Projects",
-      "town": null,
-      "accno": "KP063",
-      "last_purchase_date": "28 Apr 2026",
-      "last_purchase_amt": 3183.94,
-      "last_purchase_prod": "20LT N/ELEGANCE NECTAR 8125-5",
-      "total_12m": 35953.18000000001,
-      "velocity_category": null,
-      "health_tier": "Active but Narrow",
-      "health_score": 10.6,
-      "is_recovery": false,
-      "d_current": 0.0,
-      "d30": -0.02,
-      "d60": 0.0,
-      "d90": 0.0,
-      "d_total": -0.02
-    }
-  ],
+  "generated_at": "2026-05-25",
+  "date_label": "Mon 25 May 2026",
+  "date_iso": "2026-05-25",
+  "stores": [],
   "competitor_forms_outstanding": 10
 }

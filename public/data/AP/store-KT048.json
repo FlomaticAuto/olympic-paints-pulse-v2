@@ -1,12 +1,12 @@
 {
-  "rep": "NP",
-  "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-22",
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-25",
   "store": {
-    "curef": "KS053",
-    "customer_name": "Spring Rose (Proprietary) Ltd",
-    "town": "Botswana",
-    "accno": "KS053",
+    "curef": "KT048",
+    "customer_name": "SMD Electrical Plumbing and HW",
+    "town": "U Save Makula Village",
+    "accno": "KT048",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -28,5 +28,5 @@
     "total": 0.0,
     "count": 0
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 14
 }

@@ -1,0 +1,153 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-25",
+  "store": {
+    "curef": "KB025",
+    "customer_name": "Balkan Trading CC",
+    "town": "Onderstepoort",
+    "accno": "KB025",
+    "last_purchase_date": "08 Apr 2026",
+    "last_purchase_amt": 1200.0,
+    "last_purchase_prod": "5L HI HIDING CONT PVA WHITE",
+    "total_12m": 589927.21,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 51.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 38571.37,
+    "d60": 0.0,
+    "d90": 1774.4,
+    "d_total": 40345.77
+  },
+  "invoice": {
+    "invoice_no": "130797",
+    "date": "08 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 10.0,
+        "unit_price": 270.0,
+        "value": 2700.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 10.0,
+        "unit_price": 290.0,
+        "value": 2900.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 6.0,
+        "unit_price": 88.44,
+        "value": 530.64
+      },
+      {
+        "prodname": "20L DECOR FOSSIL GREEN PVA",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L DECOR MAIZE PVA",
+        "qty": 6.0,
+        "unit_price": 88.44,
+        "value": 530.64
+      },
+      {
+        "prodname": "5L DECOR GUAVA PVA",
+        "qty": 6.0,
+        "unit_price": 88.44,
+        "value": 530.64
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 40.0,
+        "unit_price": 65.16,
+        "value": 2606.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 10.0,
+        "unit_price": 65.16,
+        "value": 651.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 10.0,
+        "unit_price": 65.16,
+        "value": 651.6
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 226.8,
+        "value": 2268.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 226.8,
+        "value": 2268.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 226.8,
+        "value": 1134.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) L BROWN",
+        "qty": 5.0,
+        "unit_price": 226.8,
+        "value": 1134.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 226.8,
+        "value": 2268.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 6.0,
+        "unit_price": 577.8000000000001,
+        "value": 3466.8
+      },
+      {
+        "prodname": "5L HI HIDING CONT PVA WHITE",
+        "qty": 10.0,
+        "unit_price": 120.0,
+        "value": 1200.0
+      }
+    ],
+    "total": 33540.31999999999,
+    "count": 20
+  },
+  "competitor_forms_outstanding": 7
+}

@@ -1,14 +1,14 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-22",
-  "week_label": "18 May \u2013 22 May",
+  "generated_at": "2026-05-25",
+  "week_label": "25 May \u2013 29 May",
   "total_stores": 55,
   "days": [
     {
-      "date_iso": "2026-05-18",
-      "date_label": "Mon 18 May",
-      "is_today": false,
+      "date_iso": "2026-05-25",
+      "date_label": "Mon 25 May",
+      "is_today": true,
       "stores": [
         {
           "curef": "KA104",
@@ -75,16 +75,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KH023",
@@ -99,11 +99,11 @@
           "health_tier": "At-Risk",
           "health_score": 57.1,
           "is_recovery": false,
-          "d_current": 23803.71,
+          "d_current": 11153.59,
           "d30": 10599.8,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 34403.51
+          "d_total": 21753.39
         },
         {
           "curef": "KK040",
@@ -222,8 +222,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-19",
-      "date_label": "Tue 19 May",
+      "date_iso": "2026-05-26",
+      "date_label": "Tue 26 May",
       "is_today": false,
       "stores": [
         {
@@ -272,7 +272,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 21160.0,
           "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 1809296.18,
+          "total_12m": 1808320.1800000002,
           "velocity_category": "rocket",
           "health_tier": "At-Risk",
           "health_score": 51.7,
@@ -291,16 +291,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KH028",
@@ -386,7 +386,7 @@
           "last_purchase_date": "11 Jul 2025",
           "last_purchase_amt": 5033.6,
           "last_purchase_prod": "24x500GM RED OXIDE",
-          "total_12m": 193524.87,
+          "total_12m": 93060.30000000002,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 30.1,
@@ -438,8 +438,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-20",
-      "date_label": "Wed 20 May",
+      "date_iso": "2026-05-27",
+      "date_label": "Wed 27 May",
       "is_today": false,
       "stores": [
         {
@@ -507,16 +507,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KH035",
@@ -526,7 +526,7 @@
           "last_purchase_date": "28 Apr 2026",
           "last_purchase_amt": 13750.0,
           "last_purchase_prod": "20L DECOR PVA CREAM",
-          "total_12m": 4412843.0,
+          "total_12m": 4255643.0,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 61.6,
@@ -602,7 +602,7 @@
           "last_purchase_date": "11 Jul 2025",
           "last_purchase_amt": 5033.6,
           "last_purchase_prod": "24x500GM RED OXIDE",
-          "total_12m": 193524.87,
+          "total_12m": 93060.30000000002,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 30.1,
@@ -621,7 +621,7 @@
           "last_purchase_date": "14 Apr 2026",
           "last_purchase_amt": 1620.0,
           "last_purchase_prod": "5L Q D WHITE ENAMEL",
-          "total_12m": 3323600.66,
+          "total_12m": 3323413.49,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 78.2,
@@ -654,8 +654,8 @@
       ]
     },
     {
-      "date_iso": "2026-05-21",
-      "date_label": "Thu 21 May",
+      "date_iso": "2026-05-28",
+      "date_label": "Thu 28 May",
       "is_today": false,
       "stores": [
         {
@@ -704,16 +704,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KF018",
@@ -723,16 +723,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KK006",
@@ -837,7 +837,7 @@
           "last_purchase_date": "14 Apr 2026",
           "last_purchase_amt": 1620.0,
           "last_purchase_prod": "5L Q D WHITE ENAMEL",
-          "total_12m": 3323600.66,
+          "total_12m": 3323413.49,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 78.2,
@@ -870,9 +870,9 @@
       ]
     },
     {
-      "date_iso": "2026-05-22",
-      "date_label": "Fri 22 May",
-      "is_today": true,
+      "date_iso": "2026-05-29",
+      "date_label": "Fri 29 May",
+      "is_today": false,
       "stores": [
         {
           "curef": "KB089",
@@ -920,16 +920,16 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1153559.17,
+          "total_12m": 1153470.17,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 105974.52,
-          "d60": 31142.17,
+          "d30": 96735.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 189626.84
+          "d_total": 149245.88
         },
         {
           "curef": "KF030",
