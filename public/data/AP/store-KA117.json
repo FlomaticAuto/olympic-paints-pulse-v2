@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "African Hardware",
     "accno": "KA117",
@@ -71,5 +71,5 @@
     "total": 16150.0,
     "count": 8
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 0
 }

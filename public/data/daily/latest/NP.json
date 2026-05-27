@@ -1,0 +1,17 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "date_label": "Wed 27 May 2026",
+  "cycle_label": "NP4 \u00b7 Day 3/5",
+  "mtd_sales": 3098911.31,
+  "mtd_target": 5358855.216000001,
+  "rank": 2,
+  "plan_adherence_mtd": 1.0,
+  "yesterday_sales": 0.0,
+  "yesterday_leads": 0,
+  "yesterday_visited_stores": [
+    "Account visit (\u00d72)",
+    "Sales visit (\u00d718)"
+  ],
+  "yesterday_visits_total": 20
+}

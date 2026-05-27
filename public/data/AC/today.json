@@ -1,29 +1,30 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-25",
-  "date_label": "Mon 25 May 2026",
-  "date_iso": "2026-05-25",
+  "generated_at": "2026-05-27",
+  "date_label": "Wed 27 May 2026",
+  "date_iso": "2026-05-27",
   "stores": [
     {
-      "curef": "KB025",
-      "customer_name": "Balkan Trading CC",
-      "town": "Onderstepoort",
-      "accno": "KB025",
-      "last_purchase_date": "08 Apr 2026",
-      "last_purchase_amt": 1200.0,
-      "last_purchase_prod": "5L HI HIDING CONT PVA WHITE",
-      "total_12m": 589927.21,
-      "velocity_category": null,
-      "health_tier": "At-Risk",
-      "health_score": 51.5,
+      "curef": "KM027",
+      "customer_name": "POWER BUILD Cosmo City",
+      "town": "Centre Cnr of S African &",
+      "accno": "KM027",
+      "last_purchase_date": "20 May 2026",
+      "last_purchase_amt": 990.0,
+      "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+      "total_12m": 6232500.27,
+      "velocity_category": "falling",
+      "health_tier": "Active & Growing",
+      "health_score": 85.0,
       "is_recovery": false,
-      "d_current": 0.0,
-      "d30": 38571.37,
+      "d_current": 240331.24,
+      "d30": 782225.3,
       "d60": 0.0,
-      "d90": 1774.4,
-      "d_total": 40345.77
+      "d90": 0.0,
+      "d_total": 1022556.54,
+      "shared_account": false
     }
   ],
-  "competitor_forms_outstanding": 7
+  "competitor_forms_outstanding": 0
 }

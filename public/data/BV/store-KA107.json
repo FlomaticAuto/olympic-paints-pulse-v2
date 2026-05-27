@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "Applemint Properties 91 Pty Lt",
     "accno": "KA107",
@@ -35,5 +35,5 @@
     "total": 6080.0,
     "count": 2
   },
-  "competitor_forms_outstanding": 13
+  "competitor_forms_outstanding": 0
 }

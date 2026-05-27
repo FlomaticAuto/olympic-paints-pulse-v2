@@ -109,6 +109,59 @@ export const loadRecovery = (rep: RepCode) => readJSON<RecoverySnapshot>(`${rep}
 export const loadStoreDetail = (rep: RepCode, accno: string) =>
   readJSON<StoreDetailSnapshot>(`${rep}/store-${accno}.json`);
 
+// ── Scorecard + daily (written by `python -m pulse publish-web`) ─────────────
+export type ScorecardRepRow = {
+  rep: RepCode;
+  name: string;
+  sales: number;
+  pct_target: number;
+  visits_actual: number;
+  visits_planned: number;
+  plan_adherence: number;
+  leads: number;
+  new_stores: number;
+  ack_pct: number;
+};
+
+export type Scorecard = {
+  period_label: string;
+  summary: {
+    team_mtd: number;
+    team_pct_target: number;
+    team_visits_actual: number;
+    team_visits_planned: number;
+    team_plan_adherence: number;
+  };
+  rep_rows: ScorecardRepRow[];
+};
+
+export type DailySnapshot = {
+  rep: RepCode;
+  rep_name: string;
+  date_label: string;
+  cycle_label: string;
+  mtd_sales: number;
+  mtd_target: number;
+  rank: number;
+  plan_adherence_mtd: number;
+  yesterday_sales: number;
+  yesterday_leads: number;
+  yesterday_visited_stores: string[];
+  yesterday_visits_total: number;
+};
+
+// `date` is an ISO date or the literal "latest".
+export const loadScorecard = (date: string) =>
+  readJSON<Scorecard>(date === "latest" ? "scorecard/latest.json" : `scorecard/${date}.json`);
+export const loadDaily = (date: string, rep: RepCode) =>
+  readJSON<DailySnapshot>(
+    date === "latest" ? `daily/latest/${rep}.json` : `daily/${date}/${rep}.json`,
+  );
+
 export function fmtR(v: number | null | undefined): string {
   return "R " + Math.round(v ?? 0).toLocaleString("en-ZA").replace(/,/g, " ");
+}
+
+export function fmtPct(v: number | null | undefined): string {
+  return `${Math.round((v ?? 0) * 100)}%`;
 }

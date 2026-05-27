@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 4,
   "days": [
     {
       "date_iso": "2026-05-25",
       "date_label": "Mon 25 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KB025",
@@ -27,7 +27,8 @@
           "d30": 38571.37,
           "d60": 0.0,
           "d90": 1774.4,
-          "d_total": 40345.77
+          "d_total": 40345.77,
+          "shared_account": false
         }
       ]
     },
@@ -53,14 +54,15 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": -544.5,
-          "d_total": -544.5
+          "d_total": -544.5,
+          "shared_account": false
         }
       ]
     },
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KM027",
@@ -79,7 +81,8 @@
           "d30": 782225.3,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 1022556.54
+          "d_total": 1022556.54,
+          "shared_account": false
         }
       ]
     },
@@ -105,7 +108,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 40235.73
+          "d_total": 40235.73,
+          "shared_account": false
         }
       ]
     },
@@ -116,5 +120,5 @@
       "stores": []
     }
   ],
-  "competitor_forms_outstanding": 7
+  "competitor_forms_outstanding": 0
 }

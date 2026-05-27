@@ -1,25 +1,19 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
-    "curef": "KB082",
     "customer_name": "Bobras Hardware",
-    "town": "Limpopo",
     "accno": "KB082",
-    "last_purchase_date": "20 Dec 2025",
-    "last_purchase_amt": 14000.0,
-    "last_purchase_prod": "5LT Q.D. BLUE GREY",
-    "total_12m": 28000.0,
-    "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 12.4,
-    "is_recovery": true,
-    "d_current": 0.0,
-    "d30": 0.0,
-    "d60": 0.0,
-    "d90": 0.0,
-    "d_total": 0.0
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
   },
   "invoice": {
     "invoice_no": "129270",
@@ -41,5 +35,5 @@
     "total": 28000.0,
     "count": 2
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 0
 }

@@ -1,11 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "curef": "KM004",
-    "customer_name": "MAGEZI HW WHOLESALE VILLAGE",
-    "town": "ROAD AS MAGEZI ABOUT 30KM",
+    "customer_name": "Magezi Hardware 3",
+    "town": "Nwaxinyamani",
     "accno": "KM004",
     "last_purchase_date": "29 Apr 2026",
     "last_purchase_amt": 3400.0,
@@ -19,7 +19,8 @@
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 0.0
+    "d_total": 0.0,
+    "shared_account": false
   },
   "invoice": {
     "invoice_no": "131099",
@@ -287,5 +288,5 @@
     "total": 55272.6,
     "count": 43
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 0
 }

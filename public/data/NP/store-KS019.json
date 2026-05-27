@@ -1,11 +1,11 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "curef": "KS019",
-    "customer_name": "SASELAMANI STORES",
-    "town": "STATION PANDA MARIA ROAD",
+    "customer_name": "S.I.Hardware",
+    "town": "R81 Malamulele to",
     "accno": "KS019",
     "last_purchase_date": "22 May 2026",
     "last_purchase_amt": 0.0,
@@ -19,7 +19,8 @@
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 561646.24
+    "d_total": 561646.24,
+    "shared_account": false
   },
   "invoice": {
     "invoice_no": "131395",
@@ -269,5 +270,5 @@
     "total": 41165.04,
     "count": 40
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 0
 }

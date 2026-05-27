@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 77,
   "days": [
     {
       "date_iso": "2026-05-25",
       "date_label": "Mon 25 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA090",
@@ -27,7 +27,8 @@
           "d30": 21153.14,
           "d60": 428.23,
           "d90": 0.0,
-          "d_total": 18829.64
+          "d_total": 18829.64,
+          "shared_account": false
         },
         {
           "curef": "KB071",
@@ -46,7 +47,8 @@
           "d30": 249771.47,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 307441.1
+          "d_total": 307441.1,
+          "shared_account": false
         },
         {
           "curef": "KC008",
@@ -65,7 +67,8 @@
           "d30": 34653.46,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 34653.46
+          "d_total": 34653.46,
+          "shared_account": false
         },
         {
           "curef": "KF020",
@@ -84,7 +87,8 @@
           "d30": 128386.02,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 128386.02
+          "d_total": 128386.02,
+          "shared_account": false
         },
         {
           "curef": "KH008",
@@ -103,7 +107,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": -91.08
+          "d_total": -91.08,
+          "shared_account": false
         },
         {
           "curef": "KJ012",
@@ -122,7 +127,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KK036",
@@ -141,7 +147,8 @@
           "d30": 0.0,
           "d60": -0.02,
           "d90": 0.0,
-          "d_total": -0.02
+          "d_total": -0.02,
+          "shared_account": false
         },
         {
           "curef": "KM011",
@@ -160,7 +167,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 7910.84,
-          "d_total": 7910.84
+          "d_total": 7910.84,
+          "shared_account": false
         },
         {
           "curef": "KM123",
@@ -179,7 +187,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 53544.990000000005,
-          "d_total": 53544.99
+          "d_total": 53544.99,
+          "shared_account": false
         },
         {
           "curef": "KO002",
@@ -195,10 +204,11 @@
           "health_score": 59.0,
           "is_recovery": false,
           "d_current": -940.17,
-          "d30": 41191.66,
+          "d30": 6412.17,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 40251.49
+          "d_total": 5472.0,
+          "shared_account": false
         },
         {
           "curef": "KR008",
@@ -217,7 +227,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16257.69
+          "d_total": 16257.69,
+          "shared_account": false
         },
         {
           "curef": "KS011",
@@ -236,7 +247,8 @@
           "d30": 129471.73,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 223668.13
+          "d_total": 223668.13,
+          "shared_account": false
         },
         {
           "curef": "KS019",
@@ -255,7 +267,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS019",
@@ -274,7 +287,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS068",
@@ -293,7 +307,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": -2000.23,
-          "d_total": -2000.23
+          "d_total": -2000.23,
+          "shared_account": false
         },
         {
           "curef": "KT030",
@@ -312,7 +327,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         }
       ]
     },
@@ -335,10 +351,11 @@
           "health_score": 49.1,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 10514.98,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 10514.98
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KB071",
@@ -357,7 +374,8 @@
           "d30": 249771.47,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 307441.1
+          "d_total": 307441.1,
+          "shared_account": false
         },
         {
           "curef": "KD003",
@@ -372,11 +390,12 @@
           "health_tier": "Active & Growing",
           "health_score": 66.9,
           "is_recovery": false,
-          "d_current": 122269.48,
+          "d_current": -0.05,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 122269.48
+          "d_total": -0.05,
+          "shared_account": false
         },
         {
           "curef": "KF035",
@@ -395,7 +414,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KH034",
@@ -414,7 +434,8 @@
           "d30": 14803.02,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 3375.17
+          "d_total": 3375.17,
+          "shared_account": false
         },
         {
           "curef": "KJ012",
@@ -433,7 +454,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KL009",
@@ -449,10 +471,11 @@
           "health_score": 47.3,
           "is_recovery": false,
           "d_current": 3719.84,
-          "d30": 1849.64,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 5569.48
+          "d_total": 3719.84,
+          "shared_account": false
         },
         {
           "curef": "KM056",
@@ -471,7 +494,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KM143",
@@ -490,7 +514,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KQ001",
@@ -509,7 +534,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KR008",
@@ -528,7 +554,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16257.69
+          "d_total": 16257.69,
+          "shared_account": false
         },
         {
           "curef": "KS011",
@@ -547,7 +574,8 @@
           "d30": 129471.73,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 223668.13
+          "d_total": 223668.13,
+          "shared_account": false
         },
         {
           "curef": "KS019",
@@ -566,7 +594,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": false
         },
         {
           "curef": "KS024",
@@ -585,7 +614,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KS128",
@@ -604,7 +634,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KV015",
@@ -623,14 +654,15 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 6687.56,
-          "d_total": 6687.56
+          "d_total": 6687.56,
+          "shared_account": false
         }
       ]
     },
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA096",
@@ -649,7 +681,8 @@
           "d30": -0.34,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": -0.34
+          "d_total": -0.34,
+          "shared_account": false
         },
         {
           "curef": "KB103",
@@ -668,7 +701,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KD027",
@@ -687,7 +721,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KG002",
@@ -706,7 +741,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KH049",
@@ -725,7 +761,8 @@
           "d30": 6420.11,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 6420.11
+          "d_total": 6420.11,
+          "shared_account": false
         },
         {
           "curef": "KJ012",
@@ -744,7 +781,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KL032",
@@ -763,7 +801,8 @@
           "d30": 0.0,
           "d60": 13200.01,
           "d90": 534.25,
-          "d_total": 13734.26
+          "d_total": 13734.26,
+          "shared_account": false
         },
         {
           "curef": "KM071",
@@ -782,7 +821,8 @@
           "d30": 283283.24,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 435691.43
+          "d_total": 435691.43,
+          "shared_account": false
         },
         {
           "curef": "KM148",
@@ -801,7 +841,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": -9475.1,
-          "d_total": -9475.1
+          "d_total": -9475.1,
+          "shared_account": false
         },
         {
           "curef": "KQ008",
@@ -820,7 +861,8 @@
           "d30": 22276.63,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 22276.63
+          "d_total": 22276.63,
+          "shared_account": false
         },
         {
           "curef": "KR008",
@@ -839,7 +881,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16257.69
+          "d_total": 16257.69,
+          "shared_account": false
         },
         {
           "curef": "KS018",
@@ -858,7 +901,8 @@
           "d30": 0.0,
           "d60": -3135.51,
           "d90": 0.0,
-          "d_total": -3135.51
+          "d_total": -3135.51,
+          "shared_account": false
         },
         {
           "curef": "KS019",
@@ -877,7 +921,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": false
         },
         {
           "curef": "KS026",
@@ -896,7 +941,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KT002",
@@ -915,7 +961,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 15337.64
+          "d_total": 15337.64,
+          "shared_account": false
         }
       ]
     },
@@ -941,7 +988,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 72435.49,
-          "d_total": 72435.49
+          "d_total": 72435.49,
+          "shared_account": false
         },
         {
           "curef": "KB108",
@@ -960,7 +1008,8 @@
           "d30": 108792.16,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 108054.71
+          "d_total": 108054.71,
+          "shared_account": false
         },
         {
           "curef": "KD029",
@@ -979,7 +1028,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": -1.37
+          "d_total": -1.37,
+          "shared_account": false
         },
         {
           "curef": "KG006",
@@ -998,7 +1048,8 @@
           "d30": 36328.89,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 123580.29
+          "d_total": 123580.29,
+          "shared_account": false
         },
         {
           "curef": "KI015",
@@ -1017,7 +1068,8 @@
           "d30": 206233.11,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 310624.94
+          "d_total": 310624.94,
+          "shared_account": false
         },
         {
           "curef": "KK021",
@@ -1036,7 +1088,8 @@
           "d30": 1387248.52,
           "d60": 162628.93,
           "d90": 23120.01,
-          "d_total": 2548005.67
+          "d_total": 2548005.67,
+          "shared_account": false
         },
         {
           "curef": "KL035",
@@ -1055,7 +1108,8 @@
           "d30": 0.93,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 8074.97
+          "d_total": 8074.97,
+          "shared_account": false
         },
         {
           "curef": "KM071",
@@ -1074,7 +1128,8 @@
           "d30": 283283.24,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 435691.43
+          "d_total": 435691.43,
+          "shared_account": false
         },
         {
           "curef": "KM155",
@@ -1093,7 +1148,8 @@
           "d30": 104205.58,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 141587.02
+          "d_total": 141587.02,
+          "shared_account": false
         },
         {
           "curef": "KR003",
@@ -1112,7 +1168,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KR008",
@@ -1131,7 +1188,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16257.69
+          "d_total": 16257.69,
+          "shared_account": false
         },
         {
           "curef": "KS019",
@@ -1150,7 +1208,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS019",
@@ -1169,7 +1228,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS043",
@@ -1188,7 +1248,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KT002",
@@ -1207,7 +1268,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 15337.64
+          "d_total": 15337.64,
+          "shared_account": false
         }
       ]
     },
@@ -1233,7 +1295,8 @@
           "d30": -0.5,
           "d60": 1124.71,
           "d90": 0.0,
-          "d_total": 1124.21
+          "d_total": 1124.21,
+          "shared_account": false
         },
         {
           "curef": "KB110",
@@ -1252,7 +1315,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": -131.76,
-          "d_total": 3393.01
+          "d_total": 3393.01,
+          "shared_account": false
         },
         {
           "curef": "KF020",
@@ -1271,7 +1335,8 @@
           "d30": 128386.02,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 128386.02
+          "d_total": 128386.02,
+          "shared_account": false
         },
         {
           "curef": "KG012",
@@ -1290,7 +1355,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KI015",
@@ -1309,7 +1375,8 @@
           "d30": 206233.11,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 310624.94
+          "d_total": 310624.94,
+          "shared_account": false
         },
         {
           "curef": "KK021",
@@ -1328,7 +1395,8 @@
           "d30": 1387248.52,
           "d60": 162628.93,
           "d90": 23120.01,
-          "d_total": 2548005.67
+          "d_total": 2548005.67,
+          "shared_account": false
         },
         {
           "curef": "KL037",
@@ -1347,7 +1415,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KM078",
@@ -1366,7 +1435,8 @@
           "d30": 76223.79,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 76223.79
+          "d_total": 76223.79,
+          "shared_account": false
         },
         {
           "curef": "KN024",
@@ -1374,8 +1444,8 @@
           "town": "Mmakgotha Ward",
           "accno": "KN024",
           "last_purchase_date": "22 May 2026",
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": "75mm x 10m Membrane",
+          "last_purchase_amt": 177.05,
+          "last_purchase_prod": "Doz x 50ML STAINERS Y OCHRE",
           "total_12m": 1384321.23,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
@@ -1385,7 +1455,8 @@
           "d30": 127011.66,
           "d60": 46356.24,
           "d90": 10417.45,
-          "d_total": 276254.61
+          "d_total": 276254.61,
+          "shared_account": false
         },
         {
           "curef": "KR008",
@@ -1404,7 +1475,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16257.69
+          "d_total": 16257.69,
+          "shared_account": false
         },
         {
           "curef": "KS003",
@@ -1423,7 +1495,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": -0.66,
-          "d_total": -0.66
+          "d_total": -0.66,
+          "shared_account": false
         },
         {
           "curef": "KS019",
@@ -1442,7 +1515,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS019",
@@ -1461,7 +1535,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 561646.24
+          "d_total": 561646.24,
+          "shared_account": true
         },
         {
           "curef": "KS053",
@@ -1480,7 +1555,8 @@
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0
+          "d_total": 0.0,
+          "shared_account": false
         },
         {
           "curef": "KT019",
@@ -1499,10 +1575,11 @@
           "d30": 101043.31,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 167907.57
+          "d_total": 167907.57,
+          "shared_account": false
         }
       ]
     }
   ],
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 0
 }

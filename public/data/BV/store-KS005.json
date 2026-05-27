@@ -1,0 +1,33 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-27",
+  "store": {
+    "customer_name": "Skeerpoort Handelhuis",
+    "accno": "KS005",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "128480",
+    "date": "19 Nov 2025",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 247.13000000000002,
+        "value": 2471.3
+      }
+    ],
+    "total": 2471.3,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

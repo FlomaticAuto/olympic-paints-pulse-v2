@@ -1,25 +1,19 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
-    "curef": "KS130",
     "customer_name": "Mashaole General Dealer",
-    "town": "D21 Road next to Dunlop Tyres",
     "accno": "KS130",
-    "last_purchase_date": "23 Jun 2025",
-    "last_purchase_amt": 1620.0,
-    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-    "total_12m": 16100.489999999998,
-    "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 15.4,
-    "is_recovery": true,
-    "d_current": 0.0,
-    "d30": 0.0,
-    "d60": 0.0,
-    "d90": 0.0,
-    "d_total": 0.0
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
   },
   "invoice": {
     "invoice_no": "125610",
@@ -221,5 +215,5 @@
     "total": 16100.49,
     "count": 32
   },
-  "competitor_forms_outstanding": 13
+  "competitor_forms_outstanding": 0
 }

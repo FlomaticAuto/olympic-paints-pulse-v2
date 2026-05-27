@@ -1,14 +1,14 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 0,
   "days": [
     {
       "date_iso": "2026-05-25",
       "date_label": "Mon 25 May",
-      "is_today": true,
+      "is_today": false,
       "stores": []
     },
     {
@@ -20,7 +20,7 @@
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": false,
+      "is_today": true,
       "stores": []
     },
     {
@@ -36,5 +36,5 @@
       "stores": []
     }
   ],
-  "competitor_forms_outstanding": 10
+  "competitor_forms_outstanding": 0
 }

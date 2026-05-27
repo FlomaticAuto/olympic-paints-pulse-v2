@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "AMK Hardware",
     "accno": "KA114",
@@ -143,5 +143,5 @@
     "total": 15876.16,
     "count": 20
   },
-  "competitor_forms_outstanding": 13
+  "competitor_forms_outstanding": 0
 }

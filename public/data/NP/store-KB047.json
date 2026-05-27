@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "Sunshine 786 Trading",
     "accno": "KB047",
@@ -35,5 +35,5 @@
     "total": 296.15,
     "count": 2
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 0
 }

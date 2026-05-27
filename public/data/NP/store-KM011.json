@@ -1,25 +1,19 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
-    "curef": "KM011",
     "customer_name": "Quick Save Hardware",
-    "town": "C/O Carlton Spares",
     "accno": "KM011",
-    "last_purchase_date": "27 Nov 2024",
-    "last_purchase_amt": 255.0,
-    "last_purchase_prod": "5L DECOR WHITE PVA",
-    "total_12m": 0.0,
-    "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 9.6,
-    "is_recovery": true,
-    "d_current": 0.0,
-    "d30": 0.0,
-    "d60": 0.0,
-    "d90": 7910.84,
-    "d_total": 7910.84
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
   },
   "invoice": {
     "invoice_no": "122790",
@@ -485,5 +479,5 @@
     "total": 50279.89,
     "count": 76
   },
-  "competitor_forms_outstanding": 15
+  "competitor_forms_outstanding": 0
 }

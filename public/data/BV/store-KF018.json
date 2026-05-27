@@ -1,11 +1,11 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "curef": "KF018",
-    "customer_name": "Fairplay Hardware Kwamhlanga",
-    "town": "Moloto Road (R5730)",
+    "customer_name": "Fairplay Hardware Mabopane",
+    "town": "Shoprite Centre",
     "accno": "KF018",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 0.0,
@@ -16,10 +16,11 @@
     "health_score": 34.7,
     "is_recovery": false,
     "d_current": 52510.15,
-    "d30": 96735.73,
+    "d30": 49721.34,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 149245.88
+    "d_total": 102231.49,
+    "shared_account": false
   },
   "invoice": {
     "invoice_no": "131297",
@@ -83,5 +84,5 @@
     "total": 11906.2,
     "count": 9
   },
-  "competitor_forms_outstanding": 13
+  "competitor_forms_outstanding": 0
 }

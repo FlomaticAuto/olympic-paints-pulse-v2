@@ -1,11 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "curef": "KA008",
-    "customer_name": "AA Hardware 2",
-    "town": "Near to Millitary base",
+    "customer_name": "Safu Building Material",
+    "town": "Levubu Road  Opp P&L H/W",
     "accno": "KA008",
     "last_purchase_date": "08 May 2026",
     "last_purchase_amt": 525.0,
@@ -19,7 +19,8 @@
     "d30": 28489.53,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 27885.78
+    "d_total": 27885.78,
+    "shared_account": false
   },
   "invoice": {
     "invoice_no": "28557",
@@ -35,5 +36,5 @@
     "total": 525.0,
     "count": 1
   },
-  "competitor_forms_outstanding": 14
+  "competitor_forms_outstanding": 0
 }

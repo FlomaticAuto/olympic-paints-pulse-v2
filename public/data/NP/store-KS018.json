@@ -1,0 +1,58 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-27",
+  "store": {
+    "curef": "KS018",
+    "customer_name": "Shikundu Trading Store",
+    "town": "Phunda Maria Road",
+    "accno": "KS018",
+    "last_purchase_date": "02 Mar 2026",
+    "last_purchase_amt": 646.5,
+    "last_purchase_prod": "6x2KG DISTEMPER BLUE",
+    "total_12m": 20868.08,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 36.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": -3135.51,
+    "d90": 0.0,
+    "d_total": -3135.51,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130215",
+    "date": "02 Mar 2026",
+    "lines": [
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 5.0,
+        "unit_price": 126.6,
+        "value": 633.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 5.0,
+        "unit_price": 126.6,
+        "value": 633.0
+      },
+      {
+        "prodname": "6x2KG DISTEMPER GREEN",
+        "qty": 5.0,
+        "unit_price": 129.3,
+        "value": 646.5
+      },
+      {
+        "prodname": "6x2KG DISTEMPER BLUE",
+        "qty": 5.0,
+        "unit_price": 129.3,
+        "value": 646.5
+      }
+    ],
+    "total": 2559.0,
+    "count": 4
+  },
+  "competitor_forms_outstanding": 0
+}

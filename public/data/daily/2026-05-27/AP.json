@@ -1,0 +1,24 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "date_label": "Wed 27 May 2026",
+  "cycle_label": "AP1 \u00b7 Day 3/5",
+  "mtd_sales": 670395.05,
+  "mtd_target": 790102.742,
+  "rank": 1,
+  "plan_adherence_mtd": 1.0,
+  "yesterday_sales": 0.0,
+  "yesterday_leads": 0,
+  "yesterday_visited_stores": [
+    "Sales visit Bobras Hardware",
+    "Sales visit Fayaz and brother",
+    "Sales visit Meem hardware",
+    "Sales visit Tshaulu hardware",
+    "Sales visit Z build",
+    "Sales visit new Bafana Bafana hardware (\u00d72)",
+    "Sales visit safari hardware",
+    "Sales visit star hardware",
+    "Sales visit world focus (\u00d72)"
+  ],
+  "yesterday_visits_total": 11
+}

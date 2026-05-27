@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "Discount Hardware Kanyamazane",
     "accno": "KD015",
@@ -299,5 +299,5 @@
     "total": 50485.61000000001,
     "count": 46
   },
-  "competitor_forms_outstanding": 13
+  "competitor_forms_outstanding": 0
 }

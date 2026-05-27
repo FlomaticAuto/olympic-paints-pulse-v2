@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-27",
   "store": {
     "customer_name": "Super Stores Hardware & Elec",
     "accno": "KS016",
@@ -41,5 +41,5 @@
     "total": 2489.55,
     "count": 3
   },
-  "competitor_forms_outstanding": 7
+  "competitor_forms_outstanding": 0
 }

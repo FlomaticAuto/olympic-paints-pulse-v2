@@ -1,0 +1,22 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "date_label": "Wed 27 May 2026",
+  "cycle_label": "BV3 \u00b7 Day 3/5",
+  "mtd_sales": 2370233.0599999996,
+  "mtd_target": 5716297.366,
+  "rank": 4,
+  "plan_adherence_mtd": 1.0,
+  "yesterday_sales": 0.0,
+  "yesterday_leads": 0,
+  "yesterday_visited_stores": [
+    "Gigas hw",
+    "Hardware city Tzaneen",
+    "Lalitas Smkt",
+    "Nimesh kumar gen del",
+    "Patel hw Dkloof",
+    "Super blue motupa",
+    "Xpress build kgpane"
+  ],
+  "yesterday_visits_total": 7
+}

@@ -1,0 +1,25 @@
+{
+  "rep": "BM",
+  "rep_name": "Byron Minnie",
+  "date_label": "Wed 27 May 2026",
+  "cycle_label": "BM \u00b7 Wed 27 May",
+  "mtd_sales": 3932.7599999999998,
+  "mtd_target": 100000.0,
+  "rank": 5,
+  "plan_adherence_mtd": 1.0,
+  "yesterday_sales": 0.0,
+  "yesterday_leads": 0,
+  "yesterday_visited_stores": [
+    "BSC",
+    "Bricks for Africa",
+    "Express Sparta building supplies",
+    "Joomas building supplies",
+    "Kilburn hardware",
+    "Magnificent Paints",
+    "Njr Steel strydom park",
+    "Office",
+    "P23 contracting",
+    "Vnt hardware"
+  ],
+  "yesterday_visits_total": 10
+}

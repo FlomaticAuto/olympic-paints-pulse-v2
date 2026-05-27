@@ -1,0 +1,45 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-05-27",
+  "store": {
+    "customer_name": "Deanans Auto Paints",
+    "accno": "KD062",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "27521",
+    "date": "15 Dec 2025",
+    "lines": [
+      {
+        "prodname": "20LT 7-IN-1 ACRYLIC PVA WHITE",
+        "qty": 3.0,
+        "unit_price": 700.0,
+        "value": 2100.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 3.0,
+        "unit_price": 315.0,
+        "value": 945.0
+      },
+      {
+        "prodname": "20L MASTER DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 550.0,
+        "value": 1650.0
+      }
+    ],
+    "total": 4695.0,
+    "count": 3
+  },
+  "competitor_forms_outstanding": 0
+}
