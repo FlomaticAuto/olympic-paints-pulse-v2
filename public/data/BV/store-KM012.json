@@ -1,0 +1,136 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-28",
+  "store": {
+    "curef": "KM012",
+    "customer_name": "Hardware City",
+    "town": "Next to Build It",
+    "accno": "KM012",
+    "last_purchase_date": "07 May 2026",
+    "last_purchase_amt": 7800.0,
+    "last_purchase_prod": "5L Q.D. PWD BROWM",
+    "total_12m": 417939.08,
+    "velocity_category": "rocket",
+    "health_tier": "At-Risk",
+    "health_score": 45.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131211",
+    "date": "07 May 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 10.0,
+        "unit_price": 325.0,
+        "value": 3250.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 84.60000000000001,
+        "value": 507.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 48.0,
+        "unit_price": 84.60000000000001,
+        "value": 4060.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 12.0,
+        "unit_price": 84.60000000000001,
+        "value": 1015.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 36.0,
+        "unit_price": 84.6,
+        "value": 3045.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 84.60000000000001,
+        "value": 507.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 12.0,
+        "unit_price": 84.60000000000001,
+        "value": 1015.2
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 303.01,
+        "value": 1818.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 303.01,
+        "value": 1818.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 301.01,
+        "value": 1806.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 303.01,
+        "value": 1818.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 301.01,
+        "value": 1806.06
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 60.0,
+        "unit_price": 92.0,
+        "value": 5520.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 60.0,
+        "unit_price": 88.55,
+        "value": 5313.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 100.0,
+        "unit_price": 299.99,
+        "value": 29999.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 30.0,
+        "unit_price": 325.0,
+        "value": 9750.0
+      },
+      {
+        "prodname": "5L Q.D. PWD BROWM",
+        "qty": 24.0,
+        "unit_price": 325.0,
+        "value": 7800.0
+      }
+    ],
+    "total": 80850.3,
+    "count": 17
+  },
+  "competitor_forms_outstanding": 0
+}

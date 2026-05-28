@@ -1,11 +1,11 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-05-28",
   "store": {
     "curef": "KF018",
-    "customer_name": "Fairplay Hardware Mabopane",
-    "town": "Shoprite Centre",
+    "customer_name": "Fairplay Hardware Nobody",
+    "town": "Nobody",
     "accno": "KF018",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 0.0,
@@ -20,7 +20,7 @@
     "d60": 0.0,
     "d90": 0.0,
     "d_total": 102231.49,
-    "shared_account": false
+    "shared_account": true
   },
   "invoice": {
     "invoice_no": "131297",

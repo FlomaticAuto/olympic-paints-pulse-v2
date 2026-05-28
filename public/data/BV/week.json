@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-05-28",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 55,
   "days": [
@@ -24,10 +24,10 @@
           "health_score": 34.2,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 83366.31,
+          "d30": 6.31,
           "d60": 0.0,
           "d90": -90093.8,
-          "d_total": -6727.49,
+          "d_total": -90087.49,
           "shared_account": false
         },
         {
@@ -46,8 +46,8 @@
           "d_current": 0.0,
           "d30": 8916.28,
           "d60": 0.0,
-          "d90": 19237.62,
-          "d_total": 28153.9,
+          "d90": 0.02,
+          "d_total": 8916.3,
           "shared_account": false
         },
         {
@@ -103,11 +103,11 @@
           "health_tier": "At-Risk",
           "health_score": 57.1,
           "is_recovery": false,
-          "d_current": 22159.22,
+          "d_current": 11005.63,
           "d30": 10599.8,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 32759.02,
+          "d_total": 21605.43,
           "shared_account": false
         },
         {
@@ -462,26 +462,26 @@
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KB010",
           "customer_name": "Beras Hardware Wholesaler",
           "town": "Modimolle",
           "accno": "KB010",
-          "last_purchase_date": "22 Apr 2026",
-          "last_purchase_amt": 1363.0,
+          "last_purchase_date": "26 May 2026",
+          "last_purchase_amt": 372.5,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 238289.27999999997,
+          "total_12m": 238661.78,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 53.9,
           "is_recovery": false,
-          "d_current": -1591.44,
+          "d_current": -428.38,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": -1591.44,
+          "d_total": -428.38,
           "shared_account": false
         },
         {
@@ -517,11 +517,11 @@
           "health_tier": "At-Risk",
           "health_score": 31.1,
           "is_recovery": false,
-          "d_current": 24589.42,
-          "d30": 12037.22,
+          "d_current": 23959.16,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 36626.64,
+          "d_total": 23959.16,
           "shared_account": false
         },
         {
@@ -689,7 +689,7 @@
     {
       "date_iso": "2026-05-28",
       "date_label": "Thu 28 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KB066",

@@ -1,0 +1,40 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-28",
+  "store": {
+    "curef": "KM060",
+    "customer_name": "Maponya Hyper Rama",
+    "town": "SEKORORO",
+    "accno": "KM060",
+    "last_purchase_date": "27 Nov 2025",
+    "last_purchase_amt": 26086.96,
+    "last_purchase_prod": "WRITE OFF",
+    "total_12m": 26086.96,
+    "velocity_category": null,
+    "health_tier": null,
+    "health_score": null,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "27290",
+    "date": "27 Nov 2025",
+    "lines": [
+      {
+        "prodname": "WRITE OFF",
+        "qty": 1.0,
+        "unit_price": 26086.96,
+        "value": 26086.96
+      }
+    ],
+    "total": 26086.96,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

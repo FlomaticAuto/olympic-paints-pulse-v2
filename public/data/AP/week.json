@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-05-28",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 60,
   "days": [
@@ -104,10 +104,10 @@
           "health_score": 65.6,
           "is_recovery": false,
           "d_current": 35948.43,
-          "d30": 5880.21,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 41828.64,
+          "d_total": 35948.43,
           "shared_account": false
         },
         {
@@ -351,10 +351,10 @@
           "health_score": 65.6,
           "is_recovery": false,
           "d_current": 35948.43,
-          "d30": 5880.21,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 41828.64,
+          "d_total": 35948.43,
           "shared_account": false
         },
         {
@@ -502,7 +502,7 @@
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KA008",
@@ -560,8 +560,8 @@
           "d_current": 0.0,
           "d30": 234790.21,
           "d60": 0.0,
-          "d90": 35190.0,
-          "d_total": 269980.21,
+          "d90": 0.0,
+          "d_total": 234790.21,
           "shared_account": false
         },
         {
@@ -749,7 +749,7 @@
     {
       "date_iso": "2026-05-28",
       "date_label": "Thu 28 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KA082",
@@ -1072,10 +1072,10 @@
           "health_score": 65.6,
           "is_recovery": false,
           "d_current": 35948.43,
-          "d30": 5880.21,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 41828.64,
+          "d_total": 35948.43,
           "shared_account": false
         },
         {
@@ -1163,19 +1163,19 @@
           "customer_name": "Siloam Hardware",
           "town": "Edison Park",
           "accno": "KS045",
-          "last_purchase_date": "22 May 2026",
-          "last_purchase_amt": 6400.0,
-          "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 317429.26,
+          "last_purchase_date": "26 May 2026",
+          "last_purchase_amt": 1416.0,
+          "last_purchase_prod": "5L SANDING SEALER",
+          "total_12m": 318845.26,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 57.0,
           "is_recovery": false,
-          "d_current": 46903.15,
+          "d_current": 45274.75,
           "d30": 49733.78,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 96636.93,
+          "d_total": 95008.53,
           "shared_account": false
         },
         {

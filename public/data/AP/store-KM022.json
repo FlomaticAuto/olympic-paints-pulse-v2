@@ -1,0 +1,226 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-05-28",
+  "store": {
+    "curef": "KM022",
+    "customer_name": "Makhumi S Market TA Mambose H",
+    "town": "Mambose Tiyani",
+    "accno": "KM022",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 6400.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 210324.27000000002,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 47.8,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 96603.7,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 96603.7,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131090",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 12.0,
+        "unit_price": 78.56,
+        "value": 942.72
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 12.0,
+        "unit_price": 78.56,
+        "value": 942.72
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 12.0,
+        "unit_price": 77.42999999999999,
+        "value": 929.16
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 12.0,
+        "unit_price": 90.46,
+        "value": 1085.52
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 288.02,
+        "value": 1440.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 40.0,
+        "unit_price": 288.02,
+        "value": 11520.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 333.75,
+        "value": 3337.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 333.75,
+        "value": 3337.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 5.0,
+        "unit_price": 333.75,
+        "value": 1668.75
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 238.19,
+        "value": 2381.9
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREY",
+        "qty": 10.0,
+        "unit_price": 188.95999999999998,
+        "value": 1889.6
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREEN",
+        "qty": 5.0,
+        "unit_price": 256.06,
+        "value": 1280.3
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BURGANDY",
+        "qty": 10.0,
+        "unit_price": 188.95999999999998,
+        "value": 1889.6
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 10.0,
+        "unit_price": 188.95999999999998,
+        "value": 1889.6
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 151.07999999999998,
+        "value": 1510.8
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 151.07999999999998,
+        "value": 1510.8
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 15.0,
+        "unit_price": 151.07999999999998,
+        "value": 2266.2
+      },
+      {
+        "prodname": "5L RAINPROOF GREEN",
+        "qty": 10.0,
+        "unit_price": 151.07999999999998,
+        "value": 1510.8
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 102.6,
+        "value": 1026.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 10.0,
+        "unit_price": 151.07999999999998,
+        "value": 1510.8
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 12.0,
+        "unit_price": 92.39999999999999,
+        "value": 1108.8
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 12.0,
+        "unit_price": 105.60000000000001,
+        "value": 1267.2
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 12.0,
+        "unit_price": 105.60000000000001,
+        "value": 1267.2
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 12.0,
+        "unit_price": 105.60000000000001,
+        "value": 1267.2
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 5.0,
+        "unit_price": 225.76999999999998,
+        "value": 1128.85
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 20.0,
+        "unit_price": 102.14,
+        "value": 2042.8
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 320.0,
+        "value": 3200.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 40.0,
+        "unit_price": 320.0,
+        "value": 12800.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 10.0,
+        "unit_price": 320.0,
+        "value": 3200.0
+      },
+      {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 6.0,
+        "unit_price": 275.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "5L QD CHARCOAL",
+        "qty": 15.0,
+        "unit_price": 320.0,
+        "value": 4800.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 20.0,
+        "unit_price": 320.0,
+        "value": 6400.0
+      }
+    ],
+    "total": 84003.22,
+    "count": 32
+  },
+  "competitor_forms_outstanding": 0
+}

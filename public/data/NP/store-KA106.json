@@ -1,0 +1,106 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-05-28",
+  "store": {
+    "curef": "KA106",
+    "customer_name": "Afia PTY (LTD) t/a",
+    "town": "19 H Suez Street",
+    "accno": "KA106",
+    "last_purchase_date": "10 Feb 2026",
+    "last_purchase_amt": 5500.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 157628.66,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 34.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 1810.89,
+    "d_total": 1810.89,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "129939",
+    "date": "10 Feb 2026",
+    "lines": [
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 10.0,
+        "unit_price": 340.56,
+        "value": 3405.6
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 302.26,
+        "value": 906.78
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 325.0,
+        "value": 975.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 325.0,
+        "value": 1950.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 325.0,
+        "value": 3250.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 50.0,
+        "unit_price": 115.0,
+        "value": 5750.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 15.0,
+        "unit_price": 275.0,
+        "value": 4125.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 275.0,
+        "value": 8250.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 40.0,
+        "unit_price": 275.0,
+        "value": 11000.0
+      },
+      {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 30.0,
+        "unit_price": 275.0,
+        "value": 8250.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 35.0,
+        "unit_price": 275.0,
+        "value": 9625.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 20.0,
+        "unit_price": 275.0,
+        "value": 5500.0
+      }
+    ],
+    "total": 62987.380000000005,
+    "count": 12
+  },
+  "competitor_forms_outstanding": 0
+}

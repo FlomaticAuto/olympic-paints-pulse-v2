@@ -1,11 +1,11 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-05-28",
   "store": {
     "curef": "KM071",
-    "customer_name": "Inyameko Trading 1605",
-    "town": "Next to Carlton Motor Spares",
+    "customer_name": "Inyameko Trading 1605cc",
+    "town": "Main Raod",
     "accno": "KM071",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 825.0,
@@ -16,10 +16,10 @@
     "health_score": 50.1,
     "is_recovery": false,
     "d_current": 152408.19,
-    "d30": 283283.24,
+    "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 435691.43,
+    "d_total": 152408.19,
     "shared_account": false
   },
   "invoice": {

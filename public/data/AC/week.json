@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-05-28",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 4,
   "days": [
@@ -62,7 +62,7 @@
     {
       "date_iso": "2026-05-27",
       "date_label": "Wed 27 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KM027",
@@ -89,26 +89,26 @@
     {
       "date_iso": "2026-05-28",
       "date_label": "Thu 28 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KQ011",
           "customer_name": "Quick Solutions",
           "town": "Ferndale",
           "accno": "KQ011",
-          "last_purchase_date": "20 May 2026",
-          "last_purchase_amt": 14307.84,
-          "last_purchase_prod": "20L HI HIDING CONT PVA CASPER GREY",
-          "total_12m": 215421.55000000002,
+          "last_purchase_date": "26 May 2026",
+          "last_purchase_amt": 2980.8,
+          "last_purchase_prod": "20L NAT ELEGANCE PEBBLE STONE",
+          "total_12m": 218402.35,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 52.1,
           "is_recovery": false,
-          "d_current": 40235.73,
+          "d_current": 43663.65,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 40235.73,
+          "d_total": 43663.65,
           "shared_account": false
         }
       ]

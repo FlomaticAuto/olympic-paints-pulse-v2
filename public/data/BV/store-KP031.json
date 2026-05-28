@@ -1,16 +1,16 @@
 {
-  "rep": "NP",
-  "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-27",
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-28",
   "store": {
-    "curef": "KD027",
-    "customer_name": "New Discount Build",
+    "curef": "KP031",
+    "customer_name": "Power Build Hardware",
     "town": null,
-    "accno": "KD027",
-    "last_purchase_date": "07 Aug 2025",
-    "last_purchase_amt": 24521.0,
+    "accno": "KP031",
+    "last_purchase_date": "27 Nov 2025",
+    "last_purchase_amt": 23023.6,
     "last_purchase_prod": "WRITE OFF",
-    "total_12m": 24521.0,
+    "total_12m": 23023.6,
     "velocity_category": null,
     "health_tier": null,
     "health_score": null,
@@ -23,17 +23,17 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "26367",
-    "date": "07 Aug 2025",
+    "invoice_no": "27288",
+    "date": "27 Nov 2025",
     "lines": [
       {
         "prodname": "WRITE OFF",
         "qty": 1.0,
-        "unit_price": 24521.0,
-        "value": 24521.0
+        "unit_price": 23023.6,
+        "value": 23023.6
       }
     ],
-    "total": 24521.0,
+    "total": 23023.6,
     "count": 1
   },
   "competitor_forms_outstanding": 0
