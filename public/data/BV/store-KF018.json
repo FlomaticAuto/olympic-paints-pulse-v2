@@ -1,11 +1,11 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-28",
+  "generated_at": "2026-05-29",
   "store": {
     "curef": "KF018",
-    "customer_name": "Fairplay Hardware Nobody",
-    "town": "Nobody",
+    "customer_name": "Fairplay Hardware Jane Furse",
+    "town": "Old Hospital Road",
     "accno": "KF018",
     "last_purchase_date": "15 May 2026",
     "last_purchase_amt": 0.0,
@@ -16,11 +16,11 @@
     "health_score": 34.7,
     "is_recovery": false,
     "d_current": 52510.15,
-    "d30": 49721.34,
+    "d30": 31244.52,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 102231.49,
-    "shared_account": true
+    "d_total": 83754.67,
+    "shared_account": false
   },
   "invoice": {
     "invoice_no": "131297",

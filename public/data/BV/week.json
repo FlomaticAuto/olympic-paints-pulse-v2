@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-05-28",
+  "generated_at": "2026-05-29",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 55,
   "days": [
@@ -84,10 +84,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": false
         },
         {
@@ -245,7 +245,7 @@
           "last_purchase_date": "28 Apr 2026",
           "last_purchase_amt": 640.0,
           "last_purchase_prod": "5L Q D  CAT YELLOW ENAMEL",
-          "total_12m": 393155.36,
+          "total_12m": 382921.32999999996,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 60.0,
@@ -311,10 +311,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": false
         },
         {
@@ -538,10 +538,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": false
         },
         {
@@ -689,7 +689,7 @@
     {
       "date_iso": "2026-05-28",
       "date_label": "Thu 28 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KB066",
@@ -745,10 +745,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": true
         },
         {
@@ -765,10 +765,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": true
         },
         {
@@ -916,7 +916,7 @@
     {
       "date_iso": "2026-05-29",
       "date_label": "Fri 29 May",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "curef": "KB089",
@@ -972,10 +972,10 @@
           "health_score": 34.7,
           "is_recovery": false,
           "d_current": 52510.15,
-          "d30": 49721.34,
+          "d30": 31244.52,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 102231.49,
+          "d_total": 83754.67,
           "shared_account": false
         },
         {

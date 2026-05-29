@@ -1,0 +1,172 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-05-29",
+  "store": {
+    "curef": "KD004",
+    "customer_name": "Discount Hardware",
+    "town": "Near Mooketsi",
+    "accno": "KD004",
+    "last_purchase_date": "01 Apr 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 137311.85,
+    "velocity_category": "cooling",
+    "health_tier": "At-Risk",
+    "health_score": 51.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130680",
+    "date": "01 Apr 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 51.0,
+        "value": 153.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 5.0,
+        "unit_price": 51.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 73.5,
+        "value": 367.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 73.5,
+        "value": 367.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 73.5,
+        "value": 220.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 3.0,
+        "unit_price": 73.5,
+        "value": 220.5
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 4.0,
+        "unit_price": 99.0,
+        "value": 396.0
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 99.0,
+        "value": 297.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 4.0,
+        "unit_price": 99.0,
+        "value": 396.0
+      },
+      {
+        "prodname": "5L RAINPROOF TERRACOTTA",
+        "qty": 3.0,
+        "unit_price": 99.0,
+        "value": 297.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 105.6,
+        "value": 528.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 230.0,
+        "value": 230.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 240.0,
+        "value": 480.0
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 81.0,
+        "value": 405.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 131.5,
+        "value": 263.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 240.0,
+        "value": 720.0
+      },
+      {
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 1.0,
+        "unit_price": 280.95,
+        "value": 280.95
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 260.0,
+        "value": 260.0
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 2.0,
+        "unit_price": 75.0,
+        "value": 150.0
+      },
+      {
+        "prodname": "5L ECLIPSE PEACH PVA",
+        "qty": 3.0,
+        "unit_price": 85.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "5LT ECLIPSE PVA DARK GREY",
+        "qty": 3.0,
+        "unit_price": 85.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 2.0,
+        "unit_price": 299.0,
+        "value": 598.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 14.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 7394.95,
+    "count": 23
+  },
+  "competitor_forms_outstanding": 0
+}

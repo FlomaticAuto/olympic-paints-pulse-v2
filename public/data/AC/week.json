@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-28",
+  "generated_at": "2026-05-29",
   "week_label": "25 May \u2013 29 May",
   "total_stores": 4,
   "days": [
@@ -24,10 +24,10 @@
           "health_score": 51.5,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 38571.37,
+          "d30": 0.0,
           "d60": 0.0,
-          "d90": 1774.4,
-          "d_total": 40345.77,
+          "d90": 0.0,
+          "d_total": 0.0,
           "shared_account": false
         }
       ]
@@ -89,7 +89,7 @@
     {
       "date_iso": "2026-05-28",
       "date_label": "Thu 28 May",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "curef": "KQ011",
@@ -116,7 +116,7 @@
     {
       "date_iso": "2026-05-29",
       "date_label": "Fri 29 May",
-      "is_today": false,
+      "is_today": true,
       "stores": []
     }
   ],
