@@ -1,0 +1,41 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KF028",
+    "curef": "KF028",
+    "customer_name": "Fayaz and Brother 891 Pty Ltd",
+    "town": "Next to Main Road Next to",
+    "accno": "KF028",
+    "last_purchase_date": "04 May 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 180046.12,
+    "velocity_category": "stable",
+    "health_tier": "Active but Narrow",
+    "health_score": 60.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 29232.36,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 29232.36,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131137",
+    "date": "04 May 2026",
+    "lines": [
+      {
+        "prodname": "5L SCHOOL BOARD GREEN",
+        "qty": 2.0,
+        "unit_price": 480.0,
+        "value": 960.0
+      }
+    ],
+    "total": 960.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

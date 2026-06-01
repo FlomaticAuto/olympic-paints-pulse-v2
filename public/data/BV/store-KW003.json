@@ -1,0 +1,173 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KW003",
+    "curef": "KW003",
+    "customer_name": "Wolhuterskop Trading",
+    "town": "Wolhuterskop",
+    "accno": "KW003",
+    "last_purchase_date": "12 May 2026",
+    "last_purchase_amt": 736.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 144492.58000000002,
+    "velocity_category": "cooling",
+    "health_tier": "Active but Narrow",
+    "health_score": 54.2,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 19147.99,
+    "d60": 7575.63,
+    "d90": 0.0,
+    "d_total": 26723.62,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131256",
+    "date": "12 May 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 304.75,
+        "value": 914.25
+      },
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 4.0,
+        "unit_price": 304.75,
+        "value": 1219.0
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 6.0,
+        "unit_price": 320.0,
+        "value": 1920.0
+      },
+      {
+        "prodname": "20LT DECOR APRICOT PVA",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 4.0,
+        "unit_price": 320.0,
+        "value": 1280.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 87.39,
+        "value": 174.78
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 87.39,
+        "value": 174.78
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 87.39,
+        "value": 174.78
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 2.0,
+        "unit_price": 87.39,
+        "value": 174.78
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 3.0,
+        "unit_price": 87.39,
+        "value": 262.17
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 303.03,
+        "value": 606.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 303.03,
+        "value": 606.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 4.0,
+        "unit_price": 303.03,
+        "value": 1212.12
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 3.0,
+        "unit_price": 303.03000000000003,
+        "value": 909.09
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 100.45,
+        "value": 401.8
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 100.45,
+        "value": 401.8
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 258.75,
+        "value": 517.5
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 4.0,
+        "unit_price": 80.49,
+        "value": 321.96
+      },
+      {
+        "prodname": "20L LIBERTY PVA WHITE",
+        "qty": 10.0,
+        "unit_price": 212.75,
+        "value": 2127.5
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 3.0,
+        "unit_price": 92.0,
+        "value": 276.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 2.0,
+        "unit_price": 368.0,
+        "value": 736.0
+      }
+    ],
+    "total": 16650.429999999997,
+    "count": 23
+  },
+  "competitor_forms_outstanding": 0
+}

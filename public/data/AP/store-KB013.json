@@ -1,0 +1,41 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KB013",
+    "curef": "KB013",
+    "customer_name": "New Bafana Bafana H Ware",
+    "town": "Main Rd Next to Engine Garage",
+    "accno": "KB013",
+    "last_purchase_date": "14 Apr 2026",
+    "last_purchase_amt": 10500.0,
+    "last_purchase_prod": "20L HIGH GLOSS (MQ) WHITE",
+    "total_12m": 99522.38,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 59.7,
+    "is_recovery": false,
+    "d_current": 6037.5,
+    "d30": 0.0,
+    "d60": 20732.09,
+    "d90": 0.0,
+    "d_total": 26769.59,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130912",
+    "date": "14 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 1050.0,
+        "value": 10500.0
+      }
+    ],
+    "total": 10500.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

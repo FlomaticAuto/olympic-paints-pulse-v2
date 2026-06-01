@@ -1,13 +1,13 @@
 {
-  "rep": "AP",
-  "rep_name": "Amit Patel",
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
   "generated_at": "2026-06-01",
   "store": {
-    "dlref": "KE029",
-    "curef": "KE029",
-    "customer_name": "Diy Madombibzha",
-    "town": "Madombibzha",
-    "accno": "KE029",
+    "dlref": "KS107",
+    "curef": "KS107",
+    "customer_name": "Soolimans Furnitures CC",
+    "town": "Potchefstroom",
+    "accno": "KS107",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -19,8 +19,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": 18800.09,
-    "d_total": 18800.09,
+    "d90": 0.0,
+    "d_total": 0.0,
     "shared_account": false
   },
   "invoice": {

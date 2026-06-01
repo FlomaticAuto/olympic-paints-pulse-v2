@@ -3,15 +3,15 @@
   "rep_name": "Nikhil Panchal",
   "generated_at": "2026-06-01",
   "store": {
-    "dlref": "KT030",
-    "curef": "KT030",
-    "customer_name": "Tapp Business Group (Pty) Ltd",
-    "town": "Main Mall",
-    "accno": "KT030",
-    "last_purchase_date": "19 Jan 2026",
-    "last_purchase_amt": 4086.26,
-    "last_purchase_prod": "PULA",
-    "total_12m": 36519.520000000004,
+    "dlref": "KD027",
+    "curef": "KD027",
+    "customer_name": "New Discount Build",
+    "town": "",
+    "accno": "KD027",
+    "last_purchase_date": "07 Aug 2025",
+    "last_purchase_amt": 24521.0,
+    "last_purchase_prod": "WRITE OFF",
+    "total_12m": 24521.0,
     "velocity_category": null,
     "health_tier": null,
     "health_score": null,
@@ -24,17 +24,17 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "27818",
-    "date": "19 Jan 2026",
+    "invoice_no": "26367",
+    "date": "07 Aug 2025",
     "lines": [
       {
-        "prodname": "PULA",
+        "prodname": "WRITE OFF",
         "qty": 1.0,
-        "unit_price": 4086.26,
-        "value": 4086.26
+        "unit_price": 24521.0,
+        "value": 24521.0
       }
     ],
-    "total": 4086.26,
+    "total": 24521.0,
     "count": 1
   },
   "competitor_forms_outstanding": 0

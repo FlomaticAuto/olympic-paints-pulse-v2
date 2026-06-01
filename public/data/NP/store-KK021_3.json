@@ -1,13 +1,13 @@
 {
-  "rep": "AP",
-  "rep_name": "Amit Patel",
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
   "generated_at": "2026-06-01",
   "store": {
-    "dlref": "KS048",
-    "curef": "KS048",
-    "customer_name": "Elim Hardware",
-    "town": "Next to Makhari Bottle Store",
-    "accno": "KS048",
+    "dlref": "KK021/3",
+    "curef": "KK021",
+    "customer_name": "Kit Kat Group (Pty) Ltd",
+    "town": "Selby",
+    "accno": "KK021_3",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -19,8 +19,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": 3000.0,
-    "d_total": 3000.0,
+    "d90": 0.0,
+    "d_total": 0.0,
     "shared_account": false
   },
   "invoice": {

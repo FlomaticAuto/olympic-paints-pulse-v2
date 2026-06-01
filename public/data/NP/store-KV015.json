@@ -3,11 +3,11 @@
   "rep_name": "Nikhil Panchal",
   "generated_at": "2026-06-01",
   "store": {
-    "dlref": "KS068",
-    "curef": "KS068",
-    "customer_name": "Seasonfind 1366 CC t a Ndhambi",
-    "town": "Ndhambi Village",
-    "accno": "KS068",
+    "dlref": "KV015",
+    "curef": "KV015",
+    "customer_name": "Viva Hardware",
+    "town": "Next to S A Cash & Carry",
+    "accno": "KV015",
     "last_purchase_date": null,
     "last_purchase_amt": 0.0,
     "last_purchase_prod": null,
@@ -19,8 +19,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": -2000.23,
-    "d_total": -2000.23,
+    "d90": 6687.56,
+    "d_total": 6687.56,
     "shared_account": false
   },
   "invoice": {
