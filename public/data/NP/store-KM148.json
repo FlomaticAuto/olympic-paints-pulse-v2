@@ -1,10 +1,11 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "store": {
     "customer_name": "Aaliya Hardware",
     "accno": "KM148",
+    "dlref": "KM148",
     "town": "",
     "d_current": 0,
     "d30": 0,

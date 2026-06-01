@@ -1,10 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "store": {
     "customer_name": "V S General  Dealers",
     "accno": "KV010",
+    "dlref": "KV010",
     "town": "",
     "d_current": 0,
     "d30": 0,

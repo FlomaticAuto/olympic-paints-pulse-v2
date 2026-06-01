@@ -1,10 +1,11 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "store": {
     "customer_name": "Sunshine 786 Trading",
     "accno": "KB047",
+    "dlref": "KB047",
     "town": "",
     "d_current": 0,
     "d30": 0,

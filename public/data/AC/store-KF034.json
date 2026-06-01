@@ -1,10 +1,11 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "store": {
     "customer_name": "Faeez Cassim",
     "accno": "KF034",
+    "dlref": "KF034",
     "town": "",
     "d_current": 0,
     "d30": 0,

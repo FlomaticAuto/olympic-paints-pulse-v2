@@ -1,0 +1,239 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KD001",
+    "curef": "KD001",
+    "customer_name": "Dainty's Wholesale Hardware",
+    "town": "Mafeking",
+    "accno": "KD001",
+    "last_purchase_date": "26 May 2026",
+    "last_purchase_amt": 3003.2,
+    "last_purchase_prod": "Doz x 50ML STAINERS BLACK",
+    "total_12m": 4476229.0,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 74.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 154331.3,
+    "d60": 265009.77,
+    "d90": 215604.36,
+    "d_total": 634945.43,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131429",
+    "date": "26 May 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 18.0,
+        "unit_price": 367.0,
+        "value": 6606.0
+      },
+      {
+        "prodname": "20L KALAHARI CONTR CREAM PVA",
+        "qty": 12.0,
+        "unit_price": 367.0,
+        "value": 4404.0
+      },
+      {
+        "prodname": "20L KALAHARI CONTR PEACH PVA",
+        "qty": 9.0,
+        "unit_price": 399.59,
+        "value": 3596.31
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 12.0,
+        "unit_price": 336.95,
+        "value": 4043.4
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 12.0,
+        "unit_price": 336.95,
+        "value": 4043.4
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 999.0,
+        "value": 5994.0
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 999.0,
+        "value": 5994.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 18.0,
+        "unit_price": 69.77,
+        "value": 1255.86
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 12.0,
+        "unit_price": 69.77,
+        "value": 837.24
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 24.0,
+        "unit_price": 69.77,
+        "value": 1674.48
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 12.0,
+        "unit_price": 69.77,
+        "value": 837.24
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 24.0,
+        "unit_price": 69.77,
+        "value": 1674.48
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) M PEACH",
+        "qty": 9.0,
+        "unit_price": 251.14999999999998,
+        "value": 2260.35
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 12.0,
+        "unit_price": 251.15,
+        "value": 3013.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 18.0,
+        "unit_price": 251.14999999999998,
+        "value": 4520.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 18.0,
+        "unit_price": 251.14999999999998,
+        "value": 4520.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 18.0,
+        "unit_price": 251.14999999999998,
+        "value": 4520.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 18.0,
+        "unit_price": 251.14999999999998,
+        "value": 4520.7
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 6.0,
+        "unit_price": 599.0,
+        "value": 3594.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 18.0,
+        "unit_price": 75.96,
+        "value": 1367.28
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 24.0,
+        "unit_price": 258.65000000000003,
+        "value": 6207.6
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE F BLUE",
+        "qty": 12.0,
+        "unit_price": 90.91000000000001,
+        "value": 1090.92
+      },
+      {
+        "prodname": "5L PP ULTIMATE SHINE F BLUE",
+        "qty": 18.0,
+        "unit_price": 351.31,
+        "value": 6323.58
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 18.0,
+        "unit_price": 85.39,
+        "value": 1537.02
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 18.0,
+        "unit_price": 85.39,
+        "value": 1537.02
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 18.0,
+        "unit_price": 85.39,
+        "value": 1537.02
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 30.0,
+        "unit_price": 261.84,
+        "value": 7855.2
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 300.0,
+        "unit_price": 50.95,
+        "value": 15285.0
+      },
+      {
+        "prodname": "5KG YELLOW OXIDE",
+        "qty": 50.0,
+        "unit_price": 59.45,
+        "value": 2972.5
+      },
+      {
+        "prodname": "12X2KG CRACK FILLER",
+        "qty": 5.0,
+        "unit_price": 518.72,
+        "value": 2593.6
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 24.0,
+        "unit_price": 224.21,
+        "value": 5381.04
+      },
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 12.0,
+        "unit_price": 224.21,
+        "value": 2690.52
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 12.0,
+        "unit_price": 241.14,
+        "value": 2893.68
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 12.0,
+        "unit_price": 345.0,
+        "value": 4140.0
+      }
+    ],
+    "total": 131323.34,
+    "count": 34
+  },
+  "competitor_forms_outstanding": 0
+}

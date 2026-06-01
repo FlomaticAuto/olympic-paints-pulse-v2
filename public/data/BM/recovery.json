@@ -1,21 +1,23 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "accounts": [
     {
+      "dlref": "KL048",
       "accno": "KL048",
       "store_name": "Living Inspired Interiors",
       "score": 1.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 281
+      "days_since_purchase": 291
     },
     {
+      "dlref": "KO013",
       "accno": "KO013",
       "store_name": "Olive Urban",
       "score": 8.6,
       "tier": "At-Risk",
-      "days_since_purchase": 57
+      "days_since_purchase": 67
     }
   ],
   "competitor_forms_outstanding": 0

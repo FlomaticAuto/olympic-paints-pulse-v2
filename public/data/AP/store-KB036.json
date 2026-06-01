@@ -1,10 +1,11 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "store": {
     "customer_name": "BRM Investments",
     "accno": "KB036",
+    "dlref": "KB036",
     "town": "",
     "d_current": 0,
     "d30": 0,
@@ -16,66 +17,11 @@
     "last_purchase_amt": 0
   },
   "invoice": {
-    "invoice_no": "120983",
-    "date": "14 Aug 2024",
-    "lines": [
-      {
-        "prodname": "5L WATERBASE RED OXIDE PRIMER",
-        "qty": 2.0,
-        "unit_price": 222.91,
-        "value": 445.82
-      },
-      {
-        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
-        "qty": 3.0,
-        "unit_price": 48.01,
-        "value": 144.03
-      },
-      {
-        "prodname": "1L PP ULTIMATE SHINE SILVER",
-        "qty": 3.0,
-        "unit_price": 91.37,
-        "value": 274.11
-      },
-      {
-        "prodname": "500ML COPAL VARNISH",
-        "qty": 3.0,
-        "unit_price": 43.49,
-        "value": 130.47
-      },
-      {
-        "prodname": "500ML MAHOGONY VARNISH",
-        "qty": 3.0,
-        "unit_price": 52.449999999999996,
-        "value": 157.35
-      },
-      {
-        "prodname": "500ML DARK OAK VARNISH",
-        "qty": 3.0,
-        "unit_price": 52.449999999999996,
-        "value": 157.35
-      },
-      {
-        "prodname": "500ML LIGHT OAK VARNISH",
-        "qty": 3.0,
-        "unit_price": 52.449999999999996,
-        "value": 157.35
-      },
-      {
-        "prodname": "24X1KG PUTTY",
-        "qty": 1.0,
-        "unit_price": 209.33,
-        "value": 209.33
-      },
-      {
-        "prodname": "12X2KG PUTTY",
-        "qty": 2.0,
-        "unit_price": 209.33,
-        "value": 418.66
-      }
-    ],
-    "total": 2094.47,
-    "count": 9
+    "invoice_no": null,
+    "date": null,
+    "lines": [],
+    "total": 0.0,
+    "count": 0
   },
   "competitor_forms_outstanding": 0
 }

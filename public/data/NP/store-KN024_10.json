@@ -1,0 +1,70 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-01",
+  "store": {
+    "customer_name": "Navisha Investments Pty Ltd Oo",
+    "accno": "KN024_10",
+    "dlref": "KN024/10",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "129429",
+    "date": "12 Jan 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 5.0,
+        "unit_price": 297.0,
+        "value": 1485.0
+      },
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 3.0,
+        "unit_price": 315.19,
+        "value": 945.57
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 76.03,
+        "value": 456.18
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 76.03,
+        "value": 456.18
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 93.85000000000001,
+        "value": 563.1
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 260.0,
+        "value": 260.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 260.0,
+        "value": 520.0
+      }
+    ],
+    "total": 4686.03,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 0
+}

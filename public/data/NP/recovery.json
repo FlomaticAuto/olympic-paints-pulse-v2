@@ -1,217 +1,279 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-05-29",
+  "generated_at": "2026-06-01",
   "accounts": [
     {
+      "dlref": "KM068",
       "accno": "KM068",
       "store_name": "Warden Mica",
       "score": 1.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 518
+      "days_since_purchase": 528
     },
     {
+      "dlref": "KH017",
       "accno": "KH017",
       "store_name": "Capstan Trading 896 CC",
       "score": 1.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 750
+      "days_since_purchase": 760
     },
     {
-      "accno": "KB047",
-      "store_name": "Sunshine 786 Trading",
-      "score": 2.2,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 471
-    },
-    {
+      "dlref": "KM008",
       "accno": "KM008",
       "store_name": "Maxi Save Hardware Corporation",
       "score": 2.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 394
+      "days_since_purchase": 404
     },
     {
+      "dlref": "KB047",
+      "accno": "KB047",
+      "store_name": "Sunshine 786 Trading",
+      "score": 2.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 481
+    },
+    {
+      "dlref": "KS111",
       "accno": "KS111",
       "store_name": "Speedy Hardware",
       "score": 3.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 664
+      "days_since_purchase": 674
     },
     {
+      "dlref": "KQ012",
       "accno": "KQ012",
       "store_name": "Sembro Hardware T A Concrete &",
       "score": 4.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 716
+      "days_since_purchase": 726
     },
     {
+      "dlref": "KL037",
+      "accno": "KL037",
+      "store_name": "Lavender Moon Trading ta",
+      "score": 4.5,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 185
+    },
+    {
+      "dlref": "KA078",
       "accno": "KA078",
       "store_name": "Asif Cash & Carry & Hardware",
       "score": 5.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 261
+      "days_since_purchase": 271
     },
     {
-      "accno": "KY004",
-      "store_name": "Builders Mart",
-      "score": 5.5,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 399
-    },
-    {
+      "dlref": "KQ005",
       "accno": "KQ005",
       "store_name": "Qwa Qwa HW - TA Mica HWare",
       "score": 5.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 408
+      "days_since_purchase": 418
     },
     {
+      "dlref": "KS128",
       "accno": "KS128",
       "store_name": "Steel City Hardware",
       "score": 6.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 350
+      "days_since_purchase": 360
     },
     {
+      "dlref": "KF016",
       "accno": "KF016",
       "store_name": "Friends",
       "score": 6.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 519
+      "days_since_purchase": 529
     },
     {
-      "accno": "KN004",
-      "store_name": "Neha HW & Bldg. Mat.",
-      "score": 7.6,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 399
-    },
-    {
-      "accno": "KM056",
-      "store_name": "Madina PropertY Trust",
-      "score": 7.6,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 675
-    },
-    {
-      "accno": "KA040",
-      "store_name": "A & S Enterprises (Pty) Ltd",
-      "score": 7.6,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 637
-    },
-    {
+      "dlref": "KM143",
       "accno": "KM143",
       "store_name": "Wellmark Investments",
       "score": 7.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 472
+      "days_since_purchase": 482
     },
     {
+      "dlref": "KA040",
+      "accno": "KA040",
+      "store_name": "A & S Enterprises (Pty) Ltd",
+      "score": 7.6,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 647
+    },
+    {
+      "dlref": "KM056",
+      "accno": "KM056",
+      "store_name": "Madina PropertY Trust",
+      "score": 7.6,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 685
+    },
+    {
+      "dlref": "KN004",
+      "accno": "KN004",
+      "store_name": "Neha HW & Bldg. Mat.",
+      "score": 7.6,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 409
+    },
+    {
+      "dlref": "KH032",
       "accno": "KH032",
       "store_name": "Hardware Hub",
       "score": 9.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 534
+      "days_since_purchase": 544
     },
     {
+      "dlref": "KM011",
       "accno": "KM011",
       "store_name": "Quick Save Hardware",
       "score": 9.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 540
+      "days_since_purchase": 550
     },
     {
+      "dlref": "KM148",
       "accno": "KM148",
       "store_name": "Aaliya Hardware",
       "score": 10.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 379
+      "days_since_purchase": 389
     },
     {
-      "accno": "KL037",
-      "store_name": "Lavender Moon Trading ta",
-      "score": 13.1,
+      "dlref": "KB093",
+      "accno": "KB093",
+      "store_name": "Baskid Nondabuya General Trd",
+      "score": 11.7,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 175
+      "days_since_purchase": 402
     },
     {
-      "accno": "KZ008",
+      "dlref": "KZ008/1",
+      "accno": "KZ008_1",
       "store_name": "Zonelite Enterprises Pty Ltd",
       "score": 15.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 275
+      "days_since_purchase": 285
     },
     {
+      "dlref": "KF022",
       "accno": "KF022",
       "store_name": "F A P Holdings Pty Ltd ta KGN",
-      "score": 18.5,
-      "tier": "At-Risk",
-      "days_since_purchase": 87
+      "score": 16.0,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 97
     },
     {
+      "dlref": "KA045",
       "accno": "KA045",
       "store_name": "Africa Hardware",
       "score": 18.7,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 258
+      "days_since_purchase": 268
     },
     {
+      "dlref": "KS003",
       "accno": "KS003",
       "store_name": "S.M. Hardware",
       "score": 19.0,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 201
+      "days_since_purchase": 211
     },
     {
+      "dlref": "KA110",
       "accno": "KA110",
       "store_name": "Ace Steel And Roofing",
       "score": 21.3,
       "tier": "At-Risk",
-      "days_since_purchase": 22
+      "days_since_purchase": 32
     },
     {
+      "dlref": "KK036",
       "accno": "KK036",
       "store_name": "Khotawala Hardware",
       "score": 22.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 108
+      "days_since_purchase": 118
     },
     {
+      "dlref": "KN024/3",
+      "accno": "KN024_3",
+      "store_name": "Navisha Investments Pty Ltd",
+      "score": 23.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 195
+    },
+    {
+      "dlref": "KN024/7",
+      "accno": "KN024_7",
+      "store_name": "Navisha Investments Pty Ltd",
+      "score": 27.0,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 195
+    },
+    {
+      "dlref": "KM031",
       "accno": "KM031",
       "store_name": "Mica Hardware - Purple Rain",
       "score": 27.0,
       "tier": "Active but Narrow",
-      "days_since_purchase": 14
+      "days_since_purchase": 24
     },
     {
+      "dlref": "KS121",
+      "accno": "KS121",
+      "store_name": "Smart Builders",
+      "score": 27.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 192
+    },
+    {
+      "dlref": "KY004",
+      "accno": "KY004",
+      "store_name": "Builders Mart",
+      "score": 27.5,
+      "tier": "At-Risk",
+      "days_since_purchase": 10
+    },
+    {
+      "dlref": "KN024/10",
+      "accno": "KN024_10",
+      "store_name": "Navisha Investments Pty Ltd Oo",
+      "score": 28.1,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 139
+    },
+    {
+      "dlref": "KJ039",
       "accno": "KJ039",
       "store_name": "Jabula HW",
       "score": 28.4,
       "tier": "At-Risk",
-      "days_since_purchase": 76
+      "days_since_purchase": 86
     },
     {
-      "accno": "KC008",
-      "store_name": "C G Industrial Equipment P L",
-      "score": 31.1,
+      "dlref": "KM033",
+      "accno": "KM033",
+      "store_name": "Moin's Enterprises (Pty) Ltd",
+      "score": 30.3,
       "tier": "At-Risk",
-      "days_since_purchase": 34
+      "days_since_purchase": 10
     },
     {
-      "accno": "KR003",
-      "store_name": "Ammo Distributors (PTY) LTD",
-      "score": 31.3,
+      "dlref": "KF032",
+      "accno": "KF032",
+      "store_name": "Alex Hardware",
+      "score": 31.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 107
-    },
-    {
-      "accno": "KL006",
-      "store_name": "LCS Wholesalers (Kanye) P L",
-      "score": 31.8,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 161
+      "days_since_purchase": 250
     }
   ],
   "competitor_forms_outstanding": 0

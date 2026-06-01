@@ -1,0 +1,178 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-01",
+  "store": {
+    "customer_name": "Baskid Nondabuya General Trd",
+    "accno": "KB093",
+    "dlref": "KB093",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "124783",
+    "date": "24 Apr 2025",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 20.0,
+        "unit_price": 240.0,
+        "value": 4800.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 6.0,
+        "unit_price": 258.0,
+        "value": 1548.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 6.0,
+        "unit_price": 258.0,
+        "value": 1548.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 6.0,
+        "unit_price": 258.0,
+        "value": 1548.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 6.0,
+        "unit_price": 258.0,
+        "value": 1548.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 45.0,
+        "value": 270.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 45.0,
+        "value": 270.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 6.0,
+        "unit_price": 72.36,
+        "value": 434.16
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 72.36,
+        "value": 434.16
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 72.36,
+        "value": 434.16
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 145.79999999999998,
+        "value": 874.8
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREEN",
+        "qty": 6.0,
+        "unit_price": 162.0,
+        "value": 972.0
+      },
+      {
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 6.0,
+        "unit_price": 400.0,
+        "value": 2400.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 5.0,
+        "unit_price": 77.09,
+        "value": 385.45
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 12.0,
+        "unit_price": 91.8,
+        "value": 1101.6
+      },
+      {
+        "prodname": "5L RAINPROOF GREEN",
+        "qty": 12.0,
+        "unit_price": 91.8,
+        "value": 1101.6
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 12.0,
+        "unit_price": 91.8,
+        "value": 1101.6
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 12.0,
+        "unit_price": 91.8,
+        "value": 1101.6
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 51.0,
+        "value": 306.0
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 51.0,
+        "value": 153.0
+      },
+      {
+        "prodname": "5KG RED OXIDE",
+        "qty": 6.0,
+        "unit_price": 63.0,
+        "value": 378.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 259.2,
+        "value": 518.4
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 90.04,
+        "value": 540.24
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 88.95,
+        "value": 533.7
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 48.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 24302.47,
+    "count": 25
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,166 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-01",
+  "store": {
+    "customer_name": "Paint Mart (Vereeniging)",
+    "accno": "KP053_3",
+    "dlref": "KP053/3",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "26454",
+    "date": "14 Aug 2025",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 4.0,
+        "unit_price": 270.0,
+        "value": 1080.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "20L DECOR FOSSIL GREEN PVA",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "20LT DECOR CRISP MINT PVA",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "20LT DECOR APRICOT PVA",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 4.0,
+        "unit_price": 270.0,
+        "value": 1080.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 4.0,
+        "unit_price": 270.0,
+        "value": 1080.0
+      },
+      {
+        "prodname": "20L MASTER DECOR KALAHARI PVA",
+        "qty": 3.0,
+        "unit_price": 380.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L MASTER DECOR MISTY STORM",
+        "qty": 2.0,
+        "unit_price": 380.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "20L MASTER DECOR AUTUMN WHEAT",
+        "qty": 1.0,
+        "unit_price": 380.0,
+        "value": 380.0
+      },
+      {
+        "prodname": "20L MASTER DECOR  BRICK-RED",
+        "qty": 5.0,
+        "unit_price": 380.0,
+        "value": 1900.0
+      },
+      {
+        "prodname": "20L MASTER DECOR SUNSET GLOW",
+        "qty": 3.0,
+        "unit_price": 380.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L MASTER DECOR UMLANGA TAN",
+        "qty": 3.0,
+        "unit_price": 380.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L MASTER DECOR TENNESSEE PVA",
+        "qty": 3.0,
+        "unit_price": 380.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L MASTER DECOR SHILOH PVA",
+        "qty": 2.0,
+        "unit_price": 380.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "20L MASTER DECOR NIGHT SKY",
+        "qty": 3.0,
+        "unit_price": 380.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 3.0,
+        "unit_price": 510.0,
+        "value": 1530.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BROWN",
+        "qty": 4.0,
+        "unit_price": 510.0,
+        "value": 2040.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREEN",
+        "qty": 2.0,
+        "unit_price": 540.0,
+        "value": 1080.0
+      },
+      {
+        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "qty": 4.0,
+        "unit_price": 398.5,
+        "value": 1594.0
+      },
+      {
+        "prodname": "5L HI HIDING CONT PVA WHITE",
+        "qty": 3.0,
+        "unit_price": 120.0,
+        "value": 360.0
+      }
+    ],
+    "total": 24474.0,
+    "count": 23
+  },
+  "competitor_forms_outstanding": 0
+}
