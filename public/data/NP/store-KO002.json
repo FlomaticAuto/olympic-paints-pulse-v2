@@ -1,0 +1,83 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-02",
+  "store": {
+    "dlref": "KO002",
+    "curef": "KO002",
+    "customer_name": "Omega Hardware And Supermarket",
+    "town": "Opposite Budget H/Ware",
+    "accno": "KO002",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 69.6,
+    "last_purchase_prod": "1L MAHOGONY VARNISH",
+    "total_12m": 334340.01,
+    "velocity_category": "rocket",
+    "health_tier": "At-Risk",
+    "health_score": 59.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": -940.17,
+    "d60": 6412.17,
+    "d90": 0.0,
+    "d_total": 5472.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "28591",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 12.0,
+        "unit_price": 10.69,
+        "value": 128.28
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 7.5,
+        "value": 15.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 7.5,
+        "value": 22.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 12.0,
+        "unit_price": 7.5,
+        "value": 90.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 7.5,
+        "value": 15.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 7.5,
+        "value": 45.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 12.0,
+        "unit_price": 5.8,
+        "value": 69.6
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 12.0,
+        "unit_price": 5.8,
+        "value": 69.6
+      }
+    ],
+    "total": 454.98,
+    "count": 8
+  },
+  "competitor_forms_outstanding": 0
+}

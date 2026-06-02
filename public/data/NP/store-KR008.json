@@ -1,0 +1,77 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-02",
+  "store": {
+    "dlref": "KR008",
+    "curef": "KR008",
+    "customer_name": "Shingwedzi B.M.CC",
+    "town": "(Opp. Taxi Rank) Hospital Str.",
+    "accno": "KR008",
+    "last_purchase_date": "06 May 2026",
+    "last_purchase_amt": 305.75,
+    "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
+    "total_12m": 126247.98999999999,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 50.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 16143.15,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 16143.15,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131185",
+    "date": "06 May 2026",
+    "lines": [
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 267.03000000000003,
+        "value": 801.09
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 6.0,
+        "unit_price": 251.07000000000002,
+        "value": 1506.42
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 168.98,
+        "value": 1689.8
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 90.05,
+        "value": 1801.0
+      },
+      {
+        "prodname": "40KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 309.86,
+        "value": 929.58
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 30.0,
+        "unit_price": 54.29,
+        "value": 1628.7
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 1.0,
+        "unit_price": 305.75,
+        "value": 305.75
+      }
+    ],
+    "total": 8662.34,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 0
+}

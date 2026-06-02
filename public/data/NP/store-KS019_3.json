@@ -1,0 +1,191 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-02",
+  "store": {
+    "dlref": "KS019/3",
+    "curef": "KS019",
+    "customer_name": "S.I.Hardware",
+    "town": "GIYANI",
+    "accno": "KS019_3",
+    "last_purchase_date": "04 May 2026",
+    "last_purchase_amt": 2139.0,
+    "last_purchase_prod": "5L Q D SIGNAL RED ENAMEL",
+    "total_12m": 659752.88,
+    "velocity_category": null,
+    "health_tier": "Active & Growing",
+    "health_score": 68.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131117",
+    "date": "04 May 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI CONT SILVER MIST",
+        "qty": 10.0,
+        "unit_price": 380.65,
+        "value": 3806.5
+      },
+      {
+        "prodname": "20LT KALAHARI CONT DARK GREY",
+        "qty": 10.0,
+        "unit_price": 380.65,
+        "value": 3806.5
+      },
+      {
+        "prodname": "20LT KALAHARI CONT FOSSIL GREEN",
+        "qty": 6.0,
+        "unit_price": 380.65000000000003,
+        "value": 2283.9
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 273.37,
+        "value": 2733.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 3.0,
+        "unit_price": 273.37,
+        "value": 820.11
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 6.0,
+        "unit_price": 273.37,
+        "value": 1640.22
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 273.37,
+        "value": 820.11
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 20.0,
+        "unit_price": 103.5,
+        "value": 2070.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREEN",
+        "qty": 10.0,
+        "unit_price": 103.5,
+        "value": 1035.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 20.0,
+        "unit_price": 103.5,
+        "value": 2070.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 20.0,
+        "unit_price": 103.5,
+        "value": 2070.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 10.0,
+        "unit_price": 110.83,
+        "value": 1108.3
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 58.0,
+        "value": 348.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 58.0,
+        "value": 348.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 10.0,
+        "unit_price": 144.99,
+        "value": 1449.9
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 5.0,
+        "unit_price": 169.65,
+        "value": 848.25
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 5.0,
+        "unit_price": 264.5,
+        "value": 1322.5
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 8.0,
+        "unit_price": 75.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 20.0,
+        "unit_price": 75.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 275.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L QD CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L Q D SIGNAL RED ENAMEL",
+        "qty": 6.0,
+        "unit_price": 356.5,
+        "value": 2139.0
+      }
+    ],
+    "total": 41679.99,
+    "count": 26
+  },
+  "competitor_forms_outstanding": 0
+}

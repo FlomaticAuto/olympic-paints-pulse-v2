@@ -1,0 +1,95 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-02",
+  "store": {
+    "dlref": "KB013/2",
+    "curef": "KB013",
+    "customer_name": "New Bafana Bafana H Ware",
+    "town": "In Town",
+    "accno": "KB013_2",
+    "last_purchase_date": "18 Mar 2026",
+    "last_purchase_amt": 1398.6,
+    "last_purchase_prod": "1L Q D BRONZE ENAMEL",
+    "total_12m": 38854.649999999994,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 38.8,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130512",
+    "date": "18 Mar 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 82.0,
+        "value": 820.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 105.6,
+        "value": 1056.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 105.6,
+        "value": 1056.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 309.94,
+        "value": 1549.7
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 15.0,
+        "unit_price": 93.24,
+        "value": 1398.6
+      }
+    ],
+    "total": 12090.300000000001,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 0
+}

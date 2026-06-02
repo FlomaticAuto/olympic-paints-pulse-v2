@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-01",
+  "generated_at": "2026-06-02",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 45,
   "days": [
     {
       "date_iso": "2026-06-01",
       "date_label": "Mon 01 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA030",
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-06-02",
       "date_label": "Tue 02 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA050",
@@ -285,9 +285,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 143140.95,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 143140.95,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -338,19 +338,19 @@
           "customer_name": "Mega Doors and Paint  Hardware",
           "town": "Jhb",
           "accno": "KM001",
-          "last_purchase_date": "26 May 2026",
-          "last_purchase_amt": 267.0,
-          "last_purchase_prod": "5L DECOR PVA WHITE",
-          "total_12m": 92030.73999999999,
+          "last_purchase_date": "01 Jun 2026",
+          "last_purchase_amt": 781.94,
+          "last_purchase_prod": "5L TEAK VARNISH",
+          "total_12m": 95059.48000000001,
           "velocity_category": "rocket",
           "health_tier": "Active & Growing",
           "health_score": 75.5,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 3483.05,
           "d30": 7124.73,
-          "d60": 8370.77,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 15495.5,
+          "d_total": 10607.78,
           "shared_account": false
         },
         {
@@ -597,10 +597,10 @@
           "customer_name": "IMFA HARDWARE",
           "town": "AUREUS",
           "accno": "KM027_2",
-          "last_purchase_date": null,
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": null,
-          "total_12m": 0.0,
+          "last_purchase_date": "01 Jun 2026",
+          "last_purchase_amt": 778.77,
+          "last_purchase_prod": "5L HIGH GLOSS (M/Q) S/RED",
+          "total_12m": 23653.889999999996,
           "velocity_category": null,
           "health_tier": null,
           "health_score": null,
@@ -822,11 +822,11 @@
           "health_tier": "Active & Growing",
           "health_score": 83.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 27201.97,
           "d30": 240331.24,
           "d60": 782225.3,
           "d90": 0.0,
-          "d_total": 1022556.54,
+          "d_total": 1049758.51,
           "shared_account": false
         },
         {

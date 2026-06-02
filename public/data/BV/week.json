@@ -1,14 +1,14 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-01",
+  "generated_at": "2026-06-02",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 25,
   "days": [
     {
       "date_iso": "2026-06-01",
       "date_label": "Mon 01 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA002",
@@ -131,9 +131,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 133971.55,
-          "d60": 18563.25,
+          "d60": 9563.25,
           "d90": 0.0,
-          "d_total": 152534.8,
+          "d_total": 143534.8,
           "shared_account": false
         },
         {
@@ -162,7 +162,7 @@
     {
       "date_iso": "2026-06-02",
       "date_label": "Tue 02 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA014",
@@ -335,8 +335,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 3053.25,
-          "d_total": 3053.25,
+          "d90": 76.33,
+          "d_total": 76.33,
           "shared_account": false
         },
         {
@@ -345,19 +345,19 @@
           "customer_name": "Dainty's Wholesale Hardware",
           "town": "Mafeking",
           "accno": "KD001",
-          "last_purchase_date": "26 May 2026",
-          "last_purchase_amt": 3003.2,
-          "last_purchase_prod": "Doz x 50ML STAINERS BLACK",
-          "total_12m": 4476229.0,
+          "last_purchase_date": "01 Jun 2026",
+          "last_purchase_amt": 59.45,
+          "last_purchase_prod": "5KG YELLOW OXIDE",
+          "total_12m": 4476441.3,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 74.5,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": -244.15,
           "d30": 154331.3,
           "d60": 265009.77,
           "d90": 215604.36,
-          "d_total": 634945.43,
+          "d_total": 634701.28,
           "shared_account": false
         },
         {

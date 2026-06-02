@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-01",
+  "generated_at": "2026-06-02",
   "store": {
     "customer_name": "Candyland General Trading",
     "accno": "KU005",
@@ -17,18 +17,186 @@
     "last_purchase_amt": 0
   },
   "invoice": {
-    "invoice_no": "27968",
-    "date": "05 Feb 2026",
+    "invoice_no": "131495",
+    "date": "01 Jun 2026",
     "lines": [
       {
-        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 4.0,
+        "unit_price": 1000.0,
+        "value": 4000.0
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 1000.0,
+        "value": 2000.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) PEACH",
+        "qty": 2.0,
+        "unit_price": 59.0,
+        "value": 118.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 59.0,
+        "value": 590.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 59.0,
+        "value": 118.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) GREY",
+        "qty": 4.0,
+        "unit_price": 59.0,
+        "value": 236.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 59.0,
+        "value": 118.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 59.0,
+        "value": 177.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 4.0,
+        "unit_price": 59.0,
+        "value": 236.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 90.08,
+        "value": 900.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 15.0,
+        "unit_price": 90.08,
+        "value": 1351.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 90.08,
+        "value": 270.24
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 90.08,
+        "value": 450.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 6.0,
+        "unit_price": 90.08,
+        "value": 540.48
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 5.0,
+        "unit_price": 90.08,
+        "value": 450.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 4.0,
+        "unit_price": 90.08,
+        "value": 360.32
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 4.0,
+        "unit_price": 90.08,
+        "value": 360.32
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 4.0,
+        "unit_price": 90.08,
+        "value": 360.32
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 4.0,
+        "unit_price": 303.21,
+        "value": 1212.84
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 303.21,
+        "value": 1819.26
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 303.21,
+        "value": 1516.05
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 303.21,
+        "value": 606.42
+      },
+      {
+        "prodname": "20L UNIV ROOF  OCEAN BLUE",
         "qty": 1.0,
-        "unit_price": 226.05,
-        "value": 226.05
+        "unit_price": 695.52,
+        "value": 695.52
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 2.0,
+        "unit_price": 645.84,
+        "value": 1291.68
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF TERRACOTTA",
+        "qty": 4.0,
+        "unit_price": 645.84,
+        "value": 2583.36
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 4.0,
+        "unit_price": 95.0,
+        "value": 380.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 95.0,
+        "value": 380.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 2.0,
+        "unit_price": 368.0,
+        "value": 736.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 2.0,
+        "unit_price": 368.0,
+        "value": 736.0
       }
     ],
-    "total": 226.05,
-    "count": 1
+    "total": 24594.61,
+    "count": 29
   },
   "competitor_forms_outstanding": 0
 }

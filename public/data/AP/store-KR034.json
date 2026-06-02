@@ -1,0 +1,41 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-02",
+  "store": {
+    "dlref": "KR034",
+    "curef": "KR034",
+    "customer_name": "Jeelani Investment TA Matanda",
+    "town": "About 3km From Makhado",
+    "accno": "KR034",
+    "last_purchase_date": "20 Apr 2026",
+    "last_purchase_amt": 1750.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 205447.16999999998,
+    "velocity_category": "rocket",
+    "health_tier": "Active but Narrow",
+    "health_score": 59.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 20611.71,
+    "d90": 47151.16,
+    "d_total": 67762.87,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "28462",
+    "date": "20 Apr 2026",
+    "lines": [
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 50.0,
+        "unit_price": 35.0,
+        "value": 1750.0
+      }
+    ],
+    "total": 1750.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}
