@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-02",
+  "generated_at": "2026-06-03",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 45,
   "days": [
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-06-02",
       "date_label": "Tue 02 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA050",
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-06-03",
       "date_label": "Wed 03 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA057",
@@ -692,8 +692,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 9671.66,
-          "d_total": 9671.66,
+          "d90": 4671.66,
+          "d_total": 4671.66,
           "shared_account": false
         },
         {
@@ -817,7 +817,7 @@
           "last_purchase_date": "11 May 2026",
           "last_purchase_amt": 581.84,
           "last_purchase_prod": "Doz x 100ML STAINERS ORANGE",
-          "total_12m": 2269500.2199999997,
+          "total_12m": 2220291.84,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 83.0,

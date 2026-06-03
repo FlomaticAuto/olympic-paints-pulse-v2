@@ -1,0 +1,47 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-03",
+  "store": {
+    "dlref": "KA096",
+    "curef": "KA096",
+    "customer_name": "Alston Trading t/a Vhembe H/W",
+    "town": "Eskom Building",
+    "accno": "KA096",
+    "last_purchase_date": "02 Jun 2026",
+    "last_purchase_amt": 1800.0,
+    "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
+    "total_12m": 173935.57,
+    "velocity_category": "stable",
+    "health_tier": "Active but Narrow",
+    "health_score": 58.3,
+    "is_recovery": false,
+    "d_current": 4383.5,
+    "d30": 0.0,
+    "d60": -0.34,
+    "d90": 0.0,
+    "d_total": 4383.16,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131511",
+    "date": "02 Jun 2026",
+    "lines": [
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 335.29,
+        "value": 2011.74
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 6.0,
+        "unit_price": 300.0,
+        "value": 1800.0
+      }
+    ],
+    "total": 3811.74,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 0
+}

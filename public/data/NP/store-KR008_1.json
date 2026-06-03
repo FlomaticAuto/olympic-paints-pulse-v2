@@ -1,0 +1,71 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-03",
+  "store": {
+    "dlref": "KR008/1",
+    "curef": "KR008",
+    "customer_name": "BUDGET HARDWARE",
+    "town": "Saslamani Shikundu",
+    "accno": "KR008_1",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 542.9,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 136450.32,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 42.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131085",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR FOSSIL GREEN PVA",
+        "qty": 6.0,
+        "unit_price": 300.0,
+        "value": 1800.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 6.0,
+        "unit_price": 300.0,
+        "value": 1800.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 251.07,
+        "value": 502.14
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 6.0,
+        "unit_price": 168.98,
+        "value": 1013.88
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 6.0,
+        "unit_price": 90.05,
+        "value": 540.3
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 54.29,
+        "value": 542.9
+      }
+    ],
+    "total": 6199.22,
+    "count": 6
+  },
+  "competitor_forms_outstanding": 0
+}
