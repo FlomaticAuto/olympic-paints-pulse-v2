@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-04",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 45,
   "days": [
@@ -68,9 +68,9 @@
           "is_recovery": true,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 2213.66,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 2213.66,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -473,10 +473,10 @@
           "health_score": 56.7,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 20413.65,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 20413.65,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-06-03",
       "date_label": "Wed 03 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA057",
@@ -516,7 +516,7 @@
           "last_purchase_date": "13 Mar 2026",
           "last_purchase_amt": 255.66,
           "last_purchase_prod": "5L Q.D.GREY PRIMER",
-          "total_12m": 37601.16,
+          "total_12m": 37096.17000000001,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 20.0,
@@ -743,7 +743,7 @@
     {
       "date_iso": "2026-06-04",
       "date_label": "Thu 04 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA060",

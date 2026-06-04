@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-04",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 60,
   "days": [
@@ -292,7 +292,7 @@
           "last_purchase_date": "29 May 2026",
           "last_purchase_amt": 29.5,
           "last_purchase_prod": "500ML MAHOGONY VARNISH",
-          "total_12m": 186685.47999999998,
+          "total_12m": 185949.85,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 51.4,
@@ -473,10 +473,10 @@
           "health_score": 46.4,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 39350.63,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 39350.63,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -652,7 +652,7 @@
     {
       "date_iso": "2026-06-03",
       "date_label": "Wed 03 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008/2",
@@ -974,7 +974,7 @@
     {
       "date_iso": "2026-06-04",
       "date_label": "Thu 04 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA082",
