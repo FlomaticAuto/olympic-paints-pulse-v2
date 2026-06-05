@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-04",
+  "generated_at": "2026-06-05",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 60,
   "days": [
@@ -467,7 +467,7 @@
           "last_purchase_date": "28 May 2026",
           "last_purchase_amt": 1020.0,
           "last_purchase_prod": "5L QD CHARCOAL",
-          "total_12m": 335510.23,
+          "total_12m": 335410.23,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 46.4,
@@ -488,7 +488,7 @@
           "last_purchase_date": "22 May 2026",
           "last_purchase_amt": 960.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 97353.98999999999,
+          "total_12m": 76968.29999999999,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 39.9,
@@ -974,7 +974,7 @@
     {
       "date_iso": "2026-06-04",
       "date_label": "Thu 04 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA082",
@@ -1006,7 +1006,7 @@
           "last_purchase_date": "08 May 2026",
           "last_purchase_amt": 1000.0,
           "last_purchase_prod": "5L WATERBASE RED OXIDE PRIMER",
-          "total_12m": 235273.12999999998,
+          "total_12m": 235214.24,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 55.9,

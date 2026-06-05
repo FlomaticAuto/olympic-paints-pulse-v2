@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-04",
+  "generated_at": "2026-06-05",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 25,
   "days": [
@@ -145,7 +145,7 @@
           "last_purchase_date": "12 May 2026",
           "last_purchase_amt": 736.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 138652.58000000002,
+          "total_12m": 138372.58,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 54.2,
@@ -428,7 +428,7 @@
     {
       "date_iso": "2026-06-04",
       "date_label": "Thu 04 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA031",
@@ -460,7 +460,7 @@
           "last_purchase_date": "25 May 2026",
           "last_purchase_amt": 85491.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 13273083.1,
+          "total_12m": 13272535.309999999,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 38.6,
