@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-01",
+  "generated_at": "2026-06-05",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 77,
   "days": [
     {
       "date_iso": "2026-06-01",
       "date_label": "Mon 01 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA090/1",

@@ -1,14 +1,16 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "date_label": "Mon 01 Jun 2026",
-  "cycle_label": "NP4 \u00b7 Day 1/4",
-  "mtd_sales": 321157.06,
+  "date_label": "Fri 05 Jun 2026",
+  "cycle_label": "NP \u00b7 Fri 05 Jun",
+  "mtd_sales": 709489.0800000001,
   "mtd_target": 5167894.6280000005,
   "rank": 2,
   "plan_adherence_mtd": 1.0,
   "yesterday_sales": 0.0,
   "yesterday_leads": 0,
-  "yesterday_visited_stores": [],
-  "yesterday_visits_total": 0
+  "yesterday_visited_stores": [
+    "Sales visit (\u00d72)"
+  ],
+  "yesterday_visits_total": 2
 }

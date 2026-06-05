@@ -1,0 +1,59 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KA101",
+    "curef": "KA101",
+    "customer_name": "AD Fancy Goods TA",
+    "town": "4075 Newton Street",
+    "accno": "KA101",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 1495.0,
+    "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
+    "total_12m": 95784.95000000001,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 38.7,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": -0.01,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": -0.01,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131075",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 276.0,
+        "value": 1380.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 270.25,
+        "value": 1351.25
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 60.95,
+        "value": 1219.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      }
+    ],
+    "total": 5445.25,
+    "count": 4
+  },
+  "competitor_forms_outstanding": 0
+}

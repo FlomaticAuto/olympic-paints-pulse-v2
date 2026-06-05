@@ -1,0 +1,89 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KD002",
+    "curef": "KD002",
+    "customer_name": "Dhaval Patel Ent",
+    "town": "Opp Baktgatla Head Office",
+    "accno": "KD002",
+    "last_purchase_date": "10 Dec 2025",
+    "last_purchase_amt": 2365.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 188812.58,
+    "velocity_category": "falling",
+    "health_tier": "Dead / Dormant",
+    "health_score": 42.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "128960",
+    "date": "10 Dec 2025",
+    "lines": [
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 5.0,
+        "unit_price": 240.0,
+        "value": 1200.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 12.0,
+        "unit_price": 80.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 12.0,
+        "unit_price": 80.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 12.0,
+        "unit_price": 80.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 12.0,
+        "unit_price": 77.76,
+        "value": 933.12
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 240.0,
+        "value": 4800.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 236.5,
+        "value": 4730.0
+      },
+      {
+        "prodname": "5L Q.D. G BROWN",
+        "qty": 15.0,
+        "unit_price": 236.5,
+        "value": 3547.5
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 236.5,
+        "value": 2365.0
+      }
+    ],
+    "total": 20455.62,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 0
+}

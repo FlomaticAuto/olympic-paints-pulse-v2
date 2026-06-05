@@ -1,0 +1,143 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KM027/2",
+    "curef": "KM027",
+    "customer_name": "IMFA HARDWARE",
+    "town": "AUREUS",
+    "accno": "KM027_2",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 778.77,
+    "last_purchase_prod": "5L HIGH GLOSS (M/Q) S/RED",
+    "total_12m": 23653.889999999996,
+    "velocity_category": null,
+    "health_tier": null,
+    "health_score": null,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131482",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 77.42,
+        "value": 387.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 77.42,
+        "value": 232.26
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 3.0,
+        "unit_price": 77.42,
+        "value": 232.26
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 259.59,
+        "value": 1557.54
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 259.59,
+        "value": 519.18
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 259.59,
+        "value": 519.18
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 4.0,
+        "unit_price": 259.59,
+        "value": 1038.36
+      }
+    ],
+    "total": 12651.54,
+    "count": 18
+  },
+  "competitor_forms_outstanding": 0
+}

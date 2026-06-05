@@ -1,0 +1,47 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KD001",
+    "curef": "KD001",
+    "customer_name": "Dainty's Wholesale Hardware",
+    "town": "Mafeking",
+    "accno": "KD001",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 59.45,
+    "last_purchase_prod": "5KG YELLOW OXIDE",
+    "total_12m": 4476441.3,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 74.5,
+    "is_recovery": false,
+    "d_current": -244.15,
+    "d30": 154331.3,
+    "d60": 265009.77,
+    "d90": 215604.36,
+    "d_total": 634701.28,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "28673",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 50.949999999999996,
+        "value": 152.85
+      },
+      {
+        "prodname": "5KG YELLOW OXIDE",
+        "qty": 1.0,
+        "unit_price": 59.45,
+        "value": 59.45
+      }
+    ],
+    "total": 212.3,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 0
+}

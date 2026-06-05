@@ -1,0 +1,167 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KS038",
+    "curef": "KS038",
+    "customer_name": "Sams Hardware",
+    "town": "Kliptown",
+    "accno": "KS038",
+    "last_purchase_date": "13 Mar 2026",
+    "last_purchase_amt": 604.76,
+    "last_purchase_prod": "DOZEN 750ML RAW LINSEED OIL",
+    "total_12m": 60902.05,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 50.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 4671.66,
+    "d_total": 4671.66,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130450",
+    "date": "13 Mar 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 338.5,
+        "value": 1692.5
+      },
+      {
+        "prodname": "20L KALAHARI CONTR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 338.5,
+        "value": 1354.0
+      },
+      {
+        "prodname": "20L KALAHARI  CONTR NIGHT SKY",
+        "qty": 3.0,
+        "unit_price": 355.44,
+        "value": 1066.32
+      },
+      {
+        "prodname": "5L KALAHARI CONTR WHITE PVA",
+        "qty": 6.0,
+        "unit_price": 123.61,
+        "value": 741.66
+      },
+      {
+        "prodname": "5L KALAHARI CONTR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 123.61,
+        "value": 494.44
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 68.22,
+        "value": 409.32
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 4.0,
+        "unit_price": 68.22,
+        "value": 272.88
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 68.22,
+        "value": 409.32
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 68.22,
+        "value": 204.66
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 2.0,
+        "unit_price": 68.22,
+        "value": 136.44
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 2.0,
+        "unit_price": 68.22,
+        "value": 136.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 241.79999999999998,
+        "value": 1450.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) PEACH",
+        "qty": 3.0,
+        "unit_price": 241.79999999999998,
+        "value": 725.4
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 241.79999999999998,
+        "value": 725.4
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 2.0,
+        "unit_price": 241.8,
+        "value": 483.6
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 241.8,
+        "value": 483.6
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 78.17,
+        "value": 312.68
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 78.17,
+        "value": 312.68
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 78.17,
+        "value": 234.51
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 78.17,
+        "value": 234.51
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 136.47,
+        "value": 272.94
+      },
+      {
+        "prodname": "DOZEN 750ML RAW LINSEED OIL",
+        "qty": 1.0,
+        "unit_price": 604.76,
+        "value": 604.76
+      }
+    ],
+    "total": 12758.860000000002,
+    "count": 22
+  },
+  "competitor_forms_outstanding": 0
+}

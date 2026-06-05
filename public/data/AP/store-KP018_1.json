@@ -1,0 +1,131 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-05",
+  "store": {
+    "dlref": "KP018/1",
+    "curef": "KP018",
+    "customer_name": "Khotawala 786 Traders TA",
+    "town": "OPPOSITE POLICE STATION",
+    "accno": "KP018_1",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 1750.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 198878.9,
+    "velocity_category": null,
+    "health_tier": "Active & Growing",
+    "health_score": 66.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131462",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 109.25,
+        "value": 655.5
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 12.0,
+        "unit_price": 109.25,
+        "value": 1311.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 109.25,
+        "value": 655.5
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 73.05,
+        "value": 438.3
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 78.28,
+        "value": 469.68
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 12.0,
+        "unit_price": 95.0,
+        "value": 1140.0
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 430.07,
+        "value": 860.14
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 4.0,
+        "unit_price": 251.07,
+        "value": 1004.28
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 90.05,
+        "value": 450.25
+      },
+      {
+        "prodname": "40KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 309.86,
+        "value": 1549.3
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 54.29,
+        "value": 542.9
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 304.75,
+        "value": 609.5
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 6.0,
+        "unit_price": 155.25,
+        "value": 931.5
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 12.0,
+        "unit_price": 155.25,
+        "value": 1863.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 24.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 50.0,
+        "unit_price": 35.0,
+        "value": 1750.0
+      }
+    ],
+    "total": 14230.85,
+    "count": 16
+  },
+  "competitor_forms_outstanding": 0
+}
