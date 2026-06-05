@@ -1,0 +1,131 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KS019/6",
+    "curef": "KS019",
+    "customer_name": "S.I.Hardware  Kgapane",
+    "town": "Kgapane",
+    "accno": "KS019_6",
+    "last_purchase_date": "07 May 2026",
+    "last_purchase_amt": 2750.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 224279.25,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 60.7,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131215",
+    "date": "07 May 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI CONT SILVER MIST",
+        "qty": 6.0,
+        "unit_price": 380.65000000000003,
+        "value": 2283.9
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 25.0,
+        "unit_price": 265.0,
+        "value": 6625.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 285.0,
+        "value": 2850.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 86.0,
+        "value": 430.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 95.0,
+        "value": 285.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 95.0,
+        "value": 285.0
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 337.69,
+        "value": 337.69
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 20.0,
+        "unit_price": 75.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 75.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 75.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 75.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      }
+    ],
+    "total": 25406.59,
+    "count": 16
+  },
+  "competitor_forms_outstanding": 0
+}

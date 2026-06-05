@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-01",
   "week_label": "01 Jun \u2013 04 Jun",
   "total_stores": 45,
   "days": [
     {
       "date_iso": "2026-06-01",
       "date_label": "Mon 01 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA030",

@@ -1,0 +1,65 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-06-01",
+  "store": {
+    "dlref": "KR027",
+    "curef": "KR027",
+    "customer_name": "Easy Hardware",
+    "town": "TSHILILO",
+    "accno": "KR027",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 960.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 102260.67000000001,
+    "velocity_category": "cooling",
+    "health_tier": "At-Risk",
+    "health_score": 52.5,
+    "is_recovery": false,
+    "d_current": 16712.58,
+    "d30": 0.0,
+    "d60": 5724.21,
+    "d90": 8814.81,
+    "d_total": 31251.6,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131456",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 93.15,
+        "value": 1863.0
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 53.95,
+        "value": 1079.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "5L QD CHARCOAL",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      }
+    ],
+    "total": 6782.0,
+    "count": 5
+  },
+  "competitor_forms_outstanding": 0
+}
