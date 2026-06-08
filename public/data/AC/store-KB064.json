@@ -1,0 +1,41 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KB064",
+    "curef": "KB064",
+    "customer_name": "Builders Hyper C.C.",
+    "town": "De Deur",
+    "accno": "KB064",
+    "last_purchase_date": "27 May 2026",
+    "last_purchase_amt": 176.18,
+    "last_purchase_prod": "Doz x 100ML STAINERS ORANGE",
+    "total_12m": 890811.88,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 78.3,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 157306.44,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 157306.44,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131434",
+    "date": "27 May 2026",
+    "lines": [
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 15.0,
+        "unit_price": 280.0,
+        "value": 4200.0
+      }
+    ],
+    "total": 4200.0,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,47 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KA100",
+    "curef": "KA100",
+    "customer_name": "Absolute Hardware And Tools",
+    "town": "Mulbarton",
+    "accno": "KA100",
+    "last_purchase_date": "26 May 2026",
+    "last_purchase_amt": 351.63,
+    "last_purchase_prod": "1L FACE BRICK DRESSING",
+    "total_12m": 136288.26,
+    "velocity_category": "falling",
+    "health_tier": "Active & Growing",
+    "health_score": 75.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 14247.15,
+    "d60": 531.71,
+    "d90": 0.0,
+    "d_total": 14778.86,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131433",
+    "date": "26 May 2026",
+    "lines": [
+      {
+        "prodname": "1L WOOD PRIMER PINK",
+        "qty": 2.0,
+        "unit_price": 103.84,
+        "value": 207.68
+      },
+      {
+        "prodname": "1L FACE BRICK DRESSING",
+        "qty": 3.0,
+        "unit_price": 117.21,
+        "value": 351.63
+      }
+    ],
+    "total": 559.31,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,77 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KM025",
+    "curef": "KM025",
+    "customer_name": "Masons Hardware",
+    "town": "Germiston",
+    "accno": "KM025",
+    "last_purchase_date": "21 May 2026",
+    "last_purchase_amt": 590.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 80644.66,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 62.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 21943.15,
+    "d60": 0.0,
+    "d90": -3.21,
+    "d_total": 21939.94,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131367",
+    "date": "21 May 2026",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 4.0,
+        "unit_price": 270.0,
+        "value": 1080.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 4.0,
+        "unit_price": 303.0,
+        "value": 1212.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 303.0,
+        "value": 1818.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 4.0,
+        "unit_price": 303.0,
+        "value": 1212.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 303.0,
+        "value": 606.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 2.0,
+        "unit_price": 295.0,
+        "value": 590.0
+      }
+    ],
+    "total": 8138.0,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 0
+}

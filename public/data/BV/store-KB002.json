@@ -1,0 +1,179 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KB002",
+    "curef": "KB002",
+    "customer_name": "Bright Build",
+    "town": "Next To Tau Hardware",
+    "accno": "KB002",
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "75mm x 10m Membrane",
+    "total_12m": 426812.55,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 59.7,
+    "is_recovery": false,
+    "d_current": 50474.9,
+    "d30": 0.0,
+    "d60": 60563.17,
+    "d90": 0.0,
+    "d_total": 111038.07,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131567",
+    "date": "04 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 10.0,
+        "unit_price": 313.99,
+        "value": 3139.9
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 10.0,
+        "unit_price": 339.25,
+        "value": 3392.5
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 5.0,
+        "unit_price": 339.25,
+        "value": 1696.25
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 10.0,
+        "unit_price": 339.25,
+        "value": 3392.5
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 10.0,
+        "unit_price": 339.25,
+        "value": 3392.5
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 10.0,
+        "unit_price": 339.25,
+        "value": 3392.5
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 339.25,
+        "value": 3392.5
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 5.0,
+        "unit_price": 339.53000000000003,
+        "value": 1697.65
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 53.0,
+        "value": 265.0
+      },
+      {
+        "prodname": "1L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 53.0,
+        "value": 530.0
+      },
+      {
+        "prodname": "1L RAINPROOF BURGANDY",
+        "qty": 10.0,
+        "unit_price": 53.0,
+        "value": 530.0
+      },
+      {
+        "prodname": "1L RAINPROOF RED",
+        "qty": 5.0,
+        "unit_price": 53.0,
+        "value": 265.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 5.0,
+        "unit_price": 99.0,
+        "value": 495.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 5.0,
+        "unit_price": 99.0,
+        "value": 495.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 263.76,
+        "value": 1318.8
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 264.5,
+        "value": 2645.0
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 185.7,
+        "value": 1857.0
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 91.22,
+        "value": 1824.4
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 50.0,
+        "unit_price": 54.14,
+        "value": 2707.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 20.0,
+        "unit_price": 153.27,
+        "value": 3065.4
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 20.0,
+        "unit_price": 153.27,
+        "value": 3065.4
+      },
+      {
+        "prodname": "12X2KG CRACK FILLER",
+        "qty": 2.0,
+        "unit_price": 665.96,
+        "value": 1331.92
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 10.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "75mm x 10m Membrane",
+        "qty": 30.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 43891.22,
+    "count": 24
+  },
+  "competitor_forms_outstanding": 0
+}

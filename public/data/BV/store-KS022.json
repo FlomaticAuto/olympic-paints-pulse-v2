@@ -1,0 +1,239 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KS022",
+    "curef": "KS022",
+    "customer_name": "Super Blue Supermarket",
+    "town": "Bolobedi South",
+    "accno": "KS022",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 1625.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 262135.65000000002,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 55.3,
+    "is_recovery": false,
+    "d_current": 29809.68,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 29809.68,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131469",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20LT 3-IN-1 ROOF PAINT RED",
+        "qty": 2.0,
+        "unit_price": 840.0,
+        "value": 1680.0
+      },
+      {
+        "prodname": "20LT 3-IN-1 ROOF PAINT CHARCOA",
+        "qty": 3.0,
+        "unit_price": 840.0,
+        "value": 2520.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 2.0,
+        "unit_price": 325.0,
+        "value": 650.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 2.0,
+        "unit_price": 325.0,
+        "value": 650.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 325.0,
+        "value": 1625.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 56.86000000000001,
+        "value": 170.58
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 61.13999999999999,
+        "value": 183.42
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 82.8,
+        "value": 248.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 24.0,
+        "unit_price": 82.8,
+        "value": 1987.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 12.0,
+        "unit_price": 82.8,
+        "value": 993.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 82.8,
+        "value": 496.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 82.8,
+        "value": 248.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 82.8,
+        "value": 248.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 12.0,
+        "unit_price": 82.8,
+        "value": 993.6
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 304.75,
+        "value": 609.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 304.75,
+        "value": 914.25
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 304.75,
+        "value": 914.25
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 5.0,
+        "unit_price": 304.75,
+        "value": 1523.75
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 75.89999999999999,
+        "value": 227.7
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 75.89999999999999,
+        "value": 227.7
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 106.25999999999999,
+        "value": 318.78
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 121.44,
+        "value": 728.64
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 121.44,
+        "value": 728.64
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 186.5,
+        "value": 186.5
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS RED",
+        "qty": 1.0,
+        "unit_price": 186.5,
+        "value": 186.5
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 343.85,
+        "value": 343.85
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 1.0,
+        "unit_price": 276.0,
+        "value": 276.0
+      },
+      {
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 1.0,
+        "unit_price": 276.0,
+        "value": 276.0
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 299.0,
+        "value": 299.0
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 10.0,
+        "unit_price": 147.0,
+        "value": 1470.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 12.0,
+        "unit_price": 87.25,
+        "value": 1047.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 12.0,
+        "unit_price": 87.25,
+        "value": 1047.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 3.0,
+        "unit_price": 92.0,
+        "value": 276.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 325.0,
+        "value": 1625.0
+      }
+    ],
+    "total": 25921.46,
+    "count": 34
+  },
+  "competitor_forms_outstanding": 0
+}

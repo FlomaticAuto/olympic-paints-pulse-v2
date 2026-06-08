@@ -1,0 +1,239 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KD008",
+    "curef": "KD008",
+    "customer_name": "Dada's World of Hardware CC",
+    "town": "Polokwane",
+    "accno": "KD008",
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 3064.6,
+    "last_purchase_prod": "5L PP ULTIMATE SHINE F BLUE",
+    "total_12m": 3994292.4899999993,
+    "velocity_category": "cooling",
+    "health_tier": "Active & Growing",
+    "health_score": 70.8,
+    "is_recovery": false,
+    "d_current": 143604.44,
+    "d30": 284654.52,
+    "d60": 267988.85,
+    "d90": 39.34,
+    "d_total": 696287.15,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131568",
+    "date": "04 Jun 2026",
+    "lines": [
+      {
+        "prodname": "1L UNIV UNDERCOAT WHITE",
+        "qty": 10.0,
+        "unit_price": 76.25,
+        "value": 762.5
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 5.0,
+        "unit_price": 50.07,
+        "value": 250.35
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 10.0,
+        "unit_price": 63.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 10.0,
+        "unit_price": 67.83,
+        "value": 678.3
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 100.0,
+        "unit_price": 63.0,
+        "value": 6300.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 40.0,
+        "unit_price": 67.83,
+        "value": 2713.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 20.0,
+        "unit_price": 67.83,
+        "value": 1356.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 40.0,
+        "unit_price": 67.83,
+        "value": 2713.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 10.0,
+        "unit_price": 67.83,
+        "value": 678.3
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 20.0,
+        "unit_price": 67.83,
+        "value": 1356.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 40.0,
+        "unit_price": 67.83,
+        "value": 2713.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 10.0,
+        "unit_price": 67.83,
+        "value": 678.3
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 15.0,
+        "unit_price": 67.83,
+        "value": 1017.45
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 5.0,
+        "unit_price": 77.0,
+        "value": 385.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE D BLUE",
+        "qty": 5.0,
+        "unit_price": 79.41,
+        "value": 397.05
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 51.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 30.0,
+        "unit_price": 60.18,
+        "value": 1805.4
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 76.92,
+        "value": 769.2
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 30.0,
+        "unit_price": 76.92,
+        "value": 2307.6
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 30.0,
+        "unit_price": 76.92,
+        "value": 2307.6
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 30.0,
+        "unit_price": 76.92,
+        "value": 2307.6
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 10.0,
+        "unit_price": 76.92,
+        "value": 769.2
+      },
+      {
+        "prodname": "1L  ALKYD ROOF/STOEP BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 82.46000000000001,
+        "value": 824.6
+      },
+      {
+        "prodname": "24x500GM GREEN OXIDE",
+        "qty": 1.0,
+        "unit_price": 412.04,
+        "value": 412.04
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 6.0,
+        "unit_price": 123.94,
+        "value": 743.64
+      },
+      {
+        "prodname": "12X2KG CRACK FILLER",
+        "qty": 4.0,
+        "unit_price": 505.25,
+        "value": 2021.0
+      },
+      {
+        "prodname": "24x500GM CRACK FILLER",
+        "qty": 2.0,
+        "unit_price": 349.91,
+        "value": 699.82
+      },
+      {
+        "prodname": "5KG CRACK FILLER",
+        "qty": 5.0,
+        "unit_price": 142.12,
+        "value": 710.6
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 5.0,
+        "unit_price": 120.15,
+        "value": 600.75
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BROWN",
+        "qty": 6.0,
+        "unit_price": 120.14999999999999,
+        "value": 720.9
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS GREEN",
+        "qty": 2.0,
+        "unit_price": 120.15,
+        "value": 240.3
+      },
+      {
+        "prodname": "BOTTLE 750ML PAINT REMOVER",
+        "qty": 6.0,
+        "unit_price": 71.37,
+        "value": 428.22
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 77.0,
+        "value": 2310.0
+      }
+    ],
+    "total": 43633.52,
+    "count": 34
+  },
+  "competitor_forms_outstanding": 0
+}

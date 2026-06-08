@@ -1,0 +1,167 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KF018/1",
+    "curef": "KF018",
+    "customer_name": "Fairplay Hardware Lebowakgomo",
+    "town": "Lebowakgomo Central",
+    "accno": "KF018_1",
+    "last_purchase_date": "14 Apr 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 387950.67,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 32.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130895",
+    "date": "14 Apr 2026",
+    "lines": [
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 3.0,
+        "unit_price": 350.0,
+        "value": 1050.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 12.0,
+        "unit_price": 73.24,
+        "value": 878.88
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 12.0,
+        "unit_price": 78.39999999999999,
+        "value": 940.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 3.0,
+        "unit_price": 78.39999999999999,
+        "value": 235.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 78.39999999999999,
+        "value": 470.4
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) PEACH",
+        "qty": 4.0,
+        "unit_price": 290.0,
+        "value": 1160.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 275.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 8.0,
+        "unit_price": 290.0,
+        "value": 2320.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 4.0,
+        "unit_price": 290.0,
+        "value": 1160.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 4.0,
+        "unit_price": 290.0,
+        "value": 1160.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 18.0,
+        "unit_price": 290.0,
+        "value": 5220.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 12.0,
+        "unit_price": 89.0,
+        "value": 1068.0
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 12.0,
+        "unit_price": 89.0,
+        "value": 1068.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 36.0,
+        "unit_price": 89.0,
+        "value": 3204.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 48.0,
+        "unit_price": 89.0,
+        "value": 4272.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 24.0,
+        "unit_price": 89.0,
+        "value": 2136.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 12.0,
+        "unit_price": 86.89999999999999,
+        "value": 1042.8
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 24.0,
+        "unit_price": 299.0,
+        "value": 7176.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 132.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 40882.08,
+    "count": 22
+  },
+  "competitor_forms_outstanding": 0
+}

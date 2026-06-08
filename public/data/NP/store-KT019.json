@@ -1,167 +1,41 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-08",
   "store": {
     "dlref": "KT019",
     "curef": "KT019",
     "customer_name": "Trendleaders Trading & Inv. CC",
     "town": "Behind Limpopo Wholesalers",
     "accno": "KT019",
-    "last_purchase_date": "02 Jun 2026",
-    "last_purchase_amt": 1100.0,
-    "last_purchase_prod": "5LT Q.D. BLUE GREY",
-    "total_12m": 726320.48,
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 450.0,
+    "last_purchase_prod": "1L Q D CHARCOAL",
+    "total_12m": 725361.31,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 67.4,
     "is_recovery": false,
-    "d_current": 44955.77,
+    "d_current": 44438.27,
     "d30": 66864.26,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 111820.03,
+    "d_total": 111302.53,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131510",
-    "date": "02 Jun 2026",
+    "invoice_no": "28698",
+    "date": "04 Jun 2026",
     "lines": [
-      {
-        "prodname": "20LT 7-IN-1 PVA SILVER MIST",
-        "qty": 3.0,
-        "unit_price": 796.9499999999999,
-        "value": 2390.85
-      },
-      {
-        "prodname": "20LT 3-IN-1 ROOF PAINT RED",
-        "qty": 2.0,
-        "unit_price": 796.95,
-        "value": 1593.9
-      },
-      {
-        "prodname": "20LT 3-IN-1 ROOF PAINT GREY",
-        "qty": 3.0,
-        "unit_price": 796.9499999999999,
-        "value": 2390.85
-      },
-      {
-        "prodname": "20LT 3-IN-1 ROOF PAINT CHARCOA",
-        "qty": 3.0,
-        "unit_price": 796.9499999999999,
-        "value": 2390.85
-      },
-      {
-        "prodname": "20L DECOR WHITE PVA",
-        "qty": 5.0,
-        "unit_price": 265.0,
-        "value": 1325.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) S RED",
-        "qty": 4.0,
-        "unit_price": 77.63,
-        "value": 310.52
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
-        "qty": 4.0,
-        "unit_price": 280.0,
-        "value": 1120.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 4.0,
-        "unit_price": 280.0,
-        "value": 1120.0
-      },
-      {
-        "prodname": "5L SANDING SEALER",
-        "qty": 20.0,
-        "unit_price": 350.0,
-        "value": 7000.0
-      },
-      {
-        "prodname": "1L COPAL VARNISH",
-        "qty": 10.0,
-        "unit_price": 85.0,
-        "value": 850.0
-      },
-      {
-        "prodname": "1L MAHOGONY VARNISH",
-        "qty": 6.0,
-        "unit_price": 95.0,
-        "value": 570.0
-      },
-      {
-        "prodname": "5L COPAL VARNISH",
-        "qty": 10.0,
-        "unit_price": 280.0,
-        "value": 2800.0
-      },
-      {
-        "prodname": "5L DARK OAK VARNISH",
-        "qty": 3.0,
-        "unit_price": 305.0,
-        "value": 915.0
-      },
-      {
-        "prodname": "5L MAHOGONY VARNISH",
-        "qty": 3.0,
-        "unit_price": 305.0,
-        "value": 915.0
-      },
-      {
-        "prodname": "5LT THINNERS",
-        "qty": 20.0,
-        "unit_price": 145.0,
-        "value": 2900.0
-      },
-      {
-        "prodname": "5L CARBOLINEUM",
-        "qty": 20.0,
-        "unit_price": 143.75,
-        "value": 2875.0
-      },
       {
         "prodname": "1L Q D CHARCOAL",
         "qty": 6.0,
         "unit_price": 75.0,
         "value": 450.0
-      },
-      {
-        "prodname": "1LT Q.D. BLUE GREY",
-        "qty": 4.0,
-        "unit_price": 75.0,
-        "value": 300.0
-      },
-      {
-        "prodname": "5L Q D BLACK ENAMEL",
-        "qty": 5.0,
-        "unit_price": 275.0,
-        "value": 1375.0
-      },
-      {
-        "prodname": "5L Q D DARK GREY ENAMEL",
-        "qty": 12.0,
-        "unit_price": 275.0,
-        "value": 3300.0
-      },
-      {
-        "prodname": "5L Q D CHARCOAL",
-        "qty": 4.0,
-        "unit_price": 275.0,
-        "value": 1100.0
-      },
-      {
-        "prodname": "5LT Q.D. BLUE GREY",
-        "qty": 4.0,
-        "unit_price": 275.0,
-        "value": 1100.0
       }
     ],
-    "total": 39091.97,
-    "count": 22
+    "total": 450.0,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

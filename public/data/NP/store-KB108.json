@@ -1,59 +1,221 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-08",
   "store": {
     "dlref": "KB108",
     "curef": "KB108",
     "customer_name": "Boxer Hardware",
     "town": "Next to Spar",
     "accno": "KB108",
-    "last_purchase_date": "15 May 2026",
-    "last_purchase_amt": 338.26,
-    "last_purchase_prod": "20L ECLIPSE CREAM PVA",
-    "total_12m": 640918.81,
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 672824.24,
     "velocity_category": "stable",
     "health_tier": "Active & Growing",
     "health_score": 70.5,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 36691.24,
     "d30": 0.0,
     "d60": 36259.83,
     "d90": 0.0,
-    "d_total": 36259.83,
+    "d_total": 72951.07,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28590",
-    "date": "15 May 2026",
+    "invoice_no": "131564",
+    "date": "04 Jun 2026",
     "lines": [
       {
-        "prodname": "HANDLING FEE",
-        "qty": 1.0,
-        "unit_price": 58.29,
-        "value": 58.29
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 295.0,
+        "value": 1475.0
       },
       {
-        "prodname": "20L ECLIPSE WHITE PVA",
-        "qty": 1.0,
-        "unit_price": 75.58,
-        "value": 75.58
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 56.86000000000001,
+        "value": 170.58
       },
       {
-        "prodname": "20L ECLIPSE WHITE PVA",
-        "qty": 1.0,
-        "unit_price": 169.13,
-        "value": 169.13
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 56.86000000000001,
+        "value": 170.58
       },
       {
-        "prodname": "20L ECLIPSE CREAM PVA",
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
         "qty": 2.0,
-        "unit_price": 169.13,
-        "value": 338.26
+        "unit_price": 61.14,
+        "value": 122.28
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 80.0,
+        "value": 240.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 80.0,
+        "value": 480.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 1.0,
+        "unit_price": 80.0,
+        "value": 80.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 1.0,
+        "unit_price": 290.0,
+        "value": 290.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 5.0,
+        "unit_price": 550.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 3.0,
+        "unit_price": 550.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF OCEAN BLUE",
+        "qty": 2.0,
+        "unit_price": 200.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 2.0,
+        "unit_price": 185.0,
+        "value": 370.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 2.0,
+        "unit_price": 105.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 100.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 100.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 289.63,
+        "value": 289.63
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 159.34,
+        "value": 1593.4
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 86.92,
+        "value": 869.2
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 56.339999999999996,
+        "value": 563.4
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 1.0,
+        "unit_price": 300.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 194.5,
+        "value": 972.5
+      },
+      {
+        "prodname": "20LT ECLIPSE DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 217.3,
+        "value": 1086.5
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 3.0,
+        "unit_price": 80.0,
+        "value": 240.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 1.0,
+        "unit_price": 290.0,
+        "value": 290.0
+      },
+      {
+        "prodname": "5L QD CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 290.0,
+        "value": 870.0
+      },
+      {
+        "prodname": "5LT Q D G BROWN",
+        "qty": 3.0,
+        "unit_price": 290.0,
+        "value": 870.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 2.0,
+        "unit_price": 290.0,
+        "value": 580.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 2.0,
+        "unit_price": 0.0,
+        "value": 0.0
       }
     ],
-    "total": 641.26,
-    "count": 4
+    "total": 19733.07,
+    "count": 31
   },
   "competitor_forms_outstanding": 0
 }

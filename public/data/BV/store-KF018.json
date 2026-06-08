@@ -1,0 +1,89 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KF018",
+    "curef": "KF018",
+    "customer_name": "Fairplay Hardware Bochum",
+    "town": "Senwabarwana",
+    "accno": "KF018",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 172639.28000000003,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 30.3,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 52510.15,
+    "d60": 31244.52,
+    "d90": 0.0,
+    "d_total": 83754.67,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131297",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 82.5,
+        "value": 495.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 86.95,
+        "value": 521.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 86.95,
+        "value": 521.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 4.0,
+        "unit_price": 86.95,
+        "value": 347.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 4.0,
+        "unit_price": 310.0,
+        "value": 1240.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 8.0,
+        "unit_price": 310.0,
+        "value": 2480.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 24.0,
+        "unit_price": 105.0,
+        "value": 2520.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 36.0,
+        "unit_price": 105.0,
+        "value": 3780.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 60.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 11906.2,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,173 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KM064",
+    "curef": "KM064",
+    "customer_name": "Masons Home Hardware",
+    "town": "NEXT TO A.I.B. BAKERY",
+    "accno": "KM064",
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 287.82,
+    "last_purchase_prod": "1L RUST REMOVER",
+    "total_12m": 203540.62,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 45.8,
+    "is_recovery": false,
+    "d_current": 11944.41,
+    "d30": 19007.96,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 30952.37,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131572",
+    "date": "04 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 1.0,
+        "unit_price": 995.0,
+        "value": 995.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) CREA",
+        "qty": 2.0,
+        "unit_price": 52.5,
+        "value": 105.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 50.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 52.5,
+        "value": 157.5
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 52.5,
+        "value": 157.5
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 3.0,
+        "unit_price": 52.5,
+        "value": 157.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 78.75,
+        "value": 236.25
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 82.5,
+        "value": 825.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 82.5,
+        "value": 247.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 270.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 2.0,
+        "unit_price": 175.0,
+        "value": 350.0
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 55.0,
+        "value": 110.0
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 60.0,
+        "value": 180.0
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 60.0,
+        "value": 180.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 98.5,
+        "value": 394.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 98.5,
+        "value": 394.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 2.0,
+        "unit_price": 98.5,
+        "value": 197.0
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 98.5,
+        "value": 197.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 3.0,
+        "unit_price": 343.93,
+        "value": 1031.79
+      },
+      {
+        "prodname": "1L  ALKYD ROOF/STOEP RED",
+        "qty": 2.0,
+        "unit_price": 111.79,
+        "value": 223.58
+      },
+      {
+        "prodname": "1L RUST REMOVER",
+        "qty": 6.0,
+        "unit_price": 47.97,
+        "value": 287.82
+      }
+    ],
+    "total": 10386.44,
+    "count": 23
+  },
+  "competitor_forms_outstanding": 0
+}

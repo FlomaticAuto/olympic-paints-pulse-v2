@@ -1,0 +1,209 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KL011/1",
+    "curef": "KL011",
+    "customer_name": "GIGAS SUPERMARKET",
+    "town": "ON MAIN ROAD",
+    "accno": "KL011_1",
+    "last_purchase_date": "04 Dec 2025",
+    "last_purchase_amt": 600.0,
+    "last_purchase_prod": "1L Q D BRONZE ENAMEL",
+    "total_12m": 20792.639999999996,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 34.7,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "128808",
+    "date": "04 Dec 2025",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 44.72,
+        "value": 223.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 67.85,
+        "value": 678.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 67.85,
+        "value": 339.25
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 67.85,
+        "value": 135.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 10.0,
+        "unit_price": 67.85,
+        "value": 678.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 243.97,
+        "value": 487.94
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 243.97,
+        "value": 487.94
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 243.97,
+        "value": 731.91
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 243.97,
+        "value": 731.91
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 243.97,
+        "value": 1463.82
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 2.0,
+        "unit_price": 62.95,
+        "value": 125.9
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 3.0,
+        "unit_price": 44.25,
+        "value": 132.75
+      },
+      {
+        "prodname": "1L RAINPROOF CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 44.25,
+        "value": 132.75
+      },
+      {
+        "prodname": "1L RAINPROOF GREY",
+        "qty": 6.0,
+        "unit_price": 44.25,
+        "value": 265.5
+      },
+      {
+        "prodname": "1L RAINPROOF GREEN",
+        "qty": 3.0,
+        "unit_price": 44.25,
+        "value": 132.75
+      },
+      {
+        "prodname": "1L RAINPROOF BURGANDY",
+        "qty": 6.0,
+        "unit_price": 44.25,
+        "value": 265.5
+      },
+      {
+        "prodname": "1L RAINPROOF RED",
+        "qty": 6.0,
+        "unit_price": 44.25,
+        "value": 265.5
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 125.76,
+        "value": 251.52
+      },
+      {
+        "prodname": "24x500GM GREEN OXIDE",
+        "qty": 1.0,
+        "unit_price": 408.59,
+        "value": 408.59
+      },
+      {
+        "prodname": "24x500GM BLUE OXIDE",
+        "qty": 1.0,
+        "unit_price": 408.59,
+        "value": 408.59
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 2.0,
+        "unit_price": 131.54,
+        "value": 263.08
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 5.0,
+        "unit_price": 125.75999999999999,
+        "value": 628.8
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 156.31,
+        "value": 156.31
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLUE",
+        "qty": 1.0,
+        "unit_price": 156.91,
+        "value": 156.91
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS CHR YELLOW",
+        "qty": 1.0,
+        "unit_price": 156.91,
+        "value": 156.91
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS RED",
+        "qty": 1.0,
+        "unit_price": 156.91,
+        "value": 156.91
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS ORANGE",
+        "qty": 1.0,
+        "unit_price": 159.91,
+        "value": 159.91
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 282.21,
+        "value": 564.42
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 100.0,
+        "value": 600.0
+      }
+    ],
+    "total": 11191.669999999998,
+    "count": 29
+  },
+  "competitor_forms_outstanding": 0
+}

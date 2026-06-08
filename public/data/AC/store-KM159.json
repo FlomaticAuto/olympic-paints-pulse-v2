@@ -1,0 +1,89 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KM159",
+    "curef": "KM159",
+    "customer_name": "MTS Hardware",
+    "town": "Road, Next to Mr Laptop",
+    "accno": "KM159",
+    "last_purchase_date": "18 May 2026",
+    "last_purchase_amt": 6416.0,
+    "last_purchase_prod": "5L COPAL VARNISH",
+    "total_12m": 249799.36000000002,
+    "velocity_category": "cooling",
+    "health_tier": "Active but Narrow",
+    "health_score": 54.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 13293.77,
+    "d60": 13.02,
+    "d90": 0.0,
+    "d_total": 13306.79,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131315",
+    "date": "18 May 2026",
+    "lines": [
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 15.0,
+        "unit_price": 62.919999999999995,
+        "value": 943.8
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 69.5,
+        "value": 417.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 69.5,
+        "value": 208.5
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 5.0,
+        "unit_price": 69.5,
+        "value": 347.5
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 20.0,
+        "unit_price": 95.65,
+        "value": 1913.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 109.5,
+        "value": 438.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 109.5,
+        "value": 219.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 109.5,
+        "value": 657.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 20.0,
+        "unit_price": 320.8,
+        "value": 6416.0
+      }
+    ],
+    "total": 11559.8,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 0
+}

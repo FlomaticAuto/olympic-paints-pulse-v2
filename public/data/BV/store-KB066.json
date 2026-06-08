@@ -1,0 +1,209 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KB066",
+    "curef": "KB066",
+    "customer_name": "Bala & Sons ta BNS Supermark",
+    "town": "Opp  Old Police  Station",
+    "accno": "KB066",
+    "last_purchase_date": "03 Feb 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "75mm x 10m Membrane",
+    "total_12m": 22983.260000000002,
+    "velocity_category": "falling",
+    "health_tier": "Dead / Dormant",
+    "health_score": 44.8,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 16172.42,
+    "d_total": 16172.42,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "129800",
+    "date": "03 Feb 2026",
+    "lines": [
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 295.0,
+        "value": 1475.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 90.46000000000001,
+        "value": 452.3
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 288.02,
+        "value": 864.06
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 5.0,
+        "unit_price": 84.8,
+        "value": 424.0
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 6.0,
+        "unit_price": 44.0,
+        "value": 264.0
+      },
+      {
+        "prodname": "1L RAINPROOF GREY",
+        "qty": 6.0,
+        "unit_price": 44.0,
+        "value": 264.0
+      },
+      {
+        "prodname": "1L RAINPROOF BURGANDY",
+        "qty": 6.0,
+        "unit_price": 44.0,
+        "value": 264.0
+      },
+      {
+        "prodname": "1L RAINPROOF RED",
+        "qty": 6.0,
+        "unit_price": 44.0,
+        "value": 264.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 99.0,
+        "value": 495.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 92.39999999999999,
+        "value": 277.2
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 105.6,
+        "value": 528.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 105.6,
+        "value": 528.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 5.0,
+        "unit_price": 105.6,
+        "value": 528.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 266.11,
+        "value": 266.11
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 251.86,
+        "value": 251.86
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 55.120000000000005,
+        "value": 275.6
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 327.96,
+        "value": 327.96
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS GREEN",
+        "qty": 1.0,
+        "unit_price": 327.96,
+        "value": 327.96
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS Y OCHRE",
+        "qty": 1.0,
+        "unit_price": 327.96,
+        "value": 327.96
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS RED",
+        "qty": 1.0,
+        "unit_price": 327.96,
+        "value": 327.96
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 260.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 4.0,
+        "unit_price": 145.0,
+        "value": 580.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 80.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 20.0,
+        "unit_price": 30.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 35.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "75mm x 10m Membrane",
+        "qty": 24.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 14062.97,
+    "count": 29
+  },
+  "competitor_forms_outstanding": 0
+}

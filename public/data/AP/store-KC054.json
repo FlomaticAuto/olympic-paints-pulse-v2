@@ -1,107 +1,143 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-08",
   "store": {
     "dlref": "KC054",
     "curef": "KC054",
     "customer_name": "Choice Build Matanda",
     "town": "Matanda Zone 3 Maluma Road",
     "accno": "KC054",
-    "last_purchase_date": "04 May 2026",
-    "last_purchase_amt": 747.5,
-    "last_purchase_prod": "5L CARBOLINEUM",
-    "total_12m": 207139.38,
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 990.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 218562.59000000003,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 46.9,
     "is_recovery": false,
-    "d_current": -0.33,
+    "d_current": 13136.36,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": -0.33,
+    "d_total": 13136.36,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131113",
-    "date": "04 May 2026",
+    "invoice_no": "131561",
+    "date": "04 Jun 2026",
     "lines": [
       {
-        "prodname": "20L DECOR WHITE PVA",
-        "qty": 6.0,
-        "unit_price": 322.0,
-        "value": 1932.0
+        "prodname": "20L KALAHARI CONT STONE GREY",
+        "qty": 3.0,
+        "unit_price": 442.75,
+        "value": 1328.25
       },
       {
-        "prodname": "20LT DECOR DARK GREY PVA",
+        "prodname": "20L KALAHARI  CONTR NIGHT SKY",
+        "qty": 2.0,
+        "unit_price": 442.75,
+        "value": 885.5
+      },
+      {
+        "prodname": "20LT KALAHARI CONT CRISP MINT",
         "qty": 4.0,
-        "unit_price": 327.75,
-        "value": 1311.0
+        "unit_price": 442.75,
+        "value": 1771.0
       },
       {
-        "prodname": "20L DECOR SILVER MIST PVA",
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
         "qty": 4.0,
-        "unit_price": 327.75,
-        "value": 1311.0
+        "unit_price": 83.95,
+        "value": 335.8
       },
       {
-        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
         "qty": 4.0,
-        "unit_price": 598.0,
-        "value": 2392.0
+        "unit_price": 83.95,
+        "value": 335.8
       },
       {
-        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 289.43,
+        "value": 578.86
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
         "qty": 3.0,
         "unit_price": 598.0,
         "value": 1794.0
       },
       {
-        "prodname": "20L UNIVERSAL ROOF GREY",
-        "qty": 6.0,
-        "unit_price": 598.0,
-        "value": 3588.0
-      },
-      {
-        "prodname": "20L UNIVERSAL ROOF RED",
-        "qty": 6.0,
-        "unit_price": 598.0,
-        "value": 3588.0
-      },
-      {
-        "prodname": "24x500GM OXIDE BLACK",
+        "prodname": "500ML COPAL VARNISH",
         "qty": 3.0,
-        "unit_price": 153.27,
-        "value": 459.81
+        "unit_price": 54.38999999999999,
+        "value": 163.17
       },
       {
-        "prodname": "24x500GM GREEN OXIDE",
-        "qty": 1.0,
-        "unit_price": 507.45,
-        "value": 507.45
-      },
-      {
-        "prodname": "24x500GM RED OXIDE",
+        "prodname": "500ML LIGHT OAK VARNISH",
         "qty": 3.0,
-        "unit_price": 153.27,
-        "value": 459.81
+        "unit_price": 63.38999999999999,
+        "value": 190.17
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 63.38999999999999,
+        "value": 190.17
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 63.38999999999999,
+        "value": 190.17
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 63.38999999999999,
+        "value": 190.17
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 94.3,
+        "value": 282.9
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 109.25,
+        "value": 327.75
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 109.25,
+        "value": 655.5
       },
       {
         "prodname": "DOZEN 750ML LACQUER THINNERS",
-        "qty": 1.0,
+        "qty": 2.0,
         "unit_price": 322.0,
-        "value": 322.0
+        "value": 644.0
       },
       {
-        "prodname": "5LT THINNERS",
-        "qty": 10.0,
-        "unit_price": 149.5,
-        "value": 1495.0
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 3.0,
+        "unit_price": 330.0,
+        "value": 990.0
       }
     ],
-    "total": 19160.07,
-    "count": 12
+    "total": 11423.21,
+    "count": 18
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,0 +1,155 @@
+{
+  "rep": "BV",
+  "rep_name": "Bhadresh Vallabh",
+  "generated_at": "2026-06-08",
+  "store": {
+    "dlref": "KR018",
+    "curef": "KR018",
+    "customer_name": "Sonu Supermarket (Raj)",
+    "town": "Morupu Mmola Road",
+    "accno": "KR018",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 552.0,
+    "last_purchase_prod": "1L Q.D. BURGUNDY",
+    "total_12m": 312045.88,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 54.4,
+    "is_recovery": false,
+    "d_current": 20720.36,
+    "d30": 31964.62,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 52684.98,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131471",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 6.0,
+        "unit_price": 322.0,
+        "value": 1932.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 55.19,
+        "value": 331.14
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 82.79,
+        "value": 496.74
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 82.79,
+        "value": 496.74
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 12.0,
+        "unit_price": 82.79,
+        "value": 993.48
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 82.79,
+        "value": 496.74
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 6.0,
+        "unit_price": 82.79,
+        "value": 496.74
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 339.53000000000003,
+        "value": 2037.18
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE F BLUE",
+        "qty": 6.0,
+        "unit_price": 116.73,
+        "value": 700.38
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 6.0,
+        "unit_price": 116.73,
+        "value": 700.38
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 12.0,
+        "unit_price": 57.49,
+        "value": 689.88
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 12.0,
+        "unit_price": 89.7,
+        "value": 1076.4
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 103.5,
+        "value": 621.0
+      },
+      {
+        "prodname": "24x500GM BLUE OXIDE",
+        "qty": 2.0,
+        "unit_price": 529.0,
+        "value": 1058.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 5.0,
+        "unit_price": 150.65,
+        "value": 753.25
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 270.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 15.0,
+        "unit_price": 132.25,
+        "value": 1983.75
+      },
+      {
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 2.0,
+        "unit_price": 280.95,
+        "value": 561.9
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 10.0,
+        "unit_price": 150.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 92.0,
+        "value": 552.0
+      }
+    ],
+    "total": 18017.699999999997,
+    "count": 20
+  },
+  "competitor_forms_outstanding": 0
+}

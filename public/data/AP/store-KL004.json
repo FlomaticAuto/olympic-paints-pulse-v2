@@ -1,41 +1,119 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-08",
   "store": {
     "dlref": "KL004",
     "curef": "KL004",
     "customer_name": "World Focus 1932 CC",
     "town": "Simon Complex  Behind Engen",
     "accno": "KL004",
-    "last_purchase_date": "07 May 2026",
-    "last_purchase_amt": 254.6,
-    "last_purchase_prod": "5KG PUTTY",
-    "total_12m": 258391.58000000002,
+    "last_purchase_date": "04 Jun 2026",
+    "last_purchase_amt": 1920.0,
+    "last_purchase_prod": "5L QD CHARCOAL",
+    "total_12m": 271809.52,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 65.6,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 15430.63,
     "d30": 35948.43,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 35948.43,
+    "d_total": 51379.06,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28549",
-    "date": "07 May 2026",
+    "invoice_no": "131563",
+    "date": "04 Jun 2026",
     "lines": [
       {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 84.21,
+        "value": 505.26
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 303.2,
+        "value": 606.4
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 68.39,
+        "value": 410.34
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 4.0,
+        "unit_price": 109.25,
+        "value": 437.0
+      },
+      {
+        "prodname": "1L ALKYD ROOF/STOEP BLACK",
+        "qty": 2.0,
+        "unit_price": 119.25,
+        "value": 238.5
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 266.34,
+        "value": 266.34
+      },
+      {
         "prodname": "5KG PUTTY",
-        "qty": 10.0,
+        "qty": 5.0,
         "unit_price": 50.92,
-        "value": 509.2
+        "value": 254.6
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 10.0,
+        "unit_price": 149.5,
+        "value": 1495.0
+      },
+      {
+        "prodname": "5L TURPENTINE",
+        "qty": 5.0,
+        "unit_price": 149.5,
+        "value": 747.5
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 322.0,
+        "value": 322.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 95.0,
+        "value": 950.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 15.0,
+        "unit_price": 95.0,
+        "value": 1425.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 12.0,
+        "unit_price": 320.0,
+        "value": 3840.0
+      },
+      {
+        "prodname": "5L QD CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 320.0,
+        "value": 1920.0
       }
     ],
-    "total": 509.2,
-    "count": 1
+    "total": 13417.939999999999,
+    "count": 14
   },
   "competitor_forms_outstanding": 0
 }
