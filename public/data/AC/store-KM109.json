@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KM109",
     "curef": "KM109",
@@ -11,7 +11,7 @@
     "last_purchase_date": "30 Mar 2026",
     "last_purchase_amt": 320.0,
     "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-    "total_12m": 57114.08,
+    "total_12m": 53482.77,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 46.2,

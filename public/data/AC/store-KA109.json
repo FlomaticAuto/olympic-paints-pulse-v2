@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KA109",
     "curef": "KA109",
@@ -11,7 +11,7 @@
     "last_purchase_date": "04 Jun 2026",
     "last_purchase_amt": 258.0,
     "last_purchase_prod": "DOZEN 750ML TURPENTINE",
-    "total_12m": 49395.009999999995,
+    "total_12m": 15816.01,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 51.8,

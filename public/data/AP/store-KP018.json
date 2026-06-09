@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KP018",
     "curef": "KP018",
@@ -11,7 +11,7 @@
     "last_purchase_date": "20 Apr 2026",
     "last_purchase_amt": 8695.65,
     "last_purchase_prod": "ADVERTISING",
-    "total_12m": 41105.94,
+    "total_12m": 27847.299999999996,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 35.8,

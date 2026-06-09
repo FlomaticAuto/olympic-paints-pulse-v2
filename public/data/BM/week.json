@@ -1,20 +1,20 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 0,
   "days": [
     {
       "date_iso": "2026-06-08",
       "date_label": "Mon 08 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": []
     },
     {
       "date_iso": "2026-06-09",
       "date_label": "Tue 09 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": []
     },
     {

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KM070",
     "curef": "KM070",
@@ -11,7 +11,7 @@
     "last_purchase_date": "02 Mar 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "75mm x 10m Membrane",
-    "total_12m": 38477.149999999994,
+    "total_12m": 33302.15,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 46.7,

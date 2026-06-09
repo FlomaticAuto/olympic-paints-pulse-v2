@@ -1,14 +1,14 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 60,
   "days": [
     {
       "date_iso": "2026-06-08",
       "date_label": "Mon 08 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008",
@@ -40,7 +40,7 @@
           "last_purchase_date": "01 Apr 2026",
           "last_purchase_amt": 223.05,
           "last_purchase_prod": "1L HIGH GLOSS (MQ) GREY",
-          "total_12m": 66243.23000000001,
+          "total_12m": 60371.17,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 46.6,
@@ -208,7 +208,7 @@
           "last_purchase_date": "20 Apr 2026",
           "last_purchase_amt": 8695.65,
           "last_purchase_prod": "ADVERTISING",
-          "total_12m": 41105.94,
+          "total_12m": 27847.299999999996,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 35.8,
@@ -229,7 +229,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 960.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 102260.67000000001,
+          "total_12m": 89605.10999999999,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 52.5,
@@ -250,7 +250,7 @@
           "last_purchase_date": "26 May 2026",
           "last_purchase_amt": 1416.0,
           "last_purchase_prod": "5L SANDING SEALER",
-          "total_12m": 318845.26,
+          "total_12m": 306647.35,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 58.1,
@@ -313,7 +313,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 745.2,
           "last_purchase_prod": "5L CARBOLINEUM",
-          "total_12m": 49371.759999999995,
+          "total_12m": 42198.21,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 41.1,
@@ -330,7 +330,7 @@
     {
       "date_iso": "2026-06-09",
       "date_label": "Tue 09 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008/1",
@@ -635,7 +635,7 @@
           "last_purchase_date": "02 Mar 2026",
           "last_purchase_amt": 650.0,
           "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 38427.92,
+          "total_12m": 25660.020000000004,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 32.4,
@@ -1132,7 +1132,7 @@
           "last_purchase_date": "02 Mar 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 38477.149999999994,
+          "total_12m": 33302.15,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 46.7,

@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 35,
   "days": [
     {
       "date_iso": "2026-06-08",
       "date_label": "Mon 08 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA100",
@@ -19,7 +19,7 @@
           "last_purchase_date": "26 May 2026",
           "last_purchase_amt": 351.63,
           "last_purchase_prod": "1L FACE BRICK DRESSING",
-          "total_12m": 136288.26,
+          "total_12m": 133087.64,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 75.1,
@@ -124,7 +124,7 @@
           "last_purchase_date": "30 Mar 2026",
           "last_purchase_amt": 320.0,
           "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-          "total_12m": 57114.08,
+          "total_12m": 53482.77,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 46.2,
@@ -204,7 +204,7 @@
     {
       "date_iso": "2026-06-09",
       "date_label": "Tue 09 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA103",
@@ -411,7 +411,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 258.0,
           "last_purchase_prod": "DOZEN 750ML TURPENTINE",
-          "total_12m": 49395.009999999995,
+          "total_12m": 15816.01,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 51.8,
@@ -495,7 +495,7 @@
           "last_purchase_date": "31 Mar 2026",
           "last_purchase_amt": 583.6,
           "last_purchase_prod": "500ML TEAK VARNISH",
-          "total_12m": 45842.06,
+          "total_12m": 38988.20999999999,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 44.2,

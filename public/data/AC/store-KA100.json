@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KA100",
     "curef": "KA100",
@@ -11,7 +11,7 @@
     "last_purchase_date": "26 May 2026",
     "last_purchase_amt": 351.63,
     "last_purchase_prod": "1L FACE BRICK DRESSING",
-    "total_12m": 136288.26,
+    "total_12m": 133087.64,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 75.1,

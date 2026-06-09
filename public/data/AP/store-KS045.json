@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KS045",
     "curef": "KS045",
@@ -11,7 +11,7 @@
     "last_purchase_date": "26 May 2026",
     "last_purchase_amt": 1416.0,
     "last_purchase_prod": "5L SANDING SEALER",
-    "total_12m": 318845.26,
+    "total_12m": 306647.35,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 58.1,

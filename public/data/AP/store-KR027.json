@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KR027",
     "curef": "KR027",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 960.0,
     "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-    "total_12m": 102260.67000000001,
+    "total_12m": 89605.10999999999,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 52.5,

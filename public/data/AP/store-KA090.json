@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KA090",
     "curef": "KA090",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Apr 2026",
     "last_purchase_amt": 223.05,
     "last_purchase_prod": "1L HIGH GLOSS (MQ) GREY",
-    "total_12m": 66243.23000000001,
+    "total_12m": 60371.17,
     "velocity_category": "growing",
     "health_tier": "At-Risk",
     "health_score": 46.6,

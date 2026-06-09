@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 77,
   "days": [
     {
       "date_iso": "2026-06-08",
       "date_label": "Mon 08 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA090/1",
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-06-09",
       "date_label": "Tue 09 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA095",
@@ -446,7 +446,7 @@
           "last_purchase_date": "03 Jun 2026",
           "last_purchase_amt": 465.75,
           "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 97850.61,
+          "total_12m": 92365.85,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 49.1,
@@ -614,7 +614,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 1020.0,
           "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-          "total_12m": 190980.13,
+          "total_12m": 190645.14,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 43.5,
@@ -1146,7 +1146,7 @@
           "last_purchase_date": "15 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 1196392.96,
+          "total_12m": 1159066.38,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 80.0,
@@ -1167,7 +1167,7 @@
           "last_purchase_date": "20 May 2026",
           "last_purchase_amt": 579.96,
           "last_purchase_prod": "24x500GM OXIDE BLACK",
-          "total_12m": 249136.22000000003,
+          "total_12m": 224814.78000000003,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 71.3,
@@ -1230,7 +1230,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 450.0,
           "last_purchase_prod": "1L Q D CHARCOAL",
-          "total_12m": 725361.31,
+          "total_12m": 716598.89,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 67.4,
@@ -1405,7 +1405,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 971.0,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 42124.57,
+          "total_12m": 40732.770000000004,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 46.0,
@@ -1531,7 +1531,7 @@
           "last_purchase_date": "02 Jun 2026",
           "last_purchase_amt": 2240.0,
           "last_purchase_prod": "5L HIGH GLOSS (MQ) BURGANDY",
-          "total_12m": 194548.36000000002,
+          "total_12m": 191530.71,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 63.8,

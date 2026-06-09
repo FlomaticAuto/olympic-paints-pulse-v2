@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KM061",
     "curef": "KM061",
@@ -11,7 +11,7 @@
     "last_purchase_date": "31 Mar 2026",
     "last_purchase_amt": 583.6,
     "last_purchase_prod": "500ML TEAK VARNISH",
-    "total_12m": 45842.06,
+    "total_12m": 38988.20999999999,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 44.2,

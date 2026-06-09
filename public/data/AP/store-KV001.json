@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-09",
   "store": {
     "dlref": "KV001",
     "curef": "KV001",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 745.2,
     "last_purchase_prod": "5L CARBOLINEUM",
-    "total_12m": 49371.759999999995,
+    "total_12m": 42198.21,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 41.1,
