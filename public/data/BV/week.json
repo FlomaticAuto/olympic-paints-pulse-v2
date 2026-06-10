@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-09",
+  "generated_at": "2026-06-10",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 55,
   "days": [
@@ -103,7 +103,7 @@
           "last_purchase_date": "14 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 566449.2,
+          "total_12m": 562177.2,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 26.7,
@@ -309,7 +309,7 @@
     {
       "date_iso": "2026-06-09",
       "date_label": "Tue 09 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB002",
@@ -325,11 +325,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 59.7,
           "is_recovery": false,
-          "d_current": 50474.9,
+          "d_current": 50384.9,
           "d30": 0.0,
-          "d60": 60563.17,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 111038.07,
+          "d_total": 50384.9,
           "shared_account": false
         },
         {
@@ -579,9 +579,9 @@
           "is_recovery": false,
           "d_current": 51927.57,
           "d30": 81220.62,
-          "d60": 55246.78,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 188394.97,
+          "d_total": 133148.19,
           "shared_account": false
         },
         {
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-06-10",
       "date_label": "Wed 10 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB010",
@@ -817,9 +817,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 489854.96,
+          "d60": 12301.61,
           "d90": 0.0,
-          "d_total": 489854.96,
+          "d_total": 12301.61,
           "shared_account": false
         },
         {

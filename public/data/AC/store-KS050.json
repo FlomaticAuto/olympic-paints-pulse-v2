@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-09",
+  "generated_at": "2026-06-10",
   "store": {
     "dlref": "KS050",
     "curef": "KS050",
@@ -18,9 +18,9 @@
     "is_recovery": false,
     "d_current": 1950.03,
     "d30": 0.0,
-    "d60": 450.21,
+    "d60": 0.0,
     "d90": 0.0,
-    "d_total": 2400.24,
+    "d_total": 1950.03,
     "shared_account": false
   },
   "invoice": {

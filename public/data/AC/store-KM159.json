@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-09",
+  "generated_at": "2026-06-10",
   "store": {
     "dlref": "KM159",
     "curef": "KM159",
@@ -11,7 +11,7 @@
     "last_purchase_date": "18 May 2026",
     "last_purchase_amt": 6416.0,
     "last_purchase_prod": "5L COPAL VARNISH",
-    "total_12m": 249799.36000000002,
+    "total_12m": 231363.31,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 54.1,
