@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "store": {
     "dlref": "KM046",
     "curef": "KM046",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 1320.0,
     "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-    "total_12m": 669990.3,
+    "total_12m": 608672.9099999999,
     "velocity_category": "stable",
     "health_tier": "At-Risk",
     "health_score": 56.5,

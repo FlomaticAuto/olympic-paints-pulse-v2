@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "store": {
     "dlref": "KT002",
     "curef": "KT002",
@@ -11,7 +11,7 @@
     "last_purchase_date": "22 May 2026",
     "last_purchase_amt": 875.0,
     "last_purchase_prod": "1L Q.D. BURGUNDY",
-    "total_12m": 185179.13,
+    "total_12m": 163815.87999999998,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 49.3,

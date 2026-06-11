@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "store": {
     "dlref": "KH023",
     "curef": "KH023",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 101.26,
     "last_purchase_prod": "1L PP ULTIMATE SHINE WHITE",
-    "total_12m": 207244.80000000002,
+    "total_12m": 186017.37,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 57.1,

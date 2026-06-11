@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "store": {
     "dlref": "KB064",
     "curef": "KB064",
@@ -11,7 +11,7 @@
     "last_purchase_date": "27 May 2026",
     "last_purchase_amt": 176.18,
     "last_purchase_prod": "Doz x 100ML STAINERS ORANGE",
-    "total_12m": 890811.88,
+    "total_12m": 868911.68,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 78.3,

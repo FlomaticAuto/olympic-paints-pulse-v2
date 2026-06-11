@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 55,
   "days": [
@@ -82,7 +82,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 244916.06,
+          "total_12m": 225607.6,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 33.5,
@@ -124,7 +124,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 101.26,
           "last_purchase_prod": "1L PP ULTIMATE SHINE WHITE",
-          "total_12m": 207244.80000000002,
+          "total_12m": 186017.37,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 57.1,
@@ -187,7 +187,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 1320.0,
           "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-          "total_12m": 669990.3,
+          "total_12m": 608672.9099999999,
           "velocity_category": "stable",
           "health_tier": "At-Risk",
           "health_score": 56.5,
@@ -320,7 +320,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 426812.55,
+          "total_12m": 423034.61,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 59.7,
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-06-10",
       "date_label": "Wed 10 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB010",
@@ -621,7 +621,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 15.2,
           "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 259220.69,
+          "total_12m": 255508.46000000002,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 53.9,
@@ -663,7 +663,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 3064.6,
           "last_purchase_prod": "5L PP ULTIMATE SHINE F BLUE",
-          "total_12m": 3994292.4899999993,
+          "total_12m": 3846268.0199999996,
           "velocity_category": "cooling",
           "health_tier": "Active & Growing",
           "health_score": 70.8,
@@ -894,7 +894,7 @@
           "last_purchase_date": "09 Mar 2026",
           "last_purchase_amt": 960.0,
           "last_purchase_prod": "5L WALNUT VARNISH",
-          "total_12m": 69943.38,
+          "total_12m": 61083.42,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 33.3,
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-06-11",
       "date_label": "Thu 11 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB066",
@@ -1153,7 +1153,7 @@
           "last_purchase_date": "25 Feb 2026",
           "last_purchase_amt": 1845.0,
           "last_purchase_prod": "500ML LIGHT OAK VARNISH",
-          "total_12m": 3039515.49,
+          "total_12m": 3022312.2,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 70.9,

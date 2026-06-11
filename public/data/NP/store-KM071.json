@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "store": {
     "dlref": "KM071",
     "curef": "KM071",
@@ -11,7 +11,7 @@
     "last_purchase_date": "03 Jun 2026",
     "last_purchase_amt": 5500.0,
     "last_purchase_prod": "5L Q D CHARCOAL",
-    "total_12m": 1259487.1099999999,
+    "total_12m": 1197731.06,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 50.2,

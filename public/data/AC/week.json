@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 35,
   "days": [
@@ -236,7 +236,7 @@
           "last_purchase_date": "27 May 2026",
           "last_purchase_amt": 176.18,
           "last_purchase_prod": "Doz x 100ML STAINERS ORANGE",
-          "total_12m": 890811.88,
+          "total_12m": 868911.68,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 78.3,
@@ -341,7 +341,7 @@
           "last_purchase_date": "14 Aug 2025",
           "last_purchase_amt": 233.2,
           "last_purchase_prod": "12X2KG PUTTY",
-          "total_12m": 106786.9,
+          "total_12m": 88066.4,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 21.8,
@@ -400,7 +400,7 @@
     {
       "date_iso": "2026-06-10",
       "date_label": "Wed 10 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA109",
@@ -596,7 +596,7 @@
     {
       "date_iso": "2026-06-11",
       "date_label": "Thu 11 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB014",
