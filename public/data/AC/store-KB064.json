@@ -8,10 +8,10 @@
     "customer_name": "Builders Hyper C.C.",
     "town": "De Deur",
     "accno": "KB064",
-    "last_purchase_date": "27 May 2026",
-    "last_purchase_amt": 176.18,
-    "last_purchase_prod": "Doz x 100ML STAINERS ORANGE",
-    "total_12m": 868911.68,
+    "last_purchase_date": "10 Jun 2026",
+    "last_purchase_amt": 19772.8,
+    "last_purchase_prod": "5L HIGH GLOSS (M/Q) S/RED",
+    "total_12m": 899763.3599999999,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 78.3,
@@ -24,17 +24,17 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131434",
-    "date": "27 May 2026",
+    "invoice_no": "131623",
+    "date": "10 Jun 2026",
     "lines": [
       {
-        "prodname": "5L COPAL VARNISH",
-        "qty": 15.0,
-        "unit_price": 280.0,
-        "value": 4200.0
+        "prodname": "20L QD BLACK OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 1221.36,
+        "value": 3664.08
       }
     ],
-    "total": 4200.0,
+    "total": 3664.08,
     "count": 1
   },
   "competitor_forms_outstanding": 0

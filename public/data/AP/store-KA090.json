@@ -8,10 +8,10 @@
     "customer_name": "A A Owaish Maize Depot Pty Ltd",
     "town": "Next to U Save Randzus Complex",
     "accno": "KA090",
-    "last_purchase_date": "01 Apr 2026",
-    "last_purchase_amt": 223.05,
-    "last_purchase_prod": "1L HIGH GLOSS (MQ) GREY",
-    "total_12m": 60371.17,
+    "last_purchase_date": "10 Jun 2026",
+    "last_purchase_amt": 1050.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 70739.23999999999,
     "velocity_category": "growing",
     "health_tier": "At-Risk",
     "health_score": 46.6,
@@ -24,72 +24,96 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "130694",
-    "date": "01 Apr 2026",
+    "invoice_no": "131627",
+    "date": "10 Jun 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
         "qty": 3.0,
-        "unit_price": 74.35000000000001,
-        "value": 223.05
+        "unit_price": 82.5,
+        "value": 247.5
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 3.0,
-        "unit_price": 257.23,
-        "value": 771.69
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 2.0,
+        "unit_price": 580.0,
+        "value": 1160.0
       },
       {
-        "prodname": "5L RAINPROOF GREY",
-        "qty": 4.0,
-        "unit_price": 95.0,
-        "value": 380.0
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 3.0,
+        "unit_price": 580.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 12.0,
+        "unit_price": 109.25,
+        "value": 1311.0
       },
       {
         "prodname": "5L RAINPROOF BURGUNDY",
         "qty": 12.0,
-        "unit_price": 95.0,
-        "value": 1140.0
-      },
-      {
-        "prodname": "5L RAINPROOF RED",
-        "qty": 6.0,
-        "unit_price": 95.0,
-        "value": 570.0
+        "unit_price": 109.25,
+        "value": 1311.0
       },
       {
         "prodname": "24X1KG PUTTY",
         "qty": 1.0,
-        "unit_price": 232.2,
-        "value": 232.2
+        "unit_price": 267.03,
+        "value": 267.03
       },
       {
         "prodname": "12X2KG PUTTY",
-        "qty": 1.0,
-        "unit_price": 218.32,
-        "value": 218.32
+        "qty": 2.0,
+        "unit_price": 251.07,
+        "value": 502.14
       },
       {
         "prodname": "20KG PUTTY",
         "qty": 3.0,
-        "unit_price": 146.94,
-        "value": 440.82
+        "unit_price": 168.98,
+        "value": 506.94
       },
       {
         "prodname": "10KG PUTTY",
-        "qty": 6.0,
-        "unit_price": 78.3,
-        "value": 469.8
+        "qty": 10.0,
+        "unit_price": 90.05,
+        "value": 900.5
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 54.29,
+        "value": 271.45
+      },
+      {
+        "prodname": "6x2KG DISTEMPER GREEN",
+        "qty": 3.0,
+        "unit_price": 163.67,
+        "value": 491.01
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 304.75,
+        "value": 609.5
       },
       {
         "prodname": "200mm x 10m Membrane",
-        "qty": 20.0,
+        "qty": 24.0,
         "unit_price": 0.0,
         "value": 0.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 30.0,
+        "unit_price": 35.0,
+        "value": 1050.0
       }
     ],
-    "total": 4445.88,
-    "count": 10
+    "total": 10368.07,
+    "count": 14
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,8 +1,8 @@
 {
   "period_label": "Month to date \u00b7 June 2026",
   "summary": {
-    "team_mtd": 2488335.99,
-    "team_pct_target": 0.18869936602866805,
+    "team_mtd": 3217031.9299999997,
+    "team_pct_target": 0.2439589702212933,
     "team_visits_actual": 129,
     "team_visits_planned": 64,
     "team_acks": 0,
@@ -13,8 +13,8 @@
     {
       "rep": "AC",
       "name": "Aboo Cassim",
-      "sales": 567483.15,
-      "pct_target": 0.3791104769176111,
+      "sales": 624212.22,
+      "pct_target": 0.41700866787322366,
       "visits_actual": 38,
       "visits_planned": 16,
       "plan_adherence": 1.0,
@@ -25,8 +25,8 @@
     {
       "rep": "AP",
       "name": "Amit Patel",
-      "sales": 197707.97,
-      "pct_target": 0.16192265131790481,
+      "sales": 405189.83999999997,
+      "pct_target": 0.33185011802952424,
       "visits_actual": 0,
       "visits_planned": 8,
       "plan_adherence": 0.0,
@@ -37,8 +37,8 @@
     {
       "rep": "BV",
       "name": "Bhadresh Vallabh",
-      "sales": 837074.7100000001,
-      "pct_target": 0.1579551509287007,
+      "sales": 1301559.71,
+      "pct_target": 0.24560300052042652,
       "visits_actual": 24,
       "visits_planned": 8,
       "plan_adherence": 1.0,

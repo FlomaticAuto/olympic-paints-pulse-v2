@@ -16,11 +16,11 @@
     "health_tier": "Active but Narrow",
     "health_score": 49.6,
     "is_recovery": false,
-    "d_current": 654.64,
+    "d_current": 6123.95,
     "d30": 5000.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 5654.64,
+    "d_total": 11123.95,
     "shared_account": false
   },
   "invoice": {

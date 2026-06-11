@@ -8,10 +8,10 @@
     "customer_name": "Strong Build",
     "town": "Vuwani",
     "accno": "KS131",
-    "last_purchase_date": "01 Apr 2026",
-    "last_purchase_amt": 900.0,
-    "last_purchase_prod": "20L ECLIPSE PEACH PVA",
-    "total_12m": 32690.0,
+    "last_purchase_date": "10 Jun 2026",
+    "last_purchase_amt": 1840.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 45210.0,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 33.7,
@@ -24,21 +24,9 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "130693",
-    "date": "01 Apr 2026",
+    "invoice_no": "131626",
+    "date": "10 Jun 2026",
     "lines": [
-      {
-        "prodname": "20L DECOR WHITE PVA",
-        "qty": 10.0,
-        "unit_price": 280.0,
-        "value": 2800.0
-      },
-      {
-        "prodname": "20L DECOR PVA CREAM",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
       {
         "prodname": "20L DECOR MAIZE PVA",
         "qty": 3.0,
@@ -46,154 +34,28 @@
         "value": 840.0
       },
       {
-        "prodname": "20L DECOR PEACH PVA",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "20L DECOR MUSHROOM PVA",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "20LT DECOR DARK GREY PVA",
-        "qty": 10.0,
-        "unit_price": 280.0,
-        "value": 2800.0
-      },
-      {
-        "prodname": "20L DECOR NIGHT SKY PVA",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "20L DECOR SILVER MIST PVA",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
-        "qty": 10.0,
-        "unit_price": 80.0,
-        "value": 800.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
-        "qty": 5.0,
-        "unit_price": 80.0,
-        "value": 400.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) GREY",
-        "qty": 5.0,
-        "unit_price": 80.0,
-        "value": 400.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
-        "qty": 5.0,
-        "unit_price": 80.0,
-        "value": 400.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) S RED",
-        "qty": 5.0,
-        "unit_price": 80.0,
-        "value": 400.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 10.0,
-        "unit_price": 280.0,
-        "value": 2800.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
-        "qty": 5.0,
-        "unit_price": 280.0,
-        "value": 1400.0
-      },
-      {
-        "prodname": "1L WATERBASE RED OXIDE PRIMER",
-        "qty": 5.0,
-        "unit_price": 70.0,
-        "value": 350.0
-      },
-      {
-        "prodname": "5L WATERBASE RED OXIDE PRIMER",
-        "qty": 5.0,
-        "unit_price": 260.0,
-        "value": 1300.0
-      },
-      {
-        "prodname": "1L COPAL VARNISH",
-        "qty": 5.0,
-        "unit_price": 85.0,
-        "value": 425.0
-      },
-      {
-        "prodname": "24X1KG PUTTY",
-        "qty": 1.0,
-        "unit_price": 245.0,
-        "value": 245.0
-      },
-      {
-        "prodname": "12X2KG PUTTY",
-        "qty": 2.0,
-        "unit_price": 245.0,
-        "value": 490.0
-      },
-      {
-        "prodname": "5KG PUTTY",
-        "qty": 10.0,
-        "unit_price": 46.0,
-        "value": 460.0
-      },
-      {
-        "prodname": "24x500GM OXIDE BLACK",
-        "qty": 3.0,
-        "unit_price": 140.0,
-        "value": 420.0
-      },
-      {
-        "prodname": "24x500GM RED OXIDE",
-        "qty": 3.0,
-        "unit_price": 140.0,
-        "value": 420.0
-      },
-      {
-        "prodname": "10KG CRACK FILLER",
-        "qty": 3.0,
-        "unit_price": 200.0,
-        "value": 600.0
-      },
-      {
-        "prodname": "5KG CRACK FILLER",
-        "qty": 3.0,
-        "unit_price": 100.0,
-        "value": 300.0
-      },
-      {
-        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "prodname": "20L DECOR GUAVA PVA",
         "qty": 3.0,
         "unit_price": 280.0,
         "value": 840.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 3.0,
+        "unit_price": 280.0,
+        "value": 840.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 280.0,
+        "value": 1400.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 5.0,
+        "unit_price": 280.0,
+        "value": 1400.0
       },
       {
         "prodname": "5LT THINNERS",
@@ -203,25 +65,31 @@
       },
       {
         "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 15.0,
+        "unit_price": 180.0,
+        "value": 2700.0
+      },
+      {
+        "prodname": "20LT ECLIPSE DARK GREY PVA",
         "qty": 5.0,
         "unit_price": 180.0,
         "value": 900.0
       },
       {
-        "prodname": "20L ECLIPSE CREAM PVA",
+        "prodname": "1L Q D BRONZE ENAMEL",
         "qty": 5.0,
-        "unit_price": 180.0,
-        "value": 900.0
+        "unit_price": 92.0,
+        "value": 460.0
       },
       {
-        "prodname": "20L ECLIPSE PEACH PVA",
+        "prodname": "5L Q D BRONZE ENAMEL",
         "qty": 5.0,
-        "unit_price": 180.0,
-        "value": 900.0
+        "unit_price": 368.0,
+        "value": 1840.0
       }
     ],
-    "total": 32690.0,
-    "count": 32
+    "total": 12520.0,
+    "count": 10
   },
   "competitor_forms_outstanding": 0
 }

@@ -4,27 +4,27 @@
     {
       "rep": "AC",
       "name": "Aboo Cassim",
-      "mtd_sales": 567483.15,
+      "mtd_sales": 624212.22,
       "mtd_target": 1496880.6840000004,
-      "pct_target": 0.3791104769176111,
+      "pct_target": 0.41700866787322366,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
       "rep": "AP",
       "name": "Amit Patel",
-      "mtd_sales": 197707.97,
+      "mtd_sales": 405189.83999999997,
       "mtd_target": 1221002.549,
-      "pct_target": 0.16192265131790481,
+      "pct_target": 0.33185011802952424,
       "plan_adherence": 0.0,
       "ack_streak": 0
     },
     {
       "rep": "BV",
       "name": "Bhadresh Vallabh",
-      "mtd_sales": 837074.7100000001,
+      "mtd_sales": 1301559.71,
       "mtd_target": 5299445.476,
-      "pct_target": 0.1579551509287007,
+      "pct_target": 0.24560300052042652,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
