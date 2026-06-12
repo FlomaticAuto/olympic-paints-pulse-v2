@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 77,
   "days": [
@@ -1247,7 +1247,7 @@
     {
       "date_iso": "2026-06-11",
       "date_label": "Thu 11 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA106",
@@ -1454,9 +1454,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 76223.79,
+          "d60": 26223.79,
           "d90": 0.0,
-          "d_total": 76223.79,
+          "d_total": 26223.79,
           "shared_account": false
         },
         {
@@ -1531,7 +1531,7 @@
           "last_purchase_date": "02 Jun 2026",
           "last_purchase_amt": 2240.0,
           "last_purchase_prod": "5L HIGH GLOSS (MQ) BURGANDY",
-          "total_12m": 191530.71,
+          "total_12m": 190085.91000000003,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 63.8,

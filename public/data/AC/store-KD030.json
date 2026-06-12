@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "store": {
     "dlref": "KD030",
     "curef": "KD030",
@@ -11,7 +11,7 @@
     "last_purchase_date": "20 Apr 2026",
     "last_purchase_amt": 209.0,
     "last_purchase_prod": "1LT EBONY VARNISH",
-    "total_12m": 54080.020000000004,
+    "total_12m": 49760.21000000001,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 56.4,

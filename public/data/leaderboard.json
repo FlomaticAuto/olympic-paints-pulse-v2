@@ -1,39 +1,39 @@
 {
-  "last_updated_iso": "2026-06-11",
+  "last_updated_iso": "2026-06-12",
   "rows": [
     {
       "rep": "AC",
       "name": "Aboo Cassim",
-      "mtd_sales": 624212.22,
+      "mtd_sales": 665319.0800000001,
       "mtd_target": 1496880.6840000004,
-      "pct_target": 0.41700866787322366,
+      "pct_target": 0.44447034898073406,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
       "rep": "AP",
       "name": "Amit Patel",
-      "mtd_sales": 405189.83999999997,
+      "mtd_sales": 502700.03,
       "mtd_target": 1221002.549,
-      "pct_target": 0.33185011802952424,
+      "pct_target": 0.41171087678048734,
       "plan_adherence": 0.0,
       "ack_streak": 0
     },
     {
       "rep": "BV",
       "name": "Bhadresh Vallabh",
-      "mtd_sales": 1301559.71,
+      "mtd_sales": 1351192.1400000001,
       "mtd_target": 5299445.476,
-      "pct_target": 0.24560300052042652,
+      "pct_target": 0.25496858984949394,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
       "rep": "NP",
       "name": "Nikhil Panchal",
-      "mtd_sales": 883463.02,
+      "mtd_sales": 883635.02,
       "mtd_target": 5167894.6280000005,
-      "pct_target": 0.17095221237935812,
+      "pct_target": 0.17098549479170996,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },

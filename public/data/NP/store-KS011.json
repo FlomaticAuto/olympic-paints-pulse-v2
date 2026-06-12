@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "store": {
     "dlref": "KS011",
     "curef": "KS011",
@@ -11,7 +11,7 @@
     "last_purchase_date": "02 Jun 2026",
     "last_purchase_amt": 2240.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) BURGANDY",
-    "total_12m": 191530.71,
+    "total_12m": 190085.91000000003,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 63.8,

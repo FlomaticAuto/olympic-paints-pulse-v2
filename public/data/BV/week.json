@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "week_label": "08 Jun \u2013 11 Jun",
   "total_stores": 55,
   "days": [
@@ -100,10 +100,10 @@
           "customer_name": "Fairplay Hardware Jane Furse",
           "town": "Old Hospital Road",
           "accno": "KF018_3",
-          "last_purchase_date": "14 May 2026",
+          "last_purchase_date": "11 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 562177.2,
+          "total_12m": 600769.5,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 26.7,
@@ -388,11 +388,11 @@
           "health_tier": "At-Risk",
           "health_score": 30.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 44381.15,
           "d30": 52510.15,
           "d60": 29661.83,
           "d90": 0.0,
-          "d_total": 82171.98,
+          "d_total": 126553.13,
           "shared_account": false
         },
         {
@@ -572,16 +572,16 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 1667.5,
           "last_purchase_prod": "5LT Q.D. BLUE GREY",
-          "total_12m": 772884.32,
+          "total_12m": 772642.71,
           "velocity_category": "stable",
           "health_tier": "Active but Narrow",
           "health_score": 64.9,
           "is_recovery": false,
-          "d_current": 51927.57,
+          "d_current": 103577.29,
           "d30": 81220.62,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 133148.19,
+          "d_total": 184797.91,
           "shared_account": false
         },
         {
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-06-11",
       "date_label": "Thu 11 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB066",
@@ -1032,11 +1032,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 55.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 39532.4,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0,
+          "d_total": 39532.4,
           "shared_account": false
         },
         {
@@ -1158,11 +1158,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 70.9,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 395811.03,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0,
+          "d_total": 395811.03,
           "shared_account": false
         },
         {

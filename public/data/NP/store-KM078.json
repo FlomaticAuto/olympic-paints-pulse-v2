@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "store": {
     "dlref": "KM078",
     "curef": "KM078",
@@ -18,9 +18,9 @@
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": 76223.79,
+    "d60": 26223.79,
     "d90": 0.0,
-    "d_total": 76223.79,
+    "d_total": 26223.79,
     "shared_account": false
   },
   "invoice": {

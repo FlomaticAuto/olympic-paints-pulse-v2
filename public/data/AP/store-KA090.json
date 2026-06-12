@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "store": {
     "dlref": "KA090",
     "curef": "KA090",
@@ -16,11 +16,11 @@
     "health_tier": "At-Risk",
     "health_score": 46.6,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 11923.28,
     "d30": 0.0,
     "d60": 10717.62,
     "d90": 0.0,
-    "d_total": 10717.62,
+    "d_total": 22640.9,
     "shared_account": false
   },
   "invoice": {
