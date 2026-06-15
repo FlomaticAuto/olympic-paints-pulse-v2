@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-15",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
@@ -11,16 +11,16 @@
     "last_purchase_date": "10 Jun 2026",
     "last_purchase_amt": 1080.0,
     "last_purchase_prod": "5L Q.D. SILVER",
-    "total_12m": 526090.76,
+    "total_12m": 525784.76,
     "velocity_category": "stable",
     "health_tier": "Active but Narrow",
     "health_score": 55.0,
     "is_recovery": false,
-    "d_current": 39532.4,
+    "d_current": 78712.9,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 39532.4,
+    "d_total": 78712.9,
     "shared_account": false
   },
   "invoice": {
@@ -120,8 +120,8 @@
       {
         "prodname": "5L WATERBASE RED OXIDE PRIMER",
         "qty": 12.0,
-        "unit_price": 240.0,
-        "value": 2880.0
+        "unit_price": 214.5,
+        "value": 2574.0
       },
       {
         "prodname": "1L COPAL VARNISH",
@@ -160,7 +160,7 @@
         "value": 1080.0
       }
     ],
-    "total": 34376.0,
+    "total": 34070.0,
     "count": 22
   },
   "competitor_forms_outstanding": 0

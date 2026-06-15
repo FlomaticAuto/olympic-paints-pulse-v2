@@ -1,33 +1,142 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-06-12",
-  "week_label": "08 Jun \u2013 11 Jun",
-  "total_stores": 0,
+  "generated_at": "2026-06-15",
+  "week_label": "15 Jun \u2013 18 Jun",
+  "total_stores": 5,
   "days": [
     {
-      "date_iso": "2026-06-08",
-      "date_label": "Mon 08 Jun",
-      "is_today": false,
-      "stores": []
+      "date_iso": "2026-06-15",
+      "date_label": "Mon 15 Jun",
+      "is_today": true,
+      "stores": [
+        {
+          "dlref": "KA116",
+          "curef": "KA116",
+          "customer_name": "Allandale Trading CC",
+          "town": "President Park",
+          "accno": "KA116",
+          "last_purchase_date": "05 Jun 2026",
+          "last_purchase_amt": 422.9,
+          "last_purchase_prod": "20L LIBERTY PVA WHITE",
+          "total_12m": 8946.960000000001,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 25.5,
+          "is_recovery": false,
+          "d_current": 2998.21,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 2998.21,
+          "shared_account": false
+        },
+        {
+          "dlref": "KP063",
+          "curef": "KP063",
+          "customer_name": "Projo Projects",
+          "town": "",
+          "accno": "KP063",
+          "last_purchase_date": "28 Apr 2026",
+          "last_purchase_amt": 3183.94,
+          "last_purchase_prod": "20LT N/ELEGANCE NECTAR 8125-5",
+          "total_12m": 35953.18000000001,
+          "velocity_category": null,
+          "health_tier": "Active but Narrow",
+          "health_score": 23.4,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 0.0,
+          "d60": -0.02,
+          "d90": 0.0,
+          "d_total": -0.02,
+          "shared_account": false
+        }
+      ]
     },
     {
-      "date_iso": "2026-06-09",
-      "date_label": "Tue 09 Jun",
+      "date_iso": "2026-06-16",
+      "date_label": "Tue 16 Jun",
       "is_today": false,
-      "stores": []
+      "stores": [
+        {
+          "dlref": "KB115",
+          "curef": "KB115",
+          "customer_name": "Build Africa Hardware",
+          "town": "",
+          "accno": "KB115",
+          "last_purchase_date": "15 May 2026",
+          "last_purchase_amt": 1094.73,
+          "last_purchase_prod": "5L MAHOGONY VARNISH",
+          "total_12m": 54691.53,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 35.3,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 3466.42,
+          "d60": 0.0,
+          "d90": 983.33,
+          "d_total": 4449.75,
+          "shared_account": false
+        }
+      ]
     },
     {
-      "date_iso": "2026-06-10",
-      "date_label": "Wed 10 Jun",
+      "date_iso": "2026-06-17",
+      "date_label": "Wed 17 Jun",
       "is_today": false,
-      "stores": []
+      "stores": [
+        {
+          "dlref": "KC055",
+          "curef": "KC055",
+          "customer_name": "CKW life Style (PTY) LTD",
+          "town": "Saxonworld",
+          "accno": "KC055",
+          "last_purchase_date": "16 Jul 2025",
+          "last_purchase_amt": 68.88,
+          "last_purchase_prod": "225MM Platinum Paint Roller",
+          "total_12m": 2137.58,
+          "velocity_category": null,
+          "health_tier": "Dead / Dormant",
+          "health_score": 9.5,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 0.0,
+          "shared_account": false
+        }
+      ]
     },
     {
-      "date_iso": "2026-06-11",
-      "date_label": "Thu 11 Jun",
+      "date_iso": "2026-06-18",
+      "date_label": "Thu 18 Jun",
       "is_today": false,
-      "stores": []
+      "stores": [
+        {
+          "dlref": "KP060",
+          "curef": "KP060",
+          "customer_name": "Pepper Tree Lane Body Corporat",
+          "town": "Northwold",
+          "accno": "KP060",
+          "last_purchase_date": "12 May 2026",
+          "last_purchase_amt": 281.48,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 6801.080000000002,
+          "velocity_category": null,
+          "health_tier": "At-Risk",
+          "health_score": 21.7,
+          "is_recovery": false,
+          "d_current": 0.0,
+          "d30": 0.0,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 0.0,
+          "shared_account": false
+        }
+      ]
     }
   ],
   "competitor_forms_outstanding": 0

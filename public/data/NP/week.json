@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-12",
-  "week_label": "08 Jun \u2013 11 Jun",
+  "generated_at": "2026-06-15",
+  "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 77,
   "days": [
     {
-      "date_iso": "2026-06-08",
-      "date_label": "Mon 08 Jun",
-      "is_today": false,
+      "date_iso": "2026-06-15",
+      "date_label": "Mon 15 Jun",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA090/1",
@@ -397,7 +397,7 @@
           "last_purchase_date": "22 May 2026",
           "last_purchase_amt": 875.0,
           "last_purchase_prod": "1L Q.D. BURGUNDY",
-          "total_12m": 163815.87999999998,
+          "total_12m": 162990.24,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 49.3,
@@ -433,8 +433,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-09",
-      "date_label": "Tue 09 Jun",
+      "date_iso": "2026-06-16",
+      "date_label": "Tue 16 Jun",
       "is_today": false,
       "stores": [
         {
@@ -839,8 +839,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-10",
-      "date_label": "Wed 10 Jun",
+      "date_iso": "2026-06-17",
+      "date_label": "Wed 17 Jun",
       "is_today": false,
       "stores": [
         {
@@ -873,7 +873,7 @@
           "last_purchase_date": "11 May 2026",
           "last_purchase_amt": 58.83,
           "last_purchase_prod": "BOTTLE 750ML CARBOLINEUM",
-          "total_12m": 925688.88,
+          "total_12m": 925228.88,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 44.2,
@@ -1245,8 +1245,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-11",
-      "date_label": "Thu 11 Jun",
+      "date_iso": "2026-06-18",
+      "date_label": "Thu 18 Jun",
       "is_today": false,
       "stores": [
         {
@@ -1573,7 +1573,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 1722.6,
           "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 1985756.75,
+          "total_12m": 1951618.35,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 62.1,

@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-15",
   "store": {
     "customer_name": "Skeerpoort Handelhuis",
     "accno": "KS005",
@@ -23,8 +23,8 @@
       {
         "prodname": "5LT 3-IN-1 GRIP COAT BLACK",
         "qty": 5.0,
-        "unit_price": 460.0,
-        "value": 2300.0
+        "unit_price": 399.0,
+        "value": 1995.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
@@ -51,7 +51,7 @@
         "value": 1320.0
       }
     ],
-    "total": 6229.3,
+    "total": 5924.3,
     "count": 5
   },
   "competitor_forms_outstanding": 0

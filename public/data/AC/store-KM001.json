@@ -1,0 +1,41 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-15",
+  "store": {
+    "dlref": "KM001",
+    "curef": "KM001",
+    "customer_name": "Mega Doors and Paint  Hardware",
+    "town": "Jhb",
+    "accno": "KM001",
+    "last_purchase_date": "11 Jun 2026",
+    "last_purchase_amt": 409.71,
+    "last_purchase_prod": "5L PP NAT ELE WILD ORCHID",
+    "total_12m": 95469.19000000002,
+    "velocity_category": "rocket",
+    "health_tier": "Active & Growing",
+    "health_score": 75.5,
+    "is_recovery": false,
+    "d_current": 3954.22,
+    "d30": 7124.73,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 11078.95,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131640",
+    "date": "11 Jun 2026",
+    "lines": [
+      {
+        "prodname": "5L PP NAT ELE WILD ORCHID",
+        "qty": 1.0,
+        "unit_price": 409.71,
+        "value": 409.71
+      }
+    ],
+    "total": 409.71,
+    "count": 1
+  },
+  "competitor_forms_outstanding": 0
+}

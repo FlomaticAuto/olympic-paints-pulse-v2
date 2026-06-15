@@ -1,14 +1,14 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-12",
-  "week_label": "08 Jun \u2013 11 Jun",
+  "generated_at": "2026-06-15",
+  "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
     {
-      "date_iso": "2026-06-08",
-      "date_label": "Mon 08 Jun",
-      "is_today": false,
+      "date_iso": "2026-06-15",
+      "date_label": "Mon 15 Jun",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008",
@@ -328,8 +328,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-09",
-      "date_label": "Tue 09 Jun",
+      "date_iso": "2026-06-16",
+      "date_label": "Tue 16 Jun",
       "is_today": false,
       "stores": [
         {
@@ -650,8 +650,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-10",
-      "date_label": "Wed 10 Jun",
+      "date_iso": "2026-06-17",
+      "date_label": "Wed 17 Jun",
       "is_today": false,
       "stores": [
         {
@@ -972,8 +972,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-11",
-      "date_label": "Thu 11 Jun",
+      "date_iso": "2026-06-18",
+      "date_label": "Thu 18 Jun",
       "is_today": false,
       "stores": [
         {

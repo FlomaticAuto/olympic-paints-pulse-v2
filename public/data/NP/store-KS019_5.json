@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-15",
   "store": {
     "dlref": "KS019/5",
     "curef": "KS019",
@@ -11,7 +11,7 @@
     "last_purchase_date": "04 Jun 2026",
     "last_purchase_amt": 1722.6,
     "last_purchase_prod": "PKT 2KG PUTTY",
-    "total_12m": 1985756.75,
+    "total_12m": 1951618.35,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 62.1,

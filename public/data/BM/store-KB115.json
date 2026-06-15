@@ -1,0 +1,65 @@
+{
+  "rep": "BM",
+  "rep_name": "Byron Minnie",
+  "generated_at": "2026-06-15",
+  "store": {
+    "dlref": "KB115",
+    "curef": "KB115",
+    "customer_name": "Build Africa Hardware",
+    "town": "",
+    "accno": "KB115",
+    "last_purchase_date": "15 May 2026",
+    "last_purchase_amt": 1094.73,
+    "last_purchase_prod": "5L MAHOGONY VARNISH",
+    "total_12m": 54691.53,
+    "velocity_category": null,
+    "health_tier": "At-Risk",
+    "health_score": 35.3,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 3466.42,
+    "d60": 0.0,
+    "d90": 983.33,
+    "d_total": 4449.75,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131292",
+    "date": "15 May 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 3.0,
+        "unit_price": 348.28,
+        "value": 1044.84
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 79.05,
+        "value": 237.15
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 106.25999999999999,
+        "value": 318.78
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 106.25999999999999,
+        "value": 318.78
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 364.91,
+        "value": 1094.73
+      }
+    ],
+    "total": 3014.2799999999997,
+    "count": 5
+  },
+  "competitor_forms_outstanding": 0
+}

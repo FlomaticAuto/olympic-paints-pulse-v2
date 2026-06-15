@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-15",
   "store": {
     "dlref": "KS029",
     "curef": "KS029",
@@ -11,7 +11,7 @@
     "last_purchase_date": "10 Jun 2026",
     "last_purchase_amt": 1400.0,
     "last_purchase_prod": "5L Q.D. BURGUNDY",
-    "total_12m": 3366495.7,
+    "total_12m": 3366433.31,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 70.9,

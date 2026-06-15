@@ -1,0 +1,389 @@
+{
+  "rep": "AC",
+  "rep_name": "Aboo Cassim",
+  "generated_at": "2026-06-15",
+  "store": {
+    "dlref": "KM007",
+    "curef": "KM007",
+    "customer_name": "Marshall Hardware & Furniture",
+    "town": "Carltonville",
+    "accno": "KM007",
+    "last_purchase_date": "09 Jun 2026",
+    "last_purchase_amt": 1044.84,
+    "last_purchase_prod": "BOTTLE 750ML PAINT REMOVER",
+    "total_12m": 710646.3,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 62.2,
+    "is_recovery": false,
+    "d_current": 193161.14,
+    "d30": 0.0,
+    "d60": -61.09,
+    "d90": 0.0,
+    "d_total": 193100.05,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131604",
+    "date": "09 Jun 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 30.0,
+        "unit_price": 50.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 30.0,
+        "unit_price": 50.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B GREEN",
+        "qty": 10.0,
+        "unit_price": 51.75,
+        "value": 517.5
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S GREEN",
+        "qty": 10.0,
+        "unit_price": 51.75,
+        "value": 517.5
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 10.0,
+        "unit_price": 51.75,
+        "value": 517.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 40.0,
+        "unit_price": 65.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 12.0,
+        "unit_price": 65.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 40.0,
+        "unit_price": 65.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 12.0,
+        "unit_price": 65.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 40.0,
+        "unit_price": 65.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 40.0,
+        "unit_price": 65.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 12.0,
+        "unit_price": 65.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 20.0,
+        "unit_price": 65.0,
+        "value": 1300.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 20.0,
+        "unit_price": 65.0,
+        "value": 1300.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 260.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 475.0,
+        "value": 4750.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 20.0,
+        "unit_price": 475.0,
+        "value": 9500.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 15.0,
+        "unit_price": 475.0,
+        "value": 7125.0
+      },
+      {
+        "prodname": "20L UNIV ROOF  OCEAN BLUE",
+        "qty": 12.0,
+        "unit_price": 475.0,
+        "value": 5700.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 20.0,
+        "unit_price": 475.0,
+        "value": 9500.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 150.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BROWN",
+        "qty": 10.0,
+        "unit_price": 150.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BURGANDY",
+        "qty": 10.0,
+        "unit_price": 150.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "20L PICK 'N SAVE ECONO WHITE",
+        "qty": 30.0,
+        "unit_price": 750.0,
+        "value": 22500.0
+      },
+      {
+        "prodname": "20L PICK 'N SAVE ECONO CREAM",
+        "qty": 20.0,
+        "unit_price": 750.0,
+        "value": 15000.0
+      },
+      {
+        "prodname": "5L PICK 'N SAVE ECONO CREAM",
+        "qty": 20.0,
+        "unit_price": 195.0,
+        "value": 3900.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE ORANGE",
+        "qty": 20.0,
+        "unit_price": 117.82000000000001,
+        "value": 2356.4
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 60.5,
+        "value": 605.0
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 60.5,
+        "value": 605.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 60.5,
+        "value": 605.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 20.0,
+        "unit_price": 75.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 40.0,
+        "unit_price": 90.0,
+        "value": 3600.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 40.0,
+        "unit_price": 90.0,
+        "value": 3600.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 20.0,
+        "unit_price": 90.0,
+        "value": 1800.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 20.0,
+        "unit_price": 90.0,
+        "value": 1800.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 40.0,
+        "unit_price": 90.0,
+        "value": 3600.0
+      },
+      {
+        "prodname": "5L LIGHT OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 295.0,
+        "value": 1180.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 295.0,
+        "value": 1180.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 295.0,
+        "value": 1770.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 4.0,
+        "unit_price": 343.93,
+        "value": 1375.72
+      },
+      {
+        "prodname": "1L  ALKYD ROOF/STOEP RED",
+        "qty": 20.0,
+        "unit_price": 111.79,
+        "value": 2235.8
+      },
+      {
+        "prodname": "5L ALKYD ROOF/STOEP BLACK",
+        "qty": 10.0,
+        "unit_price": 385.0,
+        "value": 3850.0
+      },
+      {
+        "prodname": "5L ALKYD ROOF/STOEP GREY",
+        "qty": 5.0,
+        "unit_price": 385.0,
+        "value": 1925.0
+      },
+      {
+        "prodname": "5L ALKYD ROOF/STOEP RED",
+        "qty": 10.0,
+        "unit_price": 385.0,
+        "value": 3850.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 161.71,
+        "value": 323.42
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 3.0,
+        "unit_price": 161.71,
+        "value": 485.13
+      },
+      {
+        "prodname": "5KG BLACK OXIDE",
+        "qty": 20.0,
+        "unit_price": 66.7,
+        "value": 1334.0
+      },
+      {
+        "prodname": "5KG YELLOW OXIDE",
+        "qty": 20.0,
+        "unit_price": 76.97,
+        "value": 1539.4
+      },
+      {
+        "prodname": "5KG RED OXIDE",
+        "qty": 20.0,
+        "unit_price": 66.7,
+        "value": 1334.0
+      },
+      {
+        "prodname": "BOTTLE 750ML PAINT REMOVER",
+        "qty": 12.0,
+        "unit_price": 87.07,
+        "value": 1044.84
+      }
+    ],
+    "total": 167966.21,
+    "count": 59
+  },
+  "competitor_forms_outstanding": 0
+}
