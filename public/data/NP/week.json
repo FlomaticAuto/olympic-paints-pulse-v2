@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-16",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 77,
   "days": [
     {
       "date_iso": "2026-06-15",
       "date_label": "Mon 15 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA090/1",
@@ -247,10 +247,10 @@
           "customer_name": "Navisha Investments Pty Ltd Oo",
           "town": "Mmakgotha Ward",
           "accno": "KN024_10",
-          "last_purchase_date": "12 Jan 2026",
-          "last_purchase_amt": 520.0,
-          "last_purchase_prod": "12X2KG PUTTY",
-          "total_12m": 4686.03,
+          "last_purchase_date": "15 Jun 2026",
+          "last_purchase_amt": 0.0,
+          "last_purchase_prod": "75mm x 10m Membrane",
+          "total_12m": 17598.260000000002,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 28.1,
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-06-16",
       "date_label": "Tue 16 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA095",

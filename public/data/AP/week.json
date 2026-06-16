@@ -1,14 +1,14 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-16",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
     {
       "date_iso": "2026-06-15",
       "date_label": "Mon 15 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008",
@@ -330,7 +330,7 @@
     {
       "date_iso": "2026-06-16",
       "date_label": "Tue 16 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008/1",
