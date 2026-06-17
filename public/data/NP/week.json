@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 77,
   "days": [
@@ -355,7 +355,7 @@
           "last_purchase_date": "07 May 2026",
           "last_purchase_amt": 2750.0,
           "last_purchase_prod": "5L Q.D. BURGUNDY",
-          "total_12m": 224279.25,
+          "total_12m": 187716.06,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 60.7,
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-06-16",
       "date_label": "Tue 16 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA095",
@@ -593,7 +593,7 @@
           "last_purchase_date": "21 May 2026",
           "last_purchase_amt": 715.0,
           "last_purchase_prod": "20LT 7-IN-1 PVA RIM ROCK",
-          "total_12m": 2255931.95,
+          "total_12m": 2242731.95,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 78.0,
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-06-17",
       "date_label": "Wed 17 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA096",

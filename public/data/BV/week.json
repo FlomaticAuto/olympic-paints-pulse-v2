@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 55,
   "days": [
@@ -309,7 +309,7 @@
     {
       "date_iso": "2026-06-16",
       "date_label": "Tue 16 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB002",
@@ -572,7 +572,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 1667.5,
           "last_purchase_prod": "5LT Q.D. BLUE GREY",
-          "total_12m": 772642.71,
+          "total_12m": 768467.19,
           "velocity_category": "stable",
           "health_tier": "Active but Narrow",
           "health_score": 64.9,
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-06-17",
       "date_label": "Wed 17 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB010",
@@ -726,7 +726,7 @@
           "last_purchase_date": "28 Apr 2026",
           "last_purchase_amt": 13750.0,
           "last_purchase_prod": "20L DECOR PVA CREAM",
-          "total_12m": 3978724.0,
+          "total_12m": 3888564.0,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 61.6,

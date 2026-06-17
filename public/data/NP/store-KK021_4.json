@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "store": {
     "dlref": "KK021/4",
     "curef": "KK021",
@@ -11,7 +11,7 @@
     "last_purchase_date": "21 May 2026",
     "last_purchase_amt": 715.0,
     "last_purchase_prod": "20LT 7-IN-1 PVA RIM ROCK",
-    "total_12m": 2255931.95,
+    "total_12m": 2242731.95,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 78.0,

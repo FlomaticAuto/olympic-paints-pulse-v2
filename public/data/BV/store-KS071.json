@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "store": {
     "dlref": "KS071",
     "curef": "KS071",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 1667.5,
     "last_purchase_prod": "5LT Q.D. BLUE GREY",
-    "total_12m": 772642.71,
+    "total_12m": 768467.19,
     "velocity_category": "stable",
     "health_tier": "Active but Narrow",
     "health_score": 64.9,
