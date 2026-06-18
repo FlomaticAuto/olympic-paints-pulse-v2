@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KH021/2",
     "curef": "KH021",
@@ -11,7 +11,7 @@
     "last_purchase_date": "05 Jun 2026",
     "last_purchase_amt": 3835.0,
     "last_purchase_prod": "5LT HYPER STEEL Q.D PWD BROWN",
-    "total_12m": 812337.11,
+    "total_12m": 794668.8099999999,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 56.8,

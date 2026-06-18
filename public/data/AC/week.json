@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 45,
   "days": [
@@ -103,7 +103,7 @@
           "last_purchase_date": "07 Apr 2026",
           "last_purchase_amt": 902.92,
           "last_purchase_prod": "5L HIGH GLOSS (M/Q) S/RED",
-          "total_12m": 94683.66,
+          "total_12m": 79712.81000000001,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 46.5,
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-06-17",
       "date_label": "Wed 17 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA057",
@@ -743,7 +743,7 @@
     {
       "date_iso": "2026-06-18",
       "date_label": "Thu 18 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA060",
@@ -772,10 +772,10 @@
           "customer_name": "Thamarah Pty Ltd",
           "town": "2ND Str Armadala",
           "accno": "KE018",
-          "last_purchase_date": "09 Jun 2026",
-          "last_purchase_amt": 95.0,
-          "last_purchase_prod": "1L DARK OAK VARNISH",
-          "total_12m": 309287.32999999996,
+          "last_purchase_date": "17 Jun 2026",
+          "last_purchase_amt": 335.5,
+          "last_purchase_prod": "5L DARK OAK VARNISH",
+          "total_12m": 317063.8300000001,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 45.4,
@@ -796,7 +796,7 @@
           "last_purchase_date": "05 Jun 2026",
           "last_purchase_amt": 3835.0,
           "last_purchase_prod": "5LT HYPER STEEL Q.D PWD BROWN",
-          "total_12m": 812337.11,
+          "total_12m": 794668.8099999999,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 56.8,
@@ -824,9 +824,9 @@
           "is_recovery": false,
           "d_current": 170600.49,
           "d30": 240331.24,
-          "d60": 601564.3,
+          "d60": 453078.57,
           "d90": 0.0,
-          "d_total": 1012496.03,
+          "d_total": 864010.3,
           "shared_account": false
         },
         {

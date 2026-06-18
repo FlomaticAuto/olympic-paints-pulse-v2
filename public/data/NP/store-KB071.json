@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KB071",
     "curef": "KB071",
@@ -16,11 +16,11 @@
     "health_tier": "At-Risk",
     "health_score": 49.5,
     "is_recovery": false,
-    "d_current": 83496.9,
+    "d_current": 37901.7,
     "d30": 57601.98,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 141098.88,
+    "d_total": 95503.68,
     "shared_account": false
   },
   "invoice": {

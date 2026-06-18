@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KS061",
     "curef": "KS061",
@@ -11,7 +11,7 @@
     "last_purchase_date": "02 Apr 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 41090.65,
+    "total_12m": 35121.35,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 58.8,

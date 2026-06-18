@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KA117",
     "curef": "KA117",
@@ -18,8 +18,8 @@
     "is_recovery": true,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": 18572.5,
-    "d90": -18573.0,
+    "d60": 0.0,
+    "d90": -0.5,
     "d_total": -0.5,
     "shared_account": false
   },

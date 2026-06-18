@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
@@ -16,11 +16,11 @@
     "health_tier": "Active but Narrow",
     "health_score": 55.0,
     "is_recovery": false,
-    "d_current": 78712.9,
+    "d_current": 39180.5,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 78712.9,
+    "d_total": 39180.5,
     "shared_account": false
   },
   "invoice": {

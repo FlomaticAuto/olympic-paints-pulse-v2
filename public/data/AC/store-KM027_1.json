@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "store": {
     "dlref": "KM027/1",
     "curef": "KM027",
@@ -11,7 +11,7 @@
     "last_purchase_date": "07 Apr 2026",
     "last_purchase_amt": 902.92,
     "last_purchase_prod": "5L HIGH GLOSS (M/Q) S/RED",
-    "total_12m": 94683.66,
+    "total_12m": 79712.81000000001,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 46.5,

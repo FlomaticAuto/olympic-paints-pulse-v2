@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 77,
   "days": [
@@ -45,11 +45,11 @@
           "health_tier": "At-Risk",
           "health_score": 21.3,
           "is_recovery": true,
-          "d_current": 2199.21,
+          "d_current": -1748.44,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 2199.21,
+          "d_total": -1748.44,
           "shared_account": false
         },
         {
@@ -61,7 +61,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 672824.24,
+          "total_12m": 656794.76,
           "velocity_category": "stable",
           "health_tier": "Active & Growing",
           "health_score": 70.5,
@@ -313,7 +313,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 143.75,
           "last_purchase_prod": "5L CARBOLINEUM",
-          "total_12m": 1041250.95,
+          "total_12m": 1009725.5900000001,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 76.5,
@@ -334,7 +334,7 @@
           "last_purchase_date": "26 May 2026",
           "last_purchase_amt": 291.6,
           "last_purchase_prod": "5L Q D DARK GREY ENAMEL",
-          "total_12m": 820094.73,
+          "total_12m": 790413.49,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 72.2,
@@ -397,7 +397,7 @@
           "last_purchase_date": "22 May 2026",
           "last_purchase_amt": 875.0,
           "last_purchase_prod": "1L Q.D. BURGUNDY",
-          "total_12m": 162990.24,
+          "total_12m": 159042.54,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 49.3,
@@ -472,11 +472,11 @@
           "health_tier": "At-Risk",
           "health_score": 49.5,
           "is_recovery": false,
-          "d_current": 83496.9,
+          "d_current": 37901.7,
           "d30": 57601.98,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 141098.88,
+          "d_total": 95503.68,
           "shared_account": false
         },
         {
@@ -698,7 +698,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 305.75,
           "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-          "total_12m": 126247.98999999999,
+          "total_12m": 113620.48999999999,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 50.6,
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-06-17",
       "date_label": "Wed 17 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA096",
@@ -1041,7 +1041,7 @@
           "last_purchase_date": "05 Jun 2026",
           "last_purchase_amt": 275.0,
           "last_purchase_prod": "5L Q D CHARCOAL",
-          "total_12m": 960968.3899999999,
+          "total_12m": 924996.24,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 49.9,
@@ -1247,7 +1247,7 @@
     {
       "date_iso": "2026-06-18",
       "date_label": "Thu 18 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA106",

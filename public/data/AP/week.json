@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
@@ -47,9 +47,9 @@
           "is_recovery": false,
           "d_current": 11923.28,
           "d30": 0.0,
-          "d60": 10717.62,
+          "d60": 8457.62,
           "d90": 0.0,
-          "d_total": 22640.9,
+          "d_total": 20380.9,
           "shared_account": false
         },
         {
@@ -271,7 +271,7 @@
           "last_purchase_date": "04 May 2026",
           "last_purchase_amt": 570.0,
           "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-          "total_12m": 60810.51000000001,
+          "total_12m": 54509.079999999994,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 51.3,
@@ -652,7 +652,7 @@
     {
       "date_iso": "2026-06-17",
       "date_label": "Wed 17 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008/2",
@@ -691,8 +691,8 @@
           "is_recovery": true,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 18572.5,
-          "d90": -18573.0,
+          "d60": 0.0,
+          "d90": -0.5,
           "d_total": -0.5,
           "shared_account": false
         },
@@ -974,7 +974,7 @@
     {
       "date_iso": "2026-06-18",
       "date_label": "Thu 18 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA082",
@@ -1069,7 +1069,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 1920.0,
           "last_purchase_prod": "5L QD CHARCOAL",
-          "total_12m": 271809.52,
+          "total_12m": 269109.52,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 65.6,
@@ -1216,7 +1216,7 @@
           "last_purchase_date": "02 Apr 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 41090.65,
+          "total_12m": 35121.35,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 58.8,
