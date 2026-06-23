@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "store": {
     "dlref": "KI015/1",
     "curef": "KI015",
@@ -11,7 +11,7 @@
     "last_purchase_date": "28 May 2026",
     "last_purchase_amt": 5250.0,
     "last_purchase_prod": "5L Q.D. SILVER",
-    "total_12m": 725354.14,
+    "total_12m": 702616.54,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 50.6,

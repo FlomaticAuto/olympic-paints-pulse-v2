@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "store": {
     "dlref": "KM155",
     "curef": "KM155",
@@ -11,7 +11,7 @@
     "last_purchase_date": "04 Jun 2026",
     "last_purchase_amt": 103.5,
     "last_purchase_prod": "5L RAINPROOF CHARCOAL",
-    "total_12m": 967545.82,
+    "total_12m": 964545.82,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 61.7,

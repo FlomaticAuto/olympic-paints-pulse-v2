@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "store": {
     "dlref": "KA030",
     "curef": "KA030",
@@ -11,7 +11,7 @@
     "last_purchase_date": "20 May 2026",
     "last_purchase_amt": 206.6,
     "last_purchase_prod": "12X2KG PUTTY",
-    "total_12m": 24147.129999999997,
+    "total_12m": 19633.949999999997,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 51.7,

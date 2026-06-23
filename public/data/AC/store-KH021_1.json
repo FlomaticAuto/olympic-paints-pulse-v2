@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "store": {
     "dlref": "KH021/1",
     "curef": "KH021",
@@ -11,7 +11,7 @@
     "last_purchase_date": "25 May 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 749701.03,
+    "total_12m": 741236.28,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 54.3,

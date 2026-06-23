@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
@@ -68,9 +68,9 @@
           "is_recovery": false,
           "d_current": 6037.5,
           "d30": 0.0,
-          "d60": 20732.09,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 26769.59,
+          "d_total": 6037.5,
           "shared_account": false
         },
         {
@@ -187,7 +187,7 @@
           "last_purchase_date": "01 Jun 2026",
           "last_purchase_amt": 475.0,
           "last_purchase_prod": "1L Q.D. BURGUNDY",
-          "total_12m": 77990.82,
+          "total_12m": 62536.05,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 38.1,
@@ -234,11 +234,11 @@
           "health_tier": "At-Risk",
           "health_score": 52.5,
           "is_recovery": false,
-          "d_current": 16712.58,
+          "d_current": 16711.6,
           "d30": 0.0,
-          "d60": 5724.21,
-          "d90": 8814.81,
-          "d_total": 31251.6,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": 16711.6,
           "shared_account": false
         },
         {
@@ -271,7 +271,7 @@
           "last_purchase_date": "04 May 2026",
           "last_purchase_amt": 570.0,
           "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-          "total_12m": 54509.079999999994,
+          "total_12m": 53036.64000000001,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 51.3,
@@ -551,7 +551,7 @@
           "last_purchase_date": "20 Apr 2026",
           "last_purchase_amt": 1750.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 205447.16999999998,
+          "total_12m": 196311.77,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 59.1,
@@ -974,7 +974,7 @@
     {
       "date_iso": "2026-06-18",
       "date_label": "Thu 18 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA082",

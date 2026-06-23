@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-23",
   "store": {
     "dlref": "KM007",
     "curef": "KM007",
@@ -11,16 +11,16 @@
     "last_purchase_date": "09 Jun 2026",
     "last_purchase_amt": 1044.84,
     "last_purchase_prod": "BOTTLE 750ML PAINT REMOVER",
-    "total_12m": 710646.3,
+    "total_12m": 653786.56,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 62.2,
     "is_recovery": false,
-    "d_current": 193161.14,
+    "d_current": -61.09,
     "d30": 0.0,
-    "d60": -61.09,
+    "d60": 0.0,
     "d90": 0.0,
-    "d_total": 193100.05,
+    "d_total": -61.09,
     "shared_account": false
   },
   "invoice": {
