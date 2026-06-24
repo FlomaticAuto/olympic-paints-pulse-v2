@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KO002",
     "curef": "KO002",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 375.0,
     "last_purchase_prod": "5L PP ULTIMATE SHINE GRAPE SORBET",
     "total_12m": 342419.97000000003,
-    "velocity_category": "rocket",
+    "velocity_category": "stable",
     "health_tier": "At-Risk",
     "health_score": 59.0,
     "is_recovery": false,

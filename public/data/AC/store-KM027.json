@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
@@ -12,15 +12,15 @@
     "last_purchase_amt": 930.88,
     "last_purchase_prod": "24x500GM GREEN OXIDE",
     "total_12m": 2178382.07,
-    "velocity_category": "falling",
+    "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 83.0,
     "is_recovery": false,
     "d_current": 170600.49,
     "d30": 240331.24,
-    "d60": 412078.57,
+    "d60": 64920.83,
     "d90": 0.0,
-    "d_total": 823010.3,
+    "d_total": 475852.56,
     "shared_account": false
   },
   "invoice": {

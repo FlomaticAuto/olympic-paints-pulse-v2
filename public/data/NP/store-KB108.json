@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KB108",
     "curef": "KB108",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
     "total_12m": 656794.76,
-    "velocity_category": "stable",
+    "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 70.5,
     "is_recovery": false,

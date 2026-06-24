@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KT005",
     "curef": "KT005",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 29.5,
     "last_purchase_prod": "500ML MAHOGONY VARNISH",
     "total_12m": 185949.85,
-    "velocity_category": "growing",
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 51.4,
     "is_recovery": false,

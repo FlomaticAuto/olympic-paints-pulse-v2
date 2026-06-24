@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KR018",
     "curef": "KR018",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 552.0,
     "last_purchase_prod": "1L Q.D. BURGUNDY",
     "total_12m": 312045.88,
-    "velocity_category": "falling",
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 54.4,
     "is_recovery": false,

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KB071",
     "curef": "KB071",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 2850.0,
     "last_purchase_prod": "20L DECOR KIWI PVA",
     "total_12m": 530008.9299999999,
-    "velocity_category": "falling",
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 49.5,
     "is_recovery": false,

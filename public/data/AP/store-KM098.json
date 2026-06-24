@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KM098",
     "curef": "KM098",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 798.8,
     "last_purchase_prod": "75mm x 10m Membrane",
     "total_12m": 79222.26000000001,
-    "velocity_category": "falling",
+    "velocity_category": "stable",
     "health_tier": "At-Risk",
     "health_score": 40.8,
     "is_recovery": false,

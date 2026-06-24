@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KB003",
     "curef": "KB003",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 1360.8,
     "last_purchase_prod": "20L ECLIPSE SUNSHINE YELLOW",
     "total_12m": 265403.33999999997,
-    "velocity_category": "growing",
+    "velocity_category": "rocket",
     "health_tier": "At-Risk",
     "health_score": 55.9,
     "is_recovery": false,

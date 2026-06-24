@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KA060",
     "curef": "KA060",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 2835.0,
     "last_purchase_prod": "20L DECOR KIWI PVA",
     "total_12m": 126400.86,
-    "velocity_category": null,
+    "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 36.6,
     "is_recovery": false,

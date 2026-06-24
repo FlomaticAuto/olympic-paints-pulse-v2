@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 1080.0,
     "last_purchase_prod": "5L Q.D. SILVER",
     "total_12m": 503982.3,
-    "velocity_category": "stable",
+    "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 55.0,
     "is_recovery": false,

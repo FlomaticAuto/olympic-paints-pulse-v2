@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KB002",
     "curef": "KB002",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "75mm x 10m Membrane",
     "total_12m": 423034.61,
-    "velocity_category": "falling",
+    "velocity_category": "stable",
     "health_tier": "Active but Narrow",
     "health_score": 59.7,
     "is_recovery": false,

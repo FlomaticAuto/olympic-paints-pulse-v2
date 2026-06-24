@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KF028",
     "curef": "KF028",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 9600.0,
     "last_purchase_prod": "5L Q D CHARCOAL",
     "total_12m": 183347.91,
-    "velocity_category": "stable",
+    "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 60.0,
     "is_recovery": false,

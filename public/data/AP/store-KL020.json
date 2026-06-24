@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KL020",
     "curef": "KL020",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 286.2,
     "last_purchase_prod": "20L DECOR WHITE PVA",
     "total_12m": 180088.32,
-    "velocity_category": "stable",
+    "velocity_category": "growing",
     "health_tier": "At-Risk",
     "health_score": 49.7,
     "is_recovery": false,

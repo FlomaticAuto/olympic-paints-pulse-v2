@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KD028",
     "curef": "KD028",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 21160.0,
     "last_purchase_prod": "5LT THINNERS",
     "total_12m": 1726244.31,
-    "velocity_category": "rocket",
+    "velocity_category": "growing",
     "health_tier": "At-Risk",
     "health_score": 51.7,
     "is_recovery": false,

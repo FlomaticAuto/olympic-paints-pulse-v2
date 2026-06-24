@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "store": {
     "dlref": "KB098",
     "curef": "KB098",
@@ -11,8 +11,8 @@
     "last_purchase_date": "23 Apr 2026",
     "last_purchase_amt": 2363.35,
     "last_purchase_prod": "20L HI HIDING CONT PVA WHITE",
-    "total_12m": 332385.76,
-    "velocity_category": "cooling",
+    "total_12m": 292067.85,
+    "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 55.6,
     "is_recovery": false,
