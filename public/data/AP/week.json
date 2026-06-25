@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
@@ -47,9 +47,9 @@
           "is_recovery": false,
           "d_current": 11923.28,
           "d30": 0.0,
-          "d60": 8457.62,
+          "d60": 427.62,
           "d90": 0.0,
-          "d_total": 20380.9,
+          "d_total": 12350.9,
           "shared_account": false
         },
         {
@@ -1222,10 +1222,10 @@
           "health_score": 58.8,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 8948.61,
-          "d60": 32271.48,
+          "d30": 8948.09,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 41220.09,
+          "d_total": 8948.09,
           "shared_account": false
         },
         {

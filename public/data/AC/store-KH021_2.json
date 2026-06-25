@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "store": {
     "dlref": "KH021/2",
     "curef": "KH021",
@@ -28,7 +28,7 @@
     "date": "18 Jun 2026",
     "lines": [
       {
-        "prodname": "1LT HYPER STEEL GRIP COAT BLACK",
+        "prodname": "1LT  GRIP COAT BLACK",
         "qty": 30.0,
         "unit_price": 70.0,
         "value": 2100.0
