@@ -1,17 +1,17 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-26",
   "store": {
     "dlref": "KM027/3",
     "curef": "KM027",
     "customer_name": "Randfontein Hardware",
     "town": "Randfontein",
     "accno": "KM027_3",
-    "last_purchase_date": "03 Jun 2026",
-    "last_purchase_amt": 285.04,
-    "last_purchase_prod": "24x500GM RED OXIDE",
-    "total_12m": 64199.89,
+    "last_purchase_date": "24 Jun 2026",
+    "last_purchase_amt": 1035.16,
+    "last_purchase_prod": "20L FACE BRICK DRESSING",
+    "total_12m": 65235.05,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 32.1,
@@ -24,84 +24,18 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131537",
-    "date": "03 Jun 2026",
+    "invoice_no": "28792",
+    "date": "24 Jun 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) WHITE",
-        "qty": 6.0,
-        "unit_price": 77.42,
-        "value": 464.52
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
-        "qty": 10.0,
-        "unit_price": 77.42,
-        "value": 774.2
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
-        "qty": 6.0,
-        "unit_price": 77.42,
-        "value": 464.52
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) WHITE",
-        "qty": 10.0,
-        "unit_price": 259.59000000000003,
-        "value": 2595.9
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) IVORY",
-        "qty": 3.0,
-        "unit_price": 259.59,
-        "value": 778.77
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 6.0,
-        "unit_price": 259.59,
-        "value": 1557.54
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 4.0,
-        "unit_price": 259.59,
-        "value": 1038.36
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
-        "qty": 2.0,
-        "unit_price": 259.59,
-        "value": 519.18
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 2.0,
-        "unit_price": 259.59,
-        "value": 519.18
-      },
-      {
-        "prodname": "24X1KG PUTTY",
+        "prodname": "20L FACE BRICK DRESSING",
         "qty": 1.0,
-        "unit_price": 243.25,
-        "value": 243.25
-      },
-      {
-        "prodname": "24x500GM OXIDE BLACK",
-        "qty": 2.0,
-        "unit_price": 142.52,
-        "value": 285.04
-      },
-      {
-        "prodname": "24x500GM RED OXIDE",
-        "qty": 2.0,
-        "unit_price": 142.52,
-        "value": 285.04
+        "unit_price": 1035.16,
+        "value": 1035.16
       }
     ],
-    "total": 9525.500000000002,
-    "count": 12
+    "total": 1035.16,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

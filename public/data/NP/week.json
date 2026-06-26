@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-26",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 77,
   "days": [
@@ -674,10 +674,10 @@
           "customer_name": "Omega Hardware And Supermarket",
           "town": "Opposite Budget H/Ware",
           "accno": "KO002",
-          "last_purchase_date": "04 Jun 2026",
-          "last_purchase_amt": 375.0,
-          "last_purchase_prod": "5L PP ULTIMATE SHINE GRAPE SORBET",
-          "total_12m": 342419.97000000003,
+          "last_purchase_date": "24 Jun 2026",
+          "last_purchase_amt": 265.68,
+          "last_purchase_prod": "5L CARBOLINEUM",
+          "total_12m": 342710.51,
           "velocity_category": "stable",
           "health_tier": "At-Risk",
           "health_score": 59.0,

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-26",
   "week_label": "15 Jun \u2013 18 Jun",
   "total_stores": 60,
   "days": [
@@ -100,10 +100,10 @@
           "customer_name": "Fayaz and Brother 891 Pty Ltd",
           "town": "Next to Main Road Next to",
           "accno": "KF028",
-          "last_purchase_date": "04 Jun 2026",
-          "last_purchase_amt": 9600.0,
+          "last_purchase_date": "24 Jun 2026",
+          "last_purchase_amt": 320.0,
           "last_purchase_prod": "5L Q D CHARCOAL",
-          "total_12m": 183347.91,
+          "total_12m": 183667.91,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 60.0,
