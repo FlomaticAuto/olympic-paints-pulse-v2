@@ -1,14 +1,14 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-06-26",
-  "week_label": "15 Jun \u2013 18 Jun",
+  "generated_at": "2026-06-29",
+  "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 5,
   "days": [
     {
-      "date_iso": "2026-06-15",
-      "date_label": "Mon 15 Jun",
-      "is_today": false,
+      "date_iso": "2026-06-29",
+      "date_label": "Mon 29 Jun",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA116",
@@ -55,8 +55,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-16",
-      "date_label": "Tue 16 Jun",
+      "date_iso": "2026-06-30",
+      "date_label": "Tue 30 Jun",
       "is_today": false,
       "stores": [
         {
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-17",
-      "date_label": "Wed 17 Jun",
+      "date_iso": "2026-07-01",
+      "date_label": "Wed 01 Jul",
       "is_today": false,
       "stores": [
         {
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-18",
-      "date_label": "Thu 18 Jun",
+      "date_iso": "2026-07-02",
+      "date_label": "Thu 02 Jul",
       "is_today": false,
       "stores": [
         {
@@ -124,7 +124,7 @@
           "last_purchase_date": "12 May 2026",
           "last_purchase_amt": 281.48,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 6801.080000000002,
+          "total_12m": 5607.870000000001,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 21.7,

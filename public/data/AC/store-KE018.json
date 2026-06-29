@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-26",
+  "generated_at": "2026-06-29",
   "store": {
     "dlref": "KE018",
     "curef": "KE018",
@@ -11,16 +11,16 @@
     "last_purchase_date": "24 Jun 2026",
     "last_purchase_amt": 306.21,
     "last_purchase_prod": "5L COPAL VARNISH",
-    "total_12m": 322975.84,
+    "total_12m": 305274.46,
     "velocity_category": "rocket",
     "health_tier": "Active but Narrow",
     "health_score": 45.4,
     "is_recovery": false,
-    "d_current": 263.12,
+    "d_current": 6798.79,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 263.12,
+    "d_total": 6798.79,
     "shared_account": false
   },
   "invoice": {

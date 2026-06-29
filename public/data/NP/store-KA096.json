@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-26",
+  "generated_at": "2026-06-29",
   "store": {
     "dlref": "KA096",
     "curef": "KA096",
@@ -11,7 +11,7 @@
     "last_purchase_date": "02 Jun 2026",
     "last_purchase_amt": 1800.0,
     "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-    "total_12m": 173935.57,
+    "total_12m": 148590.84999999998,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 58.3,

@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-06-26",
+  "generated_at": "2026-06-29",
   "store": {
     "dlref": "KP060",
     "curef": "KP060",
@@ -11,7 +11,7 @@
     "last_purchase_date": "12 May 2026",
     "last_purchase_amt": 281.48,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 6801.080000000002,
+    "total_12m": 5607.870000000001,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 21.7,

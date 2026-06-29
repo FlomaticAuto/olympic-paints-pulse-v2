@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-26",
+  "generated_at": "2026-06-29",
   "store": {
     "dlref": "KT019",
     "curef": "KT019",
@@ -11,7 +11,7 @@
     "last_purchase_date": "23 Jun 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 767121.49,
+    "total_12m": 721653.6200000001,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 67.4,
@@ -274,12 +274,6 @@
         "value": 1220.0
       },
       {
-        "prodname": "20L ALKYD ROOF/STOEP GREY",
-        "qty": 2.0,
-        "unit_price": 1399.0,
-        "value": 2798.0
-      },
-      {
         "prodname": "DOZEN 750ML LACQUER THINNERS",
         "qty": 4.0,
         "unit_price": 250.0,
@@ -394,8 +388,8 @@
         "value": 0.0
       }
     ],
-    "total": 50522.6,
-    "count": 61
+    "total": 47724.6,
+    "count": 60
   },
   "competitor_forms_outstanding": 0
 }

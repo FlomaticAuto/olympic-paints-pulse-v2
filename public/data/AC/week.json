@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-26",
-  "week_label": "15 Jun \u2013 18 Jun",
+  "generated_at": "2026-06-29",
+  "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 45,
   "days": [
     {
-      "date_iso": "2026-06-15",
-      "date_label": "Mon 15 Jun",
-      "is_today": false,
+      "date_iso": "2026-06-29",
+      "date_label": "Mon 29 Jun",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA030",
@@ -26,9 +26,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 2676.11,
-          "d60": 4372.7,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 7048.81,
+          "d_total": 2676.11,
           "shared_account": false
         },
         {
@@ -58,19 +58,19 @@
           "customer_name": "Epic Foods (Pty) Ltd",
           "town": "Aeroton",
           "accno": "KE037",
-          "last_purchase_date": "10 Apr 2026",
-          "last_purchase_amt": 1924.92,
+          "last_purchase_date": "25 Jun 2026",
+          "last_purchase_amt": 2530.0,
           "last_purchase_prod": "20L ALKYD ROOF/STOEP GREY",
-          "total_12m": 16654.58,
+          "total_12m": 19184.58,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 18.8,
           "is_recovery": true,
-          "d_current": 0.0,
+          "d_current": 2909.5,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0,
+          "d_total": 2909.5,
           "shared_account": false
         },
         {
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-16",
-      "date_label": "Tue 16 Jun",
+      "date_iso": "2026-06-30",
+      "date_label": "Tue 30 Jun",
       "is_today": false,
       "stores": [
         {
@@ -503,8 +503,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-17",
-      "date_label": "Wed 17 Jun",
+      "date_iso": "2026-07-01",
+      "date_label": "Wed 01 Jul",
       "is_today": false,
       "stores": [
         {
@@ -689,11 +689,11 @@
           "health_tier": "At-Risk",
           "health_score": 50.6,
           "is_recovery": false,
-          "d_current": -0.34,
+          "d_current": 14257.02,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": -0.34,
+          "d_total": 14257.02,
           "shared_account": false
         },
         {
@@ -741,8 +741,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-18",
-      "date_label": "Thu 18 Jun",
+      "date_iso": "2026-07-02",
+      "date_label": "Thu 02 Jul",
       "is_today": false,
       "stores": [
         {
@@ -775,16 +775,16 @@
           "last_purchase_date": "24 Jun 2026",
           "last_purchase_amt": 306.21,
           "last_purchase_prod": "5L COPAL VARNISH",
-          "total_12m": 322975.84,
+          "total_12m": 305274.46,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 45.4,
           "is_recovery": false,
-          "d_current": 263.12,
+          "d_current": 6798.79,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 263.12,
+          "d_total": 6798.79,
           "shared_account": false
         },
         {
@@ -796,7 +796,7 @@
           "last_purchase_date": "18 Jun 2026",
           "last_purchase_amt": 885.0,
           "last_purchase_prod": "5LT HYPER STEEL Q.D ROYAL BLUE",
-          "total_12m": 827076.16,
+          "total_12m": 826388.81,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 56.8,
@@ -822,11 +822,11 @@
           "health_tier": "Active & Growing",
           "health_score": 83.0,
           "is_recovery": false,
-          "d_current": 241395.76,
-          "d30": 240331.24,
-          "d60": 64920.83,
+          "d_current": 240205.33,
+          "d30": 213837.07,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 546647.83,
+          "d_total": 454042.4,
           "shared_account": false
         },
         {
