@@ -1,203 +1,41 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "store": {
     "dlref": "KD008",
     "curef": "KD008",
     "customer_name": "Dada's World of Hardware CC",
     "town": "Polokwane",
     "accno": "KD008",
-    "last_purchase_date": "25 Jun 2026",
-    "last_purchase_amt": 770.0,
-    "last_purchase_prod": "1L QD GREY PRIMER",
-    "total_12m": 3933489.09,
+    "last_purchase_date": "29 Jun 2026",
+    "last_purchase_amt": 304.33,
+    "last_purchase_prod": "5L ALKYD ROOF/STOEP BLACK",
+    "total_12m": 3933793.4200000004,
     "velocity_category": "cooling",
     "health_tier": "Active & Growing",
     "health_score": 70.8,
     "is_recovery": false,
-    "d_current": 362283.26,
+    "d_current": 361933.28,
     "d30": 284654.52,
     "d60": 267988.85,
     "d90": 39.34,
-    "d_total": 914965.97,
+    "d_total": 914615.99,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131784",
-    "date": "25 Jun 2026",
+    "invoice_no": "28831",
+    "date": "29 Jun 2026",
     "lines": [
       {
-        "prodname": "20L DECOR WHITE PVA",
-        "qty": 100.0,
-        "unit_price": 254.23,
-        "value": 25423.0
-      },
-      {
-        "prodname": "20L DECOR FOSSIL GREEN PVA",
-        "qty": 10.0,
-        "unit_price": 288.90999999999997,
-        "value": 2889.1
-      },
-      {
-        "prodname": "20L DECOR SILVER MIST PVA",
-        "qty": 10.0,
-        "unit_price": 288.90999999999997,
-        "value": 2889.1
-      },
-      {
-        "prodname": "5L DECOR CREAM PVA",
-        "qty": 15.0,
-        "unit_price": 83.02,
-        "value": 1245.3
-      },
-      {
-        "prodname": "20L MASTER DECOR FOSSIL GREEN",
-        "qty": 15.0,
-        "unit_price": 507.17,
-        "value": 7607.55
-      },
-      {
-        "prodname": "5L MASTER DECOR WHITE PVA",
-        "qty": 10.0,
-        "unit_price": 157.44,
-        "value": 1574.4
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) WHITE",
-        "qty": 20.0,
-        "unit_price": 236.25,
-        "value": 4725.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 30.0,
-        "unit_price": 236.25,
-        "value": 7087.5
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 30.0,
-        "unit_price": 247.5,
-        "value": 7425.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
-        "qty": 25.0,
-        "unit_price": 247.5,
-        "value": 6187.5
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
-        "qty": 15.0,
-        "unit_price": 247.5,
-        "value": 3712.5
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
-        "qty": 20.0,
-        "unit_price": 247.5,
-        "value": 4950.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
-        "qty": 15.0,
-        "unit_price": 247.5,
-        "value": 3712.5
-      },
-      {
-        "prodname": "20L UNIVERSAL ROOF BROWN",
-        "qty": 5.0,
-        "unit_price": 515.0,
-        "value": 2575.0
-      },
-      {
-        "prodname": "5L SANDING SEALER",
-        "qty": 15.0,
-        "unit_price": 287.67,
-        "value": 4315.05
-      },
-      {
-        "prodname": "5L Q D RED OXIDE PRIMER",
-        "qty": 5.0,
-        "unit_price": 266.58000000000004,
-        "value": 1332.9
-      },
-      {
-        "prodname": "5L PP ULTIMATE SHINE L GREY",
-        "qty": 5.0,
-        "unit_price": 306.46,
-        "value": 1532.3
-      },
-      {
-        "prodname": "5L COPAL VARNISH",
-        "qty": 30.0,
-        "unit_price": 235.62,
-        "value": 7068.6
-      },
-      {
-        "prodname": "5L LIGHT OAK VARNISH",
-        "qty": 5.0,
-        "unit_price": 304.65999999999997,
-        "value": 1523.3
-      },
-      {
-        "prodname": "5L DARK OAK VARNISH",
-        "qty": 10.0,
-        "unit_price": 304.65999999999997,
-        "value": 3046.6
-      },
-      {
-        "prodname": "5L MAHOGONY VARNISH",
-        "qty": 15.0,
-        "unit_price": 304.65999999999997,
-        "value": 4569.9
-      },
-      {
-        "prodname": "5L WALNUT VARNISH",
-        "qty": 15.0,
-        "unit_price": 304.65999999999997,
-        "value": 4569.9
-      },
-      {
         "prodname": "5L ALKYD ROOF/STOEP BLACK",
-        "qty": 10.0,
-        "unit_price": 304.33000000000004,
-        "value": 3043.3
-      },
-      {
-        "prodname": "5L ALKYD ROOF/STOEP GREEN",
-        "qty": 5.0,
-        "unit_price": 304.33000000000004,
-        "value": 1521.65
-      },
-      {
-        "prodname": "5L ALKYD ROOF/STOEP BURGUNDY",
-        "qty": 10.0,
-        "unit_price": 304.33000000000004,
-        "value": 3043.3
-      },
-      {
-        "prodname": "5L Q D BLACK ENAMEL",
-        "qty": 15.0,
-        "unit_price": 262.96,
-        "value": 3944.4
-      },
-      {
-        "prodname": "5L Q D BRONZE ENAMEL",
-        "qty": 20.0,
-        "unit_price": 272.18,
-        "value": 5443.6
-      },
-      {
-        "prodname": "5L Q D CHARCOAL",
-        "qty": 15.0,
-        "unit_price": 272.18,
-        "value": 4082.7
+        "qty": 1.0,
+        "unit_price": 304.33,
+        "value": 304.33
       }
     ],
-    "total": 131040.95,
-    "count": 28
+    "total": 304.33,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

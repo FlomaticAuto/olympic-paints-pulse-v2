@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
@@ -17,10 +17,10 @@
     "health_score": 83.0,
     "is_recovery": false,
     "d_current": 240205.33,
-    "d30": 213837.07,
+    "d30": 183837.07,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 454042.4,
+    "d_total": 424042.4,
     "shared_account": false
   },
   "invoice": {

@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 77,
   "days": [
     {
       "date_iso": "2026-06-29",
       "date_label": "Mon 29 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA090/1",
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-06-30",
       "date_label": "Tue 30 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA095",
@@ -590,10 +590,10 @@
           "customer_name": "Kit Kat Group (Pty) Ltd",
           "town": "Opposite Mam's Mall",
           "accno": "KK021_4",
-          "last_purchase_date": "22 Jun 2026",
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 2218822.8899999997,
+          "last_purchase_date": "29 Jun 2026",
+          "last_purchase_amt": 1100.0,
+          "last_purchase_prod": "5L PICK 'N SAVE  ECONO PINK",
+          "total_12m": 2225274.89,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 78.0,
@@ -641,10 +641,10 @@
           "health_score": 50.2,
           "is_recovery": false,
           "d_current": 215145.97,
-          "d30": 152026.56,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 367172.53,
+          "d_total": 215145.97,
           "shared_account": false
         },
         {
@@ -1235,11 +1235,11 @@
           "health_tier": "Active & Growing",
           "health_score": 67.4,
           "is_recovery": false,
-          "d_current": 157422.55,
+          "d_current": 99321.56,
           "d30": 66864.26,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 224286.81,
+          "d_total": 166185.82,
           "shared_account": false
         }
       ]
@@ -1255,19 +1255,19 @@
           "customer_name": "Afia PTY (LTD) t/a",
           "town": "19 H Suez Street",
           "accno": "KA106",
-          "last_purchase_date": "01 Jun 2026",
-          "last_purchase_amt": 8000.0,
+          "last_purchase_date": "29 Jun 2026",
+          "last_purchase_amt": 2500.0,
           "last_purchase_prod": "5L Q.D. BURGUNDY",
-          "total_12m": 257410.31000000003,
+          "total_12m": 289594.86,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 34.0,
           "is_recovery": false,
-          "d_current": 114748.9,
+          "d_current": 25737.01,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 1810.89,
-          "d_total": 116559.79,
+          "d_total": 27547.9,
           "shared_account": false
         },
         {
@@ -1369,10 +1369,10 @@
           "health_score": 40.4,
           "is_recovery": false,
           "d_current": 169594.43,
-          "d30": 260580.23,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 430174.66,
+          "d_total": 169594.43,
           "shared_account": false
         },
         {
@@ -1411,10 +1411,10 @@
           "health_score": 46.0,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 3719.84,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 3719.84,
+          "d_total": 0.0,
           "shared_account": false
         },
         {

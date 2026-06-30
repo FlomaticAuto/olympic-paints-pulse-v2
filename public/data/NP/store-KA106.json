@@ -1,103 +1,103 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "store": {
     "dlref": "KA106",
     "curef": "KA106",
     "customer_name": "Afia PTY (LTD) t/a",
     "town": "19 H Suez Street",
     "accno": "KA106",
-    "last_purchase_date": "01 Jun 2026",
-    "last_purchase_amt": 8000.0,
+    "last_purchase_date": "29 Jun 2026",
+    "last_purchase_amt": 2500.0,
     "last_purchase_prod": "5L Q.D. BURGUNDY",
-    "total_12m": 257410.31000000003,
+    "total_12m": 289594.86,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 34.0,
     "is_recovery": false,
-    "d_current": 114748.9,
+    "d_current": 25737.01,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 1810.89,
-    "d_total": 116559.79,
+    "d_total": 27547.9,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131488",
-    "date": "01 Jun 2026",
+    "invoice_no": "28825",
+    "date": "29 Jun 2026",
     "lines": [
       {
         "prodname": "1L UNIV UNDERCOAT WHITE",
         "qty": 10.0,
-        "unit_price": 114.39000000000001,
-        "value": 1143.9
+        "unit_price": 9.39,
+        "value": 93.9
       },
       {
         "prodname": "5L UNIV UNDERCOAT WHITE",
         "qty": 20.0,
-        "unit_price": 454.08000000000004,
-        "value": 9081.6
+        "unit_price": 64.08,
+        "value": 1281.6
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) WHITE",
         "qty": 10.0,
-        "unit_price": 98.2,
-        "value": 982.0
+        "unit_price": 26.51,
+        "value": 265.1
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) WHITE",
         "qty": 10.0,
-        "unit_price": 360.03000000000003,
-        "value": 3600.3
+        "unit_price": 120.50999999999999,
+        "value": 1205.1
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) BLACK",
         "qty": 15.0,
-        "unit_price": 360.03,
-        "value": 5400.45
+        "unit_price": 120.51,
+        "value": 1807.65
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) GREY",
         "qty": 15.0,
-        "unit_price": 417.19,
-        "value": 6257.85
+        "unit_price": 177.67000000000002,
+        "value": 2665.05
       },
       {
         "prodname": "5L UNIVERSAL ROOF BLACK",
         "qty": 5.0,
-        "unit_price": 297.74,
-        "value": 1488.7
+        "unit_price": 122.78,
+        "value": 613.9
       },
       {
         "prodname": "5L UNIVERSAL ROOF GREY",
         "qty": 10.0,
-        "unit_price": 297.74,
-        "value": 2977.4
+        "unit_price": 122.78,
+        "value": 1227.8
       },
       {
         "prodname": "1L Q D RED OXIDE PRIMER",
         "qty": 10.0,
-        "unit_price": 106.0,
-        "value": 1060.0
+        "unit_price": 6.0,
+        "value": 60.0
       },
       {
         "prodname": "1L FACE BRICK DRESSING",
         "qty": 10.0,
-        "unit_price": 101.92,
-        "value": 1019.2
+        "unit_price": 6.92,
+        "value": 69.2
       },
       {
         "prodname": "5L FACE BRICK DRESSING",
         "qty": 20.0,
-        "unit_price": 398.76,
-        "value": 7975.2
+        "unit_price": 33.760000000000005,
+        "value": 675.2
       },
       {
         "prodname": "DOZEN 750ML LACQUER THINNERS",
         "qty": 5.0,
-        "unit_price": 282.21,
-        "value": 1411.05
+        "unit_price": 17.21,
+        "value": 86.05
       },
       {
         "prodname": "5LT THINNERS",
@@ -108,47 +108,47 @@
       {
         "prodname": "1L Q D DARK GREY ENAMEL",
         "qty": 20.0,
-        "unit_price": 100.0,
-        "value": 2000.0
+        "unit_price": 25.0,
+        "value": 500.0
       },
       {
         "prodname": "1L Q D GREY ENAMEL",
         "qty": 10.0,
-        "unit_price": 100.0,
-        "value": 1000.0
+        "unit_price": 25.0,
+        "value": 250.0
       },
       {
         "prodname": "5L Q D BLACK ENAMEL",
         "qty": 20.0,
-        "unit_price": 400.0,
-        "value": 8000.0
+        "unit_price": 125.0,
+        "value": 2500.0
       },
       {
         "prodname": "5L Q D BRONZE ENAMEL",
         "qty": 40.0,
-        "unit_price": 400.0,
-        "value": 16000.0
+        "unit_price": 125.0,
+        "value": 5000.0
       },
       {
         "prodname": "5L Q D DARK GREY ENAMEL",
         "qty": 20.0,
-        "unit_price": 400.0,
-        "value": 8000.0
+        "unit_price": 125.0,
+        "value": 2500.0
       },
       {
         "prodname": "5L Q D CHARCOAL",
         "qty": 20.0,
-        "unit_price": 400.0,
-        "value": 8000.0
+        "unit_price": 125.0,
+        "value": 2500.0
       },
       {
         "prodname": "5L Q.D. BURGUNDY",
         "qty": 20.0,
-        "unit_price": 400.0,
-        "value": 8000.0
+        "unit_price": 125.0,
+        "value": 2500.0
       }
     ],
-    "total": 99781.65,
+    "total": 32184.550000000003,
     "count": 20
   },
   "competitor_forms_outstanding": 0

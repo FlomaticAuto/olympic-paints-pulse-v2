@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 45,
   "days": [
     {
       "date_iso": "2026-06-29",
       "date_label": "Mon 29 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA030",
@@ -185,9 +185,9 @@
           "town": "Carltonville",
           "accno": "KP058_1",
           "last_purchase_date": "04 Jun 2026",
-          "last_purchase_amt": 2240.0,
+          "last_purchase_amt": 1992.0,
           "last_purchase_prod": "5L HIGH GLOSS (MQ) S BLUE",
-          "total_12m": 191860.06,
+          "total_12m": 189635.08,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 50.7,
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-06-30",
       "date_label": "Tue 30 Jun",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA050",
@@ -780,11 +780,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 45.4,
           "is_recovery": false,
-          "d_current": 6798.79,
+          "d_current": -0.02,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 6798.79,
+          "d_total": -0.02,
           "shared_account": false
         },
         {
@@ -823,10 +823,10 @@
           "health_score": 83.0,
           "is_recovery": false,
           "d_current": 240205.33,
-          "d30": 213837.07,
+          "d30": 183837.07,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 454042.4,
+          "d_total": 424042.4,
           "shared_account": false
         },
         {
@@ -906,11 +906,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 49.7,
           "is_recovery": false,
-          "d_current": 21424.48,
+          "d_current": 40290.23,
           "d30": -8364.87,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 13059.61,
+          "d_total": 31925.36,
           "shared_account": false
         },
         {
@@ -951,8 +951,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 9080.31,
-          "d90": 14859.58,
-          "d_total": 23939.89,
+          "d90": 0.0,
+          "d_total": 9080.31,
           "shared_account": false
         },
         {

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-06-30",
   "store": {
     "dlref": "KP058/1",
     "curef": "KP058",
@@ -9,9 +9,9 @@
     "town": "Carltonville",
     "accno": "KP058_1",
     "last_purchase_date": "04 Jun 2026",
-    "last_purchase_amt": 2240.0,
+    "last_purchase_amt": 1992.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) S BLUE",
-    "total_12m": 191860.06,
+    "total_12m": 189635.08,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 50.7,
@@ -30,83 +30,83 @@
       {
         "prodname": "20L MASTER DECOR DESERT CAMEL",
         "qty": 5.0,
-        "unit_price": 550.0,
-        "value": 2750.0
+        "unit_price": 479.0,
+        "value": 2395.0
       },
       {
         "prodname": "20L MASTER DECOR FOSSIL GREEN",
         "qty": 5.0,
-        "unit_price": 550.0,
-        "value": 2750.0
+        "unit_price": 479.0,
+        "value": 2395.0
       },
       {
         "prodname": "20L MASTER DECOR SILVER SANDS",
         "qty": 6.0,
-        "unit_price": 550.0,
-        "value": 3300.0
+        "unit_price": 479.0,
+        "value": 2874.0
       },
       {
         "prodname": "20L MASTER DECOR PEBBLE STONE",
         "qty": 4.0,
-        "unit_price": 550.0,
-        "value": 2200.0
+        "unit_price": 479.0,
+        "value": 1916.0
       },
       {
         "prodname": "5L MASTER DECOR FOSSIL GREEN",
         "qty": 3.0,
-        "unit_price": 184.08,
-        "value": 552.24
+        "unit_price": 149.0,
+        "value": 447.0
       },
       {
         "prodname": "5L MASTER DECOR SILVER SANDS",
         "qty": 3.0,
-        "unit_price": 184.08,
-        "value": 552.24
+        "unit_price": 149.0,
+        "value": 447.0
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) WHITE",
         "qty": 5.0,
-        "unit_price": 79.05,
-        "value": 395.25
+        "unit_price": 75.0,
+        "value": 375.0
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) BLACK",
         "qty": 5.0,
-        "unit_price": 79.05,
-        "value": 395.25
+        "unit_price": 75.0,
+        "value": 375.0
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) S BLUE",
         "qty": 6.0,
-        "unit_price": 82.5,
-        "value": 495.0
+        "unit_price": 75.0,
+        "value": 450.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) WHITE",
         "qty": 4.0,
-        "unit_price": 270.0,
-        "value": 1080.0
+        "unit_price": 249.0,
+        "value": 996.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) PEACH",
         "qty": 3.0,
-        "unit_price": 280.0,
-        "value": 840.0
+        "unit_price": 249.0,
+        "value": 747.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) BLACK",
         "qty": 4.0,
-        "unit_price": 270.0,
-        "value": 1080.0
+        "unit_price": 249.0,
+        "value": 996.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) S BLUE",
         "qty": 8.0,
-        "unit_price": 280.0,
-        "value": 2240.0
+        "unit_price": 249.0,
+        "value": 1992.0
       }
     ],
-    "total": 18629.98,
+    "total": 16405.0,
     "count": 13
   },
   "competitor_forms_outstanding": 0
