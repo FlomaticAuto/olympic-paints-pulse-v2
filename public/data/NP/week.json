@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 77,
   "days": [
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-06-30",
       "date_label": "Tue 30 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA095",
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA096",
@@ -852,7 +852,7 @@
           "last_purchase_date": "02 Jun 2026",
           "last_purchase_amt": 1800.0,
           "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-          "total_12m": 148590.84999999998,
+          "total_12m": 97901.41,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 58.3,
@@ -1230,7 +1230,7 @@
           "last_purchase_date": "23 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 721653.6200000001,
+          "total_12m": 636313.88,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 67.4,
@@ -1300,7 +1300,7 @@
           "last_purchase_date": "18 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 2136337.26,
+          "total_12m": 2115306.26,
           "velocity_category": "rocket",
           "health_tier": "Active & Growing",
           "health_score": 65.3,

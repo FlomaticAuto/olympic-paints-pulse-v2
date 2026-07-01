@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "store": {
     "dlref": "KM160",
     "curef": "KM160",
@@ -11,7 +11,7 @@
     "last_purchase_date": "10 Jun 2026",
     "last_purchase_amt": 1375.0,
     "last_purchase_prod": "5L Q D CHARCOAL",
-    "total_12m": 1684830.82,
+    "total_12m": 1421796.1400000001,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 46.6,

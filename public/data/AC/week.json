@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 45,
   "days": [
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-06-30",
       "date_label": "Tue 30 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA050",
@@ -320,7 +320,7 @@
           "last_purchase_date": "05 Feb 2026",
           "last_purchase_amt": 2375.0,
           "last_purchase_prod": "20L MASTER DECOR AFRICAN KUDU",
-          "total_12m": 48536.39,
+          "total_12m": 45786.39,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 19.8,
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA057",
@@ -796,7 +796,7 @@
           "last_purchase_date": "18 Jun 2026",
           "last_purchase_amt": 885.0,
           "last_purchase_prod": "5LT HYPER STEEL Q.D ROYAL BLUE",
-          "total_12m": 826388.81,
+          "total_12m": 812840.01,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 56.8,
@@ -817,7 +817,7 @@
           "last_purchase_date": "22 Jun 2026",
           "last_purchase_amt": 2850.4,
           "last_purchase_prod": "24x500GM RED OXIDE",
-          "total_12m": 2239943.17,
+          "total_12m": 2177387.4999999995,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 83.0,

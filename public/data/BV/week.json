@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 55,
   "days": [
@@ -309,7 +309,7 @@
     {
       "date_iso": "2026-06-30",
       "date_label": "Tue 30 Jun",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB002",
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB010",

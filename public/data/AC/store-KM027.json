@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
@@ -11,7 +11,7 @@
     "last_purchase_date": "22 Jun 2026",
     "last_purchase_amt": 2850.4,
     "last_purchase_prod": "24x500GM RED OXIDE",
-    "total_12m": 2239943.17,
+    "total_12m": 2177387.4999999995,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 83.0,
