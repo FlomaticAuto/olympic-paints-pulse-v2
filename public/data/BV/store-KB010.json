@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "store": {
     "dlref": "KB010",
     "curef": "KB010",
@@ -11,7 +11,7 @@
     "last_purchase_date": "25 Jun 2026",
     "last_purchase_amt": 736.0,
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
-    "total_12m": 266503.05,
+    "total_12m": 251685.12000000002,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 53.9,

@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 55,
   "days": [
@@ -103,7 +103,7 @@
           "last_purchase_date": "11 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 600769.5,
+          "total_12m": 580042.8,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 26.7,
@@ -320,7 +320,7 @@
           "last_purchase_date": "24 Jun 2026",
           "last_purchase_amt": 141.24,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 423252.24999999994,
+          "total_12m": 409445.0,
           "velocity_category": "stable",
           "health_tier": "Active but Narrow",
           "health_score": 59.7,
@@ -341,7 +341,7 @@
           "last_purchase_date": "09 Apr 2026",
           "last_purchase_amt": 680.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 43591.770000000004,
+          "total_12m": 37651.97,
           "velocity_category": "stable",
           "health_tier": "At-Risk",
           "health_score": 37.5,
@@ -593,7 +593,7 @@
           "last_purchase_date": "21 Apr 2026",
           "last_purchase_amt": 208.68,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 184345.75,
+          "total_12m": 174881.11000000002,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 58.9,
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB010",
@@ -621,7 +621,7 @@
           "last_purchase_date": "25 Jun 2026",
           "last_purchase_amt": 736.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 266503.05,
+          "total_12m": 251685.12000000002,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 53.9,
@@ -789,7 +789,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 1260.0,
           "last_purchase_prod": "20L ECLIPSE CREAM PVA",
-          "total_12m": 57000.06,
+          "total_12m": 53874.35999999999,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 58.5,
@@ -810,7 +810,7 @@
           "last_purchase_date": "22 Apr 2026",
           "last_purchase_amt": 1800.0,
           "last_purchase_prod": "20L DECOR NIGHT SKY PVA",
-          "total_12m": 2166649.29,
+          "total_12m": 2044182.8399999999,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 75.1,
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-07-02",
       "date_label": "Thu 02 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB066",

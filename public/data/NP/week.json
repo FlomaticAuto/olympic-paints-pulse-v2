@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 77,
   "days": [
@@ -124,7 +124,7 @@
           "last_purchase_date": "24 Mar 2026",
           "last_purchase_amt": 79.2,
           "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 55175.21999999999,
+          "total_12m": 50963.51999999999,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 54.6,
@@ -313,7 +313,7 @@
           "last_purchase_date": "23 Jun 2026",
           "last_purchase_amt": 2750.0,
           "last_purchase_prod": "5L Q.D. BURGUNDY",
-          "total_12m": 1047366.09,
+          "total_12m": 1006594.56,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 76.5,
@@ -614,7 +614,7 @@
           "last_purchase_date": "06 May 2026",
           "last_purchase_amt": 1020.0,
           "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-          "total_12m": 190645.14,
+          "total_12m": 169892.38,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 43.5,
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA096",
@@ -1083,7 +1083,7 @@
           "last_purchase_date": "18 Mar 2026",
           "last_purchase_amt": 1120.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 65446.969999999994,
+          "total_12m": 60086.25,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 36.4,
@@ -1230,7 +1230,7 @@
           "last_purchase_date": "23 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 636313.88,
+          "total_12m": 627241.88,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 67.4,
@@ -1247,7 +1247,7 @@
     {
       "date_iso": "2026-07-02",
       "date_label": "Thu 02 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA106",
@@ -1300,7 +1300,7 @@
           "last_purchase_date": "18 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 2115306.26,
+          "total_12m": 2020661.82,
           "velocity_category": "rocket",
           "health_tier": "Active & Growing",
           "health_score": 65.3,
@@ -1531,7 +1531,7 @@
           "last_purchase_date": "02 Jun 2026",
           "last_purchase_amt": 2240.0,
           "last_purchase_prod": "5L HIGH GLOSS (MQ) BURGANDY",
-          "total_12m": 190085.91000000003,
+          "total_12m": 169582.11,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 63.8,
@@ -1573,7 +1573,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 1722.6,
           "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 1915512.39,
+          "total_12m": 1815092.1900000002,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 62.1,

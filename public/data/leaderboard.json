@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-07-01",
+  "last_updated_iso": "2026-07-02",
   "rows": [
     {
       "rep": "AC",
@@ -7,7 +7,7 @@
       "mtd_sales": 0.0,
       "mtd_target": 1880636.6149999998,
       "pct_target": 0.0,
-      "plan_adherence": 0.0,
+      "plan_adherence": 0.8333333333333334,
       "ack_streak": 0
     },
     {
@@ -16,7 +16,7 @@
       "mtd_sales": 0.0,
       "mtd_target": 1943512.428,
       "pct_target": 0.0,
-      "plan_adherence": 0.0,
+      "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
@@ -25,7 +25,7 @@
       "mtd_sales": 0.0,
       "mtd_target": 7143174.921999999,
       "pct_target": 0.0,
-      "plan_adherence": 0.0,
+      "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
@@ -34,7 +34,7 @@
       "mtd_sales": 0.0,
       "mtd_target": 5439216.718,
       "pct_target": 0.0,
-      "plan_adherence": 0.0,
+      "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
@@ -43,7 +43,7 @@
       "mtd_sales": 0.0,
       "mtd_target": 5743.945999999999,
       "pct_target": 0.0,
-      "plan_adherence": 0.0,
+      "plan_adherence": 1.0,
       "ack_streak": 0
     }
   ]

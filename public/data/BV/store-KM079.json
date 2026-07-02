@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "store": {
     "dlref": "KM079",
     "curef": "KM079",
@@ -11,7 +11,7 @@
     "last_purchase_date": "06 May 2026",
     "last_purchase_amt": 1260.0,
     "last_purchase_prod": "20L ECLIPSE CREAM PVA",
-    "total_12m": 57000.06,
+    "total_12m": 53874.35999999999,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 58.5,

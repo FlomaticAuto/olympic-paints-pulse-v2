@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "week_label": "29 Jun \u2013 02 Jul",
   "total_stores": 5,
   "days": [
@@ -85,7 +85,7 @@
     {
       "date_iso": "2026-07-01",
       "date_label": "Wed 01 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KC055",
@@ -113,7 +113,7 @@
     {
       "date_iso": "2026-07-02",
       "date_label": "Thu 02 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KP060",
