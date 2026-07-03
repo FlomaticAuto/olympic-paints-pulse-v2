@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KH008",
     "curef": "KH008",
@@ -13,12 +13,12 @@
     "last_purchase_prod": "PKT 2KG PUTTY",
     "total_12m": 50963.51999999999,
     "velocity_category": "falling",
-    "health_tier": "Active but Narrow",
-    "health_score": 54.6,
+    "health_tier": "Dead / Dormant",
+    "health_score": 35.4,
     "is_recovery": false,
     "d_current": 0.0,
-    "d30": -91.08,
-    "d60": 0.0,
+    "d30": 0.0,
+    "d60": -91.08,
     "d90": 0.0,
     "d_total": -91.08,
     "shared_account": false

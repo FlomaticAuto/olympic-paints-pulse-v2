@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KL011",
     "curef": "KL011",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "DOZEN 750ML CARBOLINEUM",
     "total_12m": 46452.409999999996,
     "velocity_category": "falling",
-    "health_tier": "At-Risk",
-    "health_score": 39.9,
+    "health_tier": "Dead / Dormant",
+    "health_score": 43.4,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

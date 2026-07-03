@@ -1,97 +1,127 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KM071",
     "curef": "KM071",
     "customer_name": "Inyameko Trading 1605",
     "town": "Next to Carlton Motor Spares",
     "accno": "KM071",
-    "last_purchase_date": "23 Jun 2026",
-    "last_purchase_amt": 700.0,
-    "last_purchase_prod": "5L Q.D. SILVER",
-    "total_12m": 1249685.96,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 550.0,
+    "last_purchase_prod": "5L Q D  GREEN ENAMEL",
+    "total_12m": 1309314.81,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
-    "health_score": 50.2,
+    "health_score": 50.1,
     "is_recovery": false,
-    "d_current": 215145.97,
-    "d30": 0.0,
+    "d_current": 68573.18,
+    "d30": 215145.97,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 215145.97,
+    "d_total": 283719.15,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131752",
-    "date": "23 Jun 2026",
+    "invoice_no": "131829",
+    "date": "01 Jul 2026",
     "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
       {
         "prodname": "1L HIGH GLOSS (MQ) GREY",
         "qty": 5.0,
-        "unit_price": 68.0,
-        "value": 340.0
+        "unit_price": 77.0,
+        "value": 385.0
       },
       {
-        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
-        "qty": 2.0,
-        "unit_price": 68.0,
-        "value": 136.0
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 20.0,
+        "unit_price": 77.0,
+        "value": 1540.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) S RED",
-        "qty": 4.0,
-        "unit_price": 68.0,
-        "value": 272.0
+        "qty": 15.0,
+        "unit_price": 77.0,
+        "value": 1155.0
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
-        "qty": 1.0,
-        "unit_price": 255.0,
-        "value": 255.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
         "qty": 2.0,
         "unit_price": 255.0,
         "value": 510.0
       },
       {
-        "prodname": "1L Q D RED OXIDE PRIMER",
-        "qty": 15.0,
-        "unit_price": 75.0,
-        "value": 1125.0
-      },
-      {
-        "prodname": "5L Q D RED OXIDE PRIMER",
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
         "qty": 5.0,
-        "unit_price": 265.0,
-        "value": 1325.0
+        "unit_price": 255.0,
+        "value": 1275.0
       },
       {
-        "prodname": "1L PP ULTIMATE SHINE SILVER",
-        "qty": 4.0,
-        "unit_price": 131.35,
-        "value": 525.4
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 255.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 255.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 5.0,
+        "unit_price": 255.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 60.0,
+        "unit_price": 64.39,
+        "value": 3863.4
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 15.0,
+        "unit_price": 248.15,
+        "value": 3722.25
       },
       {
         "prodname": "DOZEN 750ML LACQUER THINNERS",
-        "qty": 5.0,
+        "qty": 3.0,
         "unit_price": 250.0,
-        "value": 1250.0
+        "value": 750.0
       },
       {
         "prodname": "5LT THINNERS",
-        "qty": 50.0,
-        "unit_price": 142.83,
-        "value": 7141.5
+        "qty": 40.0,
+        "unit_price": 142.82999999999998,
+        "value": 5713.2
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 75.0,
+        "value": 300.0
       },
       {
         "prodname": "1L Q D BLACK ENAMEL",
-        "qty": 40.0,
+        "qty": 50.0,
         "unit_price": 75.0,
-        "value": 3000.0
+        "value": 3750.0
       },
       {
         "prodname": "1L Q D BRONZE ENAMEL",
@@ -100,16 +130,34 @@
         "value": 3750.0
       },
       {
-        "prodname": "1LT Q.D. BLUE GREY",
-        "qty": 10.0,
+        "prodname": "1L Q D DARK GREY ENAMEL",
+        "qty": 4.0,
         "unit_price": 75.0,
-        "value": 750.0
+        "value": 300.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 75.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "1LT Q.D. G BROWN",
+        "qty": 5.0,
+        "unit_price": 75.0,
+        "value": 375.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 5.0,
+        "unit_price": 75.0,
+        "value": 375.0
       },
       {
         "prodname": "5L Q D BLACK ENAMEL",
-        "qty": 50.0,
+        "qty": 10.0,
         "unit_price": 275.0,
-        "value": 13750.0
+        "value": 2750.0
       },
       {
         "prodname": "5L Q D BRONZE ENAMEL",
@@ -118,26 +166,38 @@
         "value": 13000.0
       },
       {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
         "prodname": "5L Q D CHARCOAL",
+        "qty": 25.0,
+        "unit_price": 275.0,
+        "value": 6875.0
+      },
+      {
+        "prodname": "5L Q.D. G BROWN",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "5LT Q.D. BLUE GREY",
         "qty": 5.0,
         "unit_price": 275.0,
         "value": 1375.0
       },
       {
-        "prodname": "5LT Q.D. BLUE GREY",
-        "qty": 10.0,
-        "unit_price": 275.0,
-        "value": 2750.0
-      },
-      {
-        "prodname": "5L Q.D. SILVER",
+        "prodname": "5L Q D  GREEN ENAMEL",
         "qty": 2.0,
-        "unit_price": 350.0,
-        "value": 700.0
+        "unit_price": 275.0,
+        "value": 550.0
       }
     ],
-    "total": 51954.9,
-    "count": 18
+    "total": 59628.850000000006,
+    "count": 28
   },
   "competitor_forms_outstanding": 0
 }

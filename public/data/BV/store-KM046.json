@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KM046",
     "curef": "KM046",
@@ -13,14 +13,14 @@
     "last_purchase_prod": "5L Q D DARK GREY ENAMEL",
     "total_12m": 623120.4,
     "velocity_category": "cooling",
-    "health_tier": "At-Risk",
-    "health_score": 56.5,
+    "health_tier": "Active & Growing",
+    "health_score": 71.8,
     "is_recovery": false,
-    "d_current": 63754.8,
-    "d30": 23255.18,
+    "d_current": 0.0,
+    "d30": 63754.8,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 87009.98,
+    "d_total": 63754.8,
     "shared_account": false
   },
   "invoice": {

@@ -1,47 +1,41 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KO002",
     "curef": "KO002",
     "customer_name": "Omega Hardware And Supermarket",
     "town": "Opposite Budget H/Ware",
     "accno": "KO002",
-    "last_purchase_date": "24 Jun 2026",
-    "last_purchase_amt": 265.68,
-    "last_purchase_prod": "5L CARBOLINEUM",
-    "total_12m": 342710.51,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 1635.9,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 352587.78,
     "velocity_category": "stable",
-    "health_tier": "At-Risk",
-    "health_score": 59.0,
+    "health_tier": "Active & Growing",
+    "health_score": 69.8,
     "is_recovery": false,
-    "d_current": -1016.12,
-    "d30": 0.0,
+    "d_current": 11358.86,
+    "d30": -1016.12,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": -1016.12,
+    "d_total": 10342.74,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28793",
-    "date": "24 Jun 2026",
+    "invoice_no": "131818",
+    "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "DOZEN 750ML CARBOLINEUM",
-        "qty": 1.0,
-        "unit_price": 24.86,
-        "value": 24.86
-      },
-      {
         "prodname": "5L CARBOLINEUM",
-        "qty": 2.0,
-        "unit_price": 132.84,
-        "value": 265.68
+        "qty": 36.0,
+        "unit_price": 152.77,
+        "value": 5499.72
       }
     ],
-    "total": 290.54,
-    "count": 2
+    "total": 5499.72,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

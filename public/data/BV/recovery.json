@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "accounts": [
     {
       "dlref": "KB044",
@@ -9,15 +9,7 @@
       "store_name": "Border Plumbing & Hardware",
       "score": 2.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 558
-    },
-    {
-      "dlref": "KA107",
-      "accno": "KA107",
-      "store_name": "Applemint Properties 91 Pty Lt",
-      "score": 2.2,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 546
+      "days_since_purchase": 590
     },
     {
       "dlref": "KS046",
@@ -25,7 +17,23 @@
       "store_name": "Scenic Route Trading 580 cc",
       "score": 2.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 632
+      "days_since_purchase": 664
+    },
+    {
+      "dlref": "KA107",
+      "accno": "KA107",
+      "store_name": "Applemint Properties 91 Pty Lt",
+      "score": 2.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 578
+    },
+    {
+      "dlref": "KS130",
+      "accno": "KS130",
+      "store_name": "Mashaole General Dealer",
+      "score": 4.3,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 374
     },
     {
       "dlref": "KP057",
@@ -33,7 +41,7 @@
       "store_name": "Priyanka Supermarket",
       "score": 4.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 572
+      "days_since_purchase": 604
     },
     {
       "dlref": "KD058",
@@ -41,7 +49,7 @@
       "store_name": "Discount Build Hardware",
       "score": 5.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 486
+      "days_since_purchase": 518
     },
     {
       "dlref": "KV016",
@@ -49,7 +57,7 @@
       "store_name": "Vendeco Trading",
       "score": 5.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 759
+      "days_since_purchase": 791
     },
     {
       "dlref": "KH013/1",
@@ -57,7 +65,7 @@
       "store_name": "Henque 3481 Builders Mecca",
       "score": 6.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 228
+      "days_since_purchase": 260
     },
     {
       "dlref": "KD054",
@@ -65,7 +73,7 @@
       "store_name": "Discount Builders",
       "score": 6.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 634
+      "days_since_purchase": 666
     },
     {
       "dlref": "KA022",
@@ -73,7 +81,7 @@
       "store_name": "NSR Hardware C.C.",
       "score": 7.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 711
+      "days_since_purchase": 743
     },
     {
       "dlref": "KN022/1",
@@ -81,7 +89,7 @@
       "store_name": "M H I Hardware (Nkambako H/W)",
       "score": 10.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 373
+      "days_since_purchase": 405
     },
     {
       "dlref": "KH028",
@@ -89,15 +97,7 @@
       "store_name": "OMELA DHABI & SON CC",
       "score": 10.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 531
-    },
-    {
-      "dlref": "KD014",
-      "accno": "KD014",
-      "store_name": "Discount HW Homebuild",
-      "score": 10.9,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 552
+      "days_since_purchase": 563
     },
     {
       "dlref": "KH050",
@@ -105,15 +105,7 @@
       "store_name": "Hope and Harmony Projects",
       "score": 11.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 107
-    },
-    {
-      "dlref": "KD015",
-      "accno": "KD015",
-      "store_name": "Discount Hardware Kanyamazane",
-      "score": 13.1,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 452
+      "days_since_purchase": 139
     },
     {
       "dlref": "KP046",
@@ -121,15 +113,15 @@
       "store_name": "Pride Pak Packaging",
       "score": 14.7,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 125
+      "days_since_purchase": 157
     },
     {
-      "dlref": "KS130",
-      "accno": "KS130",
-      "store_name": "Mashaole General Dealer",
-      "score": 15.4,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 342
+      "dlref": "KR041",
+      "accno": "KR041",
+      "store_name": "Raza Auto Spares",
+      "score": 14.9,
+      "tier": "At-Risk",
+      "days_since_purchase": 59
     },
     {
       "dlref": "KA114",
@@ -137,7 +129,15 @@
       "store_name": "AMK Hardware",
       "score": 16.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 220
+      "days_since_purchase": 252
+    },
+    {
+      "dlref": "KP005/3",
+      "accno": "KP005_3",
+      "store_name": "Patel (Nkomazi Imp. & Exp. CC)",
+      "score": 17.1,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 209
     },
     {
       "dlref": "KN033",
@@ -145,23 +145,55 @@
       "store_name": "Nimmi Investment",
       "score": 19.4,
       "tier": "At-Risk",
-      "days_since_purchase": 10
+      "days_since_purchase": 42
+    },
+    {
+      "dlref": "KM027/13",
+      "accno": "KM027_13",
+      "store_name": "Chief Steel & HW",
+      "score": 20.5,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 252
     },
     {
       "dlref": "KF031",
       "accno": "KF031",
       "store_name": "Fairplay Kwamhlange (PTY) Ltd",
       "score": 21.3,
-      "tier": "At-Risk",
-      "days_since_purchase": 80
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 112
     },
     {
-      "dlref": "KR041",
-      "accno": "KR041",
-      "store_name": "Raza Auto Spares",
-      "score": 23.4,
+      "dlref": "KN022",
+      "accno": "KN022",
+      "store_name": "M H I Hardware (Nkambako H/W",
+      "score": 22.5,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 357
+    },
+    {
+      "dlref": "KX003",
+      "accno": "KX003",
+      "store_name": "Exclusive Paint & Hardware",
+      "score": 22.6,
       "tier": "At-Risk",
-      "days_since_purchase": 27
+      "days_since_purchase": 13
+    },
+    {
+      "dlref": "KF018",
+      "accno": "KF018",
+      "store_name": "Fairplay Hardware Bochum",
+      "score": 22.6,
+      "tier": "At-Risk",
+      "days_since_purchase": 48
+    },
+    {
+      "dlref": "KT061",
+      "accno": "KT061",
+      "store_name": "Total Hardware & Tiles",
+      "score": 24.2,
+      "tier": "At-Risk",
+      "days_since_purchase": 22
     },
     {
       "dlref": "KF030",
@@ -169,47 +201,23 @@
       "store_name": "Fairplay Hardware (Mabopane)",
       "score": 24.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 129
+      "days_since_purchase": 161
     },
     {
-      "dlref": "KS005",
-      "accno": "KS005",
-      "store_name": "Skeerpoort Handelhuis",
-      "score": 24.6,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 193
-    },
-    {
-      "dlref": "KX003",
-      "accno": "KX003",
-      "store_name": "Exclusive Paint & Hardware",
-      "score": 25.0,
+      "dlref": "KD014",
+      "accno": "KD014",
+      "store_name": "Discount HW Homebuild",
+      "score": 24.8,
       "tier": "At-Risk",
-      "days_since_purchase": 6
+      "days_since_purchase": 23
     },
     {
-      "dlref": "KM027/15",
-      "accno": "KM027_15",
-      "store_name": "Chief Steel & Hardware",
-      "score": 25.1,
+      "dlref": "KM037",
+      "accno": "KM037",
+      "store_name": "Maphalle Hardware",
+      "score": 25.8,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 103
-    },
-    {
-      "dlref": "KM027/13",
-      "accno": "KM027_13",
-      "store_name": "Chief Steel & HW",
-      "score": 25.6,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 220
-    },
-    {
-      "dlref": "KP005/3",
-      "accno": "KP005_3",
-      "store_name": "Patel (Nkomazi Imp. & Exp. CC)",
-      "score": 25.7,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 177
+      "days_since_purchase": 210
     },
     {
       "dlref": "KR045",
@@ -217,31 +225,23 @@
       "store_name": "Rohaan Hardware",
       "score": 25.9,
       "tier": "At-Risk",
-      "days_since_purchase": 53
+      "days_since_purchase": 85
     },
     {
-      "dlref": "KF018/3",
-      "accno": "KF018_3",
-      "store_name": "Fairplay Hardware Jane Furse",
-      "score": 26.7,
-      "tier": "At-Risk",
-      "days_since_purchase": 17
-    },
-    {
-      "dlref": "KN022",
-      "accno": "KN022",
-      "store_name": "M H I Hardware (Nkambako H/W",
-      "score": 26.8,
+      "dlref": "KL011/1",
+      "accno": "KL011_1",
+      "store_name": "GIGAS SUPERMARKET",
+      "score": 26.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 325
+      "days_since_purchase": 210
     },
     {
-      "dlref": "KB022",
-      "accno": "KB022",
-      "store_name": "Bethani Hardware",
-      "score": 27.9,
-      "tier": "At-Risk",
-      "days_since_purchase": 46
+      "dlref": "KF018/5",
+      "accno": "KF018_5",
+      "store_name": "Fairplay Hardware Kwamhlanga",
+      "score": 26.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 161
     }
   ],
   "competitor_forms_outstanding": 0

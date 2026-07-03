@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KJ019",
     "curef": "KJ019",
@@ -11,15 +11,15 @@
     "last_purchase_date": "07 Apr 2026",
     "last_purchase_amt": 1140.0,
     "last_purchase_prod": "1L LIGHT OAK VARNISH",
-    "total_12m": 156227.75,
+    "total_12m": 139890.77000000002,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
-    "health_score": 56.9,
+    "health_score": 58.1,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": -90.0,
-    "d90": 0.0,
+    "d60": 0.0,
+    "d90": -90.0,
     "d_total": -90.0,
     "shared_account": false
   },

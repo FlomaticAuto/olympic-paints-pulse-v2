@@ -1,20 +1,20 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KB071/1",
     "curef": "KB071",
     "customer_name": "Intshebe Props 216 Pty Ltd",
     "town": "22 B A Giyani Next to Mopani",
     "accno": "KB071_1",
-    "last_purchase_date": "11 May 2026",
-    "last_purchase_amt": 58.83,
-    "last_purchase_prod": "BOTTLE 750ML CARBOLINEUM",
-    "total_12m": 925228.88,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 750.0,
+    "last_purchase_prod": "1L Q.D. BURGUNDY",
+    "total_12m": 999000.38,
     "velocity_category": null,
     "health_tier": "At-Risk",
-    "health_score": 44.2,
+    "health_score": 42.1,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
@@ -24,18 +24,210 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28561",
-    "date": "11 May 2026",
+    "invoice_no": "131822",
+    "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "BOTTLE 750ML CARBOLINEUM",
+        "prodname": "20L KALAHARI CONT STONE GREY",
+        "qty": 6.0,
+        "unit_price": 380.0,
+        "value": 2280.0
+      },
+      {
+        "prodname": "20L KALAHARI CONT SILVER MIST",
+        "qty": 6.0,
+        "unit_price": 380.0,
+        "value": 2280.0
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 24.0,
+        "unit_price": 235.0,
+        "value": 5640.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 5.0,
+        "unit_price": 255.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "20L DECOR FOSSIL GREEN PVA",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "20LT HIGH GLOSS (MQ) GREY",
+        "qty": 4.0,
+        "unit_price": 995.0,
+        "value": 3980.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 57.85,
+        "value": 578.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 72.0,
+        "unit_price": 63.0,
+        "value": 4536.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 20.0,
+        "unit_price": 63.0,
+        "value": 1260.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 36.0,
+        "unit_price": 63.0,
+        "value": 2268.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 36.0,
+        "unit_price": 63.0,
+        "value": 2268.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 36.0,
+        "unit_price": 63.0,
+        "value": 2268.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 10.0,
+        "unit_price": 255.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 10.0,
+        "unit_price": 435.0,
+        "value": 4350.0
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 10.0,
+        "unit_price": 52.5,
+        "value": 525.0
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 58.0,
+        "value": 290.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 30.0,
+        "unit_price": 85.0,
+        "value": 2550.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 20.0,
+        "unit_price": 95.0,
+        "value": 1900.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 5.0,
+        "unit_price": 305.0,
+        "value": 1525.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 30.0,
+        "unit_price": 148.35,
+        "value": 4450.5
+      },
+      {
+        "prodname": "12X2KG CRACK FILLER",
         "qty": 3.0,
-        "unit_price": 19.61,
-        "value": 58.83
+        "unit_price": 525.0,
+        "value": 1575.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 30.0,
+        "unit_price": 145.0,
+        "value": 4350.0
+      },
+      {
+        "prodname": "5L TURPENTINE",
+        "qty": 10.0,
+        "unit_price": 160.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 2.0,
+        "unit_price": 316.25,
+        "value": 632.5
+      },
+      {
+        "prodname": "20L ECLIPSE GREEN PVA",
+        "qty": 6.0,
+        "unit_price": 195.0,
+        "value": 1170.0
+      },
+      {
+        "prodname": "20L ECLIPSE BLUE PVA",
+        "qty": 6.0,
+        "unit_price": 195.0,
+        "value": 1170.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 75.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 75.0,
+        "value": 2250.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 75.0,
+        "value": 750.0
       }
     ],
-    "total": 58.83,
-    "count": 1
+    "total": 73771.5,
+    "count": 33
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KR003",
     "curef": "KR003",
@@ -13,12 +13,12 @@
     "last_purchase_prod": "5L Q D BRONZE ENAMEL",
     "total_12m": 112538.04000000001,
     "velocity_category": "falling",
-    "health_tier": "Active but Narrow",
-    "health_score": 50.6,
+    "health_tier": "At-Risk",
+    "health_score": 49.1,
     "is_recovery": false,
     "d_current": 0.0,
-    "d30": 47819.36,
-    "d60": 0.0,
+    "d30": 0.0,
+    "d60": 47819.36,
     "d90": 0.0,
     "d_total": 47819.36,
     "shared_account": false

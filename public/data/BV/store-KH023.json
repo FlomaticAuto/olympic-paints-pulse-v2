@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KH023",
     "curef": "KH023",
@@ -13,14 +13,14 @@
     "last_purchase_prod": "5L ROAD MARKING YELLOW",
     "total_12m": 204647.02,
     "velocity_category": "falling",
-    "health_tier": "At-Risk",
-    "health_score": 57.1,
+    "health_tier": "Active but Narrow",
+    "health_score": 60.9,
     "is_recovery": false,
-    "d_current": 19847.89,
-    "d30": 11005.63,
-    "d60": 0.0,
+    "d_current": 0.0,
+    "d30": 19847.89,
+    "d60": 116.45,
     "d90": 0.0,
-    "d_total": 30853.52,
+    "d_total": 19964.34,
     "shared_account": false
   },
   "invoice": {

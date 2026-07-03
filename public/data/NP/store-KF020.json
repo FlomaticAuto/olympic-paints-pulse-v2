@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KF020",
     "curef": "KF020",
@@ -13,13 +13,13 @@
     "last_purchase_prod": "1L Q D GREY ENAMEL",
     "total_12m": 356990.32999999996,
     "velocity_category": "falling",
-    "health_tier": "Active & Growing",
-    "health_score": 72.2,
+    "health_tier": "At-Risk",
+    "health_score": 57.2,
     "is_recovery": false,
-    "d_current": 6568.8,
-    "d30": 0.0,
-    "d60": 78386.02,
-    "d90": 0.0,
+    "d_current": 0.0,
+    "d30": 6568.8,
+    "d60": 0.0,
+    "d90": 78386.02,
     "d_total": 84954.82,
     "shared_account": false
   },

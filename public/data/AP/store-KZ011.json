@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KZ011",
     "curef": "KZ011",
@@ -13,12 +13,12 @@
     "last_purchase_prod": "200mm x 10m Membrane",
     "total_12m": 95683.73000000001,
     "velocity_category": "rocket",
-    "health_tier": "Dead / Dormant",
-    "health_score": 28.8,
-    "is_recovery": true,
-    "d_current": 42923.13,
-    "d30": -0.05,
-    "d60": 0.0,
+    "health_tier": "At-Risk",
+    "health_score": 44.7,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 42923.13,
+    "d60": -0.05,
     "d90": 0.0,
     "d_total": 42923.08,
     "shared_account": false

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KM078",
     "curef": "KM078",
@@ -13,13 +13,13 @@
     "last_purchase_prod": "5KG PUTTY",
     "total_12m": 229541.19999999995,
     "velocity_category": "rocket",
-    "health_tier": "At-Risk",
-    "health_score": 55.8,
+    "health_tier": "Active & Growing",
+    "health_score": 65.7,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": 26223.79,
-    "d90": 0.0,
+    "d60": 0.0,
+    "d90": 26223.79,
     "d_total": 26223.79,
     "shared_account": false
   },

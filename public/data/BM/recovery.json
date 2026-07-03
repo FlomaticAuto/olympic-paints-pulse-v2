@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "accounts": [
     {
       "dlref": "KL048",
@@ -9,15 +9,15 @@
       "store_name": "Living Inspired Interiors",
       "score": 1.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 291
+      "days_since_purchase": 323
     },
     {
-      "dlref": "KO013",
-      "accno": "KO013",
-      "store_name": "Olive Urban",
-      "score": 8.6,
-      "tier": "At-Risk",
-      "days_since_purchase": 67
+      "dlref": "KP063",
+      "accno": "KP063",
+      "store_name": "Projo Projects",
+      "score": 7.3,
+      "tier": "Active but Narrow",
+      "days_since_purchase": 65
     }
   ],
   "competitor_forms_outstanding": 0

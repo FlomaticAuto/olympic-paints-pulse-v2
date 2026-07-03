@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KR008",
     "curef": "KR008",
@@ -14,13 +14,13 @@
     "total_12m": 113087.84999999999,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 50.6,
+    "health_score": 49.5,
     "is_recovery": false,
-    "d_current": 0.0,
-    "d30": 16143.15,
+    "d_current": 16885.43,
+    "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 16143.15,
+    "d_total": 16885.43,
     "shared_account": false
   },
   "invoice": {

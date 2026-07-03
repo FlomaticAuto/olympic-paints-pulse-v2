@@ -1,0 +1,82 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-03",
+  "store": {
+    "customer_name": "S.A. Hardware (Makhado)",
+    "accno": "KS089",
+    "dlref": "KS089",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "129795",
+    "date": "03 Feb 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 5.0,
+        "unit_price": 73.72999999999999,
+        "value": 368.65
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 73.72999999999999,
+        "value": 368.65
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 99.14,
+        "value": 991.4
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 30.0,
+        "unit_price": 99.14,
+        "value": 2974.2
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 106.25999999999999,
+        "value": 531.3
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 282.21,
+        "value": 564.42
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 278.63,
+        "value": 278.63
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 100.63,
+        "value": 1006.3
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 40.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 7083.549999999999,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 0
+}

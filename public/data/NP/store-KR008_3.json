@@ -1,20 +1,20 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KR008/3",
     "curef": "KR008",
     "customer_name": "RANK HARDWARE & FURNITURE",
     "town": "SHIKUNDU",
     "accno": "KR008_3",
-    "last_purchase_date": "02 Dec 2025",
-    "last_purchase_amt": 395.34,
-    "last_purchase_prod": "6x2KG DISTEMPER GREEN",
-    "total_12m": 31129.559999999998,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 542.9,
+    "last_purchase_prod": "5KG PUTTY",
+    "total_12m": 33326.17,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
-    "health_score": 43.4,
+    "health_score": 33.7,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
@@ -24,66 +24,30 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "128701",
-    "date": "02 Dec 2025",
+    "invoice_no": "131815",
+    "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "24X1KG PUTTY",
-        "qty": 4.0,
-        "unit_price": 215.0,
-        "value": 860.0
-      },
-      {
         "prodname": "12X2KG PUTTY",
-        "qty": 4.0,
-        "unit_price": 202.15,
-        "value": 808.6
-      },
-      {
-        "prodname": "20KG PUTTY",
-        "qty": 15.0,
-        "unit_price": 136.06,
-        "value": 2040.9
+        "qty": 3.0,
+        "unit_price": 251.07000000000002,
+        "value": 753.21
       },
       {
         "prodname": "10KG PUTTY",
-        "qty": 15.0,
-        "unit_price": 72.5,
-        "value": 1087.5
-      },
-      {
-        "prodname": "40KG PUTTY",
         "qty": 10.0,
-        "unit_price": 249.48000000000002,
-        "value": 2494.8
+        "unit_price": 90.05,
+        "value": 900.5
       },
       {
         "prodname": "5KG PUTTY",
-        "qty": 20.0,
-        "unit_price": 43.71,
-        "value": 874.2
-      },
-      {
-        "prodname": "24x500GM OXIDE BLACK",
-        "qty": 3.0,
-        "unit_price": 125.25,
-        "value": 375.75
-      },
-      {
-        "prodname": "24x500GM RED OXIDE",
-        "qty": 3.0,
-        "unit_price": 125.25,
-        "value": 375.75
-      },
-      {
-        "prodname": "6x2KG DISTEMPER GREEN",
-        "qty": 3.0,
-        "unit_price": 131.78,
-        "value": 395.34
+        "qty": 10.0,
+        "unit_price": 54.29,
+        "value": 542.9
       }
     ],
-    "total": 9312.84,
-    "count": 9
+    "total": 2196.61,
+    "count": 3
   },
   "competitor_forms_outstanding": 0
 }

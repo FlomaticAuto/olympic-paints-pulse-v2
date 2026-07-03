@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KA008",
     "curef": "KA008",
@@ -14,13 +14,13 @@
     "total_12m": 157604.91000000003,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 58.6,
+    "health_score": 57.5,
     "is_recovery": false,
-    "d_current": 23098.91,
-    "d30": -603.75,
-    "d60": 28489.53,
-    "d90": 0.0,
-    "d_total": 50984.69,
+    "d_current": 0.0,
+    "d30": 23098.91,
+    "d60": 0.0,
+    "d90": 0.01,
+    "d_total": 23098.92,
     "shared_account": false
   },
   "invoice": {

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KH049",
     "curef": "KH049",
@@ -13,13 +13,13 @@
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
     "total_12m": 55136.47,
     "velocity_category": null,
-    "health_tier": "Active but Narrow",
-    "health_score": 56.0,
+    "health_tier": "At-Risk",
+    "health_score": 46.6,
     "is_recovery": false,
-    "d_current": 5175.58,
-    "d30": 0.0,
-    "d60": 6420.11,
-    "d90": 0.0,
+    "d_current": 0.0,
+    "d30": 5175.58,
+    "d60": 0.0,
+    "d90": 6420.11,
     "d_total": 11595.69,
     "shared_account": false
   },

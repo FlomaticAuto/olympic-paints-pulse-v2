@@ -1,20 +1,20 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KH021/1",
     "curef": "KH021",
     "customer_name": "Ebrahim Abramjee Traders CC",
     "town": "NEXT TO APC CEMENT",
     "accno": "KH021_1",
-    "last_purchase_date": "25 May 2026",
-    "last_purchase_amt": 0.0,
-    "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 741236.28,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 2950.0,
+    "last_purchase_prod": "5LT HYPER STEEL Q.D SILVER",
+    "total_12m": 782586.28,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
-    "health_score": 54.3,
+    "health_score": 53.8,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
@@ -24,50 +24,26 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131406",
-    "date": "25 May 2026",
+    "invoice_no": "131830",
+    "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "1LT HYPER STEEL Q.D GREY",
-        "qty": 10.0,
+        "prodname": "1LT HYPER STEEL 3IN1 Q.D GRIP COAT WHITE",
+        "qty": 5.0,
         "unit_price": 70.0,
-        "value": 700.0
+        "value": 350.0
       },
       {
-        "prodname": "5L PP FIBRE RESTORE BLACK",
-        "qty": 5.0,
-        "unit_price": 353.16999999999996,
-        "value": 1765.85
-      },
-      {
-        "prodname": "5L PP FIBRE RESTORE CHARCOAL",
-        "qty": 5.0,
-        "unit_price": 353.16999999999996,
-        "value": 1765.85
-      },
-      {
-        "prodname": "5L PP FIBRE RESTORE RED",
-        "qty": 5.0,
-        "unit_price": 353.16999999999996,
-        "value": 1765.85
-      },
-      {
-        "prodname": "5LT HYPER STEEL Q.D GRIP COAT BLACK",
-        "qty": 10.0,
-        "unit_price": 295.0,
-        "value": 2950.0
-      },
-      {
-        "prodname": "5LT HYPER STEEL RAINPROOF GREY",
-        "qty": 10.0,
-        "unit_price": 110.0,
-        "value": 1100.0
-      },
-      {
-        "prodname": "1LT HYPER STEEL Q.D BRONZE",
-        "qty": 100.0,
+        "prodname": "1LT HYPER STEEL Q.D BLACK",
+        "qty": 50.0,
         "unit_price": 70.0,
-        "value": 7000.0
+        "value": 3500.0
+      },
+      {
+        "prodname": "1L HYPER STEEL Q.D CAT YELLOW",
+        "qty": 5.0,
+        "unit_price": 70.0,
+        "value": 350.0
       },
       {
         "prodname": "1LT HYPER STEEL Q.D CHARCOAL",
@@ -76,56 +52,44 @@
         "value": 700.0
       },
       {
-        "prodname": "1LT HYPER STEEL Q.D PWD BROWN",
+        "prodname": "1LT HYPER STEEL Q.D GOLDEN BROWN",
         "qty": 10.0,
         "unit_price": 70.0,
         "value": 700.0
       },
       {
-        "prodname": "1LT HYPER STEEL Q.D SILVER",
-        "qty": 10.0,
-        "unit_price": 78.0,
-        "value": 780.0
+        "prodname": "1LT HYPER STEEL GREY",
+        "qty": 5.0,
+        "unit_price": 70.0,
+        "value": 350.0
       },
       {
-        "prodname": "5LT HYPER STEEL Q.D BLACK",
-        "qty": 50.0,
+        "prodname": "5LT HYPER STEEL Q.D BRONZE",
+        "qty": 100.0,
         "unit_price": 295.0,
-        "value": 14750.0
+        "value": 29500.0
       },
       {
-        "prodname": "5L HYPER STEEL Q.D GREY",
-        "qty": 10.0,
+        "prodname": "5LT HYPER STEEL Q.D GREY PRIMER",
+        "qty": 5.0,
         "unit_price": 295.0,
-        "value": 2950.0
+        "value": 1475.0
       },
       {
-        "prodname": "5LT HYPER STEEL Q.D CHARCOAL",
-        "qty": 50.0,
+        "prodname": "5LT HYPER STEEL Q.D MATT BLACK",
+        "qty": 5.0,
         "unit_price": 295.0,
-        "value": 14750.0
-      },
-      {
-        "prodname": "5LT HYPER STEEL Q.D PWD BROWN",
-        "qty": 10.0,
-        "unit_price": 295.0,
-        "value": 2950.0
+        "value": 1475.0
       },
       {
         "prodname": "5LT HYPER STEEL Q.D SILVER",
-        "qty": 5.0,
-        "unit_price": 325.0,
-        "value": 1625.0
-      },
-      {
-        "prodname": "200mm x 10m Membrane",
         "qty": 10.0,
-        "unit_price": 0.0,
-        "value": 0.0
+        "unit_price": 295.0,
+        "value": 2950.0
       }
     ],
-    "total": 56252.549999999996,
-    "count": 16
+    "total": 41350.0,
+    "count": 10
   },
   "competitor_forms_outstanding": 0
 }

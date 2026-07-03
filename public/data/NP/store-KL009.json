@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KL009",
     "curef": "KL009",
@@ -14,7 +14,7 @@
     "total_12m": 38371.92,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 46.0,
+    "health_score": 43.8,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

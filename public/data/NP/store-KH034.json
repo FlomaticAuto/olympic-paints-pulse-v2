@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KH034",
     "curef": "KH034",
@@ -17,9 +17,9 @@
     "health_score": 50.3,
     "is_recovery": false,
     "d_current": 0.0,
-    "d30": -11427.85,
-    "d60": 14803.02,
-    "d90": 0.0,
+    "d30": 0.0,
+    "d60": -11427.85,
+    "d90": 14803.02,
     "d_total": 3375.17,
     "shared_account": false
   },

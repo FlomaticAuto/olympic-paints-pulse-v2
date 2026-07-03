@@ -1,20 +1,20 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KS019/2",
     "curef": "KS019",
     "customer_name": "SASELAMANI STORES",
     "town": "STATION PANDA MARIA ROAD",
     "accno": "KS019_2",
-    "last_purchase_date": "26 May 2026",
-    "last_purchase_amt": 291.6,
-    "last_purchase_prod": "5L Q D DARK GREY ENAMEL",
-    "total_12m": 790413.49,
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 1069.5,
+    "last_purchase_prod": "5L Q.D. SILVER",
+    "total_12m": 850961.83,
     "velocity_category": null,
     "health_tier": "Active & Growing",
-    "health_score": 72.2,
+    "health_score": 69.3,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
@@ -24,24 +24,240 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28639",
-    "date": "26 May 2026",
+    "invoice_no": "131816",
+    "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 1.0,
-        "unit_price": 66.96,
-        "value": 66.96
+        "prodname": "20L KALAHARI CONTR CORAL PVA",
+        "qty": 5.0,
+        "unit_price": 380.65,
+        "value": 1903.25
       },
       {
-        "prodname": "5L Q D DARK GREY ENAMEL",
+        "prodname": "20L KALAHARI PVA CERES PEACH",
+        "qty": 6.0,
+        "unit_price": 380.65000000000003,
+        "value": 2283.9
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 3.0,
+        "unit_price": 285.0,
+        "value": 855.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 10.0,
+        "unit_price": 285.0,
+        "value": 2850.0
+      },
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 3.0,
+        "unit_price": 379.5,
+        "value": 1138.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 5.0,
+        "unit_price": 68.0,
+        "value": 340.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 6.0,
+        "unit_price": 68.0,
+        "value": 408.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 5.0,
+        "unit_price": 250.0,
+        "value": 1250.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 250.0,
+        "value": 500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 5.0,
+        "unit_price": 250.0,
+        "value": 1250.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 15.0,
+        "unit_price": 275.0,
+        "value": 4125.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 90.0,
+        "value": 270.0
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 280.0,
+        "value": 560.0
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 305.0,
+        "value": 915.0
+      },
+      {
+        "prodname": "5L WALNUT VARNISH",
+        "qty": 3.0,
+        "unit_price": 305.0,
+        "value": 915.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 2.0,
+        "unit_price": 333.5,
+        "value": 667.0
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLUE",
         "qty": 1.0,
-        "unit_price": 291.6,
-        "value": 291.6
+        "unit_price": 337.69,
+        "value": 337.69
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 264.5,
+        "value": 529.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 50.0,
+        "unit_price": 132.25,
+        "value": 6612.5
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 20.0,
+        "unit_price": 145.1,
+        "value": 2902.0
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 72.0,
+        "value": 432.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 12.0,
+        "unit_price": 72.0,
+        "value": 864.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 72.0,
+        "value": 720.0
+      },
+      {
+        "prodname": "1L Q D GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 72.0,
+        "value": 432.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 275.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 30.0,
+        "unit_price": 275.0,
+        "value": 8250.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 275.0,
+        "value": 8250.0
+      },
+      {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "5LT Q.D. BLUE GREY",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 5.0,
+        "unit_price": 275.0,
+        "value": 1375.0
+      },
+      {
+        "prodname": "5L Q.D. SILVER",
+        "qty": 3.0,
+        "unit_price": 356.5,
+        "value": 1069.5
       }
     ],
-    "total": 358.56,
-    "count": 2
+    "total": 60548.340000000004,
+    "count": 38
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KB115",
     "curef": "KB115",
@@ -17,8 +17,8 @@
     "health_score": 35.3,
     "is_recovery": false,
     "d_current": 0.0,
-    "d30": 3466.42,
-    "d60": 0.0,
+    "d30": 0.0,
+    "d60": 3466.42,
     "d90": 983.33,
     "d_total": 4449.75,
     "shared_account": false

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "accounts": [
     {
       "dlref": "KE016",
@@ -9,7 +9,15 @@
       "store_name": "Eeezee Foam (Pty) Ltd",
       "score": 1.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 818
+      "days_since_purchase": 850
+    },
+    {
+      "dlref": "KW014",
+      "accno": "KW014",
+      "store_name": "Walwati Properties (PTY) LTD",
+      "score": 2.2,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 392
     },
     {
       "dlref": "KD061",
@@ -17,7 +25,7 @@
       "store_name": "DIY Tool Time",
       "score": 4.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 383
+      "days_since_purchase": 415
     },
     {
       "dlref": "KV019",
@@ -25,23 +33,15 @@
       "store_name": "Vaal Electrical Hardware",
       "score": 5.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 698
-    },
-    {
-      "dlref": "KW014",
-      "accno": "KW014",
-      "store_name": "Walwati Properties (PTY) LTD",
-      "score": 6.1,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 360
+      "days_since_purchase": 730
     },
     {
       "dlref": "KB085",
       "accno": "KB085",
       "store_name": "Best Build Hardware",
-      "score": 7.3,
+      "score": 6.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 381
+      "days_since_purchase": 413
     },
     {
       "dlref": "KV018",
@@ -49,15 +49,15 @@
       "store_name": "Vantis Gift Centre CC",
       "score": 7.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 205
+      "days_since_purchase": 237
     },
     {
       "dlref": "KB073",
       "accno": "KB073",
       "store_name": "Best Build Hardware",
-      "score": 7.6,
+      "score": 8.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 613
+      "days_since_purchase": 645
     },
     {
       "dlref": "KZ010",
@@ -65,7 +65,15 @@
       "store_name": "Z & K Building Consultants",
       "score": 8.7,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 536
+      "days_since_purchase": 568
+    },
+    {
+      "dlref": "KD062",
+      "accno": "KD062",
+      "store_name": "Deanans Auto Paints",
+      "score": 9.0,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 199
     },
     {
       "dlref": "KP054",
@@ -73,7 +81,15 @@
       "store_name": "Premium Build Hardware",
       "score": 9.8,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 410
+      "days_since_purchase": 442
+    },
+    {
+      "dlref": "KS016",
+      "accno": "KS016",
+      "store_name": "Super Stores Hardware & Elec",
+      "score": 11.5,
+      "tier": "At-Risk",
+      "days_since_purchase": 63
     },
     {
       "dlref": "KF034",
@@ -81,7 +97,7 @@
       "store_name": "Faeez Cassim",
       "score": 12.0,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 114
+      "days_since_purchase": 146
     },
     {
       "dlref": "KP061/3",
@@ -89,15 +105,15 @@
       "store_name": "Paint Mart Moe (Lenasia South)",
       "score": 13.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 211
+      "days_since_purchase": 243
     },
     {
-      "dlref": "KS016",
-      "accno": "KS016",
-      "store_name": "Super Stores Hardware & Elec",
-      "score": 14.8,
-      "tier": "At-Risk",
-      "days_since_purchase": 31
+      "dlref": "KP053/7",
+      "accno": "KP053_7",
+      "store_name": "Paint Mart (Lenasia South)",
+      "score": 14.7,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 335
     },
     {
       "dlref": "KM027/21",
@@ -105,87 +121,71 @@
       "store_name": "Power Build",
       "score": 15.0,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 312
-    },
-    {
-      "dlref": "KP053/7",
-      "accno": "KP053_7",
-      "store_name": "Paint Mart (Lenasia South)",
-      "score": 15.5,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 303
-    },
-    {
-      "dlref": "KT057",
-      "accno": "KT057",
-      "store_name": "Takolias Hardware Devland",
-      "score": 17.2,
-      "tier": "At-Risk",
-      "days_since_purchase": 39
+      "days_since_purchase": 344
     },
     {
       "dlref": "KP053/4",
       "accno": "KP053_4",
       "store_name": "Paint Mart (Lenasia)",
-      "score": 18.5,
+      "score": 17.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 303
-    },
-    {
-      "dlref": "KE031",
-      "accno": "KE031",
-      "store_name": "IL Molino (PTY) Ltd",
-      "score": 18.6,
-      "tier": "At-Risk",
-      "days_since_purchase": 26
-    },
-    {
-      "dlref": "KE037",
-      "accno": "KE037",
-      "store_name": "Epic Foods (Pty) Ltd",
-      "score": 18.8,
-      "tier": "At-Risk",
-      "days_since_purchase": 51
+      "days_since_purchase": 335
     },
     {
       "dlref": "KJ037",
       "accno": "KJ037",
       "store_name": "Jad Doors (PTY) LTD",
-      "score": 19.2,
-      "tier": "At-Risk",
-      "days_since_purchase": 87
+      "score": 17.4,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 119
     },
     {
-      "dlref": "KD062",
-      "accno": "KD062",
-      "store_name": "Deanans Auto Paints",
-      "score": 19.7,
+      "dlref": "KP053/3",
+      "accno": "KP053_3",
+      "store_name": "Paint Mart (Vereeniging)",
+      "score": 19.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 167
+      "days_since_purchase": 335
     },
     {
       "dlref": "KE040",
       "accno": "KE040",
       "store_name": "Exclusive Wholesalers",
-      "score": 19.8,
+      "score": 19.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 115
+      "days_since_purchase": 147
     },
     {
       "dlref": "KA057",
       "accno": "KA057",
       "store_name": "Abies Security Gates",
       "score": 20.0,
-      "tier": "Active but Narrow",
-      "days_since_purchase": 79
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 111
     },
     {
-      "dlref": "KP053/3",
-      "accno": "KP053_3",
-      "store_name": "Paint Mart (Vereeniging)",
-      "score": 21.8,
+      "dlref": "KT014/1",
+      "accno": "KT014_1",
+      "store_name": "MOTALAS HARDWARE",
+      "score": 20.3,
+      "tier": "At-Risk",
+      "days_since_purchase": 83
+    },
+    {
+      "dlref": "KP053/2",
+      "accno": "KP053_2",
+      "store_name": "Paint Mart (Benoni)",
+      "score": 20.8,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 303
+      "days_since_purchase": 321
+    },
+    {
+      "dlref": "KE037",
+      "accno": "KE037",
+      "store_name": "Epic Foods (Pty) Ltd",
+      "score": 21.7,
+      "tier": "At-Risk",
+      "days_since_purchase": 7
     }
   ],
   "competitor_forms_outstanding": 0

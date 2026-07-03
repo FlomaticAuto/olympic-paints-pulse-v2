@@ -1,47 +1,179 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KB098",
     "curef": "KB098",
     "customer_name": "Bismillah Hardware",
     "town": "Station Mall",
     "accno": "KB098",
-    "last_purchase_date": "23 Apr 2026",
-    "last_purchase_amt": 2363.35,
-    "last_purchase_prod": "20L HI HIDING CONT PVA WHITE",
-    "total_12m": 292067.85,
+    "last_purchase_date": "02 Jul 2026",
+    "last_purchase_amt": 2406.5,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 312893.58999999997,
     "velocity_category": "falling",
-    "health_tier": "At-Risk",
-    "health_score": 55.6,
+    "health_tier": "Active & Growing",
+    "health_score": 67.2,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": 42636.45,
-    "d90": 0.0,
+    "d60": 0.0,
+    "d90": 42636.45,
     "d_total": 42636.45,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131046",
-    "date": "23 Apr 2026",
+    "invoice_no": "131841",
+    "date": "02 Jul 2026",
     "lines": [
       {
-        "prodname": "20L HIGH GLOSS (MQ) WHITE",
-        "qty": 3.0,
-        "unit_price": 945.0100000000001,
-        "value": 2835.03
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 349.6,
+        "value": 1748.0
       },
       {
-        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "prodname": "20L DECOR NIGHT SKY PVA",
         "qty": 5.0,
-        "unit_price": 472.66999999999996,
-        "value": 2363.35
+        "unit_price": 349.6,
+        "value": 1748.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 5.0,
+        "unit_price": 349.6,
+        "value": 1748.0
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 4.0,
+        "unit_price": 91.16,
+        "value": 364.64
+      },
+      {
+        "prodname": "5L DECOR SILVER MIST",
+        "qty": 6.0,
+        "unit_price": 103.32,
+        "value": 619.92
+      },
+      {
+        "prodname": "20L MASTER DECOR SILVER SANDS",
+        "qty": 4.0,
+        "unit_price": 590.82,
+        "value": 2363.28
+      },
+      {
+        "prodname": "20L MASTER DECOR NIGHT SKY",
+        "qty": 4.0,
+        "unit_price": 590.82,
+        "value": 2363.28
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 86.55,
+        "value": 259.65
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 86.55,
+        "value": 173.1
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 86.55,
+        "value": 173.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 277.21999999999997,
+        "value": 1386.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 277.21999999999997,
+        "value": 1386.1
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 277.21999999999997,
+        "value": 831.66
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 4.0,
+        "unit_price": 115.73,
+        "value": 462.92
+      },
+      {
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 115.73,
+        "value": 462.92
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 4.0,
+        "unit_price": 115.73,
+        "value": 462.92
+      },
+      {
+        "prodname": "5L RAINPROOF BROWN",
+        "qty": 3.0,
+        "unit_price": 115.73,
+        "value": 347.19
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 1.0,
+        "unit_price": 115.73,
+        "value": 115.73
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 3.0,
+        "unit_price": 115.73,
+        "value": 347.19
+      },
+      {
+        "prodname": "5L RAINPROOF TERRACOTTA",
+        "qty": 3.0,
+        "unit_price": 115.73,
+        "value": 347.19
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 6.0,
+        "unit_price": 54.25,
+        "value": 325.5
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 76.57000000000001,
+        "value": 382.85
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 22.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 50.0,
+        "unit_price": 48.13,
+        "value": 2406.5
       }
     ],
-    "total": 5198.38,
-    "count": 2
+    "total": 20825.74,
+    "count": 24
   },
   "competitor_forms_outstanding": 0
 }

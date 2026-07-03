@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KA106",
     "curef": "KA106",
@@ -11,16 +11,16 @@
     "last_purchase_date": "29 Jun 2026",
     "last_purchase_amt": 2500.0,
     "last_purchase_prod": "5L Q.D. BURGUNDY",
-    "total_12m": 289594.86,
+    "total_12m": 283210.8599999999,
     "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 34.0,
+    "health_tier": "At-Risk",
+    "health_score": 44.2,
     "is_recovery": false,
-    "d_current": 25737.01,
-    "d30": 0.0,
+    "d_current": 0.0,
+    "d30": 1810.86,
     "d60": 0.0,
-    "d90": 1810.89,
-    "d_total": 27547.9,
+    "d90": 0.0,
+    "d_total": 1810.86,
     "shared_account": false
   },
   "invoice": {
@@ -100,12 +100,6 @@
         "value": 86.05
       },
       {
-        "prodname": "5LT THINNERS",
-        "qty": 50.0,
-        "unit_price": 127.68,
-        "value": 6384.0
-      },
-      {
         "prodname": "1L Q D DARK GREY ENAMEL",
         "qty": 20.0,
         "unit_price": 25.0,
@@ -148,8 +142,8 @@
         "value": 2500.0
       }
     ],
-    "total": 32184.550000000003,
-    "count": 20
+    "total": 25800.550000000003,
+    "count": 19
   },
   "competitor_forms_outstanding": 0
 }

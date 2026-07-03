@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KV007",
     "curef": "KV007",
@@ -13,9 +13,9 @@
     "last_purchase_prod": "5LT THINNERS",
     "total_12m": 23428.77,
     "velocity_category": "cooling",
-    "health_tier": "At-Risk",
-    "health_score": 32.4,
-    "is_recovery": false,
+    "health_tier": "Dead / Dormant",
+    "health_score": 29.1,
+    "is_recovery": true,
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,

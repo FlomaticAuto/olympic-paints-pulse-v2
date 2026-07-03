@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-02",
+  "generated_at": "2026-07-03",
   "store": {
     "dlref": "KR034",
     "curef": "KR034",
@@ -14,12 +14,12 @@
     "total_12m": 196311.77,
     "velocity_category": "rocket",
     "health_tier": "Active but Narrow",
-    "health_score": 59.1,
+    "health_score": 59.4,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
-    "d60": 20611.71,
-    "d90": 27151.16,
+    "d60": 0.0,
+    "d90": 47762.869999999995,
     "d_total": 47762.87,
     "shared_account": false
   },
