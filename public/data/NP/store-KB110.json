@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-06",
   "store": {
     "dlref": "KB110",
     "curef": "KB110",
@@ -11,7 +11,7 @@
     "last_purchase_date": "08 May 2026",
     "last_purchase_amt": 175.0,
     "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-    "total_12m": 14994.140000000001,
+    "total_12m": 12728.27,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 39.7,

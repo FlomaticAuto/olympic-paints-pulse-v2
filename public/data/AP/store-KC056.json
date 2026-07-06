@@ -1,0 +1,191 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-06",
+  "store": {
+    "dlref": "KC056",
+    "curef": "KC056",
+    "customer_name": "Cheap Cheap Hardware",
+    "town": "Phase 4",
+    "accno": "KC056",
+    "last_purchase_date": "19 Mar 2026",
+    "last_purchase_amt": 1280.0,
+    "last_purchase_prod": "5LT THINNERS",
+    "total_12m": 96677.88,
+    "velocity_category": null,
+    "health_tier": "Dead / Dormant",
+    "health_score": 34.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": -517.0,
+    "d_total": -517.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130529",
+    "date": "19 Mar 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 2.0,
+        "unit_price": 299.0,
+        "value": 598.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 10.0,
+        "unit_price": 299.0,
+        "value": 2990.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 299.0,
+        "value": 2990.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 10.0,
+        "unit_price": 299.0,
+        "value": 2990.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 5.0,
+        "unit_price": 299.0,
+        "value": 1495.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 1.0,
+        "unit_price": 275.0,
+        "value": 275.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 1.0,
+        "unit_price": 275.0,
+        "value": 275.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BROWN",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "qty": 5.0,
+        "unit_price": 430.0,
+        "value": 2150.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 85.0,
+        "value": 850.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 85.0,
+        "value": 850.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 290.0,
+        "value": 1160.0
+      }
+    ],
+    "total": 34238.0,
+    "count": 26
+  },
+  "competitor_forms_outstanding": 0
+}

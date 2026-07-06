@@ -1,0 +1,383 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-06",
+  "store": {
+    "dlref": "KS021",
+    "curef": "KS021",
+    "customer_name": "Shalom Hardware",
+    "town": "Heilbron",
+    "accno": "KS021",
+    "last_purchase_date": "08 Apr 2026",
+    "last_purchase_amt": 2310.0,
+    "last_purchase_prod": "5L Q D WHITE ENAMEL",
+    "total_12m": 148913.91999999998,
+    "velocity_category": "growing",
+    "health_tier": "At-Risk",
+    "health_score": 47.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 52268.2,
+    "d_total": 52268.2,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130782",
+    "date": "08 Apr 2026",
+    "lines": [
+      {
+        "prodname": "1L UNIV UNDERCOAT WHITE",
+        "qty": 4.0,
+        "unit_price": 94.37,
+        "value": 377.48
+      },
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 4.0,
+        "unit_price": 374.62,
+        "value": 1498.48
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 7.0,
+        "unit_price": 244.70000000000002,
+        "value": 1712.9
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 14.0,
+        "unit_price": 244.70000000000002,
+        "value": 3425.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 258.68,
+        "value": 776.04
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 258.68,
+        "value": 776.04
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 8.0,
+        "unit_price": 258.68,
+        "value": 2069.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 8.0,
+        "unit_price": 258.68,
+        "value": 2069.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) L BROWN",
+        "qty": 6.0,
+        "unit_price": 258.68,
+        "value": 1552.08
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 258.68,
+        "value": 1552.08
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 5.0,
+        "unit_price": 258.68,
+        "value": 1293.4
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 12.0,
+        "unit_price": 87.45,
+        "value": 1049.4
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 14.0,
+        "unit_price": 304.46999999999997,
+        "value": 4262.58
+      },
+      {
+        "prodname": "500ML PP ULTIMATE SHINE GREY",
+        "qty": 3.0,
+        "unit_price": 68.82000000000001,
+        "value": 206.46
+      },
+      {
+        "prodname": "500ML PP ULTIMATE SHINE L.GREY",
+        "qty": 3.0,
+        "unit_price": 68.82000000000001,
+        "value": 206.46
+      },
+      {
+        "prodname": "500ML PP ULTIMATE SHINE G BROW",
+        "qty": 8.0,
+        "unit_price": 68.82,
+        "value": 550.56
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE PWD BROWN",
+        "qty": 8.0,
+        "unit_price": 68.82,
+        "value": 550.56
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE L BROWN",
+        "qty": 6.0,
+        "unit_price": 68.82000000000001,
+        "value": 412.92
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE B GREEN",
+        "qty": 5.0,
+        "unit_price": 68.82000000000001,
+        "value": 344.1
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE BURGUNDY",
+        "qty": 4.0,
+        "unit_price": 68.82,
+        "value": 275.28
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE SILVER",
+        "qty": 4.0,
+        "unit_price": 68.82,
+        "value": 275.28
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE WHITE",
+        "qty": 10.0,
+        "unit_price": 99.75,
+        "value": 997.5
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE IVORY",
+        "qty": 3.0,
+        "unit_price": 99.75,
+        "value": 299.25
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE G BROWN",
+        "qty": 8.0,
+        "unit_price": 99.75,
+        "value": 798.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE PWD BROWN",
+        "qty": 8.0,
+        "unit_price": 99.75,
+        "value": 798.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE L BROWN",
+        "qty": 6.0,
+        "unit_price": 99.75,
+        "value": 598.5
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE B GREEN",
+        "qty": 5.0,
+        "unit_price": 99.75,
+        "value": 498.75
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE S BLUE",
+        "qty": 3.0,
+        "unit_price": 99.75,
+        "value": 299.25
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE BURGUNDY",
+        "qty": 4.0,
+        "unit_price": 99.75,
+        "value": 399.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE G YELLO",
+        "qty": 4.0,
+        "unit_price": 99.75,
+        "value": 399.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE S RED",
+        "qty": 4.0,
+        "unit_price": 99.75,
+        "value": 399.0
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 4.0,
+        "unit_price": 99.75,
+        "value": 399.0
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 8.0,
+        "unit_price": 63.52,
+        "value": 508.16
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 68.06,
+        "value": 408.36
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 4.0,
+        "unit_price": 68.06,
+        "value": 272.24
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 8.0,
+        "unit_price": 68.06,
+        "value": 544.48
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 68.06,
+        "value": 272.24
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 4.0,
+        "unit_price": 95.29,
+        "value": 381.16
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 8.0,
+        "unit_price": 108.9,
+        "value": 871.2
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 8.0,
+        "unit_price": 108.9,
+        "value": 871.2
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 8.0,
+        "unit_price": 108.9,
+        "value": 871.2
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 108.9,
+        "value": 435.6
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 373.97,
+        "value": 747.94
+      },
+      {
+        "prodname": "1L FACE BRICK DRESSING",
+        "qty": 5.0,
+        "unit_price": 84.08,
+        "value": 420.4
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 2.0,
+        "unit_price": 328.98,
+        "value": 657.96
+      },
+      {
+        "prodname": "1L BONDING LIQUED",
+        "qty": 4.0,
+        "unit_price": 84.08,
+        "value": 336.32
+      },
+      {
+        "prodname": "5L BONDING LIQUED",
+        "qty": 4.0,
+        "unit_price": 328.94,
+        "value": 1315.76
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 1.0,
+        "unit_price": 191.21,
+        "value": 191.21
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 165.71,
+        "value": 331.42
+      },
+      {
+        "prodname": "6x2KG DISTEMPER BLUE",
+        "qty": 1.0,
+        "unit_price": 165.71,
+        "value": 165.71
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 192.87,
+        "value": 192.87
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BROWN",
+        "qty": 1.0,
+        "unit_price": 192.87,
+        "value": 192.87
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS Y OCHRE",
+        "qty": 1.0,
+        "unit_price": 192.87,
+        "value": 192.87
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 337.47,
+        "value": 337.47
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS CHR YELL",
+        "qty": 1.0,
+        "unit_price": 337.47,
+        "value": 337.47
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS Y OCHRE",
+        "qty": 1.0,
+        "unit_price": 337.47,
+        "value": 337.47
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 82.5,
+        "value": 825.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 7.0,
+        "unit_price": 330.0,
+        "value": 2310.0
+      }
+    ],
+    "total": 45450.61,
+    "count": 58
+  },
+  "competitor_forms_outstanding": 0
+}

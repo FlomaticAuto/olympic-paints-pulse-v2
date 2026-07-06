@@ -1,17 +1,17 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-06",
   "store": {
     "dlref": "KS019/1",
     "curef": "KS019",
     "customer_name": "S.I.Hardware",
     "town": "SILOAM",
     "accno": "KS019_1",
-    "last_purchase_date": "01 Jul 2026",
-    "last_purchase_amt": 1650.0,
-    "last_purchase_prod": "5L Q D CHARCOAL",
-    "total_12m": 506975.55,
+    "last_purchase_date": "03 Jul 2026",
+    "last_purchase_amt": 1454.75,
+    "last_purchase_prod": "5LT THINNERS",
+    "total_12m": 476723.27,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 60.2,
@@ -24,180 +24,18 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131823",
-    "date": "01 Jul 2026",
+    "invoice_no": "28845",
+    "date": "03 Jul 2026",
     "lines": [
       {
-        "prodname": "20LT DECOR DARK GREY PVA",
-        "qty": 10.0,
-        "unit_price": 285.0,
-        "value": 2850.0
-      },
-      {
-        "prodname": "20LT DECOR APRICOT PVA",
-        "qty": 3.0,
-        "unit_price": 285.0,
-        "value": 855.0
-      },
-      {
-        "prodname": "20L DECOR NIGHT SKY PVA",
-        "qty": 3.0,
-        "unit_price": 285.0,
-        "value": 855.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) WHITE",
-        "qty": 4.0,
-        "unit_price": 68.0,
-        "value": 272.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) CREAM",
-        "qty": 4.0,
-        "unit_price": 68.0,
-        "value": 272.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
-        "qty": 10.0,
-        "unit_price": 68.0,
-        "value": 680.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) GREY",
-        "qty": 6.0,
-        "unit_price": 68.0,
-        "value": 408.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
-        "qty": 6.0,
-        "unit_price": 68.0,
-        "value": 408.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 12.0,
-        "unit_price": 250.0,
-        "value": 3000.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
-        "qty": 2.0,
-        "unit_price": 250.0,
-        "value": 500.0
-      },
-      {
-        "prodname": "5L SANDING SEALER",
-        "qty": 2.0,
-        "unit_price": 350.0,
-        "value": 700.0
-      },
-      {
-        "prodname": "1L WATERBASE RED OXIDE PRIMER",
-        "qty": 4.0,
-        "unit_price": 63.94,
-        "value": 255.76
-      },
-      {
-        "prodname": "1L COPAL VARNISH",
-        "qty": 6.0,
-        "unit_price": 86.0,
-        "value": 516.0
-      },
-      {
-        "prodname": "1L LIGHT OAK VARNISH",
-        "qty": 6.0,
-        "unit_price": 90.0,
-        "value": 540.0
-      },
-      {
-        "prodname": "1L DARK OAK VARNISH",
-        "qty": 4.0,
-        "unit_price": 90.0,
-        "value": 360.0
-      },
-      {
-        "prodname": "1L MAHOGONY VARNISH",
-        "qty": 6.0,
-        "unit_price": 90.0,
-        "value": 540.0
-      },
-      {
-        "prodname": "24x500GM RED OXIDE",
-        "qty": 5.0,
-        "unit_price": 144.99,
-        "value": 724.95
-      },
-      {
-        "prodname": "12X2KG CRACK FILLER",
-        "qty": 1.0,
-        "unit_price": 506.0,
-        "value": 506.0
-      },
-      {
-        "prodname": "DOZEN 750ML LACQUER THINNERS",
-        "qty": 4.0,
-        "unit_price": 264.5,
-        "value": 1058.0
-      },
-      {
         "prodname": "5LT THINNERS",
-        "qty": 20.0,
+        "qty": 11.0,
         "unit_price": 132.25,
-        "value": 2645.0
-      },
-      {
-        "prodname": "5L CARBOLINEUM",
-        "qty": 15.0,
-        "unit_price": 145.1,
-        "value": 2176.5
-      },
-      {
-        "prodname": "1L Q D WHITE ENAMEL",
-        "qty": 6.0,
-        "unit_price": 72.0,
-        "value": 432.0
-      },
-      {
-        "prodname": "1L Q D BLACK ENAMEL",
-        "qty": 30.0,
-        "unit_price": 72.0,
-        "value": 2160.0
-      },
-      {
-        "prodname": "1L Q D BRONZE ENAMEL",
-        "qty": 36.0,
-        "unit_price": 72.0,
-        "value": 2592.0
-      },
-      {
-        "prodname": "5L Q D BLACK ENAMEL",
-        "qty": 16.0,
-        "unit_price": 275.0,
-        "value": 4400.0
-      },
-      {
-        "prodname": "5L Q D BRONZE ENAMEL",
-        "qty": 35.0,
-        "unit_price": 275.0,
-        "value": 9625.0
-      },
-      {
-        "prodname": "5L Q D DARK GREY ENAMEL",
-        "qty": 4.0,
-        "unit_price": 275.0,
-        "value": 1100.0
-      },
-      {
-        "prodname": "5L Q D CHARCOAL",
-        "qty": 6.0,
-        "unit_price": 275.0,
-        "value": 1650.0
+        "value": 1454.75
       }
     ],
-    "total": 42081.21,
-    "count": 28
+    "total": 1454.75,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

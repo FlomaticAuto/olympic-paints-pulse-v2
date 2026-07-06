@@ -1,14 +1,14 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-03",
-  "week_label": "29 Jun \u2013 02 Jul",
+  "generated_at": "2026-07-06",
+  "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 55,
   "days": [
     {
-      "date_iso": "2026-06-29",
-      "date_label": "Mon 29 Jun",
-      "is_today": false,
+      "date_iso": "2026-07-06",
+      "date_label": "Mon 06 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA104",
@@ -307,8 +307,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-30",
-      "date_label": "Tue 30 Jun",
+      "date_iso": "2026-07-07",
+      "date_label": "Tue 07 Jul",
       "is_today": false,
       "stores": [
         {
@@ -317,10 +317,10 @@
           "customer_name": "Bright Build",
           "town": "Next To Tau Hardware",
           "accno": "KB002",
-          "last_purchase_date": "24 Jun 2026",
-          "last_purchase_amt": 141.24,
-          "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 409445.0,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 0.0,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 463293.19999999995,
           "velocity_category": "stable",
           "health_tier": "Active & Growing",
           "health_score": 65.1,
@@ -608,8 +608,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-01",
-      "date_label": "Wed 01 Jul",
+      "date_iso": "2026-07-08",
+      "date_label": "Wed 08 Jul",
       "is_today": false,
       "stores": [
         {
@@ -618,10 +618,10 @@
           "customer_name": "Beras Hardware Wholesaler",
           "town": "Modimolle",
           "accno": "KB010",
-          "last_purchase_date": "25 Jun 2026",
+          "last_purchase_date": "03 Jul 2026",
           "last_purchase_amt": 736.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 251685.12000000002,
+          "total_12m": 262679.71,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 69.2,
@@ -807,10 +807,10 @@
           "customer_name": "Myka Trade 2  Mankweng",
           "town": "Stand No 345 Mamadimo Park",
           "accno": "KM127",
-          "last_purchase_date": "22 Apr 2026",
-          "last_purchase_amt": 1800.0,
-          "last_purchase_prod": "20L DECOR NIGHT SKY PVA",
-          "total_12m": 2044182.8399999999,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 8250.0,
+          "last_purchase_prod": "5LT Q.D. GREY",
+          "total_12m": 2109243.49,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 72.0,
@@ -909,8 +909,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-02",
-      "date_label": "Thu 02 Jul",
+      "date_iso": "2026-07-09",
+      "date_label": "Thu 09 Jul",
       "is_today": false,
       "stores": [
         {
@@ -1108,10 +1108,10 @@
           "customer_name": "Myka Trade 2 T A New Builders",
           "town": "Before Coming From Polowane",
           "accno": "KM127_1",
-          "last_purchase_date": "17 Apr 2026",
-          "last_purchase_amt": 5750.0,
-          "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 366209.44000000006,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 0.0,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 403874.89,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 50.9,

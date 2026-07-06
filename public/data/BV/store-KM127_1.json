@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-06",
   "store": {
     "dlref": "KM127/1",
     "curef": "KM127",
     "customer_name": "Myka Trade 2 T A New Builders",
     "town": "Before Coming From Polowane",
     "accno": "KM127_1",
-    "last_purchase_date": "17 Apr 2026",
-    "last_purchase_amt": 5750.0,
-    "last_purchase_prod": "5LT THINNERS",
-    "total_12m": 366209.44000000006,
+    "last_purchase_date": "03 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 403874.89,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 50.9,
@@ -24,18 +24,90 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "130972",
-    "date": "17 Apr 2026",
+    "invoice_no": "131860",
+    "date": "03 Jul 2026",
     "lines": [
       {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 10.0,
+        "unit_price": 300.0,
+        "value": 3000.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 77.0,
+        "value": 385.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 77.0,
+        "value": 385.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 77.0,
+        "value": 385.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 280.0,
+        "value": 1680.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 15.0,
+        "unit_price": 339.53,
+        "value": 5092.95
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 15.0,
+        "unit_price": 103.5,
+        "value": 1552.5
+      },
+      {
         "prodname": "5LT THINNERS",
-        "qty": 50.0,
-        "unit_price": 115.0,
-        "value": 5750.0
+        "qty": 60.0,
+        "unit_price": 132.25,
+        "value": 7935.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 75.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 40.0,
+        "unit_price": 275.0,
+        "value": 11000.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 15.0,
+        "unit_price": 0.0,
+        "value": 0.0
       }
     ],
-    "total": 5750.0,
-    "count": 1
+    "total": 37665.45,
+    "count": 13
   },
   "competitor_forms_outstanding": 0
 }

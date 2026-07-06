@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-03",
-  "week_label": "29 Jun \u2013 02 Jul",
+  "generated_at": "2026-07-06",
+  "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 45,
   "days": [
     {
-      "date_iso": "2026-06-29",
-      "date_label": "Mon 29 Jun",
-      "is_today": false,
+      "date_iso": "2026-07-06",
+      "date_label": "Mon 06 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA030",
@@ -186,7 +186,7 @@
           "accno": "KP058_1",
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 1992.0,
-          "last_purchase_prod": "5L HIGH GLOSS (MQ) S BLUE",
+          "last_purchase_prod": "5L HIGH GLOSS (MQ) MILITARY BLUE",
           "total_12m": 189635.08,
           "velocity_category": null,
           "health_tier": "At-Risk",
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-30",
-      "date_label": "Tue 30 Jun",
+      "date_iso": "2026-07-07",
+      "date_label": "Tue 07 Jul",
       "is_today": false,
       "stores": [
         {
@@ -341,7 +341,7 @@
           "last_purchase_date": "11 Jun 2026",
           "last_purchase_amt": 409.71,
           "last_purchase_prod": "5L PP NAT ELE WILD ORCHID",
-          "total_12m": 95469.19000000002,
+          "total_12m": 81902.32,
           "velocity_category": "rocket",
           "health_tier": "Active & Growing",
           "health_score": 69.3,
@@ -404,7 +404,7 @@
           "last_purchase_date": "05 May 2026",
           "last_purchase_amt": 3005.34,
           "last_purchase_prod": "20L ALKYD ROOF/STOEP RED",
-          "total_12m": 264089.72,
+          "total_12m": 255790.72,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 75.3,
@@ -503,8 +503,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-01",
-      "date_label": "Wed 01 Jul",
+      "date_iso": "2026-07-08",
+      "date_label": "Wed 08 Jul",
       "is_today": false,
       "stores": [
         {
@@ -741,8 +741,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-02",
-      "date_label": "Thu 02 Jul",
+      "date_iso": "2026-07-09",
+      "date_label": "Thu 09 Jul",
       "is_today": false,
       "stores": [
         {
@@ -898,10 +898,10 @@
           "customer_name": "Paint Max",
           "town": "Krugersdorp",
           "accno": "KP058",
-          "last_purchase_date": "10 Apr 2026",
-          "last_purchase_amt": 4066.0,
-          "last_purchase_prod": "20L MASTER DECOR SILVER SANDS",
-          "total_12m": 195659.55,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 1494.0,
+          "last_purchase_prod": "5L HIGH GLOSS (MQ) MILITARY BLUE",
+          "total_12m": 212538.55,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 41.1,

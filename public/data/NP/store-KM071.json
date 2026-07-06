@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-06",
   "store": {
     "dlref": "KM071",
     "curef": "KM071",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 550.0,
     "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-    "total_12m": 1309314.81,
+    "total_12m": 1307189.1,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 50.1,
@@ -76,7 +76,7 @@
         "value": 1275.0
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) S BLUE",
+        "prodname": "5L HIGH GLOSS (MQ) MILITARY BLUE",
         "qty": 5.0,
         "unit_price": 255.0,
         "value": 1275.0

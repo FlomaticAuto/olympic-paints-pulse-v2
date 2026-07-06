@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-06",
   "store": {
     "dlref": "KB010",
     "curef": "KB010",
     "customer_name": "Beras Hardware Wholesaler",
     "town": "Modimolle",
     "accno": "KB010",
-    "last_purchase_date": "25 Jun 2026",
+    "last_purchase_date": "03 Jul 2026",
     "last_purchase_amt": 736.0,
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
-    "total_12m": 251685.12000000002,
+    "total_12m": 262679.71,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 69.2,
@@ -24,8 +24,8 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131781",
-    "date": "25 Jun 2026",
+    "invoice_no": "131859",
+    "date": "03 Jul 2026",
     "lines": [
       {
         "prodname": "500ML HIGH GLOSS (MQ) G BROWN",

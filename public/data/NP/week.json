@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-03",
-  "week_label": "29 Jun \u2013 02 Jul",
+  "generated_at": "2026-07-06",
+  "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 77,
   "days": [
     {
-      "date_iso": "2026-06-29",
-      "date_label": "Mon 29 Jun",
-      "is_today": false,
+      "date_iso": "2026-07-06",
+      "date_label": "Mon 06 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA090/1",
@@ -331,10 +331,10 @@
           "customer_name": "SASELAMANI STORES",
           "town": "STATION PANDA MARIA ROAD",
           "accno": "KS019_2",
-          "last_purchase_date": "01 Jul 2026",
-          "last_purchase_amt": 1069.5,
-          "last_purchase_prod": "5L Q.D. SILVER",
-          "total_12m": 850961.83,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 132.25,
+          "last_purchase_prod": "5LT THINNERS",
+          "total_12m": 851094.08,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 69.3,
@@ -433,8 +433,8 @@
       ]
     },
     {
-      "date_iso": "2026-06-30",
-      "date_label": "Tue 30 Jun",
+      "date_iso": "2026-07-07",
+      "date_label": "Tue 07 Jul",
       "is_today": false,
       "stores": [
         {
@@ -467,7 +467,7 @@
           "last_purchase_date": "01 Jul 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 580582.17,
+          "total_12m": 571822.17,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 49.5,
@@ -488,7 +488,7 @@
           "last_purchase_date": "08 May 2026",
           "last_purchase_amt": 175.0,
           "last_purchase_prod": "1L Q D BRONZE ENAMEL",
-          "total_12m": 14994.140000000001,
+          "total_12m": 12728.27,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 39.7,
@@ -635,7 +635,7 @@
           "last_purchase_date": "01 Jul 2026",
           "last_purchase_amt": 550.0,
           "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-          "total_12m": 1309314.81,
+          "total_12m": 1307189.1,
           "velocity_category": "cooling",
           "health_tier": "Active but Narrow",
           "health_score": 50.1,
@@ -761,7 +761,7 @@
           "last_purchase_date": "03 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 669218.95,
+          "total_12m": 633913.41,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 71.1,
@@ -839,8 +839,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-01",
-      "date_label": "Wed 01 Jul",
+      "date_iso": "2026-07-08",
+      "date_label": "Wed 08 Jul",
       "is_today": false,
       "stores": [
         {
@@ -873,7 +873,7 @@
           "last_purchase_date": "01 Jul 2026",
           "last_purchase_amt": 750.0,
           "last_purchase_prod": "1L Q.D. BURGUNDY",
-          "total_12m": 999000.38,
+          "total_12m": 967094.35,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 42.1,
@@ -1245,8 +1245,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-02",
-      "date_label": "Thu 02 Jul",
+      "date_iso": "2026-07-09",
+      "date_label": "Thu 09 Jul",
       "is_today": false,
       "stores": [
         {
@@ -1468,7 +1468,7 @@
           "last_purchase_date": "01 Jul 2026",
           "last_purchase_amt": 1650.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 999331.47,
+          "total_12m": 957344.5499999999,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 63.3,
@@ -1549,10 +1549,10 @@
           "customer_name": "S.I.Hardware",
           "town": "SILOAM",
           "accno": "KS019_1",
-          "last_purchase_date": "01 Jul 2026",
-          "last_purchase_amt": 1650.0,
-          "last_purchase_prod": "5L Q D CHARCOAL",
-          "total_12m": 506975.55,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 1454.75,
+          "last_purchase_prod": "5LT THINNERS",
+          "total_12m": 476723.27,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 60.2,
@@ -1570,10 +1570,10 @@
           "customer_name": "S.I.Hardware  Polokwane",
           "town": "Superbia",
           "accno": "KS019_5",
-          "last_purchase_date": "04 Jun 2026",
-          "last_purchase_amt": 1722.6,
-          "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 1815092.1900000002,
+          "last_purchase_date": "03 Jul 2026",
+          "last_purchase_amt": 11000.0,
+          "last_purchase_prod": "20LT Q D RED OXIDE PRIMER",
+          "total_12m": 1826092.1900000002,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 60.8,
