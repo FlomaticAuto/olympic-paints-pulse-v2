@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KA110",
     "curef": "KA110",
@@ -11,7 +11,7 @@
     "last_purchase_date": "02 Jun 2026",
     "last_purchase_amt": 18700.0,
     "last_purchase_prod": "20LT HIGH GLOSS (MQ) GREY",
-    "total_12m": 333025.0,
+    "total_12m": 296650.0,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 23.2,

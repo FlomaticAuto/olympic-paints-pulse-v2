@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KI015",
     "curef": "KI015",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 3850.0,
     "last_purchase_prod": "5L Q.D. BURGUNDY",
-    "total_12m": 1001703.89,
+    "total_12m": 939773.91,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 51.0,

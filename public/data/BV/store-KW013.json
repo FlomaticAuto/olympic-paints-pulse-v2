@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KW013",
     "curef": "KW013",
@@ -11,7 +11,7 @@
     "last_purchase_date": "09 Mar 2026",
     "last_purchase_amt": 960.0,
     "last_purchase_prod": "5L WALNUT VARNISH",
-    "total_12m": 61083.42,
+    "total_12m": 53248.04,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 29.2,

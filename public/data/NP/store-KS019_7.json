@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KS019/7",
     "curef": "KS019",
@@ -11,7 +11,7 @@
     "last_purchase_date": "20 May 2026",
     "last_purchase_amt": 148.99,
     "last_purchase_prod": "5L TURPENTINE",
-    "total_12m": 614903.7,
+    "total_12m": 562762.96,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 78.5,

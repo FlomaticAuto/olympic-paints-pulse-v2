@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KR008/2",
     "curef": "KR008",
@@ -11,7 +11,7 @@
     "last_purchase_date": "26 May 2026",
     "last_purchase_amt": 99.6,
     "last_purchase_prod": "500ML LIGHT OAK VARNISH",
-    "total_12m": 230359.07,
+    "total_12m": 216524.79,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 63.2,

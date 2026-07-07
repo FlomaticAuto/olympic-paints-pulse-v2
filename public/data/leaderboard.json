@@ -1,12 +1,12 @@
 {
-  "last_updated_iso": "2026-07-06",
+  "last_updated_iso": "2026-07-07",
   "rows": [
     {
       "rep": "AC",
       "name": "Aboo Cassim",
-      "mtd_sales": 211890.84999999998,
+      "mtd_sales": 276654.04,
       "mtd_target": 1880636.6149999998,
-      "pct_target": 0.11266974614338242,
+      "pct_target": 0.1471065902861835,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
@@ -22,18 +22,18 @@
     {
       "rep": "BV",
       "name": "Bhadresh Vallabh",
-      "mtd_sales": 305488.24,
+      "mtd_sales": 445291.9,
       "mtd_target": 7143174.921999999,
-      "pct_target": 0.04276645095994193,
+      "pct_target": 0.062338092635609695,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },
     {
       "rep": "NP",
       "name": "Nikhil Panchal",
-      "mtd_sales": 730357.6499999999,
+      "mtd_sales": 756480.2,
       "mtd_target": 5439216.718,
-      "pct_target": 0.13427625481129063,
+      "pct_target": 0.13907888565950682,
       "plan_adherence": 1.0,
       "ack_streak": 0
     },

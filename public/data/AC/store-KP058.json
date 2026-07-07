@@ -1,17 +1,17 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KP058",
     "curef": "KP058",
     "customer_name": "Paint Max",
     "town": "Krugersdorp",
     "accno": "KP058",
-    "last_purchase_date": "03 Jul 2026",
-    "last_purchase_amt": 1494.0,
-    "last_purchase_prod": "5L HIGH GLOSS (MQ) MILITARY BLUE",
-    "total_12m": 212538.55,
+    "last_purchase_date": "06 Jul 2026",
+    "last_purchase_amt": 958.0,
+    "last_purchase_prod": "20L MASTER DECOR DESERT CAMEL",
+    "total_12m": 213496.55,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 41.1,
@@ -24,60 +24,18 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131857",
-    "date": "03 Jul 2026",
+    "invoice_no": "28858",
+    "date": "06 Jul 2026",
     "lines": [
       {
-        "prodname": "20L MASTER DECOR KALAHARI PVA",
-        "qty": 6.0,
+        "prodname": "20L MASTER DECOR DESERT CAMEL",
+        "qty": 2.0,
         "unit_price": 479.0,
-        "value": 2874.0
-      },
-      {
-        "prodname": "20L MASTER DECOR AFRICAN KUDU",
-        "qty": 4.0,
-        "unit_price": 479.0,
-        "value": 1916.0
-      },
-      {
-        "prodname": "20L MASTER DECOR FOSSIL GREEN",
-        "qty": 4.0,
-        "unit_price": 479.0,
-        "value": 1916.0
-      },
-      {
-        "prodname": "20L MASTER DECOR AUTUMN WHEAT",
-        "qty": 3.0,
-        "unit_price": 479.0,
-        "value": 1437.0
-      },
-      {
-        "prodname": "20L MASTER DECOR SILVER SANDS",
-        "qty": 8.0,
-        "unit_price": 479.0,
-        "value": 3832.0
-      },
-      {
-        "prodname": "20L MASTER DECOR NIGHT SKY",
-        "qty": 4.0,
-        "unit_price": 479.0,
-        "value": 1916.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) WHITE",
-        "qty": 6.0,
-        "unit_price": 249.0,
-        "value": 1494.0
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) MILITARY BLUE",
-        "qty": 6.0,
-        "unit_price": 249.0,
-        "value": 1494.0
+        "value": 958.0
       }
     ],
-    "total": 16879.0,
-    "count": 8
+    "total": 958.0,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

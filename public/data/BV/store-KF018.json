@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KF018",
     "curef": "KF018",
     "customer_name": "Fairplay Hardware Bochum",
     "town": "Senwabarwana",
     "accno": "KF018",
-    "last_purchase_date": "15 May 2026",
+    "last_purchase_date": "06 Jul 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 172639.28000000003,
+    "total_12m": 177903.28000000003,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 22.6,
@@ -24,66 +24,48 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131297",
-    "date": "15 May 2026",
+    "invoice_no": "131883",
+    "date": "06 Jul 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) WHITE",
-        "qty": 6.0,
-        "unit_price": 82.5,
-        "value": 495.0
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
-        "qty": 6.0,
-        "unit_price": 86.95,
-        "value": 521.7
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
-        "qty": 6.0,
-        "unit_price": 86.95,
-        "value": 521.7
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "prodname": "5L UNIV UNDERCOAT WHITE",
         "qty": 4.0,
-        "unit_price": 86.95,
-        "value": 347.8
+        "unit_price": 376.0,
+        "value": 1504.0
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) MILITARY BLUE",
-        "qty": 4.0,
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
         "unit_price": 310.0,
-        "value": 1240.0
+        "value": 620.0
       },
       {
-        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
-        "qty": 8.0,
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
         "unit_price": 310.0,
-        "value": 2480.0
+        "value": 620.0
       },
       {
-        "prodname": "5L RAINPROOF GREY",
-        "qty": 24.0,
+        "prodname": "5L RAINPROOF CHARCOAL",
+        "qty": 12.0,
         "unit_price": 105.0,
-        "value": 2520.0
+        "value": 1260.0
       },
       {
         "prodname": "5L RAINPROOF BURGUNDY",
-        "qty": 36.0,
+        "qty": 12.0,
         "unit_price": 105.0,
-        "value": 3780.0
+        "value": 1260.0
       },
       {
         "prodname": "200mm x 10m Membrane",
-        "qty": 60.0,
+        "qty": 24.0,
         "unit_price": 0.0,
         "value": 0.0
       }
     ],
-    "total": 11906.2,
-    "count": 9
+    "total": 5264.0,
+    "count": 6
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KA057",
     "curef": "KA057",
@@ -11,7 +11,7 @@
     "last_purchase_date": "13 Mar 2026",
     "last_purchase_amt": 255.66,
     "last_purchase_prod": "5L Q.D.GREY PRIMER",
-    "total_12m": 32921.68,
+    "total_12m": 31754.230000000003,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 20.0,

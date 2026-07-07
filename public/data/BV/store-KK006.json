@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-07",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
@@ -11,7 +11,7 @@
     "last_purchase_date": "29 Jun 2026",
     "last_purchase_amt": 6435.0,
     "last_purchase_prod": "20L UNIVERSAL ROOF BROWN",
-    "total_12m": 509478.78,
+    "total_12m": 490418.23,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 48.1,
