@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
@@ -11,16 +11,16 @@
     "last_purchase_date": "02 Jul 2026",
     "last_purchase_amt": 142.52,
     "last_purchase_prod": "24x500GM OXIDE BLACK",
-    "total_12m": 2148621.88,
+    "total_12m": 2113153.05,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 79.8,
     "is_recovery": false,
-    "d_current": 2035.59,
+    "d_current": 14303.57,
     "d30": 240205.33,
-    "d60": 183837.07,
+    "d60": 100037.07,
     "d90": 0.0,
-    "d_total": 426077.99,
+    "d_total": 354545.97,
     "shared_account": false
   },
   "invoice": {

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KE040",
     "curef": "KE040",
@@ -11,7 +11,7 @@
     "last_purchase_date": "05 Feb 2026",
     "last_purchase_amt": 2375.0,
     "last_purchase_prod": "20L MASTER DECOR AFRICAN KUDU",
-    "total_12m": 45786.39,
+    "total_12m": 37236.38999999999,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 19.4,

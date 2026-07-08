@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 55,
   "days": [
@@ -103,7 +103,7 @@
           "last_purchase_date": "11 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 580042.8,
+          "total_12m": 579953.7999999999,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 33.0,
@@ -309,7 +309,7 @@
     {
       "date_iso": "2026-07-07",
       "date_label": "Tue 07 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB002",
@@ -320,16 +320,16 @@
           "last_purchase_date": "03 Jul 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 463293.19999999995,
+          "total_12m": 460185.72000000003,
           "velocity_category": "stable",
           "health_tier": "Active & Growing",
           "health_score": 65.1,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 61925.43,
           "d30": 50134.61,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 50134.61,
+          "d_total": 112060.04,
           "shared_account": false
         },
         {
@@ -362,7 +362,7 @@
           "last_purchase_date": "02 Jun 2026",
           "last_purchase_amt": 1250.0,
           "last_purchase_prod": "20L UNIVERSAL ROOF BURGANDY",
-          "total_12m": 132003.02999999997,
+          "total_12m": 129188.11,
           "velocity_category": "stable",
           "health_tier": "At-Risk",
           "health_score": 50.5,
@@ -388,11 +388,11 @@
           "health_tier": "At-Risk",
           "health_score": 22.6,
           "is_recovery": true,
-          "d_current": 0.0,
+          "d_current": 12107.2,
           "d30": 93165.58,
           "d60": 13615.26,
           "d90": 0.0,
-          "d_total": 106780.84,
+          "d_total": 118888.04,
           "shared_account": false
         },
         {
@@ -577,11 +577,11 @@
           "health_tier": "Active & Growing",
           "health_score": 68.7,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 136053.69,
           "d30": 51649.72,
-          "d60": 81220.62,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 132870.34,
+          "d_total": 187703.41,
           "shared_account": false
         },
         {
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB010",
@@ -626,11 +626,11 @@
           "health_tier": "Active & Growing",
           "health_score": 69.2,
           "is_recovery": false,
-          "d_current": 0.0,
-          "d30": 12215.4,
+          "d_current": 11691.58,
+          "d30": -428.38,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 12215.4,
+          "d_total": 11263.2,
           "shared_account": false
         },
         {
@@ -671,8 +671,8 @@
           "d_current": 0.0,
           "d30": 361933.28,
           "d60": 284654.52,
-          "d90": 268028.19,
-          "d_total": 914615.99,
+          "d90": 39.32,
+          "d_total": 646627.12,
           "shared_account": false
         },
         {
@@ -810,16 +810,16 @@
           "last_purchase_date": "03 Jul 2026",
           "last_purchase_amt": 8250.0,
           "last_purchase_prod": "5LT Q.D. GREY",
-          "total_12m": 2109243.49,
+          "total_12m": 2089281.92,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 72.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 118135.02,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0,
+          "d_total": 118135.02,
           "shared_account": false
         },
         {
@@ -930,8 +930,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 16172.42,
-          "d_total": 16172.42,
+          "d90": 12172.42,
+          "d_total": 12172.42,
           "shared_account": false
         },
         {

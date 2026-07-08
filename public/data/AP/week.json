@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 21,
   "days": [
@@ -132,8 +132,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 3000.0,
-          "d_total": 3000.0,
+          "d90": 0.0,
+          "d_total": 0.0,
           "shared_account": false
         }
       ]
@@ -141,7 +141,7 @@
     {
       "date_iso": "2026-07-07",
       "date_label": "Tue 07 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB032/1",
@@ -253,7 +253,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB036",

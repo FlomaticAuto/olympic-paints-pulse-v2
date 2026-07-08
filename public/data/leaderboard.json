@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-07-07",
+  "last_updated_iso": "2026-07-08",
   "rows": [
     {
       "rep": "AC",
@@ -41,8 +41,8 @@
       "rep": "BM",
       "name": "Byron Minnie",
       "mtd_sales": 853.4,
-      "mtd_target": 5743.945999999999,
-      "pct_target": 0.14857382015778006,
+      "mtd_target": 100000.0,
+      "pct_target": 0.008534,
       "plan_adherence": 1.0,
       "ack_streak": 0
     }

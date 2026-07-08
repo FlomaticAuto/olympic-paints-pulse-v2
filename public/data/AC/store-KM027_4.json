@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KM027/4",
     "curef": "KM027",
@@ -11,7 +11,7 @@
     "last_purchase_date": "17 Feb 2026",
     "last_purchase_amt": 1240.0,
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
-    "total_12m": 170903.88,
+    "total_12m": 154946.3,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 72.5,

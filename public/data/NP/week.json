@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 77,
   "days": [
@@ -124,7 +124,7 @@
           "last_purchase_date": "24 Mar 2026",
           "last_purchase_amt": 79.2,
           "last_purchase_prod": "PKT 2KG PUTTY",
-          "total_12m": 50963.51999999999,
+          "total_12m": 50420.359999999986,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 35.4,
@@ -194,9 +194,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 8916.2,
-          "d60": -382.32,
-          "d90": 6180.26,
-          "d_total": 14714.14,
+          "d60": 0.0,
+          "d90": 47.94,
+          "d_total": 8964.14,
           "shared_account": false
         },
         {
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-07-07",
       "date_label": "Tue 07 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA095",
@@ -446,7 +446,7 @@
           "last_purchase_date": "03 Jun 2026",
           "last_purchase_amt": 465.75,
           "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 82960.69,
+          "total_12m": 79096.44,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 50.4,
@@ -619,11 +619,11 @@
           "health_tier": "At-Risk",
           "health_score": 41.9,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": -130.16,
           "d30": 0.0,
-          "d60": 8074.04,
-          "d90": 0.93,
-          "d_total": 8074.97,
+          "d60": 0.0,
+          "d90": 0.0,
+          "d_total": -130.16,
           "shared_account": false
         },
         {
@@ -682,11 +682,11 @@
           "health_tier": "Active & Growing",
           "health_score": 69.8,
           "is_recovery": false,
-          "d_current": 11358.86,
-          "d30": -1016.12,
+          "d_current": -680.85,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 10342.74,
+          "d_total": -680.85,
           "shared_account": false
         },
         {
@@ -761,7 +761,7 @@
           "last_purchase_date": "03 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 633913.41,
+          "total_12m": 633597.5,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 71.1,
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA096",
@@ -873,7 +873,7 @@
           "last_purchase_date": "01 Jul 2026",
           "last_purchase_amt": 750.0,
           "last_purchase_prod": "1L Q.D. BURGUNDY",
-          "total_12m": 967094.35,
+          "total_12m": 965450.0700000001,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 42.1,
@@ -921,10 +921,10 @@
           "health_score": 57.2,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 6568.8,
+          "d30": 6454.82,
           "d60": 0.0,
-          "d90": 78386.02,
-          "d_total": 84954.82,
+          "d90": 0.0,
+          "d_total": 6454.82,
           "shared_account": false
         },
         {
@@ -1004,11 +1004,11 @@
           "health_tier": "At-Risk",
           "health_score": 22.7,
           "is_recovery": true,
-          "d_current": 0.0,
-          "d30": 8453.56,
+          "d_current": -0.02,
+          "d30": 0.0,
           "d60": 0.0,
-          "d90": -0.02,
-          "d_total": 8453.54,
+          "d90": 0.0,
+          "d_total": -0.02,
           "shared_account": false
         },
         {
@@ -1151,11 +1151,11 @@
           "health_tier": "Active & Growing",
           "health_score": 80.0,
           "is_recovery": false,
-          "d_current": 118023.98,
+          "d_current": 157969.86,
           "d30": 151705.56,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 269729.54,
+          "d_total": 309675.42,
           "shared_account": false
         },
         {
@@ -1167,7 +1167,7 @@
           "last_purchase_date": "20 May 2026",
           "last_purchase_amt": 579.96,
           "last_purchase_prod": "24x500GM OXIDE BLACK",
-          "total_12m": 224814.78000000003,
+          "total_12m": 206361.65000000002,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 70.1,
@@ -1305,11 +1305,11 @@
           "health_tier": "Active & Growing",
           "health_score": 70.4,
           "is_recovery": false,
-          "d_current": 64869.43,
-          "d30": 261056.86,
-          "d60": -164.12,
+          "d_current": 128721.06,
+          "d30": 0.0,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 325762.17,
+          "d_total": 128721.06,
           "shared_account": false
         },
         {
@@ -1455,8 +1455,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 26223.79,
-          "d_total": 26223.79,
+          "d90": 0.0,
+          "d_total": 0.0,
           "shared_account": false
         },
         {

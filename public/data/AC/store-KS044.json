@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KS044",
     "curef": "KS044",
@@ -16,11 +16,11 @@
     "health_tier": "Dead / Dormant",
     "health_score": 47.1,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 25602.84,
     "d30": 0.0,
     "d60": 0.0,
     "d90": -4484.42,
-    "d_total": -4484.42,
+    "d_total": 21118.42,
     "shared_account": false
   },
   "invoice": {

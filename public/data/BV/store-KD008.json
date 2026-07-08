@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KD008",
     "curef": "KD008",
@@ -19,8 +19,8 @@
     "d_current": 0.0,
     "d30": 361933.28,
     "d60": 284654.52,
-    "d90": 268028.19,
-    "d_total": 914615.99,
+    "d90": 39.32,
+    "d_total": 646627.12,
     "shared_account": false
   },
   "invoice": {

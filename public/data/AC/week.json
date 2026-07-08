@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 45,
   "days": [
@@ -45,11 +45,11 @@
           "health_tier": "Active & Growing",
           "health_score": 67.2,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 23949.6,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 42636.45,
-          "d_total": 42636.45,
+          "d90": 17636.45,
+          "d_total": 41586.05,
           "shared_account": false
         },
         {
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-07-07",
       "date_label": "Tue 07 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA050",
@@ -278,7 +278,7 @@
           "last_purchase_date": "09 Apr 2026",
           "last_purchase_amt": 1119.6,
           "last_purchase_prod": "5L UNIVERSAL ROOF BURGANDY",
-          "total_12m": 387371.4,
+          "total_12m": 372237.51,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 63.6,
@@ -320,7 +320,7 @@
           "last_purchase_date": "05 Feb 2026",
           "last_purchase_amt": 2375.0,
           "last_purchase_prod": "20L MASTER DECOR AFRICAN KUDU",
-          "total_12m": 45786.39,
+          "total_12m": 37236.38999999999,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 19.4,
@@ -383,7 +383,7 @@
           "last_purchase_date": "17 Feb 2026",
           "last_purchase_amt": 1240.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 170903.88,
+          "total_12m": 154946.3,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 72.5,
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA057",
@@ -516,7 +516,7 @@
           "last_purchase_date": "13 Mar 2026",
           "last_purchase_amt": 255.66,
           "last_purchase_prod": "5L Q.D.GREY PRIMER",
-          "total_12m": 31754.230000000003,
+          "total_12m": 31533.78,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 20.0,
@@ -579,7 +579,7 @@
           "last_purchase_date": "09 Jun 2026",
           "last_purchase_amt": 1044.84,
           "last_purchase_prod": "BOTTLE 750ML PAINT REMOVER",
-          "total_12m": 653786.56,
+          "total_12m": 632692.06,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 61.6,
@@ -817,16 +817,16 @@
           "last_purchase_date": "02 Jul 2026",
           "last_purchase_amt": 142.52,
           "last_purchase_prod": "24x500GM OXIDE BLACK",
-          "total_12m": 2148621.88,
+          "total_12m": 2113153.05,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 79.8,
           "is_recovery": false,
-          "d_current": 2035.59,
+          "d_current": 14303.57,
           "d30": 240205.33,
-          "d60": 183837.07,
+          "d60": 100037.07,
           "d90": 0.0,
-          "d_total": 426077.99,
+          "d_total": 354545.97,
           "shared_account": false
         },
         {
@@ -859,7 +859,7 @@
           "last_purchase_date": "28 Oct 2025",
           "last_purchase_amt": 12934.5,
           "last_purchase_prod": "20LT MASTER DECOR VARIOUS COLS",
-          "total_12m": 38503.409999999996,
+          "total_12m": 38102.45999999999,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 32.2,
@@ -906,11 +906,11 @@
           "health_tier": "At-Risk",
           "health_score": 41.1,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 18309.15,
           "d30": 18865.75,
           "d60": -8364.87,
           "d90": 0.0,
-          "d_total": 10500.88,
+          "d_total": 28810.03,
           "shared_account": false
         },
         {
@@ -927,11 +927,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 47.1,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 25602.84,
           "d30": 0.0,
           "d60": 0.0,
           "d90": -4484.42,
-          "d_total": -4484.42,
+          "d_total": 21118.42,
           "shared_account": false
         },
         {

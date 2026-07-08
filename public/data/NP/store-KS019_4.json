@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KS019/4",
     "curef": "KS019",
@@ -11,7 +11,7 @@
     "last_purchase_date": "20 May 2026",
     "last_purchase_amt": 579.96,
     "last_purchase_prod": "24x500GM OXIDE BLACK",
-    "total_12m": 224814.78000000003,
+    "total_12m": 206361.65000000002,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 70.1,

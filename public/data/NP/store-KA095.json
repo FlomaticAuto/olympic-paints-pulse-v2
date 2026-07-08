@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "store": {
     "dlref": "KA095",
     "curef": "KA095",
@@ -11,7 +11,7 @@
     "last_purchase_date": "03 Jun 2026",
     "last_purchase_amt": 465.75,
     "last_purchase_prod": "5LT THINNERS",
-    "total_12m": 82960.69,
+    "total_12m": 79096.44,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 50.4,
