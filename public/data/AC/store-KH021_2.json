@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KH021/2",
     "curef": "KH021",
@@ -11,7 +11,7 @@
     "last_purchase_date": "18 Jun 2026",
     "last_purchase_amt": 885.0,
     "last_purchase_prod": "5LT HYPER STEEL Q.D ROYAL BLUE",
-    "total_12m": 800840.01,
+    "total_12m": 770620.6599999999,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 43.1,
@@ -28,13 +28,13 @@
     "date": "18 Jun 2026",
     "lines": [
       {
-        "prodname": "1LT HYPER STEEL 3IN1 GRIP COAT BLACK",
+        "prodname": "1LT 3IN1 GRIP COAT BLACK",
         "qty": 29.0,
         "unit_price": 70.0,
         "value": 2030.0
       },
       {
-        "prodname": "5L HYPER STEEL Q.D GRIP COAT CHARCOAL",
+        "prodname": "5L Q.D GRIP COAT CHARCOAL",
         "qty": 15.0,
         "unit_price": 295.0,
         "value": 4425.0

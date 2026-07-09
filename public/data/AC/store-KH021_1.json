@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KH021/1",
     "curef": "KH021",
@@ -28,7 +28,7 @@
     "date": "01 Jul 2026",
     "lines": [
       {
-        "prodname": "1LT HYPER STEEL 3IN1 Q.D GRIP COAT WHITE",
+        "prodname": "1LT 3IN1 Q.D GRIP COAT WHITE",
         "qty": 5.0,
         "unit_price": 70.0,
         "value": 350.0

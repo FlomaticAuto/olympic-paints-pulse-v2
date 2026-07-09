@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KW011",
     "curef": "KW011",
@@ -11,7 +11,7 @@
     "last_purchase_date": "21 Apr 2026",
     "last_purchase_amt": 208.68,
     "last_purchase_prod": "5KG PUTTY",
-    "total_12m": 174881.11000000002,
+    "total_12m": 172515.41,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 64.0,

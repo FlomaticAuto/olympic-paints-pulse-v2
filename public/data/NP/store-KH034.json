@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KH034",
     "curef": "KH034",
@@ -11,7 +11,7 @@
     "last_purchase_date": "18 May 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "75mm x 10m Membrane",
-    "total_12m": 51798.03999999999,
+    "total_12m": 48197.97,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 50.3,

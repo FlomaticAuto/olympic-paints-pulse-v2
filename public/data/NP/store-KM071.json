@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KM071",
     "curef": "KM071",
@@ -11,16 +11,16 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 550.0,
     "last_purchase_prod": "5L Q D  GREEN ENAMEL",
-    "total_12m": 1307189.1,
+    "total_12m": 1203655.38,
     "velocity_category": "cooling",
     "health_tier": "Active but Narrow",
     "health_score": 50.1,
     "is_recovery": false,
-    "d_current": 68573.18,
+    "d_current": 121375.43,
     "d30": 215145.97,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 283719.15,
+    "d_total": 336521.4,
     "shared_account": false
   },
   "invoice": {

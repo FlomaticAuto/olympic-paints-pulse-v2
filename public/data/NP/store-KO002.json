@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KO002",
     "curef": "KO002",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 1635.9,
     "last_purchase_prod": "5KG PUTTY",
-    "total_12m": 352587.78,
+    "total_12m": 337697.8,
     "velocity_category": "stable",
     "health_tier": "Active & Growing",
     "health_score": 69.8,

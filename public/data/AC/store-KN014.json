@@ -1,17 +1,17 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KN014",
     "curef": "KN014",
     "customer_name": "Norman Building Material",
     "town": "Protea Boulevard Road",
     "accno": "KN014",
-    "last_purchase_date": "13 May 2026",
-    "last_purchase_amt": 779.19,
+    "last_purchase_date": "08 Jul 2026",
+    "last_purchase_amt": 545.53,
     "last_purchase_prod": "DOZEN 750ML RAW LINSEED OIL",
-    "total_12m": 46876.729999999996,
+    "total_12m": 51037.05,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 49.6,
@@ -24,24 +24,60 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131273",
-    "date": "13 May 2026",
+    "invoice_no": "131939",
+    "date": "08 Jul 2026",
     "lines": [
       {
-        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 306.02,
+        "value": 306.02
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 289.63,
+        "value": 289.63
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 166.31,
+        "value": 332.62
+      },
+      {
+        "prodname": "5KG RED OXIDE",
         "qty": 5.0,
-        "unit_price": 442.75,
-        "value": 2213.75
+        "unit_price": 76.22,
+        "value": 381.1
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BLACK",
+        "qty": 3.0,
+        "unit_price": 376.33,
+        "value": 1128.99
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS BROWN",
+        "qty": 1.0,
+        "unit_price": 376.33,
+        "value": 376.33
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 5.0,
+        "unit_price": 160.02,
+        "value": 800.1
       },
       {
         "prodname": "DOZEN 750ML RAW LINSEED OIL",
         "qty": 1.0,
-        "unit_price": 779.19,
-        "value": 779.19
+        "unit_price": 545.53,
+        "value": 545.53
       }
     ],
-    "total": 2992.94,
-    "count": 2
+    "total": 4160.32,
+    "count": 8
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,17 +1,17 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KS018",
     "curef": "KS018",
     "customer_name": "Shikundu Trading Store",
     "town": "Phunda Maria Road",
     "accno": "KS018",
-    "last_purchase_date": "02 Mar 2026",
-    "last_purchase_amt": 646.5,
-    "last_purchase_prod": "6x2KG DISTEMPER BLUE",
-    "total_12m": 16699.32,
+    "last_purchase_date": "08 Jul 2026",
+    "last_purchase_amt": 265.0,
+    "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
+    "total_12m": 16689.7,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 31.4,
@@ -24,36 +24,42 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "130215",
-    "date": "02 Mar 2026",
+    "invoice_no": "131944",
+    "date": "08 Jul 2026",
     "lines": [
       {
         "prodname": "24x500GM OXIDE BLACK",
         "qty": 5.0,
-        "unit_price": 126.6,
-        "value": 633.0
+        "unit_price": 160.0,
+        "value": 800.0
       },
       {
         "prodname": "24x500GM RED OXIDE",
         "qty": 5.0,
-        "unit_price": 126.6,
-        "value": 633.0
-      },
-      {
-        "prodname": "6x2KG DISTEMPER GREEN",
-        "qty": 5.0,
-        "unit_price": 129.3,
-        "value": 646.5
+        "unit_price": 160.0,
+        "value": 800.0
       },
       {
         "prodname": "6x2KG DISTEMPER BLUE",
         "qty": 5.0,
-        "unit_price": 129.3,
-        "value": 646.5
+        "unit_price": 160.75,
+        "value": 803.75
+      },
+      {
+        "prodname": "6x2KG DISTEMPER PINK",
+        "qty": 1.0,
+        "unit_price": 160.75,
+        "value": 160.75
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 1.0,
+        "unit_price": 265.0,
+        "value": 265.0
       }
     ],
-    "total": 2559.0,
-    "count": 4
+    "total": 2829.5,
+    "count": 5
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,17 +1,17 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KB115",
     "curef": "KB115",
     "customer_name": "Build Africa Hardware",
     "town": "",
     "accno": "KB115",
-    "last_purchase_date": "15 May 2026",
+    "last_purchase_date": "08 Jul 2026",
     "last_purchase_amt": 1094.73,
     "last_purchase_prod": "5L MAHOGONY VARNISH",
-    "total_12m": 54691.53,
+    "total_12m": 57705.810000000005,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 35.3,
@@ -24,8 +24,8 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131292",
-    "date": "15 May 2026",
+    "invoice_no": "131948",
+    "date": "08 Jul 2026",
     "lines": [
       {
         "prodname": "20L DECOR PVA CREAM",

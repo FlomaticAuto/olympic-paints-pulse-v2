@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KM155",
     "curef": "KM155",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 1650.0,
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
-    "total_12m": 957344.5499999999,
+    "total_12m": 954644.5499999999,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 63.3,

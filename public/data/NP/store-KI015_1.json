@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "store": {
     "dlref": "KI015/1",
     "curef": "KI015",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 2750.0,
     "last_purchase_prod": "5LT Q.D. BLUE GREY",
-    "total_12m": 764054.54,
+    "total_12m": 745439.49,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 48.5,

@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 55,
   "days": [
@@ -530,7 +530,7 @@
           "last_purchase_date": "11 Jul 2025",
           "last_purchase_amt": 5033.6,
           "last_purchase_prod": "24x500GM RED OXIDE",
-          "total_12m": 11385.480000000001,
+          "total_12m": 11065.480000000001,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 22.5,
@@ -593,7 +593,7 @@
           "last_purchase_date": "21 Apr 2026",
           "last_purchase_amt": 208.68,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 174881.11000000002,
+          "total_12m": 172515.41,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 64.0,
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB010",
@@ -618,10 +618,10 @@
           "customer_name": "Beras Hardware Wholesaler",
           "town": "Modimolle",
           "accno": "KB010",
-          "last_purchase_date": "06 Jul 2026",
-          "last_purchase_amt": 736.0,
-          "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 268871.82000000007,
+          "last_purchase_date": "07 Jul 2026",
+          "last_purchase_amt": 828.0,
+          "last_purchase_prod": "24X1KG PUTTY",
+          "total_12m": 269444.62,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 69.2,
@@ -663,7 +663,7 @@
           "last_purchase_date": "29 Jun 2026",
           "last_purchase_amt": 304.33,
           "last_purchase_prod": "5L ALKYD ROOF/STOEP BLACK",
-          "total_12m": 3790124.53,
+          "total_12m": 3786046.54,
           "velocity_category": "cooling",
           "health_tier": "Active & Growing",
           "health_score": 85.8,
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-07-09",
       "date_label": "Thu 09 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB066",

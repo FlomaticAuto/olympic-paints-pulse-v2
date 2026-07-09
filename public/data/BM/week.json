@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 5,
   "days": [
@@ -65,10 +65,10 @@
           "customer_name": "Build Africa Hardware",
           "town": "",
           "accno": "KB115",
-          "last_purchase_date": "15 May 2026",
+          "last_purchase_date": "08 Jul 2026",
           "last_purchase_amt": 1094.73,
           "last_purchase_prod": "5L MAHOGONY VARNISH",
-          "total_12m": 54691.53,
+          "total_12m": 57705.810000000005,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 35.3,
@@ -85,7 +85,7 @@
     {
       "date_iso": "2026-07-08",
       "date_label": "Wed 08 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KC055",
@@ -113,7 +113,7 @@
     {
       "date_iso": "2026-07-09",
       "date_label": "Thu 09 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KP060",
