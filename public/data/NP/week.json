@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 77,
   "days": [
@@ -355,7 +355,7 @@
           "last_purchase_date": "06 Jul 2026",
           "last_purchase_amt": 4125.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 213038.61000000002,
+          "total_12m": 207068.45,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 68.2,
@@ -1247,7 +1247,7 @@
     {
       "date_iso": "2026-07-09",
       "date_label": "Thu 09 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA106",

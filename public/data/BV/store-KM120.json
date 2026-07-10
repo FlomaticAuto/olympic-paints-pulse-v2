@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "store": {
     "dlref": "KM120",
     "curef": "KM120",
@@ -11,7 +11,7 @@
     "last_purchase_date": "01 Jun 2026",
     "last_purchase_amt": 3566.0,
     "last_purchase_prod": "5L Q.D. SILVER",
-    "total_12m": 397967.54,
+    "total_12m": 383838.60000000003,
     "velocity_category": "growing",
     "health_tier": "Active & Growing",
     "health_score": 74.3,

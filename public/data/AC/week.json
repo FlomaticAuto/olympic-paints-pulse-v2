@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "week_label": "06 Jul \u2013 09 Jul",
   "total_stores": 45,
   "days": [
@@ -278,7 +278,7 @@
           "last_purchase_date": "09 Apr 2026",
           "last_purchase_amt": 1119.6,
           "last_purchase_prod": "5L UNIVERSAL ROOF BURGANDY",
-          "total_12m": 372237.51,
+          "total_12m": 371620.11,
           "velocity_category": "rocket",
           "health_tier": "Active but Narrow",
           "health_score": 63.6,
@@ -516,7 +516,7 @@
           "last_purchase_date": "13 Mar 2026",
           "last_purchase_amt": 255.66,
           "last_purchase_prod": "5L Q.D.GREY PRIMER",
-          "total_12m": 31533.78,
+          "total_12m": 31060.28,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 20.0,
@@ -743,7 +743,7 @@
     {
       "date_iso": "2026-07-09",
       "date_label": "Thu 09 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA060",
