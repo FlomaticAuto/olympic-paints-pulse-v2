@@ -1,14 +1,14 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-10",
-  "week_label": "06 Jul \u2013 09 Jul",
+  "generated_at": "2026-07-13",
+  "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 45,
   "days": [
     {
-      "date_iso": "2026-07-06",
-      "date_label": "Mon 06 Jul",
-      "is_today": false,
+      "date_iso": "2026-07-13",
+      "date_label": "Mon 13 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA030",
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-07",
-      "date_label": "Tue 07 Jul",
+      "date_iso": "2026-07-14",
+      "date_label": "Tue 14 Jul",
       "is_today": false,
       "stores": [
         {
@@ -348,9 +348,9 @@
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 3954.22,
-          "d60": 7124.73,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 11078.95,
+          "d_total": 3954.22,
           "shared_account": false
         },
         {
@@ -503,8 +503,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-08",
-      "date_label": "Wed 08 Jul",
+      "date_iso": "2026-07-15",
+      "date_label": "Wed 15 Jul",
       "is_today": false,
       "stores": [
         {
@@ -741,8 +741,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-09",
-      "date_label": "Thu 09 Jul",
+      "date_iso": "2026-07-16",
+      "date_label": "Thu 16 Jul",
       "is_today": false,
       "stores": [
         {
@@ -780,11 +780,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 47.6,
           "is_recovery": false,
-          "d_current": 14770.03,
-          "d30": -0.02,
+          "d_current": 0.0,
+          "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 14770.01,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -823,10 +823,10 @@
           "health_score": 79.8,
           "is_recovery": false,
           "d_current": 14303.57,
-          "d30": 240205.33,
-          "d60": 100037.07,
+          "d30": 137009.79,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 354545.97,
+          "d_total": 151313.36,
           "shared_account": false
         },
         {
@@ -885,11 +885,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 49.6,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 4784.37,
           "d30": 0.0,
-          "d60": 3110.66,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 3110.66,
+          "d_total": 4784.37,
           "shared_account": false
         },
         {

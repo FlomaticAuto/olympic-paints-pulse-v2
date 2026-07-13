@@ -1,0 +1,95 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KC054",
+    "curef": "KC054",
+    "customer_name": "Choice Build Matanda",
+    "town": "Matanda Zone 3 Maluma Road",
+    "accno": "KC054",
+    "last_purchase_date": "07 Jul 2026",
+    "last_purchase_amt": 1932.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 212195.36000000002,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 62.4,
+    "is_recovery": false,
+    "d_current": 9804.76,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 9804.76,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131909",
+    "date": "07 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 305.29,
+        "value": 915.87
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 3.0,
+        "unit_price": 314.03000000000003,
+        "value": 942.09
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 80.4,
+        "value": 402.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 83.94,
+        "value": 419.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 83.94,
+        "value": 503.64
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 289.43,
+        "value": 1157.72
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 315.68,
+        "value": 631.36
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 5.0,
+        "unit_price": 149.5,
+        "value": 747.5
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 87.4,
+        "value": 874.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 322.0,
+        "value": 1932.0
+      }
+    ],
+    "total": 8525.880000000001,
+    "count": 10
+  },
+  "competitor_forms_outstanding": 0
+}

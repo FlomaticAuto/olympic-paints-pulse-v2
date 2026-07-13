@@ -1,14 +1,14 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-10",
-  "week_label": "06 Jul \u2013 09 Jul",
+  "generated_at": "2026-07-13",
+  "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 5,
   "days": [
     {
-      "date_iso": "2026-07-06",
-      "date_label": "Mon 06 Jul",
-      "is_today": false,
+      "date_iso": "2026-07-13",
+      "date_label": "Mon 13 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA116",
@@ -55,8 +55,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-07",
-      "date_label": "Tue 07 Jul",
+      "date_iso": "2026-07-14",
+      "date_label": "Tue 14 Jul",
       "is_today": false,
       "stores": [
         {
@@ -65,26 +65,26 @@
           "customer_name": "Build Africa Hardware",
           "town": "",
           "accno": "KB115",
-          "last_purchase_date": "08 Jul 2026",
-          "last_purchase_amt": 1094.73,
-          "last_purchase_prod": "5L MAHOGONY VARNISH",
-          "total_12m": 57705.810000000005,
+          "last_purchase_date": "10 Jul 2026",
+          "last_purchase_amt": 318.78,
+          "last_purchase_prod": "1L DARK OAK VARNISH",
+          "total_12m": 60250.93000000001,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 35.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 3466.42,
           "d30": 0.0,
           "d60": 86.6,
           "d90": 0.0,
-          "d_total": 86.6,
+          "d_total": 3553.02,
           "shared_account": false
         }
       ]
     },
     {
-      "date_iso": "2026-07-08",
-      "date_label": "Wed 08 Jul",
+      "date_iso": "2026-07-15",
+      "date_label": "Wed 15 Jul",
       "is_today": false,
       "stores": [
         {
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-09",
-      "date_label": "Thu 09 Jul",
+      "date_iso": "2026-07-16",
+      "date_label": "Thu 16 Jul",
       "is_today": false,
       "stores": [
         {

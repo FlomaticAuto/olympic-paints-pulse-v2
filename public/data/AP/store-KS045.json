@@ -1,0 +1,119 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KS045",
+    "curef": "KS045",
+    "customer_name": "Siloam Hardware",
+    "town": "Edison Park",
+    "accno": "KS045",
+    "last_purchase_date": "07 Jul 2026",
+    "last_purchase_amt": 6400.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 321386.84,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 55.9,
+    "is_recovery": false,
+    "d_current": 37431.1,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 37431.1,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131912",
+    "date": "07 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 1033.85,
+        "value": 2067.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 84.27000000000001,
+        "value": 842.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 84.27000000000001,
+        "value": 842.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 10.0,
+        "unit_price": 84.27000000000001,
+        "value": 842.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 303.01,
+        "value": 1515.05
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 303.01,
+        "value": 1818.06
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 3.0,
+        "unit_price": 303.01,
+        "value": 909.03
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 3.0,
+        "unit_price": 303.01,
+        "value": 909.03
+      },
+      {
+        "prodname": "5L SANDING SEALER",
+        "qty": 20.0,
+        "unit_price": 360.0,
+        "value": 7200.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 256.94,
+        "value": 513.88
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 269.31,
+        "value": 807.93
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 40.0,
+        "unit_price": 149.5,
+        "value": 5980.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 95.0,
+        "value": 1900.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 20.0,
+        "unit_price": 320.0,
+        "value": 6400.0
+      }
+    ],
+    "total": 32548.780000000002,
+    "count": 14
+  },
+  "competitor_forms_outstanding": 0
+}

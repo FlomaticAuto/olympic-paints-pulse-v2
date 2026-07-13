@@ -1,0 +1,161 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KG006",
+    "curef": "KG006",
+    "customer_name": "Gulmohur Building Supplies P L",
+    "town": "Kanye Centre",
+    "accno": "KG006",
+    "last_purchase_date": "22 May 2026",
+    "last_purchase_amt": 1033.56,
+    "last_purchase_prod": "5L MAHOGONY VARNISH",
+    "total_12m": 384885.44000000006,
+    "velocity_category": "stable",
+    "health_tier": "Active but Narrow",
+    "health_score": 63.1,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 87251.4,
+    "d90": 0.0,
+    "d_total": 87251.4,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131380",
+    "date": "22 May 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 2.0,
+        "unit_price": 300.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 3.0,
+        "unit_price": 300.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 3.0,
+        "unit_price": 300.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 885.29,
+        "value": 2655.87
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 5.0,
+        "unit_price": 885.29,
+        "value": 4426.45
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 82.5,
+        "value": 412.5
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 30.0,
+        "unit_price": 82.5,
+        "value": 2475.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 82.5,
+        "value": 825.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 290.0,
+        "value": 1450.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 3.0,
+        "unit_price": 290.0,
+        "value": 870.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 20.0,
+        "unit_price": 290.0,
+        "value": 5800.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 10.0,
+        "unit_price": 290.0,
+        "value": 2900.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 290.0,
+        "value": 1450.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 290.0,
+        "value": 870.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B BLUE",
+        "qty": 5.0,
+        "unit_price": 290.0,
+        "value": 1450.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 305.0,
+        "value": 1830.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 10.0,
+        "unit_price": 90.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "5L BONDING LIQUED",
+        "qty": 3.0,
+        "unit_price": 350.0,
+        "value": 1050.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 300.0,
+        "value": 300.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 300.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 305.0,
+        "value": 3050.0
+      }
+    ],
+    "total": 35714.82,
+    "count": 21
+  },
+  "competitor_forms_outstanding": 0
+}

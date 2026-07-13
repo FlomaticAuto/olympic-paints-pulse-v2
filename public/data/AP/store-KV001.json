@@ -1,0 +1,89 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KV001",
+    "curef": "KV001",
+    "customer_name": "Vuwani Hardware & Furniture cc",
+    "town": "VUWANI",
+    "accno": "KV001",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 745.2,
+    "last_purchase_prod": "5L CARBOLINEUM",
+    "total_12m": 42198.21,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 36.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 11581.82,
+    "d60": -1.47,
+    "d90": 0.0,
+    "d_total": 11580.35,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131464",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 311.83000000000004,
+        "value": 1559.15
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 311.83000000000004,
+        "value": 1559.15
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 152.73,
+        "value": 305.46
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 3.0,
+        "unit_price": 152.73,
+        "value": 458.19
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 322.0,
+        "value": 644.0
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 5.0,
+        "unit_price": 149.04000000000002,
+        "value": 745.2
+      }
+    ],
+    "total": 10071.150000000001,
+    "count": 9
+  },
+  "competitor_forms_outstanding": 0
+}

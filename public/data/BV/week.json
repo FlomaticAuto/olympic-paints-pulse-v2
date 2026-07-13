@@ -1,14 +1,14 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-10",
-  "week_label": "06 Jul \u2013 09 Jul",
+  "generated_at": "2026-07-13",
+  "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 55,
   "days": [
     {
-      "date_iso": "2026-07-06",
-      "date_label": "Mon 06 Jul",
-      "is_today": false,
+      "date_iso": "2026-07-13",
+      "date_label": "Mon 13 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA104",
@@ -103,7 +103,7 @@
           "last_purchase_date": "11 Jun 2026",
           "last_purchase_amt": 0.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 579953.7999999999,
+          "total_12m": 552400.64,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 33.0,
@@ -193,10 +193,10 @@
           "health_score": 71.8,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 63754.8,
+          "d30": 3754.8,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 63754.8,
+          "d_total": 3754.8,
           "shared_account": false
         },
         {
@@ -307,8 +307,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-07",
-      "date_label": "Tue 07 Jul",
+      "date_iso": "2026-07-14",
+      "date_label": "Tue 14 Jul",
       "is_today": false,
       "stores": [
         {
@@ -317,19 +317,19 @@
           "customer_name": "Bright Build",
           "town": "Next To Tau Hardware",
           "accno": "KB002",
-          "last_purchase_date": "03 Jul 2026",
-          "last_purchase_amt": 0.0,
-          "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 460185.72000000003,
+          "last_purchase_date": "10 Jul 2026",
+          "last_purchase_amt": 194.4,
+          "last_purchase_prod": "20L ECLIPSE CREAM PVA",
+          "total_12m": 462541.51999999996,
           "velocity_category": "stable",
           "health_tier": "Active & Growing",
           "health_score": 65.1,
           "is_recovery": false,
-          "d_current": 61925.43,
+          "d_current": 59216.26,
           "d30": 50134.61,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 112060.04,
+          "d_total": 109350.87,
           "shared_account": false
         },
         {
@@ -388,11 +388,11 @@
           "health_tier": "At-Risk",
           "health_score": 22.6,
           "is_recovery": true,
-          "d_current": 12107.2,
+          "d_current": 6053.6,
           "d30": 93165.58,
           "d60": 13615.26,
           "d90": 0.0,
-          "d_total": 118888.04,
+          "d_total": 112834.44,
           "shared_account": false
         },
         {
@@ -454,8 +454,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 73820.2,
-          "d_total": 73820.2,
+          "d90": 31820.2,
+          "d_total": 31820.2,
           "shared_account": false
         },
         {
@@ -530,7 +530,7 @@
           "last_purchase_date": "11 Jul 2025",
           "last_purchase_amt": 5033.6,
           "last_purchase_prod": "24x500GM RED OXIDE",
-          "total_12m": 5532.740000000001,
+          "total_12m": 0.0,
           "velocity_category": "falling",
           "health_tier": "Dead / Dormant",
           "health_score": 22.5,
@@ -569,19 +569,19 @@
           "customer_name": "Nimeshkumar General Dealers",
           "town": "1699-Next to Magistrates Court",
           "accno": "KS071",
-          "last_purchase_date": "06 Jul 2026",
-          "last_purchase_amt": 4594.25,
-          "last_purchase_prod": "20LT 7-IN-1 PVA SILVER MIST",
-          "total_12m": 832770.12,
+          "last_purchase_date": "10 Jul 2026",
+          "last_purchase_amt": 280.0,
+          "last_purchase_prod": "5L HIGH GLOSS (MQ) P BROWN",
+          "total_12m": 833050.1200000001,
           "velocity_category": "stable",
           "health_tier": "Active & Growing",
           "health_score": 68.7,
           "is_recovery": false,
-          "d_current": 136053.69,
+          "d_current": 135731.69,
           "d30": 51649.72,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 187703.41,
+          "d_total": 187381.41,
           "shared_account": false
         },
         {
@@ -608,8 +608,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-08",
-      "date_label": "Wed 08 Jul",
+      "date_iso": "2026-07-15",
+      "date_label": "Wed 15 Jul",
       "is_today": false,
       "stores": [
         {
@@ -618,19 +618,19 @@
           "customer_name": "Beras Hardware Wholesaler",
           "town": "Modimolle",
           "accno": "KB010",
-          "last_purchase_date": "07 Jul 2026",
-          "last_purchase_amt": 828.0,
-          "last_purchase_prod": "24X1KG PUTTY",
-          "total_12m": 269444.62,
+          "last_purchase_date": "10 Jul 2026",
+          "last_purchase_amt": 870.0,
+          "last_purchase_prod": "5L HIGH GLOSS (MQ) S GREEN",
+          "total_12m": 284782.23,
           "velocity_category": "falling",
           "health_tier": "Active & Growing",
           "health_score": 69.2,
           "is_recovery": false,
           "d_current": 11691.58,
-          "d30": -428.38,
+          "d30": -428.4,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 11263.2,
+          "d_total": 11263.18,
           "shared_account": false
         },
         {
@@ -660,10 +660,10 @@
           "customer_name": "Dada's World of Hardware CC",
           "town": "Polokwane",
           "accno": "KD008",
-          "last_purchase_date": "29 Jun 2026",
-          "last_purchase_amt": 304.33,
-          "last_purchase_prod": "5L ALKYD ROOF/STOEP BLACK",
-          "total_12m": 3786046.54,
+          "last_purchase_date": "10 Jul 2026",
+          "last_purchase_amt": 824.08,
+          "last_purchase_prod": "24x500GM GREEN OXIDE",
+          "total_12m": 3841652.6700000004,
           "velocity_category": "cooling",
           "health_tier": "Active & Growing",
           "health_score": 85.8,
@@ -909,8 +909,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-09",
-      "date_label": "Thu 09 Jul",
+      "date_iso": "2026-07-16",
+      "date_label": "Thu 16 Jul",
       "is_today": false,
       "stores": [
         {

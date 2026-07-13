@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-10",
+  "generated_at": "2026-07-13",
   "store": {
     "dlref": "KD008",
     "curef": "KD008",
     "customer_name": "Dada's World of Hardware CC",
     "town": "Polokwane",
     "accno": "KD008",
-    "last_purchase_date": "29 Jun 2026",
-    "last_purchase_amt": 304.33,
-    "last_purchase_prod": "5L ALKYD ROOF/STOEP BLACK",
-    "total_12m": 3786046.54,
+    "last_purchase_date": "10 Jul 2026",
+    "last_purchase_amt": 824.08,
+    "last_purchase_prod": "24x500GM GREEN OXIDE",
+    "total_12m": 3841652.6700000004,
     "velocity_category": "cooling",
     "health_tier": "Active & Growing",
     "health_score": 85.8,
@@ -24,18 +24,132 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28831",
-    "date": "29 Jun 2026",
+    "invoice_no": "132007",
+    "date": "10 Jul 2026",
     "lines": [
       {
-        "prodname": "5L ALKYD ROOF/STOEP BLACK",
-        "qty": 1.0,
-        "unit_price": 304.33,
-        "value": 304.33
+        "prodname": "20L KALAHARI CONTR JAIPUR PVA",
+        "qty": 10.0,
+        "unit_price": 359.03000000000003,
+        "value": 3590.3
+      },
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 50.0,
+        "unit_price": 254.23,
+        "value": 12711.5
+      },
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 30.0,
+        "unit_price": 254.23,
+        "value": 7626.9
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 20.0,
+        "unit_price": 288.90999999999997,
+        "value": 5778.2
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 288.90999999999997,
+        "value": 1444.55
+      },
+      {
+        "prodname": "20L MASTER DECOR STONE GREY",
+        "qty": 10.0,
+        "unit_price": 507.16999999999996,
+        "value": 5071.7
+      },
+      {
+        "prodname": "5L MASTER DECOR CREAM PVA",
+        "qty": 10.0,
+        "unit_price": 157.44,
+        "value": 1574.4
+      },
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 5.0,
+        "unit_price": 301.36,
+        "value": 1506.8
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 50.07,
+        "value": 500.7
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 20.0,
+        "unit_price": 50.07,
+        "value": 1001.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 30.0,
+        "unit_price": 63.0,
+        "value": 1890.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 20.0,
+        "unit_price": 236.25,
+        "value": 4725.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) SUMMER BLUE",
+        "qty": 10.0,
+        "unit_price": 247.5,
+        "value": 2475.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 190.23,
+        "value": 951.15
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 10.0,
+        "unit_price": 77.0,
+        "value": 770.0
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE SILVER",
+        "qty": 15.0,
+        "unit_price": 53.88,
+        "value": 808.2
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE ORANGE",
+        "qty": 5.0,
+        "unit_price": 79.41,
+        "value": 397.05
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 10.0,
+        "unit_price": 124.41,
+        "value": 1244.1
+      },
+      {
+        "prodname": "24x500GM BROWN OXIDE",
+        "qty": 5.0,
+        "unit_price": 143.02,
+        "value": 715.1
+      },
+      {
+        "prodname": "24x500GM GREEN OXIDE",
+        "qty": 2.0,
+        "unit_price": 412.04,
+        "value": 824.08
       }
     ],
-    "total": 304.33,
-    "count": 1
+    "total": 55606.130000000005,
+    "count": 20
   },
   "competitor_forms_outstanding": 0
 }

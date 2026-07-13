@@ -1,0 +1,293 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KM004/1",
+    "curef": "KM004",
+    "customer_name": "MAGEZI HW WHOLESALE VILLAGE",
+    "town": "ROAD AS MAGEZI ABOUT 30KM",
+    "accno": "KM004_1",
+    "last_purchase_date": "29 Apr 2026",
+    "last_purchase_amt": 3400.0,
+    "last_purchase_prod": "5L Q D SIGNAL RED ENAMEL",
+    "total_12m": 190066.78000000003,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 51.4,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131099",
+    "date": "29 Apr 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PEACH",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 6.0,
+        "unit_price": 83.95,
+        "value": 503.7
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 650.0,
+        "value": 3250.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 650.0,
+        "value": 3900.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 6.0,
+        "unit_price": 650.0,
+        "value": 3900.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 8.0,
+        "unit_price": 650.0,
+        "value": 5200.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 5.0,
+        "unit_price": 650.0,
+        "value": 3250.0
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 15.0,
+        "unit_price": 288.74,
+        "value": 4331.1
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 20.0,
+        "unit_price": 204.85,
+        "value": 4097.0
+      },
+      {
+        "prodname": "20L ECLIPSE CREAM PVA",
+        "qty": 10.0,
+        "unit_price": 204.85,
+        "value": 2048.5
+      },
+      {
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 10.0,
+        "unit_price": 204.85,
+        "value": 2048.5
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D DARK GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D  PWD BROWN ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1LT Q.D. G BROWN",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1LT Q.D. BLUE GREY",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D GREEN ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1LT Q D ROYAL BLUE",
+        "qty": 6.0,
+        "unit_price": 99.0,
+        "value": 594.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1LT Q.D ENAMEL MATT BLACK",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L Q D  CAT YELLOW  ENAMEL",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L  Q D  SIGNAL RED ENAMEL",
+        "qty": 6.0,
+        "unit_price": 99.0,
+        "value": 594.0
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 6.0,
+        "unit_price": 99.0,
+        "value": 594.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 320.0,
+        "value": 3200.0
+      },
+      {
+        "prodname": "5L Q D SIGNAL RED ENAMEL",
+        "qty": 5.0,
+        "unit_price": 340.0,
+        "value": 1700.0
+      }
+    ],
+    "total": 55272.6,
+    "count": 43
+  },
+  "competitor_forms_outstanding": 0
+}

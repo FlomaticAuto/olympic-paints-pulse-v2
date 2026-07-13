@@ -1,0 +1,83 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KL020",
+    "curef": "KL020",
+    "customer_name": "Light Centre",
+    "town": "Nzelele Road",
+    "accno": "KL020",
+    "last_purchase_date": "07 Jul 2026",
+    "last_purchase_amt": 1495.0,
+    "last_purchase_prod": "5L CARBOLINEUM",
+    "total_12m": 172932.14,
+    "velocity_category": "growing",
+    "health_tier": "At-Risk",
+    "health_score": 51.0,
+    "is_recovery": false,
+    "d_current": 10675.8,
+    "d30": 0.0,
+    "d60": 36939.68,
+    "d90": 0.0,
+    "d_total": 47615.48,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131910",
+    "date": "07 Jul 2026",
+    "lines": [
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 265.94,
+        "value": 1329.7
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 5.0,
+        "unit_price": 269.32,
+        "value": 1346.6
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 6.0,
+        "unit_price": 162.25,
+        "value": 973.5
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 87.99,
+        "value": 879.9
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 25.0,
+        "unit_price": 53.16,
+        "value": 1329.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 6.0,
+        "unit_price": 160.79999999999998,
+        "value": 964.8
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 6.0,
+        "unit_price": 160.79999999999998,
+        "value": 964.8
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 10.0,
+        "unit_price": 149.5,
+        "value": 1495.0
+      }
+    ],
+    "total": 9283.300000000001,
+    "count": 8
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,143 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KN024/4",
+    "curef": "KN024",
+    "customer_name": "Navisha Investments Pty Ltd",
+    "town": "Main Road",
+    "accno": "KN024_4",
+    "last_purchase_date": "15 Jun 2026",
+    "last_purchase_amt": 177.05,
+    "last_purchase_prod": "Doz x 50ML STAINERS CHR YELLOW",
+    "total_12m": 120575.32999999999,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 54.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131665",
+    "date": "15 Jun 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 5.0,
+        "unit_price": 280.0,
+        "value": 1400.0
+      },
+      {
+        "prodname": "20L DECOR MUSHROOM PVA",
+        "qty": 5.0,
+        "unit_price": 295.0,
+        "value": 1475.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 80.0,
+        "value": 800.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 80.0,
+        "value": 480.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 80.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 285.0,
+        "value": 1425.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 5.0,
+        "unit_price": 285.0,
+        "value": 1425.0
+      },
+      {
+        "prodname": "1L RAINPROOF BLACK",
+        "qty": 5.0,
+        "unit_price": 56.06,
+        "value": 280.3
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 6.0,
+        "unit_price": 105.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 20.0,
+        "unit_price": 105.0,
+        "value": 2100.0
+      },
+      {
+        "prodname": "5L RAINPROOF BROWN",
+        "qty": 6.0,
+        "unit_price": 105.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 10.0,
+        "unit_price": 105.0,
+        "value": 1050.0
+      },
+      {
+        "prodname": "5L RAINPROOF TERRACOTTA",
+        "qty": 6.0,
+        "unit_price": 105.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 85.0,
+        "value": 255.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 95.0,
+        "value": 285.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 1.0,
+        "unit_price": 175.0,
+        "value": 175.0
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLUE",
+        "qty": 1.0,
+        "unit_price": 177.05,
+        "value": 177.05
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS CHR YELLOW",
+        "qty": 1.0,
+        "unit_price": 177.05,
+        "value": 177.05
+      }
+    ],
+    "total": 13794.399999999998,
+    "count": 18
+  },
+  "competitor_forms_outstanding": 0
+}

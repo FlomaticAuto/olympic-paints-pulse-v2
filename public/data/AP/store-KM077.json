@@ -1,0 +1,137 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-13",
+  "store": {
+    "dlref": "KM077",
+    "curef": "KM077",
+    "customer_name": "Manglasi Hardware",
+    "town": "Next to Bottle Store",
+    "accno": "KM077",
+    "last_purchase_date": "01 Jun 2026",
+    "last_purchase_amt": 475.0,
+    "last_purchase_prod": "1L Q.D. BURGUNDY",
+    "total_12m": 52408.56,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 38.6,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 12130.95,
+    "d60": -0.25,
+    "d90": 0.0,
+    "d_total": 12130.7,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131463",
+    "date": "01 Jun 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 62.529999999999994,
+        "value": 312.65
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 5.0,
+        "unit_price": 62.529999999999994,
+        "value": 312.65
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 311.83000000000004,
+        "value": 1559.15
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 121.44000000000001,
+        "value": 1214.4
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 256.94,
+        "value": 256.94
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 346.92,
+        "value": 693.84
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 87.97999999999999,
+        "value": 879.8
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 10.0,
+        "unit_price": 53.160000000000004,
+        "value": 531.6
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 152.72,
+        "value": 305.44
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 2.0,
+        "unit_price": 152.72,
+        "value": 305.44
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 3.0,
+        "unit_price": 152.72,
+        "value": 458.16
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 1.0,
+        "unit_price": 194.88,
+        "value": 194.88
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 322.0,
+        "value": 644.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 10.0,
+        "unit_price": 149.5,
+        "value": 1495.0
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 434.7,
+        "value": 434.7
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 95.0,
+        "value": 475.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 5.0,
+        "unit_price": 95.0,
+        "value": 475.0
+      }
+    ],
+    "total": 10548.650000000001,
+    "count": 17
+  },
+  "competitor_forms_outstanding": 0
+}

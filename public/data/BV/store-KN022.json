@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-10",
+  "generated_at": "2026-07-13",
   "store": {
     "dlref": "KN022",
     "curef": "KN022",
@@ -11,7 +11,7 @@
     "last_purchase_date": "11 Jul 2025",
     "last_purchase_amt": 5033.6,
     "last_purchase_prod": "24x500GM RED OXIDE",
-    "total_12m": 5532.740000000001,
+    "total_12m": 0.0,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 22.5,

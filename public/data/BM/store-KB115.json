@@ -1,37 +1,43 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-10",
+  "generated_at": "2026-07-13",
   "store": {
     "dlref": "KB115",
     "curef": "KB115",
     "customer_name": "Build Africa Hardware",
     "town": "",
     "accno": "KB115",
-    "last_purchase_date": "08 Jul 2026",
-    "last_purchase_amt": 1094.73,
-    "last_purchase_prod": "5L MAHOGONY VARNISH",
-    "total_12m": 57705.810000000005,
+    "last_purchase_date": "10 Jul 2026",
+    "last_purchase_amt": 318.78,
+    "last_purchase_prod": "1L DARK OAK VARNISH",
+    "total_12m": 60250.93000000001,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 35.3,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 3466.42,
     "d30": 0.0,
     "d60": 86.6,
     "d90": 0.0,
-    "d_total": 86.6,
+    "d_total": 3553.02,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131948",
-    "date": "08 Jul 2026",
+    "invoice_no": "132004",
+    "date": "10 Jul 2026",
     "lines": [
       {
-        "prodname": "20L DECOR PVA CREAM",
-        "qty": 3.0,
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 4.0,
         "unit_price": 348.28,
-        "value": 1044.84
+        "value": 1393.12
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 3.0,
+        "unit_price": 93.29,
+        "value": 279.87
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) WHITE",
@@ -40,25 +46,19 @@
         "value": 237.15
       },
       {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 79.05,
+        "value": 316.2
+      },
+      {
         "prodname": "1L DARK OAK VARNISH",
         "qty": 3.0,
         "unit_price": 106.25999999999999,
         "value": 318.78
-      },
-      {
-        "prodname": "1L TEAK VARNISH",
-        "qty": 3.0,
-        "unit_price": 106.25999999999999,
-        "value": 318.78
-      },
-      {
-        "prodname": "5L MAHOGONY VARNISH",
-        "qty": 3.0,
-        "unit_price": 364.91,
-        "value": 1094.73
       }
     ],
-    "total": 3014.2799999999997,
+    "total": 2545.12,
     "count": 5
   },
   "competitor_forms_outstanding": 0
