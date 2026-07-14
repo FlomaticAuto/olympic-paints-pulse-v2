@@ -1,14 +1,14 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-14",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 60,
   "days": [
     {
       "date_iso": "2026-07-13",
       "date_label": "Mon 13 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008",
@@ -121,10 +121,10 @@
           "customer_name": "World Focus 1932 CC",
           "town": "Master Service Centre Mutale",
           "accno": "KL004_1",
-          "last_purchase_date": "08 Jul 2026",
-          "last_purchase_amt": 475.0,
-          "last_purchase_prod": "1L Q D CHARCOAL",
-          "total_12m": 93328.82,
+          "last_purchase_date": "13 Jul 2026",
+          "last_purchase_amt": 101.84,
+          "last_purchase_prod": "5KG PUTTY",
+          "total_12m": 93430.66,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 46.5,
@@ -330,7 +330,7 @@
     {
       "date_iso": "2026-07-14",
       "date_label": "Tue 14 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008/1",

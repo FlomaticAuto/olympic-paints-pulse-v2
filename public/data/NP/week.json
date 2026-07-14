@@ -1,14 +1,14 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-14",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 35,
   "days": [
     {
       "date_iso": "2026-07-13",
       "date_label": "Mon 13 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA040",
@@ -204,7 +204,7 @@
     {
       "date_iso": "2026-07-14",
       "date_label": "Tue 14 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA045",
@@ -558,7 +558,7 @@
           "last_purchase_date": "18 May 2026",
           "last_purchase_amt": 1050.3,
           "last_purchase_prod": "20LT ECLIPSE PINK PVA",
-          "total_12m": 104502.55000000002,
+          "total_12m": 102762.55000000002,
           "velocity_category": "rocket",
           "health_tier": "At-Risk",
           "health_score": 30.1,

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-14",
   "store": {
     "dlref": "KO009",
     "curef": "KO009",
@@ -11,7 +11,7 @@
     "last_purchase_date": "18 May 2026",
     "last_purchase_amt": 1050.3,
     "last_purchase_prod": "20LT ECLIPSE PINK PVA",
-    "total_12m": 104502.55000000002,
+    "total_12m": 102762.55000000002,
     "velocity_category": "rocket",
     "health_tier": "At-Risk",
     "health_score": 30.1,
