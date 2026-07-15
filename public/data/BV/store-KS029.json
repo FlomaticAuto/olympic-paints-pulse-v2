@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KS029",
     "curef": "KS029",
     "customer_name": "Patels Hardware",
     "town": "DUIWELSKLOOF - Main Road",
     "accno": "KS029",
-    "last_purchase_date": "23 Jun 2026",
-    "last_purchase_amt": 275.0,
-    "last_purchase_prod": "5L Q D WHITE ENAMEL",
-    "total_12m": 3254972.6500000004,
+    "last_purchase_date": "14 Jul 2026",
+    "last_purchase_amt": 5600.0,
+    "last_purchase_prod": "5L Q.D. G BROWN",
+    "total_12m": 3409395.6500000004,
     "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 77.3,
@@ -24,48 +24,276 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28772",
-    "date": "23 Jun 2026",
+    "invoice_no": "132052",
+    "date": "14 Jul 2026",
     "lines": [
       {
         "prodname": "20L DECOR WHITE PVA",
-        "qty": 1.0,
+        "qty": 55.0,
         "unit_price": 225.0,
-        "value": 225.0
+        "value": 12375.0
       },
       {
-        "prodname": "20L DECOR PVA CREAM",
-        "qty": 1.0,
-        "unit_price": 225.0,
-        "value": 225.0
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 25.0,
+        "unit_price": 80.5,
+        "value": 2012.5
       },
       {
-        "prodname": "20LT DECOR DARK GREY PVA",
-        "qty": 1.0,
-        "unit_price": 275.0,
-        "value": 275.0
+        "prodname": "1L UNIV UNDERCOAT WHITE",
+        "qty": 2.0,
+        "unit_price": 82.0,
+        "value": 164.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) P BROWN",
+        "qty": 5.0,
+        "unit_price": 40.0,
+        "value": 200.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 25.0,
+        "unit_price": 40.0,
+        "value": 1000.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 25.0,
+        "unit_price": 69.0,
+        "value": 1725.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 25.0,
+        "unit_price": 69.0,
+        "value": 1725.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 10.0,
+        "unit_price": 69.0,
+        "value": 690.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 8.0,
+        "unit_price": 69.0,
+        "value": 552.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 3.0,
+        "unit_price": 69.0,
+        "value": 207.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 69.0,
+        "value": 345.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 11.0,
+        "unit_price": 245.0,
+        "value": 2695.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 15.0,
+        "unit_price": 245.0,
+        "value": 3675.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 2.0,
+        "qty": 20.0,
         "unit_price": 245.0,
-        "value": 490.0
+        "value": 4900.0
       },
       {
-        "prodname": "5L Q D BRONZE ENAMEL",
-        "qty": 1.0,
-        "unit_price": 275.0,
-        "value": 275.0
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 20.0,
+        "unit_price": 245.0,
+        "value": 4900.0
       },
       {
-        "prodname": "5L Q D BRONZE ENAMEL",
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 8.0,
+        "unit_price": 385.0,
+        "value": 3080.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 10.0,
+        "unit_price": 68.0,
+        "value": 680.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 45.0,
+        "unit_price": 237.0,
+        "value": 10665.0
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 5.0,
+        "unit_price": 61.5,
+        "value": 307.5
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 20.0,
+        "unit_price": 214.5,
+        "value": 4290.0
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE SILVER",
+        "qty": 15.0,
+        "unit_price": 60.5,
+        "value": 907.5
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE G YELLO",
+        "qty": 10.0,
+        "unit_price": 94.0,
+        "value": 940.0
+      },
+      {
+        "prodname": "5L PP ULTIMATE SHINE SILVER",
+        "qty": 10.0,
+        "unit_price": 320.0,
+        "value": 3200.0
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 25.0,
+        "unit_price": 45.0,
+        "value": 1125.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 45.0,
+        "value": 450.0
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 45.0,
+        "value": 450.0
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 5.0,
+        "unit_price": 45.0,
+        "value": 225.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 61.5,
+        "value": 307.5
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 10.0,
+        "unit_price": 76.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 76.0,
+        "value": 380.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 76.0,
+        "value": 380.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 290.0,
+        "value": 870.0
+      },
+      {
+        "prodname": "6x2KG DISTEMPER GREEN",
+        "qty": 5.0,
+        "unit_price": 132.0,
+        "value": 660.0
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
         "qty": 2.0,
+        "unit_price": 285.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 150.0,
+        "unit_price": 130.0,
+        "value": 19500.0
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 73.5,
+        "value": 735.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 85.0,
+        "unit_price": 73.5,
+        "value": 6247.5
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 73.5,
+        "value": 2205.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 55.0,
+        "unit_price": 73.5,
+        "value": 4042.5
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 35.0,
         "unit_price": 275.0,
-        "value": 550.0
+        "value": 9625.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 85.0,
+        "unit_price": 275.0,
+        "value": 23375.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 20.0,
+        "unit_price": 280.0,
+        "value": 5600.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 36.0,
+        "unit_price": 280.0,
+        "value": 10080.0
+      },
+      {
+        "prodname": "5L Q.D. G BROWN",
+        "qty": 20.0,
+        "unit_price": 280.0,
+        "value": 5600.0
       }
     ],
-    "total": 2040.0,
-    "count": 6
+    "total": 154423.0,
+    "count": 44
   },
   "competitor_forms_outstanding": 0
 }

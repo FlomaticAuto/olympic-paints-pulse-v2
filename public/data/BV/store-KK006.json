@@ -1,17 +1,17 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
     "customer_name": "Pir and Sons Trd (Kalamazoo)",
     "town": "METZ VILLAGE",
     "accno": "KK006",
-    "last_purchase_date": "29 Jun 2026",
-    "last_purchase_amt": 6435.0,
-    "last_purchase_prod": "20L UNIVERSAL ROOF BROWN",
-    "total_12m": 490418.23,
+    "last_purchase_date": "14 Jul 2026",
+    "last_purchase_amt": 825.0,
+    "last_purchase_prod": "5L Q D CHARCOAL",
+    "total_12m": 511804.02999999997,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 48.1,
@@ -24,18 +24,96 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28822",
-    "date": "29 Jun 2026",
+    "invoice_no": "132053",
+    "date": "14 Jul 2026",
     "lines": [
       {
-        "prodname": "20L UNIVERSAL ROOF BROWN",
-        "qty": 13.0,
-        "unit_price": 495.0,
-        "value": 6435.0
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 69.0,
+        "value": 690.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 69.0,
+        "value": 414.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 245.0,
+        "value": 1470.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 10.0,
+        "unit_price": 245.0,
+        "value": 2450.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 2.0,
+        "unit_price": 199.0,
+        "value": 398.0
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 68.0,
+        "value": 408.0
+      },
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 10.0,
+        "unit_price": 61.5,
+        "value": 615.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 76.0,
+        "value": 760.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 10.0,
+        "unit_price": 250.0,
+        "value": 2500.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 20.0,
+        "unit_price": 135.0,
+        "value": 2700.0
+      },
+      {
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 1.0,
+        "unit_price": 280.8,
+        "value": 280.8
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 50.0,
+        "unit_price": 130.0,
+        "value": 6500.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 275.0,
+        "value": 1375.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
       }
     ],
-    "total": 6435.0,
-    "count": 1
+    "total": 21385.8,
+    "count": 14
   },
   "competitor_forms_outstanding": 0
 }

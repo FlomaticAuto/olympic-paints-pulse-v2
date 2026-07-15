@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KB100",
     "curef": "KB100",
@@ -11,7 +11,7 @@
     "last_purchase_date": "15 Jun 2026",
     "last_purchase_amt": 1470.0,
     "last_purchase_prod": "1L Q.D. SILVER",
-    "total_12m": 3604616.99,
+    "total_12m": 3271755.31,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 47.7,

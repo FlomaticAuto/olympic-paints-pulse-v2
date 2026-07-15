@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KA108",
     "curef": "KA108",
@@ -11,7 +11,7 @@
     "last_purchase_date": "11 Dec 2025",
     "last_purchase_amt": 1200.0,
     "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-    "total_12m": 17590.0,
+    "total_12m": 10400.0,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 6.4,

@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KN024",
     "curef": "KN024",
@@ -11,7 +11,7 @@
     "last_purchase_date": "15 Jun 2026",
     "last_purchase_amt": 177.05,
     "last_purchase_prod": "Doz x 50ML STAINERS BLACK",
-    "total_12m": 432794.58999999997,
+    "total_12m": 385912.97,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 62.2,

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KM043",
     "curef": "KM043",
@@ -11,7 +11,7 @@
     "last_purchase_date": "22 May 2026",
     "last_purchase_amt": 960.0,
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
-    "total_12m": 76968.29999999999,
+    "total_12m": 70340.61,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 39.3,

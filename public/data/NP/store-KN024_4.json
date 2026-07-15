@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "store": {
     "dlref": "KN024/4",
     "curef": "KN024",
@@ -11,7 +11,7 @@
     "last_purchase_date": "15 Jun 2026",
     "last_purchase_amt": 177.05,
     "last_purchase_prod": "Doz x 50ML STAINERS CHR YELLOW",
-    "total_12m": 120575.32999999999,
+    "total_12m": 104585.19000000002,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 54.6,

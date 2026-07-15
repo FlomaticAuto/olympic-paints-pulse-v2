@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-14",
+  "generated_at": "2026-07-15",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 60,
   "days": [
@@ -24,11 +24,11 @@
           "health_tier": "At-Risk",
           "health_score": 57.5,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 17186.62,
           "d30": 23098.91,
           "d60": 0.0,
           "d90": 0.01,
-          "d_total": 23098.92,
+          "d_total": 40285.54,
           "shared_account": false
         },
         {
@@ -45,11 +45,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 60.7,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 12268.4,
           "d30": 11923.28,
           "d60": 0.0,
           "d90": 427.62,
-          "d_total": 12350.9,
+          "d_total": 24619.3,
           "shared_account": false
         },
         {
@@ -82,7 +82,7 @@
           "last_purchase_date": "20 Apr 2026",
           "last_purchase_amt": 149.04,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 770602.97,
+          "total_12m": 670070.1699999999,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 71.5,
@@ -213,11 +213,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 31.6,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 15003.39,
           "d30": 16185.08,
           "d60": 0.0,
           "d90": 77.21,
-          "d_total": 16262.29,
+          "d_total": 31265.68,
           "shared_account": false
         },
         {
@@ -234,11 +234,11 @@
           "health_tier": "Active & Growing",
           "health_score": 67.2,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 10459.33,
           "d30": 16711.6,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 16711.6,
+          "d_total": 27170.93,
           "shared_account": false
         },
         {
@@ -330,7 +330,7 @@
     {
       "date_iso": "2026-07-14",
       "date_label": "Tue 14 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008/1",
@@ -362,7 +362,7 @@
           "last_purchase_date": "11 Dec 2025",
           "last_purchase_amt": 1200.0,
           "last_purchase_prod": "DOZEN 750ML LACQUER THINNERS",
-          "total_12m": 17590.0,
+          "total_12m": 10400.0,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 6.4,
@@ -488,7 +488,7 @@
           "last_purchase_date": "22 May 2026",
           "last_purchase_amt": 960.0,
           "last_purchase_prod": "5L Q D BLACK ENAMEL",
-          "total_12m": 76968.29999999999,
+          "total_12m": 70340.61,
           "velocity_category": "falling",
           "health_tier": "At-Risk",
           "health_score": 39.3,
@@ -652,7 +652,7 @@
     {
       "date_iso": "2026-07-15",
       "date_label": "Wed 15 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008/2",
@@ -768,7 +768,7 @@
           "last_purchase_date": "07 Jul 2026",
           "last_purchase_amt": 1495.0,
           "last_purchase_prod": "5L CARBOLINEUM",
-          "total_12m": 172932.14,
+          "total_12m": 166787.61,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 51.0,
@@ -837,10 +837,10 @@
           "health_score": 46.3,
           "is_recovery": false,
           "d_current": 0.0,
-          "d30": 125125.75,
+          "d30": 125915.56,
           "d60": 0.0,
-          "d90": 791.54,
-          "d_total": 125917.29,
+          "d90": 0.0,
+          "d_total": 125915.56,
           "shared_account": false
         },
         {
@@ -1074,11 +1074,11 @@
           "health_tier": "At-Risk",
           "health_score": 63.2,
           "is_recovery": false,
-          "d_current": 28564.91,
+          "d_current": 28447.79,
           "d30": 15430.63,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 43995.54,
+          "d_total": 43878.42,
           "shared_account": false
         },
         {
@@ -1279,7 +1279,7 @@
           "last_purchase_date": "04 Jun 2026",
           "last_purchase_amt": 1750.0,
           "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 95683.73000000001,
+          "total_12m": 77411.62999999999,
           "velocity_category": "rocket",
           "health_tier": "At-Risk",
           "health_score": 44.7,
