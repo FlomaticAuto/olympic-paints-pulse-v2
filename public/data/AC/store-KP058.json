@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "dlref": "KP058",
     "curef": "KP058",
@@ -11,7 +11,7 @@
     "last_purchase_date": "06 Jul 2026",
     "last_purchase_amt": 958.0,
     "last_purchase_prod": "20L MASTER DECOR DESERT CAMEL",
-    "total_12m": 213496.55,
+    "total_12m": 179310.82,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
     "health_score": 41.1,

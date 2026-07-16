@@ -1,17 +1,17 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "dlref": "KS061",
     "curef": "KS061",
     "customer_name": "Safari Hardware & Glass",
     "town": "KHUBVI",
     "accno": "KS061",
-    "last_purchase_date": "02 Apr 2026",
-    "last_purchase_amt": 0.0,
-    "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 35121.35,
+    "last_purchase_date": "15 Jul 2026",
+    "last_purchase_amt": 570.0,
+    "last_purchase_prod": "1L Q D BRONZE ENAMEL",
+    "total_12m": 41225.23,
     "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
     "health_score": 55.7,
@@ -24,138 +24,54 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "130724",
-    "date": "02 Apr 2026",
+    "invoice_no": "132082",
+    "date": "15 Jul 2026",
     "lines": [
       {
-        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
-        "qty": 6.0,
-        "unit_price": 48.22,
-        "value": 289.32
-      },
-      {
-        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
-        "qty": 6.0,
-        "unit_price": 48.22,
-        "value": 289.32
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
-        "qty": 12.0,
-        "unit_price": 75.60000000000001,
-        "value": 907.2
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) GREY",
-        "qty": 6.0,
-        "unit_price": 75.60000000000001,
-        "value": 453.6
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 12.0,
-        "unit_price": 75.60000000000001,
-        "value": 907.2
-      },
-      {
-        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
-        "qty": 6.0,
-        "unit_price": 75.60000000000001,
-        "value": 453.6
-      },
-      {
-        "prodname": "1L WATERBASE RED OXIDE PRIMER",
-        "qty": 12.0,
-        "unit_price": 69.04,
-        "value": 828.48
-      },
-      {
-        "prodname": "5L WATERBASE RED OXIDE PRIMER",
-        "qty": 6.0,
-        "unit_price": 258.09999999999997,
-        "value": 1548.6
-      },
-      {
-        "prodname": "5L RAINPROOF BLACK",
-        "qty": 10.0,
-        "unit_price": 96.0,
-        "value": 960.0
-      },
-      {
-        "prodname": "5L RAINPROOF GREY",
-        "qty": 10.0,
-        "unit_price": 96.0,
-        "value": 960.0
-      },
-      {
-        "prodname": "5L RAINPROOF BURGUNDY",
-        "qty": 20.0,
-        "unit_price": 96.0,
-        "value": 1920.0
-      },
-      {
-        "prodname": "5L RAINPROOF RED",
-        "qty": 10.0,
-        "unit_price": 96.0,
-        "value": 960.0
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 2.0,
+        "unit_price": 645.84,
+        "value": 1291.68
       },
       {
         "prodname": "24X1KG PUTTY",
         "qty": 2.0,
-        "unit_price": 239.3,
-        "value": 478.6
+        "unit_price": 275.43,
+        "value": 550.86
       },
       {
         "prodname": "12X2KG PUTTY",
-        "qty": 4.0,
-        "unit_price": 233.81,
-        "value": 935.24
-      },
-      {
-        "prodname": "20KG PUTTY",
-        "qty": 5.0,
-        "unit_price": 174.64000000000001,
-        "value": 873.2
-      },
-      {
-        "prodname": "10KG PUTTY",
-        "qty": 5.0,
-        "unit_price": 81.0,
-        "value": 405.0
-      },
-      {
-        "prodname": "40KG PUTTY",
         "qty": 2.0,
-        "unit_price": 300.38,
-        "value": 600.76
+        "unit_price": 268.88,
+        "value": 537.76
       },
       {
         "prodname": "5KG PUTTY",
         "qty": 20.0,
-        "unit_price": 49.62,
-        "value": 992.4
+        "unit_price": 57.06,
+        "value": 1141.2
       },
       {
-        "prodname": "DOZEN 750ML CARBOLINEUM",
-        "qty": 1.0,
-        "unit_price": 302.4,
-        "value": 302.4
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 10.0,
+        "unit_price": 152.74,
+        "value": 1527.4
       },
       {
-        "prodname": "5L CARBOLINEUM",
+        "prodname": "5LT THINNERS",
+        "qty": 3.0,
+        "unit_price": 161.66,
+        "value": 484.98
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
         "qty": 6.0,
-        "unit_price": 140.4,
-        "value": 842.4
-      },
-      {
-        "prodname": "200mm x 10m Membrane",
-        "qty": 50.0,
-        "unit_price": 0.0,
-        "value": 0.0
+        "unit_price": 95.0,
+        "value": 570.0
       }
     ],
-    "total": 15907.319999999998,
-    "count": 21
+    "total": 6103.879999999999,
+    "count": 7
   },
   "competitor_forms_outstanding": 0
 }

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "dlref": "KP058/1",
     "curef": "KP058",
@@ -11,7 +11,7 @@
     "last_purchase_date": "04 Jun 2026",
     "last_purchase_amt": 1992.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) SUMMER BLUE",
-    "total_12m": 189635.08,
+    "total_12m": 153265.69,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 35.9,

@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "dlref": "KH021/2",
     "curef": "KH021",
@@ -11,7 +11,7 @@
     "last_purchase_date": "18 Jun 2026",
     "last_purchase_amt": 885.0,
     "last_purchase_prod": "5LT HYPER STEEL Q.D ROYAL BLUE",
-    "total_12m": 770620.6599999999,
+    "total_12m": 734188.1100000001,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 43.1,

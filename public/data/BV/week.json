@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 55,
   "days": [
@@ -66,11 +66,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 40.2,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 25083.23,
           "d30": 0.0,
           "d60": 0.0,
           "d90": -194.86,
-          "d_total": -194.86,
+          "d_total": 24888.37,
           "shared_account": false
         },
         {
@@ -150,11 +150,11 @@
           "health_tier": "Active & Growing",
           "health_score": 74.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 31009.35,
           "d30": 23341.78,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 23341.78,
+          "d_total": 54351.13,
           "shared_account": false
         },
         {
@@ -388,11 +388,11 @@
           "health_tier": "At-Risk",
           "health_score": 22.6,
           "is_recovery": true,
-          "d_current": 6053.6,
+          "d_current": 52485.54,
           "d30": 93165.58,
           "d60": 13615.26,
           "d90": 0.0,
-          "d_total": 112834.44,
+          "d_total": 159266.38,
           "shared_account": false
         },
         {
@@ -514,11 +514,11 @@
           "health_tier": "Active & Growing",
           "health_score": 74.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 32699.68,
           "d30": 60944.5,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 60944.5,
+          "d_total": 93644.18,
           "shared_account": false
         },
         {
@@ -590,19 +590,19 @@
           "customer_name": "Hassims Supply Store",
           "town": "",
           "accno": "KW011",
-          "last_purchase_date": "21 Apr 2026",
-          "last_purchase_amt": 208.68,
-          "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 172515.41,
+          "last_purchase_date": "15 Jul 2026",
+          "last_purchase_amt": 1085.6,
+          "last_purchase_prod": "5L WATERBASE RED OXIDE PRIMER",
+          "total_12m": 196824.15000000002,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 64.0,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 27955.04,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 0.0,
+          "d_total": 27955.04,
           "shared_account": false
         }
       ]
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-15",
       "date_label": "Wed 15 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB010",
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-07-16",
       "date_label": "Thu 16 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB066",
@@ -1032,11 +1032,11 @@
           "health_tier": "At-Risk",
           "health_score": 48.1,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 24593.67,
           "d30": -351.9,
           "d60": -7400.25,
           "d90": 0.0,
-          "d_total": -7752.15,
+          "d_total": 16841.52,
           "shared_account": false
         },
         {
@@ -1158,11 +1158,11 @@
           "health_tier": "Active & Growing",
           "health_score": 77.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 177586.45,
           "d30": 393781.28,
           "d60": 0.0,
           "d90": -23.0,
-          "d_total": 393758.28,
+          "d_total": 571344.73,
           "shared_account": false
         },
         {

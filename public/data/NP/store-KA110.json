@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "customer_name": "Ace Steel And Roofing",
     "accno": "KA110",
@@ -17,23 +17,23 @@
     "last_purchase_amt": 0
   },
   "invoice": {
-    "invoice_no": "131512",
-    "date": "02 Jun 2026",
+    "invoice_no": "132079",
+    "date": "15 Jul 2026",
     "lines": [
+      {
+        "prodname": "20 HIGH GLOSS DARK GREY",
+        "qty": 29.0,
+        "unit_price": 935.0,
+        "value": 27115.0
+      },
       {
         "prodname": "20L HIGH GLOSS (MQ) BLACK",
         "qty": 20.0,
         "unit_price": 935.0,
         "value": 18700.0
-      },
-      {
-        "prodname": "20LT HIGH GLOSS (MQ) GREY",
-        "qty": 20.0,
-        "unit_price": 935.0,
-        "value": 18700.0
       }
     ],
-    "total": 37400.0,
+    "total": 45815.0,
     "count": 2
   },
   "competitor_forms_outstanding": 0

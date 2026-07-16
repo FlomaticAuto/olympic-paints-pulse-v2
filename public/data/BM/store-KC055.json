@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "store": {
     "dlref": "KC055",
     "curef": "KC055",
@@ -11,7 +11,7 @@
     "last_purchase_date": "16 Jul 2025",
     "last_purchase_amt": 68.88,
     "last_purchase_prod": "225MM Platinum Paint Roller",
-    "total_12m": 2137.58,
+    "total_12m": 0.0,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 9.5,
