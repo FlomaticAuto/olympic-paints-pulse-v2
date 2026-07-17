@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 35,
   "days": [
@@ -275,19 +275,19 @@
           "customer_name": "Jamwaria & Son's T/A Alm Spare",
           "town": "Louis Trichardt 0920",
           "accno": "KJ038",
-          "last_purchase_date": "01 Apr 2026",
-          "last_purchase_amt": 1925.0,
-          "last_purchase_prod": "500ML EBONY VARNISH",
-          "total_12m": 175766.0,
+          "last_purchase_date": "16 Jul 2026",
+          "last_purchase_amt": 0.0,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 216099.0,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 54.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 46382.95,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 96702.9,
-          "d_total": 96702.9,
+          "d_total": 143085.85,
           "shared_account": false
         },
         {
@@ -596,7 +596,7 @@
     {
       "date_iso": "2026-07-16",
       "date_label": "Thu 16 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB001",

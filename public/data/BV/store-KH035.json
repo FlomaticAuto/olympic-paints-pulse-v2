@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KH035",
     "curef": "KH035",
@@ -11,7 +11,7 @@
     "last_purchase_date": "28 Apr 2026",
     "last_purchase_amt": 13750.0,
     "last_purchase_prod": "20L DECOR PVA CREAM",
-    "total_12m": 3532174.0,
+    "total_12m": 3420574.0,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 55.0,

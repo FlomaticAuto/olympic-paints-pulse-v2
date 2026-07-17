@@ -1,47 +1,239 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KJ038",
     "curef": "KJ038",
     "customer_name": "Jamwaria & Son's T/A Alm Spare",
     "town": "Louis Trichardt 0920",
     "accno": "KJ038",
-    "last_purchase_date": "01 Apr 2026",
-    "last_purchase_amt": 1925.0,
-    "last_purchase_prod": "500ML EBONY VARNISH",
-    "total_12m": 175766.0,
+    "last_purchase_date": "16 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 216099.0,
     "velocity_category": null,
     "health_tier": "Dead / Dormant",
     "health_score": 54.3,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 46382.95,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 96702.9,
-    "d_total": 96702.9,
+    "d_total": 143085.85,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28347",
-    "date": "01 Apr 2026",
+    "invoice_no": "132114",
+    "date": "16 Jul 2026",
     "lines": [
       {
-        "prodname": "5L WATERBASE RED OXIDE PRIMER",
-        "qty": 1.0,
-        "unit_price": 225.0,
-        "value": 225.0
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 6.0,
+        "unit_price": 265.0,
+        "value": 1590.0
       },
       {
-        "prodname": "500ML EBONY VARNISH",
-        "qty": 35.0,
-        "unit_price": 55.0,
-        "value": 1925.0
+        "prodname": "20L DECOR MAIZE PVA",
+        "qty": 6.0,
+        "unit_price": 265.0,
+        "value": 1590.0
+      },
+      {
+        "prodname": "20LT DECOR CRANBERRY PVA",
+        "qty": 6.0,
+        "unit_price": 265.0,
+        "value": 1590.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 265.0,
+        "value": 2650.0
+      },
+      {
+        "prodname": "20LT DECOR CRISP MINT PVA",
+        "qty": 6.0,
+        "unit_price": 265.0,
+        "value": 1590.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 10.0,
+        "unit_price": 265.0,
+        "value": 2650.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 52.0,
+        "value": 156.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) CREA",
+        "qty": 6.0,
+        "unit_price": 52.0,
+        "value": 312.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 6.0,
+        "unit_price": 52.0,
+        "value": 312.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 6.0,
+        "unit_price": 52.0,
+        "value": 312.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 3.0,
+        "unit_price": 52.0,
+        "value": 156.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 10.0,
+        "unit_price": 260.0,
+        "value": 2600.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 6.0,
+        "unit_price": 260.0,
+        "value": 1560.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 305.0,
+        "value": 915.0
+      },
+      {
+        "prodname": "5LT EBONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 305.0,
+        "value": 915.0
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 10.0,
+        "unit_price": 78.0,
+        "value": 780.0
+      },
+      {
+        "prodname": "1L Q D GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "1LT Q.D. G BROWN",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L Q.D. G BROWN",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 6.0,
+        "unit_price": 270.0,
+        "value": 1620.0
+      },
+      {
+        "prodname": "5L Q D  CAT YELLOW ENAMEL",
+        "qty": 6.0,
+        "unit_price": 345.0,
+        "value": 2070.0
+      },
+      {
+        "prodname": "5L Q D SIGNAL RED ENAMEL",
+        "qty": 5.0,
+        "unit_price": 345.0,
+        "value": 1725.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 10.0,
+        "unit_price": 0.0,
+        "value": 0.0
       }
     ],
-    "total": 2150.0,
-    "count": 2
+    "total": 40333.0,
+    "count": 34
   },
   "competitor_forms_outstanding": 0
 }

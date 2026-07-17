@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 60,
   "days": [
@@ -82,7 +82,7 @@
           "last_purchase_date": "20 Apr 2026",
           "last_purchase_amt": 149.04,
           "last_purchase_prod": "5KG PUTTY",
-          "total_12m": 670070.1699999999,
+          "total_12m": 669500.83,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 71.5,
@@ -90,8 +90,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 134790.21,
-          "d_total": 134790.21,
+          "d90": 84790.21,
+          "d_total": 84790.21,
           "shared_account": false
         },
         {
@@ -213,11 +213,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 31.6,
           "is_recovery": false,
-          "d_current": 15003.39,
-          "d30": 16185.08,
+          "d_current": 14896.45,
+          "d30": 0.0,
           "d60": 0.0,
-          "d90": 77.21,
-          "d_total": 31265.68,
+          "d90": 0.0,
+          "d_total": 14896.45,
           "shared_account": false
         },
         {
@@ -226,19 +226,19 @@
           "customer_name": "Easy Hardware",
           "town": "TSHILILO",
           "accno": "KR027",
-          "last_purchase_date": "10 Jul 2026",
-          "last_purchase_amt": 960.0,
-          "last_purchase_prod": "5L QD CHARCOAL",
-          "total_12m": 98700.18,
+          "last_purchase_date": "16 Jul 2026",
+          "last_purchase_amt": 53.95,
+          "last_purchase_prod": "5KG PUTTY",
+          "total_12m": 98754.13,
           "velocity_category": "cooling",
           "health_tier": "Active & Growing",
           "health_score": 67.2,
           "is_recovery": false,
           "d_current": 10459.33,
-          "d30": 16711.6,
+          "d30": 16649.56,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 27170.93,
+          "d_total": 27108.89,
           "shared_account": false
         },
         {
@@ -559,8 +559,8 @@
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": 47762.869999999995,
-          "d_total": 47762.87,
+          "d90": 2762.87,
+          "d_total": 2762.87,
           "shared_account": false
         },
         {
@@ -768,16 +768,16 @@
           "last_purchase_date": "07 Jul 2026",
           "last_purchase_amt": 1495.0,
           "last_purchase_prod": "5L CARBOLINEUM",
-          "total_12m": 166787.61,
+          "total_12m": 166227.61000000002,
           "velocity_category": "growing",
           "health_tier": "At-Risk",
           "health_score": 51.0,
           "is_recovery": false,
           "d_current": 10675.8,
           "d30": 0.0,
-          "d60": 36939.68,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 47615.48,
+          "d_total": 10675.8,
           "shared_account": false
         },
         {
@@ -974,7 +974,7 @@
     {
       "date_iso": "2026-07-16",
       "date_label": "Thu 16 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA082",
@@ -1074,11 +1074,11 @@
           "health_tier": "At-Risk",
           "health_score": 63.2,
           "is_recovery": false,
-          "d_current": 28447.79,
+          "d_current": 36348.24,
           "d30": 15430.63,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 43878.42,
+          "d_total": 51778.87,
           "shared_account": false
         },
         {
@@ -1150,19 +1150,19 @@
           "customer_name": "M.A. HARDWARE",
           "town": "Tshikwarani Vil, After",
           "accno": "KM165",
-          "last_purchase_date": "10 Mar 2026",
+          "last_purchase_date": "16 Jul 2026",
           "last_purchase_amt": 0.0,
-          "last_purchase_prod": "75mm x 10m Membrane",
-          "total_12m": 86780.76000000001,
+          "last_purchase_prod": "200mm x 10m Membrane",
+          "total_12m": 108171.76000000001,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 42.4,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 24599.65,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 29797.87,
-          "d_total": 29797.87,
+          "d_total": 54397.52,
           "shared_account": false
         },
         {
@@ -1221,11 +1221,11 @@
           "health_tier": "Dead / Dormant",
           "health_score": 55.7,
           "is_recovery": false,
-          "d_current": 21262.22,
+          "d_current": 28281.68,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 21262.22,
+          "d_total": 28281.68,
           "shared_account": false
         },
         {

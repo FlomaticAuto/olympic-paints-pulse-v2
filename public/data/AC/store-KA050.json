@@ -1,59 +1,41 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KA050",
     "curef": "KA050",
     "customer_name": "Fountain Square Trading 129cc",
     "town": "26 Main Reef Road",
     "accno": "KA050",
-    "last_purchase_date": "15 Jul 2026",
-    "last_purchase_amt": 480.0,
-    "last_purchase_prod": "5L UNIVERSAL ROOF BURGANDY",
-    "total_12m": 375563.11,
+    "last_purchase_date": "16 Jul 2026",
+    "last_purchase_amt": 1615.0,
+    "last_purchase_prod": "20L HIGH GLOSS (MQ) WHITE",
+    "total_12m": 377178.11,
     "velocity_category": "rocket",
     "health_tier": "Active but Narrow",
     "health_score": 63.6,
     "is_recovery": false,
-    "d_current": 4534.45,
+    "d_current": 6391.7,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 4534.45,
+    "d_total": 6391.7,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "132070",
-    "date": "15 Jul 2026",
+    "invoice_no": "132106",
+    "date": "16 Jul 2026",
     "lines": [
       {
-        "prodname": "20L MASTER DECOR NIGHT SKY",
-        "qty": 4.0,
-        "unit_price": 479.0,
-        "value": 1916.0
-      },
-      {
-        "prodname": "5L MASTER DECOR SUNSET YELLOW",
-        "qty": 3.0,
-        "unit_price": 149.0,
-        "value": 447.0
-      },
-      {
-        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
         "qty": 2.0,
-        "unit_price": 550.0,
-        "value": 1100.0
-      },
-      {
-        "prodname": "5L UNIVERSAL ROOF BURGANDY",
-        "qty": 3.0,
-        "unit_price": 160.0,
-        "value": 480.0
+        "unit_price": 807.5,
+        "value": 1615.0
       }
     ],
-    "total": 3943.0,
-    "count": 4
+    "total": 1615.0,
+    "count": 1
   },
   "competitor_forms_outstanding": 0
 }

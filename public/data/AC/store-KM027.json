@@ -1,41 +1,203 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
     "customer_name": "Maliks TA Power Build",
     "town": "Chamdor",
     "accno": "KM027",
-    "last_purchase_date": "15 Jul 2026",
-    "last_purchase_amt": 1770.08,
+    "last_purchase_date": "16 Jul 2026",
+    "last_purchase_amt": 6018.85,
     "last_purchase_prod": "5KG BROWN OXIDE",
-    "total_12m": 2114923.13,
+    "total_12m": 2265869.5599999996,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 79.8,
     "is_recovery": false,
-    "d_current": 16339.16,
-    "d30": 137009.79,
+    "d_current": 189927.55,
+    "d30": 85163.76,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 153348.95,
+    "d_total": 275091.31,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "132069",
-    "date": "15 Jul 2026",
+    "invoice_no": "132109",
+    "date": "16 Jul 2026",
     "lines": [
       {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 996.8000000000001,
+        "value": 2990.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 100.0,
+        "unit_price": 77.42,
+        "value": 7742.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 20.0,
+        "unit_price": 77.42,
+        "value": 1548.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PEACH",
+        "qty": 10.0,
+        "unit_price": 77.42,
+        "value": 774.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 40.0,
+        "unit_price": 77.42,
+        "value": 3096.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 30.0,
+        "unit_price": 77.42,
+        "value": 2322.6
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
+        "qty": 20.0,
+        "unit_price": 77.42,
+        "value": 1548.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 15.0,
+        "unit_price": 77.42,
+        "value": 1161.3
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 10.0,
+        "unit_price": 77.42,
+        "value": 774.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 15.0,
+        "unit_price": 77.42,
+        "value": 1161.3
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 100.0,
+        "unit_price": 259.59,
+        "value": 25959.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) IVORY",
+        "qty": 20.0,
+        "unit_price": 259.59000000000003,
+        "value": 5191.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) PEACH",
+        "qty": 10.0,
+        "unit_price": 259.59000000000003,
+        "value": 2595.9
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 100.0,
+        "unit_price": 259.59,
+        "value": 25959.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 50.0,
+        "unit_price": 259.59,
+        "value": 12979.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 20.0,
+        "unit_price": 259.59000000000003,
+        "value": 5191.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 50.0,
+        "unit_price": 259.59,
+        "value": 12979.5
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) L BROWN",
+        "qty": 30.0,
+        "unit_price": 259.59,
+        "value": 7787.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
+        "qty": 10.0,
+        "unit_price": 259.59000000000003,
+        "value": 2595.9
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) SUMMER BLUE",
+        "qty": 10.0,
+        "unit_price": 259.59000000000003,
+        "value": 2595.9
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 10.0,
+        "unit_price": 259.59000000000003,
+        "value": 2595.9
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 243.25,
+        "value": 4865.0
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 232.99,
+        "value": 4659.8
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 40.0,
+        "unit_price": 51.75,
+        "value": 2070.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 10.0,
+        "unit_price": 142.52,
+        "value": 1425.2
+      },
+      {
+        "prodname": "24x500GM GREEN OXIDE",
+        "qty": 2.0,
+        "unit_price": 465.44,
+        "value": 930.88
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 10.0,
+        "unit_price": 142.52,
+        "value": 1425.2
+      },
+      {
         "prodname": "5KG BROWN OXIDE",
-        "qty": 23.0,
-        "unit_price": 76.96,
-        "value": 1770.08
+        "qty": 73.0,
+        "unit_price": 82.45,
+        "value": 6018.85
       }
     ],
-    "total": 1770.08,
-    "count": 1
+    "total": 150946.43000000002,
+    "count": 28
   },
   "competitor_forms_outstanding": 0
 }

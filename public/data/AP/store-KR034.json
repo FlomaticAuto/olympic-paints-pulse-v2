@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KR034",
     "curef": "KR034",
@@ -19,8 +19,8 @@
     "d_current": 0.0,
     "d30": 0.0,
     "d60": 0.0,
-    "d90": 47762.869999999995,
-    "d_total": 47762.87,
+    "d90": 2762.87,
+    "d_total": 2762.87,
     "shared_account": false
   },
   "invoice": {

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KL020",
     "curef": "KL020",
@@ -11,16 +11,16 @@
     "last_purchase_date": "07 Jul 2026",
     "last_purchase_amt": 1495.0,
     "last_purchase_prod": "5L CARBOLINEUM",
-    "total_12m": 166787.61,
+    "total_12m": 166227.61000000002,
     "velocity_category": "growing",
     "health_tier": "At-Risk",
     "health_score": 51.0,
     "is_recovery": false,
     "d_current": 10675.8,
     "d30": 0.0,
-    "d60": 36939.68,
+    "d60": 0.0,
     "d90": 0.0,
-    "d_total": 47615.48,
+    "d_total": 10675.8,
     "shared_account": false
   },
   "invoice": {

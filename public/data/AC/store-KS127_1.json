@@ -1,17 +1,17 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "store": {
     "dlref": "KS127/1",
     "curef": "KS127",
     "customer_name": "Auto Paint Centre Westonarea",
     "town": "Westonarea",
     "accno": "KS127_1",
-    "last_purchase_date": "19 May 2026",
-    "last_purchase_amt": 62.0,
+    "last_purchase_date": "16 Jul 2026",
+    "last_purchase_amt": 1120.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) P BROWN",
-    "total_12m": 137288.5,
+    "total_12m": 149248.5,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
     "health_score": 52.7,
@@ -24,59 +24,59 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28604",
-    "date": "19 May 2026",
+    "invoice_no": "132108",
+    "date": "16 Jul 2026",
     "lines": [
       {
         "prodname": "20L MASTER DECOR WHITE PVA",
+        "qty": 2.0,
+        "unit_price": 495.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "20L MASTER DECOR KALAHARI PVA",
+        "qty": 1.0,
+        "unit_price": 550.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L MASTER DECOR STONE GREY",
         "qty": 3.0,
-        "unit_price": 46.0,
-        "value": 138.0
-      },
-      {
-        "prodname": "20L MASTER DECOR FOSSIL GREEN",
-        "qty": 1.0,
-        "unit_price": 71.0,
-        "value": 71.0
-      },
-      {
-        "prodname": "20L MASTER DECOR BRAZIL NUT",
-        "qty": 1.0,
-        "unit_price": 46.0,
-        "value": 46.0
+        "unit_price": 550.0,
+        "value": 1650.0
       },
       {
         "prodname": "20L MASTER DECOR NIGHT SKY",
-        "qty": 3.0,
-        "unit_price": 71.0,
-        "value": 213.0
+        "qty": 6.0,
+        "unit_price": 550.0,
+        "value": 3300.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) WHITE",
-        "qty": 2.0,
-        "unit_price": 21.0,
-        "value": 42.0
+        "qty": 10.0,
+        "unit_price": 270.0,
+        "value": 2700.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) CREAM",
-        "qty": 2.0,
-        "unit_price": 21.0,
-        "value": 42.0
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 2.0,
-        "unit_price": 31.0,
-        "value": 62.0
+        "qty": 3.0,
+        "unit_price": 280.0,
+        "value": 840.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) P BROWN",
-        "qty": 2.0,
-        "unit_price": 31.0,
-        "value": 62.0
+        "qty": 4.0,
+        "unit_price": 280.0,
+        "value": 1120.0
       }
     ],
-    "total": 676.0,
+    "total": 11960.0,
     "count": 8
   },
   "competitor_forms_outstanding": 0

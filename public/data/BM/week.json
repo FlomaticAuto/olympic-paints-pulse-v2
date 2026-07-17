@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "week_label": "13 Jul \u2013 16 Jul",
   "total_stores": 5,
   "days": [
@@ -45,11 +45,11 @@
           "health_tier": "Active but Narrow",
           "health_score": 7.3,
           "is_recovery": true,
-          "d_current": 0.0,
+          "d_current": -1955.02,
           "d30": 0.0,
           "d60": 0.0,
-          "d90": -0.02,
-          "d_total": -0.02,
+          "d90": 0.0,
+          "d_total": -1955.02,
           "shared_account": false
         }
       ]
@@ -113,7 +113,7 @@
     {
       "date_iso": "2026-07-16",
       "date_label": "Thu 16 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KP060",
@@ -129,11 +129,11 @@
           "health_tier": "At-Risk",
           "health_score": 18.8,
           "is_recovery": false,
-          "d_current": 981.41,
+          "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 981.41,
+          "d_total": 0.0,
           "shared_account": false
         }
       ]
