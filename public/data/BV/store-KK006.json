@@ -1,119 +1,131 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
     "customer_name": "Pir and Sons Trd (Kalamazoo)",
     "town": "METZ VILLAGE",
     "accno": "KK006",
-    "last_purchase_date": "14 Jul 2026",
-    "last_purchase_amt": 825.0,
-    "last_purchase_prod": "5L Q D CHARCOAL",
-    "total_12m": 511804.02999999997,
-    "velocity_category": "falling",
+    "last_purchase_date": "17 Jul 2026",
+    "last_purchase_amt": 8250.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 540692.97,
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
-    "health_score": 48.1,
+    "health_score": 52.0,
     "is_recovery": false,
-    "d_current": 24593.67,
-    "d30": -351.9,
-    "d60": -7400.25,
+    "d_current": 33222.28,
+    "d30": 0.0,
+    "d60": 0.0,
     "d90": 0.0,
-    "d_total": 16841.52,
+    "d_total": 33222.28,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "132053",
-    "date": "14 Jul 2026",
+    "invoice_no": "132124",
+    "date": "17 Jul 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 15.0,
+        "unit_price": 225.0,
+        "value": 3375.0
+      },
+      {
+        "prodname": "20L DECOR MAIZE PVA",
         "qty": 10.0,
-        "unit_price": 69.0,
-        "value": 690.0
+        "unit_price": 275.0,
+        "value": 2750.0
       },
       {
-        "prodname": "1L HIGH GLOSS (MQ) GREY",
-        "qty": 6.0,
-        "unit_price": 69.0,
-        "value": 414.0
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 6.0,
+        "prodname": "20LT DECOR CRISP MINT PVA",
+        "qty": 15.0,
+        "unit_price": 275.0,
+        "value": 4125.0
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 2.0,
+        "unit_price": 80.5,
+        "value": 161.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 5.0,
+        "unit_price": 40.0,
+        "value": 200.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
         "unit_price": 245.0,
-        "value": 1470.0
+        "value": 1225.0
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
         "qty": 10.0,
         "unit_price": 245.0,
         "value": 2450.0
       },
       {
-        "prodname": "5L UNIVERSAL ROOF BLACK",
-        "qty": 2.0,
-        "unit_price": 199.0,
-        "value": 398.0
-      },
-      {
-        "prodname": "1L Q D RED OXIDE PRIMER",
-        "qty": 6.0,
-        "unit_price": 68.0,
-        "value": 408.0
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 245.0,
+        "value": 735.0
       },
       {
         "prodname": "1L WATERBASE RED OXIDE PRIMER",
-        "qty": 10.0,
+        "qty": 15.0,
         "unit_price": 61.5,
-        "value": 615.0
+        "value": 922.5
       },
       {
-        "prodname": "1L MAHOGONY VARNISH",
-        "qty": 10.0,
-        "unit_price": 76.0,
-        "value": 760.0
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 6.0,
+        "unit_price": 94.0,
+        "value": 564.0
       },
       {
-        "prodname": "DOZEN 750ML LACQUER THINNERS",
-        "qty": 10.0,
-        "unit_price": 250.0,
-        "value": 2500.0
-      },
-      {
-        "prodname": "5LT THINNERS",
-        "qty": 20.0,
-        "unit_price": 135.0,
-        "value": 2700.0
-      },
-      {
-        "prodname": "DOZEN 750ML TURPENTINE",
+        "prodname": "DOZEN 750ML SPIRIT  OF SALTS",
         "qty": 1.0,
-        "unit_price": 280.8,
-        "value": 280.8
+        "unit_price": 198.94,
+        "value": 198.94
       },
       {
-        "prodname": "5L CARBOLINEUM",
-        "qty": 50.0,
-        "unit_price": 130.0,
-        "value": 6500.0
+        "prodname": "5L SPIRIT OF SALTS",
+        "qty": 4.0,
+        "unit_price": 98.0,
+        "value": 392.0
       },
       {
-        "prodname": "5L Q D WHITE ENAMEL",
-        "qty": 5.0,
-        "unit_price": 275.0,
-        "value": 1375.0
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 2.0,
+        "unit_price": 285.0,
+        "value": 570.0
       },
       {
-        "prodname": "5L Q D CHARCOAL",
+        "prodname": "1L Q D WHITE ENAMEL",
         "qty": 3.0,
+        "unit_price": 73.5,
+        "value": 220.5
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 30.0,
         "unit_price": 275.0,
-        "value": 825.0
+        "value": 8250.0
       }
     ],
-    "total": 21385.8,
-    "count": 14
+    "total": 28888.94,
+    "count": 16
   },
   "competitor_forms_outstanding": 0
 }

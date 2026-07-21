@@ -1,0 +1,77 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KH008",
+    "curef": "KH008",
+    "customer_name": "Honest Electrical & Plumbing",
+    "town": "Spar Complex",
+    "accno": "KH008",
+    "last_purchase_date": "15 Jul 2026",
+    "last_purchase_amt": 855.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 57335.36,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 40.4,
+    "is_recovery": false,
+    "d_current": 7952.25,
+    "d30": 0.0,
+    "d60": -91.08,
+    "d90": 0.0,
+    "d_total": 7861.17,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "132080",
+    "date": "15 Jul 2026",
+    "lines": [
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 155.0,
+        "value": 310.0
+      },
+      {
+        "prodname": "24x500GM YELLOW OXIDE",
+        "qty": 2.0,
+        "unit_price": 170.0,
+        "value": 340.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 155.0,
+        "value": 310.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 285.0,
+        "value": 2850.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 5.0,
+        "unit_price": 285.0,
+        "value": 1425.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 3.0,
+        "unit_price": 285.0,
+        "value": 855.0
+      }
+    ],
+    "total": 6915.0,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 0
+}

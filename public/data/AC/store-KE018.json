@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KE018",
     "curef": "KE018",
@@ -14,13 +14,13 @@
     "total_12m": 322921.95999999996,
     "velocity_category": "rocket",
     "health_tier": "Active but Narrow",
-    "health_score": 47.6,
+    "health_score": 45.5,
     "is_recovery": false,
-    "d_current": 11489.08,
+    "d_current": 5963.82,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 11489.08,
+    "d_total": 5963.82,
     "shared_account": false
   },
   "invoice": {

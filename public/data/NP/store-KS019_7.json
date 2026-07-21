@@ -1,0 +1,185 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KS019/7",
+    "curef": "KS019",
+    "customer_name": "S.I.Hardware",
+    "town": "R81 Malamulele to",
+    "accno": "KS019_7",
+    "last_purchase_date": "07 Jul 2026",
+    "last_purchase_amt": 825.0,
+    "last_purchase_prod": "5LT Q.D. GREY",
+    "total_12m": 598171.28,
+    "velocity_category": null,
+    "health_tier": "Active & Growing",
+    "health_score": 78.5,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131907",
+    "date": "07 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI CONT STONE GREY",
+        "qty": 6.0,
+        "unit_price": 380.65000000000003,
+        "value": 2283.9
+      },
+      {
+        "prodname": "20L KALAHARI CONT CRANBERRY",
+        "qty": 3.0,
+        "unit_price": 380.65000000000003,
+        "value": 1141.95
+      },
+      {
+        "prodname": "20LT KALAHARI CONT CRISP MINT",
+        "qty": 6.0,
+        "unit_price": 380.65000000000003,
+        "value": 2283.9
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 3.0,
+        "unit_price": 285.0,
+        "value": 855.0
+      },
+      {
+        "prodname": "5L UNIV UNDERCOAT WHITE",
+        "qty": 6.0,
+        "unit_price": 379.5,
+        "value": 2277.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 250.0,
+        "value": 750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 15.0,
+        "unit_price": 435.0,
+        "value": 6525.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 86.0,
+        "value": 516.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 90.0,
+        "value": 270.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 6.0,
+        "unit_price": 280.0,
+        "value": 1680.0
+      },
+      {
+        "prodname": "5L HI HIDING CONT PVA WHITE",
+        "qty": 6.0,
+        "unit_price": 138.0,
+        "value": 828.0
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BLACK",
+        "qty": 2.0,
+        "unit_price": 174.37,
+        "value": 348.74
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 40.0,
+        "unit_price": 132.25,
+        "value": 5290.0
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 72.0,
+        "value": 432.0
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 6.0,
+        "unit_price": 101.47000000000001,
+        "value": 608.82
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      }
+    ],
+    "total": 35443.31,
+    "count": 25
+  },
+  "competitor_forms_outstanding": 0
+}

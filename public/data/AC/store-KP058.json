@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KP058",
     "curef": "KP058",
@@ -14,7 +14,7 @@
     "total_12m": 179310.82,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 41.1,
+    "health_score": 31.8,
     "is_recovery": false,
     "d_current": 18309.15,
     "d30": 18865.75,

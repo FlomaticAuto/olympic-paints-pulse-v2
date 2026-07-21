@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KT014",
     "curef": "KT014",
@@ -13,7 +13,7 @@
     "last_purchase_prod": "5L CARBOLINEUM",
     "total_12m": 24711.21,
     "velocity_category": null,
-    "health_tier": "At-Risk",
+    "health_tier": "Dead / Dormant",
     "health_score": 29.7,
     "is_recovery": false,
     "d_current": 16940.58,

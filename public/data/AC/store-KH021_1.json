@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KH021/1",
     "curef": "KH021",
@@ -11,10 +11,10 @@
     "last_purchase_date": "01 Jul 2026",
     "last_purchase_amt": 2950.0,
     "last_purchase_prod": "5LT HYPER STEEL Q.D SILVER",
-    "total_12m": 782586.28,
+    "total_12m": 735125.58,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
-    "health_score": 53.8,
+    "health_score": 48.7,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM165",
     "curef": "KM165",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "200mm x 10m Membrane",
     "total_12m": 108171.76000000001,
     "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 42.4,
+    "health_tier": "At-Risk",
+    "health_score": 41.4,
     "is_recovery": false,
     "d_current": 24599.65,
     "d30": 0.0,

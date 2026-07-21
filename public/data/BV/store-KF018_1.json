@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KF018/1",
     "curef": "KF018",
@@ -11,7 +11,7 @@
     "last_purchase_date": "25 Jun 2026",
     "last_purchase_amt": 0.0,
     "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 406782.93000000005,
+    "total_12m": 406492.9,
     "velocity_category": null,
     "health_tier": "At-Risk",
     "health_score": 39.9,

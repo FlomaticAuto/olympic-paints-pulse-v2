@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KB013",
     "curef": "KB013",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 5250.0,
     "last_purchase_prod": "20L HIGH GLOSS (MQ) WHITE",
     "total_12m": 91754.78,
-    "velocity_category": "falling",
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
-    "health_score": 51.1,
+    "health_score": 53.6,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 6037.5,

@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM043",
     "curef": "KM043",
@@ -14,7 +14,7 @@
     "total_12m": 70340.61,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 39.3,
+    "health_score": 31.5,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

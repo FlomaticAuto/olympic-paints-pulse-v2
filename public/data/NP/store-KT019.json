@@ -1,0 +1,215 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KT019",
+    "curef": "KT019",
+    "customer_name": "Trendleaders Trading & Inv. CC",
+    "town": "Behind Limpopo Wholesalers",
+    "accno": "KT019",
+    "last_purchase_date": "15 Jul 2026",
+    "last_purchase_amt": 825.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 655541.28,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 62.9,
+    "is_recovery": false,
+    "d_current": 32544.31,
+    "d30": 99321.56,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 131865.87,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "132081",
+    "date": "15 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20LT 3-IN-1 ROOF PAINT RED",
+        "qty": 3.0,
+        "unit_price": 796.9499999999999,
+        "value": 2390.85
+      },
+      {
+        "prodname": "20LT 3-IN-1 ROOF PAINT CHARCOA",
+        "qty": 4.0,
+        "unit_price": 796.95,
+        "value": 3187.8
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 4.0,
+        "unit_price": 255.0,
+        "value": 1020.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 68.0,
+        "value": 272.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 2.0,
+        "unit_price": 68.0,
+        "value": 136.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 68.0,
+        "value": 136.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 68.0,
+        "value": 204.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 68.0,
+        "value": 136.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) PEACH",
+        "qty": 2.0,
+        "unit_price": 255.0,
+        "value": 510.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 255.0,
+        "value": 765.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 5.0,
+        "unit_price": 255.0,
+        "value": 1275.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 3.0,
+        "unit_price": 550.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 2.0,
+        "unit_price": 550.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 10.0,
+        "unit_price": 85.0,
+        "value": 850.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 95.0,
+        "value": 570.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 6.0,
+        "unit_price": 250.0,
+        "value": 1500.0
+      },
+      {
+        "prodname": "5L TURPENTINE",
+        "qty": 10.0,
+        "unit_price": 160.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 25.0,
+        "unit_price": 143.75,
+        "value": 3593.75
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 75.0,
+        "value": 450.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 12.0,
+        "unit_price": 75.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 6.0,
+        "unit_price": 75.0,
+        "value": 450.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 3.0,
+        "unit_price": 75.0,
+        "value": 225.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 4.0,
+        "unit_price": 275.0,
+        "value": 1100.0
+      },
+      {
+        "prodname": "5L Q.D. PWD BROWM",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L Q.D. G BROWN",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      }
+    ],
+    "total": 28299.4,
+    "count": 30
+  },
+  "competitor_forms_outstanding": 0
+}

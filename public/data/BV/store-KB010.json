@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KB010",
     "curef": "KB010",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 403.95,
     "last_purchase_prod": "1L PP ULTIMATE SHINE L GREY",
     "total_12m": 276247.36,
-    "velocity_category": "falling",
+    "velocity_category": "cooling",
     "health_tier": "Active & Growing",
-    "health_score": 69.2,
+    "health_score": 73.4,
     "is_recovery": false,
     "d_current": 28865.29,
     "d30": -428.4,

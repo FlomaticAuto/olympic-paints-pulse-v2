@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KL004",
     "curef": "KL004",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "5L HIGH GLOSS (MQ) BLACK",
     "total_12m": 257587.76,
     "velocity_category": "falling",
-    "health_tier": "At-Risk",
-    "health_score": 63.2,
+    "health_tier": "Active & Growing",
+    "health_score": 68.7,
     "is_recovery": false,
     "d_current": 36348.24,
     "d30": 15430.63,

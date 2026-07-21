@@ -1,0 +1,76 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-21",
+  "store": {
+    "customer_name": "Monyakeng Hardware",
+    "accno": "KM105",
+    "dlref": "KM105",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "129494",
+    "date": "15 Jan 2026",
+    "lines": [
+      {
+        "prodname": "1L WATERBASE RED OXIDE PRIMER",
+        "qty": 6.0,
+        "unit_price": 59.5,
+        "value": 357.0
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 10.0,
+        "unit_price": 234.64000000000001,
+        "value": 2346.4
+      },
+      {
+        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "qty": 5.0,
+        "unit_price": 105.49000000000001,
+        "value": 527.45
+      },
+      {
+        "prodname": "5L PP ULTIMATE SHINE SILVER",
+        "qty": 4.0,
+        "unit_price": 394.29,
+        "value": 1577.16
+      },
+      {
+        "prodname": "20L LIBERTY PVA WHITE",
+        "qty": 10.0,
+        "unit_price": 161.54000000000002,
+        "value": 1615.4
+      },
+      {
+        "prodname": "20L LIBERTY PVA CREAM",
+        "qty": 10.0,
+        "unit_price": 161.54000000000002,
+        "value": 1615.4
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 88.31,
+        "value": 353.24
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 4.0,
+        "unit_price": 92.71,
+        "value": 370.84
+      }
+    ],
+    "total": 8762.89,
+    "count": 8
+  },
+  "competitor_forms_outstanding": 0
+}

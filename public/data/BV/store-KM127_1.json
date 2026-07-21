@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM127/1",
     "curef": "KM127",
@@ -14,7 +14,7 @@
     "total_12m": 403874.89,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
-    "health_score": 50.9,
+    "health_score": 48.8,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

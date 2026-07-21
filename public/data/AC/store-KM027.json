@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM027",
     "curef": "KM027",
@@ -12,15 +12,15 @@
     "last_purchase_amt": 6018.85,
     "last_purchase_prod": "5KG BROWN OXIDE",
     "total_12m": 2265869.5599999996,
-    "velocity_category": null,
+    "velocity_category": "falling",
     "health_tier": "Active & Growing",
-    "health_score": 79.8,
+    "health_score": 94.7,
     "is_recovery": false,
     "d_current": 189927.55,
-    "d30": 85163.76,
+    "d30": 78261.26,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 275091.31,
+    "d_total": 268188.81,
     "shared_account": false
   },
   "invoice": {

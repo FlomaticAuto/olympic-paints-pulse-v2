@@ -1,0 +1,119 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KD003",
+    "curef": "KD003",
+    "customer_name": "Del Piero Trading CC",
+    "town": "Limpopo Province Main Rd R523",
+    "accno": "KD003",
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 2032541.3,
+    "velocity_category": "stable",
+    "health_tier": "Active & Growing",
+    "health_score": 68.1,
+    "is_recovery": false,
+    "d_current": 63851.63,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 63851.63,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131825",
+    "date": "01 Jul 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 24.0,
+        "unit_price": 68.0,
+        "value": 1632.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 20.0,
+        "unit_price": 265.0,
+        "value": 5300.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 10.0,
+        "unit_price": 99.0,
+        "value": 990.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 25.0,
+        "unit_price": 99.0,
+        "value": 2475.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 25.0,
+        "unit_price": 99.0,
+        "value": 2475.0
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 30.0,
+        "unit_price": 280.0,
+        "value": 8400.0
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 10.0,
+        "unit_price": 300.0,
+        "value": 3000.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 20.0,
+        "unit_price": 144.76,
+        "value": 2895.2
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 24.0,
+        "unit_price": 72.0,
+        "value": 1728.0
+      },
+      {
+        "prodname": "1L Q D CHARCOAL",
+        "qty": 24.0,
+        "unit_price": 72.0,
+        "value": 1728.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 50.0,
+        "unit_price": 260.0,
+        "value": 13000.0
+      },
+      {
+        "prodname": "5LT Q.D. BLUE GREY",
+        "qty": 20.0,
+        "unit_price": 270.0,
+        "value": 5400.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 25.0,
+        "unit_price": 260.0,
+        "value": 6500.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 60.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 55523.2,
+    "count": 14
+  },
+  "competitor_forms_outstanding": 0
+}

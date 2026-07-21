@@ -1,0 +1,101 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KI015",
+    "curef": "KI015",
+    "customer_name": "Iskcon Steel",
+    "town": "Ramasaga Street Industrial",
+    "accno": "KI015",
+    "last_purchase_date": "01 Jul 2026",
+    "last_purchase_amt": 3850.0,
+    "last_purchase_prod": "5L Q.D. BURGUNDY",
+    "total_12m": 939773.91,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 45.7,
+    "is_recovery": false,
+    "d_current": 121924.73,
+    "d30": 169594.43,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 291519.16,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131828",
+    "date": "01 Jul 2026",
+    "lines": [
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 50.0,
+        "unit_price": 142.83,
+        "value": 7141.5
+      },
+      {
+        "prodname": "20L QD BRONZE",
+        "qty": 5.0,
+        "unit_price": 999.0,
+        "value": 4995.0
+      },
+      {
+        "prodname": "20L QD CHARCOAL",
+        "qty": 3.0,
+        "unit_price": 999.0,
+        "value": 2997.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 18.0,
+        "unit_price": 75.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "1LT Q.D. BLUE GREY",
+        "qty": 18.0,
+        "unit_price": 75.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "1L Q.D. BURGUNDY",
+        "qty": 18.0,
+        "unit_price": 75.0,
+        "value": 1350.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 275.0,
+        "value": 1375.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 30.0,
+        "unit_price": 260.0,
+        "value": 7800.0
+      },
+      {
+        "prodname": "5L Q D CHARCOAL",
+        "qty": 20.0,
+        "unit_price": 275.0,
+        "value": 5500.0
+      },
+      {
+        "prodname": "5LT Q.D. BLUE GREY",
+        "qty": 25.0,
+        "unit_price": 275.0,
+        "value": 6875.0
+      },
+      {
+        "prodname": "5L Q.D. BURGUNDY",
+        "qty": 14.0,
+        "unit_price": 275.0,
+        "value": 3850.0
+      }
+    ],
+    "total": 44583.5,
+    "count": 11
+  },
+  "competitor_forms_outstanding": 0
+}

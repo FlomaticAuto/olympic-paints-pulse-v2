@@ -1,0 +1,47 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KR008/1",
+    "curef": "KR008",
+    "customer_name": "BUDGET HARDWARE",
+    "town": "Saslamani Shikundu",
+    "accno": "KR008_1",
+    "last_purchase_date": "10 Jul 2026",
+    "last_purchase_amt": 1650.0,
+    "last_purchase_prod": "20L DECOR FOSSIL GREEN PVA",
+    "total_12m": 144316.90000000002,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 56.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "28892",
+    "date": "10 Jul 2026",
+    "lines": [
+      {
+        "prodname": "40KG PUTTY",
+        "qty": 3.0,
+        "unit_price": 210.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 34.48,
+        "value": 34.48
+      }
+    ],
+    "total": 664.48,
+    "count": 2
+  },
+  "competitor_forms_outstanding": 0
+}

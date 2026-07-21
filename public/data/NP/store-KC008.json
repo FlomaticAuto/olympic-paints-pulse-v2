@@ -1,0 +1,119 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KC008",
+    "curef": "KC008",
+    "customer_name": "C G Industrial Equipment P L",
+    "town": "(On the Highway near Ayob Mot)",
+    "accno": "KC008",
+    "last_purchase_date": "16 Jul 2026",
+    "last_purchase_amt": 3480.0,
+    "last_purchase_prod": "5L Q D WHITE ENAMEL",
+    "total_12m": 375014.68,
+    "velocity_category": "growing",
+    "health_tier": "Active but Narrow",
+    "health_score": 46.0,
+    "is_recovery": false,
+    "d_current": 81640.72,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 81640.72,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "132115",
+    "date": "16 Jul 2026",
+    "lines": [
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 18.0,
+        "unit_price": 81.0,
+        "value": 1458.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 18.0,
+        "unit_price": 81.0,
+        "value": 1458.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 12.0,
+        "unit_price": 81.0,
+        "value": 972.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B GREEN",
+        "qty": 18.0,
+        "unit_price": 81.0,
+        "value": 1458.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 18.0,
+        "unit_price": 81.0,
+        "value": 1458.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 12.0,
+        "unit_price": 290.0,
+        "value": 3480.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 12.0,
+        "unit_price": 290.0,
+        "value": 3480.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 6.0,
+        "unit_price": 290.0,
+        "value": 1740.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 12.0,
+        "unit_price": 290.0,
+        "value": 3480.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 12.0,
+        "unit_price": 290.0,
+        "value": 3480.0
+      },
+      {
+        "prodname": "20L FACE BRICK DRESSING",
+        "qty": 6.0,
+        "unit_price": 1200.0,
+        "value": 7200.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 12.0,
+        "unit_price": 350.0,
+        "value": 4200.0
+      },
+      {
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 10.0,
+        "unit_price": 300.0,
+        "value": 3000.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 12.0,
+        "unit_price": 290.0,
+        "value": 3480.0
+      }
+    ],
+    "total": 40344.0,
+    "count": 14
+  },
+  "competitor_forms_outstanding": 0
+}

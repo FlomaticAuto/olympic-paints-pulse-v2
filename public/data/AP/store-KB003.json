@@ -1,37 +1,43 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KB003",
     "curef": "KB003",
     "customer_name": "New Best Build Hardware",
     "town": "Main Road  Elim to Giyani",
     "accno": "KB003",
-    "last_purchase_date": "10 Jun 2026",
-    "last_purchase_amt": 1360.8,
-    "last_purchase_prod": "20L ECLIPSE SUNSHINE YELLOW",
-    "total_12m": 226350.76000000004,
-    "velocity_category": "rocket",
+    "last_purchase_date": "20 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 247203.24999999997,
+    "velocity_category": "falling",
     "health_tier": "Active & Growing",
     "health_score": 68.3,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 23980.36,
     "d30": -1.33,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": -1.33,
+    "d_total": 23979.03,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131629",
-    "date": "10 Jun 2026",
+    "invoice_no": "132152",
+    "date": "20 Jul 2026",
     "lines": [
       {
-        "prodname": "20LT KALAHARI CONT DARK GREY",
+        "prodname": "20L KALAHARI PVA CERES PEACH",
         "qty": 6.0,
         "unit_price": 455.66,
         "value": 2733.96
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 63.25,
+        "value": 379.5
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) BLACK",
@@ -40,16 +46,16 @@
         "value": 1007.4
       },
       {
-        "prodname": "1L HIGH GLOSS (MQ) GREY",
-        "qty": 5.0,
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 6.0,
         "unit_price": 83.95,
-        "value": 419.75
+        "value": 503.7
       },
       {
-        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
-        "qty": 5.0,
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 6.0,
         "unit_price": 83.95,
-        "value": 419.75
+        "value": 503.7
       },
       {
         "prodname": "1L HIGH GLOSS (MQ) S RED",
@@ -58,61 +64,49 @@
         "value": 503.7
       },
       {
-        "prodname": "5L HIGH GLOSS (MQ) BLACK",
-        "qty": 6.0,
-        "unit_price": 310.12,
-        "value": 1860.72
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) GREY",
-        "qty": 4.0,
-        "unit_price": 310.12,
-        "value": 1240.48
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) S GREEN",
-        "qty": 5.0,
-        "unit_price": 310.12,
-        "value": 1550.6
-      },
-      {
-        "prodname": "5L HIGH GLOSS (MQ) SUMMER BLUE",
-        "qty": 5.0,
-        "unit_price": 310.12,
-        "value": 1550.6
-      },
-      {
         "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
-        "qty": 5.0,
-        "unit_price": 310.12,
-        "value": 1550.6
-      },
-      {
-        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
         "qty": 6.0,
         "unit_price": 310.12,
         "value": 1860.72
       },
       {
-        "prodname": "1L RAINPROOF GREEN",
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
         "qty": 6.0,
-        "unit_price": 51.0,
-        "value": 306.0
+        "unit_price": 310.12,
+        "value": 1860.72
       },
       {
-        "prodname": "1L PP ULTIMATE SHINE SILVER",
-        "qty": 5.0,
-        "unit_price": 116.46,
-        "value": 582.3
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 6.0,
+        "unit_price": 119.10000000000001,
+        "value": 714.6
       },
       {
-        "prodname": "1L DARK OAK VARNISH",
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 6.0,
+        "unit_price": 119.10000000000001,
+        "value": 714.6
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 75.89999999999999,
+        "value": 455.4
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 6.0,
+        "unit_price": 75.89999999999999,
+        "value": 455.4
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
         "qty": 6.0,
         "unit_price": 109.25,
         "value": 655.5
       },
       {
-        "prodname": "1L WALNUT VARNISH",
+        "prodname": "1L MAHOGONY VARNISH",
         "qty": 6.0,
         "unit_price": 109.25,
         "value": 655.5
@@ -124,61 +118,67 @@
         "value": 253.1
       },
       {
-        "prodname": "12X2KG PUTTY",
-        "qty": 2.0,
-        "unit_price": 266.71,
-        "value": 533.42
-      },
-      {
-        "prodname": "20KG PUTTY",
-        "qty": 10.0,
-        "unit_price": 158.3,
-        "value": 1583.0
-      },
-      {
-        "prodname": "10KG PUTTY",
-        "qty": 10.0,
-        "unit_price": 88.0,
-        "value": 880.0
-      },
-      {
         "prodname": "5KG PUTTY",
-        "qty": 20.0,
+        "qty": 10.0,
         "unit_price": 50.92,
-        "value": 1018.4
+        "value": 509.2
       },
       {
-        "prodname": "5LT THINNERS",
-        "qty": 12.0,
-        "unit_price": 149.5,
-        "value": 1794.0
-      },
-      {
-        "prodname": "5L Q D BRONZE ENAMEL",
-        "qty": 5.0,
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
         "unit_price": 322.0,
-        "value": 1610.0
+        "value": 644.0
       },
       {
-        "prodname": "5LT Q.D. GREY",
-        "qty": 5.0,
-        "unit_price": 322.0,
-        "value": 1610.0
+        "prodname": "DOZEN 750ML TURPENTINE",
+        "qty": 1.0,
+        "unit_price": 361.99,
+        "value": 361.99
       },
       {
-        "prodname": "5LT Q.D. BLUE GREY",
-        "qty": 4.0,
-        "unit_price": 322.0,
-        "value": 1288.0
+        "prodname": "20L ECLIPSE PEACH PVA",
+        "qty": 10.0,
+        "unit_price": 226.8,
+        "value": 2268.0
       },
       {
-        "prodname": "75mm x 10m Membrane",
+        "prodname": "20L  ECLIPSE AQUA BLUE PVA",
         "qty": 6.0,
+        "unit_price": 226.79999999999998,
+        "value": 1360.8
+      },
+      {
+        "prodname": "1L Q D WHITE ENAMEL",
+        "qty": 3.0,
+        "unit_price": 99.0,
+        "value": 297.0
+      },
+      {
+        "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 99.0,
+        "value": 594.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 99.0,
+        "value": 594.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 3.0,
+        "unit_price": 322.0,
+        "value": 966.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 12.0,
         "unit_price": 0.0,
         "value": 0.0
       }
     ],
-    "total": 27467.5,
+    "total": 20852.489999999998,
     "count": 25
   },
   "competitor_forms_outstanding": 0

@@ -1,13 +1,13 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-17",
-  "week_label": "13 Jul \u2013 16 Jul",
+  "generated_at": "2026-07-21",
+  "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 5,
   "days": [
     {
-      "date_iso": "2026-07-13",
-      "date_label": "Mon 13 Jul",
+      "date_iso": "2026-07-20",
+      "date_label": "Mon 20 Jul",
       "is_today": false,
       "stores": [
         {
@@ -44,7 +44,7 @@
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 7.3,
-          "is_recovery": true,
+          "is_recovery": false,
           "d_current": -1955.02,
           "d30": 0.0,
           "d60": 0.0,
@@ -55,9 +55,9 @@
       ]
     },
     {
-      "date_iso": "2026-07-14",
-      "date_label": "Tue 14 Jul",
-      "is_today": false,
+      "date_iso": "2026-07-21",
+      "date_label": "Tue 21 Jul",
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB115",
@@ -71,7 +71,7 @@
           "total_12m": 60250.93000000001,
           "velocity_category": null,
           "health_tier": "At-Risk",
-          "health_score": 35.3,
+          "health_score": 38.7,
           "is_recovery": false,
           "d_current": 6393.31,
           "d30": 0.0,
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-15",
-      "date_label": "Wed 15 Jul",
+      "date_iso": "2026-07-22",
+      "date_label": "Wed 22 Jul",
       "is_today": false,
       "stores": [
         {
@@ -99,8 +99,8 @@
           "total_12m": 0.0,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
-          "health_score": 9.5,
-          "is_recovery": false,
+          "health_score": 2.2,
+          "is_recovery": true,
           "d_current": 0.0,
           "d30": 0.0,
           "d60": 0.0,
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "date_iso": "2026-07-16",
-      "date_label": "Thu 16 Jul",
+      "date_iso": "2026-07-23",
+      "date_label": "Thu 23 Jul",
       "is_today": false,
       "stores": [
         {
@@ -127,7 +127,7 @@
           "total_12m": 7155.610000000001,
           "velocity_category": null,
           "health_tier": "At-Risk",
-          "health_score": 18.8,
+          "health_score": 37.3,
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,

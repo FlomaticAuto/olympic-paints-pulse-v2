@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS061",
     "curef": "KS061",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "1L Q D BRONZE ENAMEL",
     "total_12m": 41225.23,
     "velocity_category": "falling",
-    "health_tier": "Dead / Dormant",
-    "health_score": 55.7,
+    "health_tier": "Active but Narrow",
+    "health_score": 54.7,
     "is_recovery": false,
     "d_current": 28281.68,
     "d30": 0.0,

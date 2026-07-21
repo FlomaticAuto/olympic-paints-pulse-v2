@@ -1,0 +1,149 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KA090/1",
+    "curef": "KA090",
+    "customer_name": "A A Owaish Maize Depot Pty Ltd",
+    "town": "Opp Taxi Rank,Next TO Boxer HW",
+    "accno": "KA090_1",
+    "last_purchase_date": "10 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 85438.18000000001,
+    "velocity_category": null,
+    "health_tier": "Active but Narrow",
+    "health_score": 52.0,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131996",
+    "date": "10 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L DECOR GUAVA PVA",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "20L DECOR NIGHT SKY PVA",
+        "qty": 3.0,
+        "unit_price": 275.0,
+        "value": 825.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 6.0,
+        "unit_price": 72.0,
+        "value": 432.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 6.0,
+        "unit_price": 72.0,
+        "value": 432.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CHARCOAL",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 2.0,
+        "unit_price": 515.0,
+        "value": 1030.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 2.0,
+        "unit_price": 515.0,
+        "value": 1030.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 2.0,
+        "unit_price": 515.0,
+        "value": 1030.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 4.0,
+        "unit_price": 100.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 267.03,
+        "value": 267.03
+      },
+      {
+        "prodname": "12X2KG PUTTY",
+        "qty": 2.0,
+        "unit_price": 251.07,
+        "value": 502.14
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 1.0,
+        "unit_price": 160.0,
+        "value": 160.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 1.0,
+        "unit_price": 160.0,
+        "value": 160.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 4.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 10668.17,
+    "count": 19
+  },
+  "competitor_forms_outstanding": 0
+}

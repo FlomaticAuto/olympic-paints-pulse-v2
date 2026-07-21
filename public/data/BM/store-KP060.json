@@ -1,7 +1,7 @@
 {
   "rep": "BM",
   "rep_name": "Byron Minnie",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KP060",
     "curef": "KP060",
@@ -14,7 +14,7 @@
     "total_12m": 7155.610000000001,
     "velocity_category": null,
     "health_tier": "At-Risk",
-    "health_score": 18.8,
+    "health_score": 37.3,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

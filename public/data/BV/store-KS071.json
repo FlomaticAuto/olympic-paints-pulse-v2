@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS071",
     "curef": "KS071",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 280.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) P BROWN",
     "total_12m": 833050.1200000001,
-    "velocity_category": "stable",
+    "velocity_category": "growing",
     "health_tier": "Active & Growing",
-    "health_score": 68.7,
+    "health_score": 73.0,
     "is_recovery": false,
     "d_current": 135731.69,
     "d30": 51649.72,

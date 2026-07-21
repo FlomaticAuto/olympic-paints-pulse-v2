@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM037",
     "curef": "KM037",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 1944.0,
     "last_purchase_prod": "5L Q D BRONZE ENAMEL",
     "total_12m": 24929.960000000006,
-    "velocity_category": null,
+    "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
-    "health_score": 25.8,
+    "health_score": 22.4,
     "is_recovery": true,
     "d_current": 0.0,
     "d30": 0.0,

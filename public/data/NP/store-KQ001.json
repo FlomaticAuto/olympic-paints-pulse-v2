@@ -1,0 +1,131 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KQ001",
+    "curef": "KQ001",
+    "customer_name": "Khavhande Trading store",
+    "town": "Matidza Complex  Post Office",
+    "accno": "KQ001",
+    "last_purchase_date": "18 Mar 2026",
+    "last_purchase_amt": 1120.0,
+    "last_purchase_prod": "5L Q D BRONZE ENAMEL",
+    "total_12m": 60086.25,
+    "velocity_category": "falling",
+    "health_tier": "Dead / Dormant",
+    "health_score": 32.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 0.0,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "130514",
+    "date": "18 Mar 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 54.08,
+        "value": 108.16
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 3.0,
+        "unit_price": 54.080000000000005,
+        "value": 162.24
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 3.0,
+        "unit_price": 54.080000000000005,
+        "value": 162.24
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 75.6,
+        "value": 151.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S GREEN",
+        "qty": 2.0,
+        "unit_price": 75.6,
+        "value": 151.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 75.6,
+        "value": 151.2
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 75.6,
+        "value": 151.2
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 269.87,
+        "value": 539.74
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 2.0,
+        "unit_price": 269.87,
+        "value": 539.74
+      },
+      {
+        "prodname": "500ML PP ULTI SHINE SILVER",
+        "qty": 2.0,
+        "unit_price": 62.73,
+        "value": 125.46
+      },
+      {
+        "prodname": "5L COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 302.26,
+        "value": 604.52
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 3.0,
+        "unit_price": 275.40000000000003,
+        "value": 826.2
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 6.0,
+        "unit_price": 140.4,
+        "value": 842.4
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 8.0,
+        "unit_price": 80.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 4.0,
+        "unit_price": 110.0,
+        "value": 440.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 280.0,
+        "value": 1120.0
+      }
+    ],
+    "total": 6715.5,
+    "count": 16
+  },
+  "competitor_forms_outstanding": 0
+}

@@ -1,0 +1,77 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KB110",
+    "curef": "KB110",
+    "customer_name": "Best Build HW Giyani",
+    "town": "Opp Nando's",
+    "accno": "KB110",
+    "last_purchase_date": "07 Jul 2026",
+    "last_purchase_amt": 320.0,
+    "last_purchase_prod": "24x500GM RED OXIDE",
+    "total_12m": 15398.269999999999,
+    "velocity_category": "falling",
+    "health_tier": "At-Risk",
+    "health_score": 35.2,
+    "is_recovery": false,
+    "d_current": 3070.5,
+    "d30": -222.37,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 2848.13,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131902",
+    "date": "07 Jul 2026",
+    "lines": [
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 2.0,
+        "unit_price": 275.0,
+        "value": 550.0
+      },
+      {
+        "prodname": "1L TEAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 95.0,
+        "value": 190.0
+      },
+      {
+        "prodname": "1L WALNUT VARNISH",
+        "qty": 2.0,
+        "unit_price": 95.0,
+        "value": 190.0
+      },
+      {
+        "prodname": "24x500GM OXIDE BLACK",
+        "qty": 2.0,
+        "unit_price": 160.0,
+        "value": 320.0
+      },
+      {
+        "prodname": "24x500GM RED OXIDE",
+        "qty": 2.0,
+        "unit_price": 160.0,
+        "value": 320.0
+      }
+    ],
+    "total": 2670.0,
+    "count": 7
+  },
+  "competitor_forms_outstanding": 0
+}

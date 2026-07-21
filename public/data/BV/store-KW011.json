@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KW011",
     "curef": "KW011",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "5L WATERBASE RED OXIDE PRIMER",
     "total_12m": 196824.15000000002,
     "velocity_category": "falling",
-    "health_tier": "Active but Narrow",
-    "health_score": 64.0,
+    "health_tier": "Active & Growing",
+    "health_score": 71.3,
     "is_recovery": false,
     "d_current": 27955.04,
     "d30": 0.0,

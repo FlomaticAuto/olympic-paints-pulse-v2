@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS127",
     "curef": "KS127",
@@ -13,14 +13,14 @@
     "last_purchase_prod": "20L MASTER DECOR SHILOH PVA",
     "total_12m": 149332.55,
     "velocity_category": null,
-    "health_tier": "Active but Narrow",
-    "health_score": 55.6,
+    "health_tier": "Dead / Dormant",
+    "health_score": 51.0,
     "is_recovery": false,
-    "d_current": 13754.0,
+    "d_current": 26022.2,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 0.0,
-    "d_total": 13754.0,
+    "d_total": 26022.2,
     "shared_account": false
   },
   "invoice": {

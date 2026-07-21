@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KC032",
     "curef": "KC032",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "75mm x 10m Membrane",
     "total_12m": 84066.0,
     "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 40.2,
+    "health_tier": "At-Risk",
+    "health_score": 48.6,
     "is_recovery": false,
     "d_current": 25083.23,
     "d30": 0.0,

@@ -1,47 +1,71 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KF009",
     "curef": "KF009",
     "customer_name": "Fairplay Store",
     "town": "Mokopane",
     "accno": "KF009",
-    "last_purchase_date": "29 Jun 2026",
-    "last_purchase_amt": 86.95,
-    "last_purchase_prod": "1L HIGH GLOSS (MQ) L BROWN",
-    "total_12m": 233361.50999999998,
-    "velocity_category": "falling",
+    "last_purchase_date": "17 Jul 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "200mm x 10m Membrane",
+    "total_12m": 242007.51,
+    "velocity_category": "cooling",
     "health_tier": "At-Risk",
-    "health_score": 38.4,
+    "health_score": 33.7,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 9942.9,
     "d30": 20291.92,
     "d60": 22729.69,
     "d90": 0.0,
-    "d_total": 43021.61,
+    "d_total": 52964.51,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28830",
-    "date": "29 Jun 2026",
+    "invoice_no": "132126",
+    "date": "17 Jul 2026",
     "lines": [
       {
-        "prodname": "1L HIGH GLOSS (MQ) BLACK",
-        "qty": 1.0,
-        "unit_price": 82.5,
-        "value": 82.5
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 310.0,
+        "value": 620.0
       },
       {
-        "prodname": "1L HIGH GLOSS (MQ) L BROWN",
-        "qty": 1.0,
-        "unit_price": 86.95,
-        "value": 86.95
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 4.0,
+        "unit_price": 299.0,
+        "value": 1196.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 12.0,
+        "unit_price": 310.0,
+        "value": 3720.0
+      },
+      {
+        "prodname": "5L RAINPROOF RED",
+        "qty": 18.0,
+        "unit_price": 105.0,
+        "value": 1890.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 305.0,
+        "value": 1220.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 18.0,
+        "unit_price": 0.0,
+        "value": 0.0
       }
     ],
-    "total": 169.45,
-    "count": 2
+    "total": 8646.0,
+    "count": 6
   },
   "competitor_forms_outstanding": 0
 }

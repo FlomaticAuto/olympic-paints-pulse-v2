@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KD004",
     "curef": "KD004",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 1250.0,
     "last_purchase_prod": "20L UNIVERSAL ROOF BURGANDY",
     "total_12m": 129188.11,
-    "velocity_category": "stable",
+    "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 50.5,
+    "health_score": 51.5,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 5400.46,

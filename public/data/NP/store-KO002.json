@@ -1,0 +1,203 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KO002",
+    "curef": "KO002",
+    "customer_name": "Omega Hardware And Supermarket",
+    "town": "Opposite Budget H/Ware",
+    "accno": "KO002",
+    "last_purchase_date": "10 Jul 2026",
+    "last_purchase_amt": 1650.0,
+    "last_purchase_prod": "5LT Q.D. GREY",
+    "total_12m": 383021.28,
+    "velocity_category": "growing",
+    "health_tier": "Active & Growing",
+    "health_score": 74.7,
+    "is_recovery": false,
+    "d_current": 51671.15,
+    "d30": 0.0,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 51671.15,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131997",
+    "date": "10 Jul 2026",
+    "lines": [
+      {
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 24.0,
+        "unit_price": 235.0,
+        "value": 5640.0
+      },
+      {
+        "prodname": "20L DECOR PVA CREAM",
+        "qty": 12.0,
+        "unit_price": 235.0,
+        "value": 2820.0
+      },
+      {
+        "prodname": "20LT DECOR CRISP MINT PVA",
+        "qty": 3.0,
+        "unit_price": 265.0,
+        "value": 795.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 70.0,
+        "value": 210.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 70.0,
+        "value": 420.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 6.0,
+        "unit_price": 70.0,
+        "value": 420.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 265.0,
+        "value": 795.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 12.0,
+        "unit_price": 475.0,
+        "value": 5700.0
+      },
+      {
+        "prodname": "20L UNIV ROOF  OCEAN BLUE",
+        "qty": 5.0,
+        "unit_price": 600.0,
+        "value": 3000.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF RED",
+        "qty": 6.0,
+        "unit_price": 475.0,
+        "value": 2850.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BLACK",
+        "qty": 6.0,
+        "unit_price": 150.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF OCEAN BLUE",
+        "qty": 6.0,
+        "unit_price": 189.0,
+        "value": 1134.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BURGANDY",
+        "qty": 6.0,
+        "unit_price": 150.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 6.0,
+        "unit_price": 150.0,
+        "value": 900.0
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 285.0,
+        "value": 855.0
+      },
+      {
+        "prodname": "5L WATERBASE RED OXIDE PRIMER",
+        "qty": 12.0,
+        "unit_price": 250.0,
+        "value": 3000.0
+      },
+      {
+        "prodname": "1L COPAL VARNISH",
+        "qty": 12.0,
+        "unit_price": 85.0,
+        "value": 1020.0
+      },
+      {
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "1L MAHOGONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "1LT EBONY VARNISH",
+        "qty": 6.0,
+        "unit_price": 90.0,
+        "value": 540.0
+      },
+      {
+        "prodname": "6x2KG DISTEMPER BLUE",
+        "qty": 5.0,
+        "unit_price": 163.13,
+        "value": 815.65
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 343.11,
+        "value": 343.11
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 36.0,
+        "unit_price": 152.77,
+        "value": 5499.72
+      },
+      {
+        "prodname": "20L ECLIPSE WHITE PVA",
+        "qty": 15.0,
+        "unit_price": 184.0,
+        "value": 2760.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "1L Q D GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 78.0,
+        "value": 468.0
+      },
+      {
+        "prodname": "5LT Q.D. GREY",
+        "qty": 6.0,
+        "unit_price": 275.0,
+        "value": 1650.0
+      }
+    ],
+    "total": 45523.48,
+    "count": 28
+  },
+  "competitor_forms_outstanding": 0
+}

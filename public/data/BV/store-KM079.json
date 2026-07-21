@@ -1,77 +1,95 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KM079",
     "curef": "KM079",
     "customer_name": "Mohamedys Hardware",
     "town": "Industrial Area",
     "accno": "KM079",
-    "last_purchase_date": "06 May 2026",
-    "last_purchase_amt": 1260.0,
-    "last_purchase_prod": "20L ECLIPSE CREAM PVA",
-    "total_12m": 51999.119999999995,
+    "last_purchase_date": "17 Jul 2026",
+    "last_purchase_amt": 834.08,
+    "last_purchase_prod": "5LT EBONY VARNISH",
+    "total_12m": 56593.48000000001,
     "velocity_category": "cooling",
-    "health_tier": "Active but Narrow",
-    "health_score": 59.8,
+    "health_tier": "At-Risk",
+    "health_score": 43.3,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 5283.51,
     "d30": 0.0,
-    "d60": 16545.22,
+    "d60": 9545.22,
     "d90": 0.0,
-    "d_total": 16545.22,
+    "d_total": 14828.73,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "131190",
-    "date": "06 May 2026",
+    "invoice_no": "132131",
+    "date": "17 Jul 2026",
     "lines": [
       {
-        "prodname": "20L KALAHARI  CONTR WHITE PVA",
-        "qty": 6.0,
-        "unit_price": 483.32,
-        "value": 2899.92
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 70.84,
+        "value": 354.2
       },
       {
-        "prodname": "20L KALAHARI CONTR CREAM PVA",
-        "qty": 6.0,
-        "unit_price": 483.32,
-        "value": 2899.92
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 75.9,
+        "value": 151.8
       },
       {
-        "prodname": "5L KALAHARI CONTR WHITE PVA",
-        "qty": 6.0,
-        "unit_price": 142.15,
-        "value": 852.9
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 75.9,
+        "value": 151.8
       },
       {
-        "prodname": "5L KALAHARI CONTR CREAM PVA",
-        "qty": 6.0,
-        "unit_price": 142.15,
-        "value": 852.9
+        "prodname": "1L COPAL VARNISH",
+        "qty": 5.0,
+        "unit_price": 106.25999999999999,
+        "value": 531.3
       },
       {
-        "prodname": "5L KALAHARI CONTR BLACK PVA",
-        "qty": 6.0,
-        "unit_price": 156.35999999999999,
-        "value": 938.16
+        "prodname": "1L LIGHT OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 121.44,
+        "value": 242.88
       },
       {
-        "prodname": "20L DECOR WHITE PVA",
-        "qty": 6.0,
-        "unit_price": 325.0,
-        "value": 1950.0
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 121.44,
+        "value": 364.32
       },
       {
-        "prodname": "20L DECOR PVA CREAM",
-        "qty": 6.0,
-        "unit_price": 325.0,
-        "value": 1950.0
+        "prodname": "5L COPAL VARNISH",
+        "qty": 2.0,
+        "unit_price": 356.43,
+        "value": 712.86
+      },
+      {
+        "prodname": "5L DARK OAK VARNISH",
+        "qty": 2.0,
+        "unit_price": 417.04,
+        "value": 834.08
+      },
+      {
+        "prodname": "5L MAHOGONY VARNISH",
+        "qty": 1.0,
+        "unit_price": 417.04,
+        "value": 417.04
+      },
+      {
+        "prodname": "5LT EBONY VARNISH",
+        "qty": 2.0,
+        "unit_price": 417.04,
+        "value": 834.08
       }
     ],
-    "total": 12343.8,
-    "count": 7
+    "total": 4594.360000000001,
+    "count": 10
   },
   "competitor_forms_outstanding": 0
 }

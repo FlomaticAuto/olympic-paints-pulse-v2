@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS029/1",
     "curef": "KS029",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "5L Q D WHITE ENAMEL",
     "total_12m": 168093.78,
     "velocity_category": null,
-    "health_tier": "Active & Growing",
-    "health_score": 65.1,
+    "health_tier": "Dead / Dormant",
+    "health_score": 65.3,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

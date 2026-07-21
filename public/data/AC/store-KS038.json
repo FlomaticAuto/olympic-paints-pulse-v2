@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS038",
     "curef": "KS038",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 376.33,
     "last_purchase_prod": "Doz x 100ML STAINERS BLACK",
     "total_12m": 55503.62,
-    "velocity_category": "stable",
+    "velocity_category": "rocket",
     "health_tier": "At-Risk",
-    "health_score": 42.3,
+    "health_score": 41.1,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 14257.02,

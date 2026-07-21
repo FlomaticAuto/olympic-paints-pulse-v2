@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS007",
     "curef": "KS007",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 1068.0,
     "last_purchase_prod": "5L Q.D. SILVER",
     "total_12m": 25407.83,
-    "velocity_category": null,
+    "velocity_category": "falling",
     "health_tier": "Dead / Dormant",
-    "health_score": 33.7,
+    "health_score": 34.9,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

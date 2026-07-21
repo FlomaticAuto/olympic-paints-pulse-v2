@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KF018",
     "curef": "KF018",
@@ -14,7 +14,7 @@
     "total_12m": 177903.28000000003,
     "velocity_category": "falling",
     "health_tier": "At-Risk",
-    "health_score": 22.6,
+    "health_score": 23.7,
     "is_recovery": true,
     "d_current": 52485.54,
     "d30": 93165.58,

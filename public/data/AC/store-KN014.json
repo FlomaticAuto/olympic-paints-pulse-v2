@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KN014",
     "curef": "KN014",
@@ -12,9 +12,9 @@
     "last_purchase_amt": 545.53,
     "last_purchase_prod": "DOZEN 750ML RAW LINSEED OIL",
     "total_12m": 50386.600000000006,
-    "velocity_category": null,
-    "health_tier": "Active but Narrow",
-    "health_score": 49.6,
+    "velocity_category": "rocket",
+    "health_tier": "At-Risk",
+    "health_score": 41.0,
     "is_recovery": false,
     "d_current": 4784.37,
     "d30": 0.0,

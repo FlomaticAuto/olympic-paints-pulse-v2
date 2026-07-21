@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KC029",
     "curef": "KC029",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "5KG PUTTY",
     "total_12m": 669500.83,
     "velocity_category": null,
-    "health_tier": "Active & Growing",
-    "health_score": 71.5,
+    "health_tier": "Dead / Dormant",
+    "health_score": 67.2,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,

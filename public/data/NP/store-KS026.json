@@ -1,0 +1,131 @@
+{
+  "rep": "NP",
+  "rep_name": "Nikhil Panchal",
+  "generated_at": "2026-07-21",
+  "store": {
+    "dlref": "KS026",
+    "curef": "KS026",
+    "customer_name": "S.A. Hardware",
+    "town": "Xigalo",
+    "accno": "KS026",
+    "last_purchase_date": "23 Jun 2026",
+    "last_purchase_amt": 0.0,
+    "last_purchase_prod": "75mm x 10m Membrane",
+    "total_12m": 87521.56,
+    "velocity_category": "falling",
+    "health_tier": "Active but Narrow",
+    "health_score": 63.9,
+    "is_recovery": false,
+    "d_current": 0.0,
+    "d30": 12164.07,
+    "d60": 0.0,
+    "d90": 0.0,
+    "d_total": 12164.07,
+    "shared_account": false
+  },
+  "invoice": {
+    "invoice_no": "131753",
+    "date": "23 Jun 2026",
+    "lines": [
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BURGAN",
+        "qty": 3.0,
+        "unit_price": 55.0,
+        "value": 165.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 75.0,
+        "value": 225.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 270.0,
+        "value": 810.0
+      },
+      {
+        "prodname": "1L RAINPROOF BURGANDY",
+        "qty": 3.0,
+        "unit_price": 50.0,
+        "value": 150.0
+      },
+      {
+        "prodname": "5L RAINPROOF BLACK",
+        "qty": 3.0,
+        "unit_price": 105.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "5L RAINPROOF BURGUNDY",
+        "qty": 3.0,
+        "unit_price": 105.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "500ML COPAL VARNISH",
+        "qty": 3.0,
+        "unit_price": 56.0,
+        "value": 168.0
+      },
+      {
+        "prodname": "500ML DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 62.0,
+        "value": 186.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 62.0,
+        "value": 186.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 3.0,
+        "unit_price": 105.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "20KG PUTTY",
+        "qty": 20.0,
+        "unit_price": 180.64000000000001,
+        "value": 3612.8
+      },
+      {
+        "prodname": "10KG PUTTY",
+        "qty": 25.0,
+        "unit_price": 90.93,
+        "value": 2273.25
+      },
+      {
+        "prodname": "5KG PUTTY",
+        "qty": 30.0,
+        "unit_price": 51.38,
+        "value": 1541.4
+      },
+      {
+        "prodname": "DOZEN 750ML CARBOLINEUM",
+        "qty": 1.0,
+        "unit_price": 315.0,
+        "value": 315.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 6.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "75mm x 10m Membrane",
+        "qty": 3.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      }
+    ],
+    "total": 10577.45,
+    "count": 16
+  },
+  "competitor_forms_outstanding": 0
+}

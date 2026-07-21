@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KB086",
     "curef": "KB086",
@@ -12,7 +12,7 @@
     "last_purchase_amt": 542.9,
     "last_purchase_prod": "5KG PUTTY",
     "total_12m": 53187.69,
-    "velocity_category": null,
+    "velocity_category": "rocket",
     "health_tier": "Active but Narrow",
     "health_score": 48.0,
     "is_recovery": false,

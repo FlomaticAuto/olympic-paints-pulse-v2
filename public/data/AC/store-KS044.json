@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS044",
     "curef": "KS044",
@@ -13,8 +13,8 @@
     "last_purchase_prod": "5L Q D BLACK ENAMEL",
     "total_12m": 96087.25,
     "velocity_category": null,
-    "health_tier": "Dead / Dormant",
-    "health_score": 47.1,
+    "health_tier": "Active but Narrow",
+    "health_score": 53.9,
     "is_recovery": false,
     "d_current": -4484.42,
     "d30": 0.0,

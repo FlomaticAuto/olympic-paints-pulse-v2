@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "accounts": [
     {
       "dlref": "KA072",
@@ -9,15 +9,15 @@
       "store_name": "Amods Electrical & Plumbing",
       "score": 4.3,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 769
+      "days_since_purchase": 787
     },
     {
       "dlref": "KB082",
       "accno": "KB082",
       "store_name": "Bobras Hardware",
-      "score": 4.6,
+      "score": 5.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 194
+      "days_since_purchase": 212
     },
     {
       "dlref": "KA108",
@@ -25,7 +25,7 @@
       "store_name": "Azhari Auto Spares",
       "score": 6.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 203
+      "days_since_purchase": 221
     },
     {
       "dlref": "KF011",
@@ -33,7 +33,7 @@
       "store_name": "Family Hardware",
       "score": 6.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 563
+      "days_since_purchase": 581
     },
     {
       "dlref": "KB036",
@@ -41,7 +41,15 @@
       "store_name": "BRM Investments",
       "score": 6.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 687
+      "days_since_purchase": 705
+    },
+    {
+      "dlref": "KB053",
+      "accno": "KB053",
+      "store_name": "Mekka Hardware",
+      "score": 7.6,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 371
     },
     {
       "dlref": "KM116",
@@ -49,7 +57,7 @@
       "store_name": "Maserumo Xpress",
       "score": 7.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 570
+      "days_since_purchase": 588
     },
     {
       "dlref": "KA056",
@@ -57,7 +65,7 @@
       "store_name": "A N Hardware",
       "score": 9.8,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 560
+      "days_since_purchase": 578
     },
     {
       "dlref": "KJ022",
@@ -65,15 +73,15 @@
       "store_name": "Jane Furse Building Supply",
       "score": 10.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 560
+      "days_since_purchase": 578
     },
     {
       "dlref": "KM101",
       "accno": "KM101",
       "store_name": "Mevish Cash & Carry",
-      "score": 11.4,
+      "score": 12.6,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 273
+      "days_since_purchase": 291
     },
     {
       "dlref": "KB084",
@@ -81,7 +89,7 @@
       "store_name": "Builders at Bloem Pty Ltd",
       "score": 14.9,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 265
+      "days_since_purchase": 283
     },
     {
       "dlref": "KA117",
@@ -89,15 +97,7 @@
       "store_name": "African Hardware",
       "score": 15.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 91
-    },
-    {
-      "dlref": "KB053",
-      "accno": "KB053",
-      "store_name": "Mekka Hardware",
-      "score": 16.8,
-      "tier": "Dead / Dormant",
-      "days_since_purchase": 353
+      "days_since_purchase": 109
     },
     {
       "dlref": "KI016",
@@ -105,7 +105,15 @@
       "store_name": "Iconic Hardware",
       "score": 18.4,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 279
+      "days_since_purchase": 297
+    },
+    {
+      "dlref": "KM105",
+      "accno": "KM105",
+      "store_name": "Monyakeng Hardware",
+      "score": 18.7,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 186
     },
     {
       "dlref": "KB075",
@@ -113,7 +121,7 @@
       "store_name": "Burgersfort Wood Centre",
       "score": 19.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 217
+      "days_since_purchase": 235
     },
     {
       "dlref": "KM096",
@@ -121,23 +129,39 @@
       "store_name": "Mykatrade 510 (Pty) Ltd",
       "score": 21.5,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 261
+      "days_since_purchase": 279
     },
     {
       "dlref": "KM076",
       "accno": "KM076",
       "store_name": "Moosas Supermarket",
-      "score": 21.9,
+      "score": 23.2,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 245
+      "days_since_purchase": 263
     },
     {
       "dlref": "KM141",
       "accno": "KM141",
       "store_name": "Memel Hardware",
       "score": 23.7,
-      "tier": "At-Risk",
-      "days_since_purchase": 73
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 91
+    },
+    {
+      "dlref": "KS052",
+      "accno": "KS052",
+      "store_name": "Oriant Invest TA Smart Build",
+      "score": 25.3,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 290
+    },
+    {
+      "dlref": "KM094",
+      "accno": "KM094",
+      "store_name": "Al-Kauthar Inv TA Mas HW",
+      "score": 26.7,
+      "tier": "Dead / Dormant",
+      "days_since_purchase": 151
     },
     {
       "dlref": "KS089",
@@ -145,7 +169,7 @@
       "store_name": "S.A. Hardware (Makhado)",
       "score": 29.0,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 149
+      "days_since_purchase": 167
     },
     {
       "dlref": "KV007",
@@ -153,31 +177,7 @@
       "store_name": "Vendaland H W & Furniture",
       "score": 29.1,
       "tier": "Dead / Dormant",
-      "days_since_purchase": 122
-    },
-    {
-      "dlref": "KS131",
-      "accno": "KS131",
-      "store_name": "Strong Build",
-      "score": 29.5,
-      "tier": "At-Risk",
-      "days_since_purchase": 22
-    },
-    {
-      "dlref": "KB114",
-      "accno": "KB114",
-      "store_name": "Builderstown Hyper (PTY) LTD",
-      "score": 29.6,
-      "tier": "At-Risk",
-      "days_since_purchase": 22
-    },
-    {
-      "dlref": "KV010",
-      "accno": "KV010",
-      "store_name": "V S General  Dealers",
-      "score": 30.1,
-      "tier": "At-Risk",
-      "days_since_purchase": 31
+      "days_since_purchase": 140
     }
   ],
   "competitor_forms_outstanding": 0

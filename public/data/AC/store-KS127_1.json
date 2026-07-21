@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-21",
   "store": {
     "dlref": "KS127/1",
     "curef": "KS127",
@@ -9,12 +9,12 @@
     "town": "Westonarea",
     "accno": "KS127_1",
     "last_purchase_date": "16 Jul 2026",
-    "last_purchase_amt": 1120.0,
+    "last_purchase_amt": 996.0,
     "last_purchase_prod": "5L HIGH GLOSS (MQ) P BROWN",
-    "total_12m": 149248.5,
+    "total_12m": 147956.5,
     "velocity_category": null,
     "health_tier": "Active but Narrow",
-    "health_score": 52.7,
+    "health_score": 46.0,
     "is_recovery": false,
     "d_current": 0.0,
     "d30": 0.0,
@@ -30,53 +30,53 @@
       {
         "prodname": "20L MASTER DECOR WHITE PVA",
         "qty": 2.0,
-        "unit_price": 495.0,
-        "value": 990.0
+        "unit_price": 449.0,
+        "value": 898.0
       },
       {
         "prodname": "20L MASTER DECOR KALAHARI PVA",
         "qty": 1.0,
-        "unit_price": 550.0,
-        "value": 550.0
+        "unit_price": 479.0,
+        "value": 479.0
       },
       {
         "prodname": "20L MASTER DECOR STONE GREY",
         "qty": 3.0,
-        "unit_price": 550.0,
-        "value": 1650.0
+        "unit_price": 479.0,
+        "value": 1437.0
       },
       {
         "prodname": "20L MASTER DECOR NIGHT SKY",
         "qty": 6.0,
-        "unit_price": 550.0,
-        "value": 3300.0
+        "unit_price": 479.0,
+        "value": 2874.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) WHITE",
         "qty": 10.0,
-        "unit_price": 270.0,
-        "value": 2700.0
+        "unit_price": 249.0,
+        "value": 2490.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) CREAM",
         "qty": 3.0,
-        "unit_price": 270.0,
-        "value": 810.0
+        "unit_price": 249.0,
+        "value": 747.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) GREY",
         "qty": 3.0,
-        "unit_price": 280.0,
-        "value": 840.0
+        "unit_price": 249.0,
+        "value": 747.0
       },
       {
         "prodname": "5L HIGH GLOSS (MQ) P BROWN",
         "qty": 4.0,
-        "unit_price": 280.0,
-        "value": 1120.0
+        "unit_price": 249.0,
+        "value": 996.0
       }
     ],
-    "total": 11960.0,
+    "total": 10668.0,
     "count": 8
   },
   "competitor_forms_outstanding": 0

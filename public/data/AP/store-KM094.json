@@ -1,0 +1,190 @@
+{
+  "rep": "AP",
+  "rep_name": "Amit Patel",
+  "generated_at": "2026-07-21",
+  "store": {
+    "customer_name": "Al-Kauthar Inv TA Mas HW",
+    "accno": "KM094",
+    "dlref": "KM094",
+    "town": "",
+    "d_current": 0,
+    "d30": 0,
+    "d60": 0,
+    "d90": 0,
+    "d_total": 0,
+    "total_12m": 0,
+    "last_purchase_date": null,
+    "last_purchase_amt": 0
+  },
+  "invoice": {
+    "invoice_no": "130040",
+    "date": "19 Feb 2026",
+    "lines": [
+      {
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 3.0,
+        "unit_price": 383.40000000000003,
+        "value": 1150.2
+      },
+      {
+        "prodname": "20L KALAHARI CONT STONE GREY",
+        "qty": 3.0,
+        "unit_price": 394.95,
+        "value": 1184.85
+      },
+      {
+        "prodname": "20LT KALAHARI CONT DARK GREY",
+        "qty": 3.0,
+        "unit_price": 394.95,
+        "value": 1184.85
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 862.92,
+        "value": 1725.84
+      },
+      {
+        "prodname": "20L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 862.92,
+        "value": 1725.84
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) CREAM",
+        "qty": 2.0,
+        "unit_price": 76.9,
+        "value": 153.8
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 76.89999999999999,
+        "value": 230.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 2.0,
+        "unit_price": 76.9,
+        "value": 153.8
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 4.0,
+        "unit_price": 263.48,
+        "value": 1053.92
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) CREAM",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BLACK",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) G BROWN",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BURGANDY",
+        "qty": 3.0,
+        "unit_price": 263.48,
+        "value": 790.44
+      },
+      {
+        "prodname": "5L HIGH GLOSS (M/Q) S/RED",
+        "qty": 2.0,
+        "unit_price": 263.48,
+        "value": 526.96
+      },
+      {
+        "prodname": "1L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 84.8,
+        "value": 254.4
+      },
+      {
+        "prodname": "5L Q D RED OXIDE PRIMER",
+        "qty": 3.0,
+        "unit_price": 295.24,
+        "value": 885.72
+      },
+      {
+        "prodname": "5L ECLIPSE WHITE PVA",
+        "qty": 4.0,
+        "unit_price": 76.98,
+        "value": 307.92
+      },
+      {
+        "prodname": "5L ECLIPSE CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 76.98,
+        "value": 307.92
+      },
+      {
+        "prodname": "5L ECLIPSE PEACH PVA",
+        "qty": 4.0,
+        "unit_price": 76.98,
+        "value": 307.92
+      },
+      {
+        "prodname": "5LT ECLIPSE PVA DARK GREY",
+        "qty": 4.0,
+        "unit_price": 76.98,
+        "value": 307.92
+      }
+    ],
+    "total": 17358.699999999993,
+    "count": 27
+  },
+  "competitor_forms_outstanding": 0
+}
