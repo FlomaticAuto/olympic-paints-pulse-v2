@@ -1,41 +1,155 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "store": {
     "dlref": "KR034",
     "curef": "KR034",
     "customer_name": "Jeelani Investment TA Matanda",
     "town": "About 3km From Makhado",
     "accno": "KR034",
-    "last_purchase_date": "20 Apr 2026",
-    "last_purchase_amt": 1750.0,
-    "last_purchase_prod": "200mm x 10m Membrane",
-    "total_12m": 181348.57,
+    "last_purchase_date": "21 Jul 2026",
+    "last_purchase_amt": 1600.0,
+    "last_purchase_prod": "20L DECOR NIGHT SKY PVA",
+    "total_12m": 198529.28,
     "velocity_category": "growing",
     "health_tier": "Dead / Dormant",
     "health_score": 40.3,
     "is_recovery": false,
-    "d_current": 0.0,
+    "d_current": 19757.82,
     "d30": 0.0,
     "d60": 0.0,
     "d90": 2762.87,
-    "d_total": 2762.87,
+    "d_total": 22520.69,
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28462",
-    "date": "20 Apr 2026",
+    "invoice_no": "132169",
+    "date": "21 Jul 2026",
     "lines": [
       {
-        "prodname": "200mm x 10m Membrane",
-        "qty": 50.0,
-        "unit_price": 35.0,
-        "value": 1750.0
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) B YE",
+        "qty": 2.0,
+        "unit_price": 60.64,
+        "value": 121.28
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) S RE",
+        "qty": 2.0,
+        "unit_price": 60.64,
+        "value": 121.28
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) WHITE",
+        "qty": 5.0,
+        "unit_price": 86.94,
+        "value": 434.7
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 86.94,
+        "value": 869.4
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) PWD BROWN",
+        "qty": 3.0,
+        "unit_price": 86.94,
+        "value": 260.82
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S BLUE",
+        "qty": 2.0,
+        "unit_price": 86.94,
+        "value": 173.88
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) B YELLOW",
+        "qty": 3.0,
+        "unit_price": 86.94,
+        "value": 260.82
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) S RED",
+        "qty": 5.0,
+        "unit_price": 86.94,
+        "value": 434.7
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) WHITE",
+        "qty": 2.0,
+        "unit_price": 305.23,
+        "value": 610.46
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) GREY",
+        "qty": 3.0,
+        "unit_price": 305.23,
+        "value": 915.69
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 2.0,
+        "unit_price": 305.23,
+        "value": 610.46
+      },
+      {
+        "prodname": "500ML LIGHT OAK VARNISH",
+        "qty": 5.0,
+        "unit_price": 78.28,
+        "value": 391.4
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 3.0,
+        "unit_price": 78.28,
+        "value": 234.84
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 2.0,
+        "unit_price": 315.49,
+        "value": 630.98
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 20.0,
+        "unit_price": 149.5,
+        "value": 2990.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 5.0,
+        "unit_price": 95.0,
+        "value": 475.0
+      },
+      {
+        "prodname": "1LT Q.D. BLUE GREY",
+        "qty": 3.0,
+        "unit_price": 95.0,
+        "value": 285.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 10.0,
+        "unit_price": 320.0,
+        "value": 3200.0
+      },
+      {
+        "prodname": "5LT Q.D. BLUE GREY",
+        "qty": 3.0,
+        "unit_price": 320.0,
+        "value": 960.0
       }
     ],
-    "total": 1750.0,
-    "count": 1
+    "total": 15580.71,
+    "count": 20
   },
   "competitor_forms_outstanding": 0
 }

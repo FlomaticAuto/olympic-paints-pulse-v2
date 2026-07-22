@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 77,
   "days": [
@@ -435,7 +435,7 @@
     {
       "date_iso": "2026-07-21",
       "date_label": "Tue 21 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA095",
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA096",
@@ -1151,11 +1151,11 @@
           "health_tier": "Active & Growing",
           "health_score": 68.1,
           "is_recovery": false,
-          "d_current": 406263.69,
+          "d_current": 437425.23,
           "d30": 151705.56,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 557969.25,
+          "d_total": 589130.79,
           "shared_account": false
         },
         {
@@ -1549,10 +1549,10 @@
           "customer_name": "S.I.Hardware",
           "town": "SILOAM",
           "accno": "KS019_1",
-          "last_purchase_date": "03 Jul 2026",
-          "last_purchase_amt": 1454.75,
-          "last_purchase_prod": "5LT THINNERS",
-          "total_12m": 476723.27,
+          "last_purchase_date": "21 Jul 2026",
+          "last_purchase_amt": 550.0,
+          "last_purchase_prod": "5LT Q.D. BLUE GREY",
+          "total_12m": 503820.26,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 60.5,

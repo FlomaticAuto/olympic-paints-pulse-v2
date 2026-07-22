@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 60,
   "days": [
@@ -330,7 +330,7 @@
     {
       "date_iso": "2026-07-21",
       "date_label": "Tue 21 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA008/1",
@@ -548,19 +548,19 @@
           "customer_name": "Jeelani Investment TA Matanda",
           "town": "About 3km From Makhado",
           "accno": "KR034",
-          "last_purchase_date": "20 Apr 2026",
-          "last_purchase_amt": 1750.0,
-          "last_purchase_prod": "200mm x 10m Membrane",
-          "total_12m": 181348.57,
+          "last_purchase_date": "21 Jul 2026",
+          "last_purchase_amt": 1600.0,
+          "last_purchase_prod": "20L DECOR NIGHT SKY PVA",
+          "total_12m": 198529.28,
           "velocity_category": "growing",
           "health_tier": "Dead / Dormant",
           "health_score": 40.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 19757.82,
           "d30": 0.0,
           "d60": 0.0,
           "d90": 2762.87,
-          "d_total": 2762.87,
+          "d_total": 22520.69,
           "shared_account": false
         },
         {
@@ -652,7 +652,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA008/2",
@@ -828,19 +828,19 @@
           "customer_name": "Mr Build Musina (PTY) LTD",
           "town": "Ext 3 Next to Top-T",
           "accno": "KM160",
-          "last_purchase_date": "10 Jun 2026",
-          "last_purchase_amt": 1375.0,
-          "last_purchase_prod": "5L Q D CHARCOAL",
-          "total_12m": 1421796.1400000001,
+          "last_purchase_date": "21 Jul 2026",
+          "last_purchase_amt": 4500.0,
+          "last_purchase_prod": "20L UNIVERSAL ROOF BURGANDY",
+          "total_12m": 1539186.14,
           "velocity_category": null,
           "health_tier": "At-Risk",
           "health_score": 46.3,
           "is_recovery": false,
-          "d_current": 0.0,
+          "d_current": 134998.5,
           "d30": 125915.56,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 125915.56,
+          "d_total": 260914.06,
           "shared_account": false
         },
         {

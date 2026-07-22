@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 45,
   "days": [
@@ -19,7 +19,7 @@
           "last_purchase_date": "20 May 2026",
           "last_purchase_amt": 206.6,
           "last_purchase_prod": "12X2KG PUTTY",
-          "total_12m": 19633.949999999997,
+          "total_12m": 18072.04,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 51.6,
@@ -267,7 +267,7 @@
     {
       "date_iso": "2026-07-21",
       "date_label": "Tue 21 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA050",
@@ -404,7 +404,7 @@
           "last_purchase_date": "05 May 2026",
           "last_purchase_amt": 3005.34,
           "last_purchase_prod": "20L ALKYD ROOF/STOEP RED",
-          "total_12m": 250749.72999999998,
+          "total_12m": 242419.01999999996,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 75.0,
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA057",

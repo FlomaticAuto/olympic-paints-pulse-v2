@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 55,
   "days": [
@@ -309,7 +309,7 @@
     {
       "date_iso": "2026-07-21",
       "date_label": "Tue 21 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB002",
@@ -466,7 +466,7 @@
           "accno": "KM012_1",
           "last_purchase_date": "07 May 2026",
           "last_purchase_amt": 7800.0,
-          "last_purchase_prod": "5L Q.D. PWD BROWM",
+          "last_purchase_prod": "5L Q.D. PWD BROWN",
           "total_12m": 341571.07,
           "velocity_category": null,
           "health_tier": "At-Risk",
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB010",
