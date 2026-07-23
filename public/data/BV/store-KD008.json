@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "store": {
     "dlref": "KD008",
     "curef": "KD008",
@@ -11,7 +11,7 @@
     "last_purchase_date": "10 Jul 2026",
     "last_purchase_amt": 824.08,
     "last_purchase_prod": "24x500GM GREEN OXIDE",
-    "total_12m": 3627050.46,
+    "total_12m": 3626830.46,
     "velocity_category": "cooling",
     "health_tier": "Active & Growing",
     "health_score": 79.8,

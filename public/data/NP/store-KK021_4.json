@@ -1,17 +1,17 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "store": {
     "dlref": "KK021/4",
     "curef": "KK021",
     "customer_name": "Kit Kat Group (Pty) Ltd",
     "town": "Opposite Mam's Mall",
     "accno": "KK021_4",
-    "last_purchase_date": "29 Jun 2026",
-    "last_purchase_amt": 1100.0,
-    "last_purchase_prod": "5L PICK 'N SAVE  ECONO PINK",
-    "total_12m": 2180973.09,
+    "last_purchase_date": "22 Jul 2026",
+    "last_purchase_amt": 2235.6,
+    "last_purchase_prod": "5L ROAD MARKING YELLOW",
+    "total_12m": 2318895.3200000003,
     "velocity_category": null,
     "health_tier": "Active & Growing",
     "health_score": 86.1,
@@ -24,42 +24,402 @@
     "shared_account": false
   },
   "invoice": {
-    "invoice_no": "28835",
-    "date": "29 Jun 2026",
+    "invoice_no": "132200",
+    "date": "22 Jul 2026",
     "lines": [
       {
-        "prodname": "20LT DECOR APRICOT PVA",
-        "qty": 1.0,
-        "unit_price": 292.0,
-        "value": 292.0
+        "prodname": "1LT 3IN1 GRIP COAT BLACK",
+        "qty": 4.0,
+        "unit_price": 145.0,
+        "value": 580.0
       },
       {
-        "prodname": "5L PICK 'N SAVE ECONO CREAM",
-        "qty": 8.0,
-        "unit_price": 220.0,
-        "value": 1760.0
+        "prodname": "1LT  3-IN-1 QD GRIP COAT BRONZE",
+        "qty": 4.0,
+        "unit_price": 145.0,
+        "value": 580.0
       },
       {
-        "prodname": "5L PICK 'N SAVE  ECONO BLUE",
+        "prodname": "20L KALAHARI  CONTR WHITE PVA",
+        "qty": 4.0,
+        "unit_price": 395.0,
+        "value": 1580.0
+      },
+      {
+        "prodname": "20L KALAHARI CONT SILVER MIST",
         "qty": 10.0,
-        "unit_price": 220.0,
-        "value": 2200.0
+        "unit_price": 395.0,
+        "value": 3950.0
       },
       {
-        "prodname": "5L PICK 'N SAVE  ECONO YELLOW",
-        "qty": 5.0,
-        "unit_price": 220.0,
+        "prodname": "20L DECOR WHITE PVA",
+        "qty": 15.0,
+        "unit_price": 265.0,
+        "value": 3975.0
+      },
+      {
+        "prodname": "20L DECOR PEACH PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L DECOR CHESTNUT PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20L DECOR KIWI PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "20LT DECOR DARK GREY PVA",
+        "qty": 15.0,
+        "unit_price": 275.0,
+        "value": 4125.0
+      },
+      {
+        "prodname": "20LT DECOR APRICOT PVA",
+        "qty": 6.0,
+        "unit_price": 275.0,
+        "value": 1650.0
+      },
+      {
+        "prodname": "20L DECOR SILVER MIST PVA",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L DECOR PVA WHITE",
+        "qty": 10.0,
+        "unit_price": 96.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L DECOR CREAM PVA",
+        "qty": 4.0,
+        "unit_price": 96.0,
+        "value": 384.0
+      },
+      {
+        "prodname": "5L DECOR MAIZE PVA",
+        "qty": 4.0,
+        "unit_price": 100.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "5L DECOR KIWI PVA",
+        "qty": 6.0,
+        "unit_price": 100.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "5L DECOR CRANBERRY",
+        "qty": 8.0,
+        "unit_price": 100.0,
+        "value": 800.0
+      },
+      {
+        "prodname": "5LT DECOR PVA DARK GREY",
+        "qty": 6.0,
+        "unit_price": 100.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "5L DECOR NIGHT SKY",
+        "qty": 6.0,
+        "unit_price": 100.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "5L DECOR SILVER MIST",
+        "qty": 6.0,
+        "unit_price": 100.0,
+        "value": 600.0
+      },
+      {
+        "prodname": "20L RUGGED BEAUTY DUSTY OLIVE",
+        "qty": 2.0,
+        "unit_price": 693.0,
+        "value": 1386.0
+      },
+      {
+        "prodname": "20L PP RUGGED BEAUTY SILVER M",
+        "qty": 6.0,
+        "unit_price": 693.0,
+        "value": 4158.0
+      },
+      {
+        "prodname": "20L MASTER DECOR FOSSIL GREEN",
+        "qty": 6.0,
+        "unit_price": 570.0,
+        "value": 3420.0
+      },
+      {
+        "prodname": "20L MASTER DECOR UMLANGA TAN",
+        "qty": 4.0,
+        "unit_price": 570.0,
+        "value": 2280.0
+      },
+      {
+        "prodname": "5L MASTER DECOR KALAHARI PVA",
+        "qty": 4.0,
+        "unit_price": 215.0,
+        "value": 860.0
+      },
+      {
+        "prodname": "5L MASTER DECOR STONE GREY PVA",
+        "qty": 4.0,
+        "unit_price": 215.0,
+        "value": 860.0
+      },
+      {
+        "prodname": "500ML HIGH GLOSS (MQ) BLACK",
+        "qty": 10.0,
+        "unit_price": 56.0,
+        "value": 560.0
+      },
+      {
+        "prodname": "1L HIGH GLOSS (MQ) GREY",
+        "qty": 6.0,
+        "unit_price": 86.0,
+        "value": 516.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) P BROWN",
+        "qty": 10.0,
+        "unit_price": 275.0,
+        "value": 2750.0
+      },
+      {
+        "prodname": "5L HIGH GLOSS (MQ) BR GREEN",
+        "qty": 4.0,
+        "unit_price": 275.0,
         "value": 1100.0
       },
       {
-        "prodname": "5L PICK 'N SAVE  ECONO PINK",
-        "qty": 5.0,
-        "unit_price": 220.0,
-        "value": 1100.0
+        "prodname": "20L UNIVERSAL ROOF BLACK",
+        "qty": 6.0,
+        "unit_price": 520.0,
+        "value": 3120.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREY",
+        "qty": 4.0,
+        "unit_price": 520.0,
+        "value": 2080.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF GREEN",
+        "qty": 4.0,
+        "unit_price": 660.0,
+        "value": 2640.0
+      },
+      {
+        "prodname": "20L UNIVERSAL ROOF BURGANDY",
+        "qty": 6.0,
+        "unit_price": 520.0,
+        "value": 3120.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF GREY",
+        "qty": 4.0,
+        "unit_price": 160.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF BURGANDY",
+        "qty": 6.0,
+        "unit_price": 160.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "5L UNIVERSAL ROOF RED",
+        "qty": 6.0,
+        "unit_price": 160.0,
+        "value": 960.0
+      },
+      {
+        "prodname": "20L WATERBASED  PLASTER PRIMER",
+        "qty": 20.0,
+        "unit_price": 420.0,
+        "value": 8400.0
+      },
+      {
+        "prodname": "5L RAINPROOF GREY",
+        "qty": 100.0,
+        "unit_price": 102.0,
+        "value": 10200.0
+      },
+      {
+        "prodname": "5L RAINPROOF BROWN",
+        "qty": 10.0,
+        "unit_price": 102.0,
+        "value": 1020.0
+      },
+      {
+        "prodname": "500ML MAHOGONY VARNISH",
+        "qty": 8.0,
+        "unit_price": 61.0,
+        "value": 488.0
+      },
+      {
+        "prodname": "500ML TEAK VARNISH",
+        "qty": 8.0,
+        "unit_price": 61.0,
+        "value": 488.0
+      },
+      {
+        "prodname": "500ML WALNUT VARNISH",
+        "qty": 4.0,
+        "unit_price": 61.0,
+        "value": 244.0
+      },
+      {
+        "prodname": "1L DARK OAK VARNISH",
+        "qty": 6.0,
+        "unit_price": 105.0,
+        "value": 630.0
+      },
+      {
+        "prodname": "5L FACE BRICK DRESSING",
+        "qty": 6.0,
+        "unit_price": 365.0,
+        "value": 2190.0
+      },
+      {
+        "prodname": "1L ALKYD ROOF/STOEP BLACK",
+        "qty": 4.0,
+        "unit_price": 111.55,
+        "value": 446.2
+      },
+      {
+        "prodname": "5L PLASTER & TILE BONDING LIQU",
+        "qty": 6.0,
+        "unit_price": 167.67,
+        "value": 1006.02
+      },
+      {
+        "prodname": "1L ETCH PRIMER BLACK",
+        "qty": 2.0,
+        "unit_price": 108.02,
+        "value": 216.04
+      },
+      {
+        "prodname": "20L HI HIDING CONT PVA WHITE",
+        "qty": 30.0,
+        "unit_price": 385.0,
+        "value": 11550.0
+      },
+      {
+        "prodname": "24X1KG PUTTY",
+        "qty": 1.0,
+        "unit_price": 304.8,
+        "value": 304.8
+      },
+      {
+        "prodname": "5KG CRACK FILLER",
+        "qty": 10.0,
+        "unit_price": 109.25,
+        "value": 1092.5
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS BROWN",
+        "qty": 1.0,
+        "unit_price": 205.09,
+        "value": 205.09
+      },
+      {
+        "prodname": "Doz x 50ML STAINERS CHR YELLOW",
+        "qty": 2.0,
+        "unit_price": 205.09,
+        "value": 410.18
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS GREEN",
+        "qty": 1.0,
+        "unit_price": 408.0,
+        "value": 408.0
+      },
+      {
+        "prodname": "Doz x 100ML STAINERS Y OCHRE",
+        "qty": 1.0,
+        "unit_price": 408.0,
+        "value": 408.0
+      },
+      {
+        "prodname": "DOZEN 750ML LACQUER THINNERS",
+        "qty": 4.0,
+        "unit_price": 325.0,
+        "value": 1300.0
+      },
+      {
+        "prodname": "5LT THINNERS",
+        "qty": 10.0,
+        "unit_price": 167.67000000000002,
+        "value": 1676.7
+      },
+      {
+        "prodname": "5L TURPENTINE",
+        "qty": 10.0,
+        "unit_price": 167.67000000000002,
+        "value": 1676.7
+      },
+      {
+        "prodname": "5L CARBOLINEUM",
+        "qty": 20.0,
+        "unit_price": 138.62,
+        "value": 2772.4
+      },
+      {
+        "prodname": "20L MADALA'S CHOICE WHITE PVA",
+        "qty": 90.0,
+        "unit_price": 185.0,
+        "value": 16650.0
+      },
+      {
+        "prodname": "20L MADALA'S CHOICE CREAM PVA",
+        "qty": 30.0,
+        "unit_price": 185.0,
+        "value": 5550.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 80.0,
+        "value": 480.0
+      },
+      {
+        "prodname": "1L Q.D. SILVER",
+        "qty": 4.0,
+        "unit_price": 100.0,
+        "value": 400.0
+      },
+      {
+        "prodname": "5L Q D DARK GREY ENAMEL",
+        "qty": 6.0,
+        "unit_price": 280.0,
+        "value": 1680.0
+      },
+      {
+        "prodname": "200mm x 10m Membrane",
+        "qty": 110.0,
+        "unit_price": 0.0,
+        "value": 0.0
+      },
+      {
+        "prodname": "5L ROAD MARKING YELLOW",
+        "qty": 4.0,
+        "unit_price": 558.9,
+        "value": 2235.6
       }
     ],
-    "total": 6452.0,
-    "count": 5
+    "total": 137922.23,
+    "count": 65
   },
   "competitor_forms_outstanding": 0
 }

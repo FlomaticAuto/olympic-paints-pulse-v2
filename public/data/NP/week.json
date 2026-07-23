@@ -1,7 +1,7 @@
 {
   "rep": "NP",
   "rep_name": "Nikhil Panchal",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 77,
   "days": [
@@ -590,10 +590,10 @@
           "customer_name": "Kit Kat Group (Pty) Ltd",
           "town": "Opposite Mam's Mall",
           "accno": "KK021_4",
-          "last_purchase_date": "29 Jun 2026",
-          "last_purchase_amt": 1100.0,
-          "last_purchase_prod": "5L PICK 'N SAVE  ECONO PINK",
-          "total_12m": 2180973.09,
+          "last_purchase_date": "22 Jul 2026",
+          "last_purchase_amt": 2235.6,
+          "last_purchase_prod": "5L ROAD MARKING YELLOW",
+          "total_12m": 2318895.3200000003,
           "velocity_category": null,
           "health_tier": "Active & Growing",
           "health_score": 86.1,
@@ -841,7 +841,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA096",
@@ -1151,11 +1151,11 @@
           "health_tier": "Active & Growing",
           "health_score": 68.1,
           "is_recovery": false,
-          "d_current": 437425.23,
+          "d_current": 438946.11,
           "d30": 151705.56,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 589130.79,
+          "d_total": 590651.67,
           "shared_account": false
         },
         {
@@ -1247,7 +1247,7 @@
     {
       "date_iso": "2026-07-23",
       "date_label": "Thu 23 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA106",
@@ -1549,10 +1549,10 @@
           "customer_name": "S.I.Hardware",
           "town": "SILOAM",
           "accno": "KS019_1",
-          "last_purchase_date": "21 Jul 2026",
-          "last_purchase_amt": 550.0,
-          "last_purchase_prod": "5LT Q.D. BLUE GREY",
-          "total_12m": 503820.26,
+          "last_purchase_date": "22 Jul 2026",
+          "last_purchase_amt": 1322.5,
+          "last_purchase_prod": "5LT THINNERS",
+          "total_12m": 505142.76,
           "velocity_category": null,
           "health_tier": "Active but Narrow",
           "health_score": 60.5,

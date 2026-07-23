@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "store": {
     "dlref": "KK006",
     "curef": "KK006",
@@ -11,7 +11,7 @@
     "last_purchase_date": "17 Jul 2026",
     "last_purchase_amt": 8250.0,
     "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-    "total_12m": 540692.97,
+    "total_12m": 514988.57,
     "velocity_category": "cooling",
     "health_tier": "At-Risk",
     "health_score": 52.0,

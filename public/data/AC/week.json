@@ -1,7 +1,7 @@
 {
   "rep": "AC",
   "rep_name": "Aboo Cassim",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 45,
   "days": [
@@ -19,16 +19,16 @@
           "last_purchase_date": "20 May 2026",
           "last_purchase_amt": 206.6,
           "last_purchase_prod": "12X2KG PUTTY",
-          "total_12m": 18072.04,
+          "total_12m": 17693.1,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 51.6,
           "is_recovery": false,
           "d_current": 0.0,
           "d30": 0.0,
-          "d60": 2676.11,
+          "d60": 0.0,
           "d90": 0.0,
-          "d_total": 2676.11,
+          "d_total": 0.0,
           "shared_account": false
         },
         {
@@ -505,7 +505,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KA057",
@@ -743,7 +743,7 @@
     {
       "date_iso": "2026-07-23",
       "date_label": "Thu 23 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KA060",
@@ -822,11 +822,11 @@
           "health_tier": "Active & Growing",
           "health_score": 94.7,
           "is_recovery": false,
-          "d_current": 189927.55,
+          "d_current": 579174.02,
           "d30": 78261.26,
           "d60": 0.0,
           "d90": 0.0,
-          "d_total": 268188.81,
+          "d_total": 657435.28,
           "shared_account": false
         },
         {
@@ -838,7 +838,7 @@
           "last_purchase_date": "23 Jul 2025",
           "last_purchase_amt": 8025.7,
           "last_purchase_prod": "20L HIGH GLOSS (MQ) WHITE",
-          "total_12m": 8025.7,
+          "total_12m": 0.0,
           "velocity_category": null,
           "health_tier": "Dead / Dormant",
           "health_score": 15.0,

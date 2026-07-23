@@ -1,7 +1,7 @@
 {
   "rep": "AP",
   "rep_name": "Amit Patel",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "store": {
     "customer_name": "Monyakeng Hardware",
     "accno": "KM105",
@@ -17,60 +17,90 @@
     "last_purchase_amt": 0
   },
   "invoice": {
-    "invoice_no": "129494",
-    "date": "15 Jan 2026",
+    "invoice_no": "132191",
+    "date": "22 Jul 2026",
     "lines": [
       {
-        "prodname": "1L WATERBASE RED OXIDE PRIMER",
-        "qty": 6.0,
-        "unit_price": 59.5,
-        "value": 357.0
-      },
-      {
-        "prodname": "5L WATERBASE RED OXIDE PRIMER",
-        "qty": 10.0,
-        "unit_price": 234.64000000000001,
-        "value": 2346.4
-      },
-      {
-        "prodname": "1L PP ULTIMATE SHINE SILVER",
+        "prodname": "1L HIGH GLOSS (MQ) BURGANDY",
         "qty": 5.0,
-        "unit_price": 105.49000000000001,
-        "value": 527.45
+        "unit_price": 90.19,
+        "value": 450.95
       },
       {
         "prodname": "5L PP ULTIMATE SHINE SILVER",
         "qty": 4.0,
-        "unit_price": 394.29,
-        "value": 1577.16
+        "unit_price": 489.7,
+        "value": 1958.8
       },
       {
         "prodname": "20L LIBERTY PVA WHITE",
-        "qty": 10.0,
-        "unit_price": 161.54000000000002,
-        "value": 1615.4
+        "qty": 6.0,
+        "unit_price": 200.63,
+        "value": 1203.78
       },
       {
         "prodname": "20L LIBERTY PVA CREAM",
-        "qty": 10.0,
-        "unit_price": 161.54000000000002,
-        "value": 1615.4
+        "qty": 6.0,
+        "unit_price": 200.63,
+        "value": 1203.78
       },
       {
         "prodname": "1L Q D WHITE ENAMEL",
-        "qty": 4.0,
-        "unit_price": 88.31,
-        "value": 353.24
+        "qty": 6.0,
+        "unit_price": 93.0,
+        "value": 558.0
       },
       {
         "prodname": "1L Q D BLACK ENAMEL",
+        "qty": 6.0,
+        "unit_price": 93.0,
+        "value": 558.0
+      },
+      {
+        "prodname": "1L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 93.0,
+        "value": 558.0
+      },
+      {
+        "prodname": "1LT Q.D ENAMEL MATT BLACK",
         "qty": 4.0,
-        "unit_price": 92.71,
-        "value": 370.84
+        "unit_price": 93.0,
+        "value": 372.0
+      },
+      {
+        "prodname": "5L Q D WHITE ENAMEL",
+        "qty": 4.0,
+        "unit_price": 320.0,
+        "value": 1280.0
+      },
+      {
+        "prodname": "5L Q D BLACK ENAMEL",
+        "qty": 2.0,
+        "unit_price": 320.0,
+        "value": 640.0
+      },
+      {
+        "prodname": "5L Q D BRONZE ENAMEL",
+        "qty": 6.0,
+        "unit_price": 320.0,
+        "value": 1920.0
+      },
+      {
+        "prodname": "5LT Q.D.ENAMEL MATT BLACK",
+        "qty": 6.0,
+        "unit_price": 320.0,
+        "value": 1920.0
+      },
+      {
+        "prodname": "5L Q D  CAT YELLOW ENAMEL",
+        "qty": 5.0,
+        "unit_price": 320.0,
+        "value": 1600.0
       }
     ],
-    "total": 8762.89,
-    "count": 8
+    "total": 14223.31,
+    "count": 13
   },
   "competitor_forms_outstanding": 0
 }

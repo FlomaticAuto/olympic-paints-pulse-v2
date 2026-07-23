@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "week_label": "20 Jul \u2013 23 Jul",
   "total_stores": 55,
   "days": [
@@ -572,7 +572,7 @@
           "last_purchase_date": "10 Jul 2026",
           "last_purchase_amt": 280.0,
           "last_purchase_prod": "5L HIGH GLOSS (MQ) P BROWN",
-          "total_12m": 833050.1200000001,
+          "total_12m": 826750.1200000001,
           "velocity_category": "growing",
           "health_tier": "Active & Growing",
           "health_score": 73.0,
@@ -610,7 +610,7 @@
     {
       "date_iso": "2026-07-22",
       "date_label": "Wed 22 Jul",
-      "is_today": true,
+      "is_today": false,
       "stores": [
         {
           "dlref": "KB010",
@@ -663,7 +663,7 @@
           "last_purchase_date": "10 Jul 2026",
           "last_purchase_amt": 824.08,
           "last_purchase_prod": "24x500GM GREEN OXIDE",
-          "total_12m": 3627050.46,
+          "total_12m": 3626830.46,
           "velocity_category": "cooling",
           "health_tier": "Active & Growing",
           "health_score": 79.8,
@@ -726,7 +726,7 @@
           "last_purchase_date": "17 Jul 2026",
           "last_purchase_amt": 5900.0,
           "last_purchase_prod": "5L Q.D. G BROWN",
-          "total_12m": 3382840.0,
+          "total_12m": 3283640.0,
           "velocity_category": "falling",
           "health_tier": "Active but Narrow",
           "health_score": 58.2,
@@ -911,7 +911,7 @@
     {
       "date_iso": "2026-07-23",
       "date_label": "Thu 23 Jul",
-      "is_today": false,
+      "is_today": true,
       "stores": [
         {
           "dlref": "KB066",
@@ -1027,7 +1027,7 @@
           "last_purchase_date": "17 Jul 2026",
           "last_purchase_amt": 8250.0,
           "last_purchase_prod": "5L Q D BRONZE ENAMEL",
-          "total_12m": 540692.97,
+          "total_12m": 514988.57,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 52.0,
@@ -1153,7 +1153,7 @@
           "last_purchase_date": "14 Jul 2026",
           "last_purchase_amt": 5600.0,
           "last_purchase_prod": "5L Q.D. G BROWN",
-          "total_12m": 3409395.6500000004,
+          "total_12m": 3301691.6100000003,
           "velocity_category": "cooling",
           "health_tier": "At-Risk",
           "health_score": 64.1,

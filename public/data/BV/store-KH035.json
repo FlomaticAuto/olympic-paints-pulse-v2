@@ -1,7 +1,7 @@
 {
   "rep": "BV",
   "rep_name": "Bhadresh Vallabh",
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "store": {
     "dlref": "KH035",
     "curef": "KH035",
@@ -11,7 +11,7 @@
     "last_purchase_date": "17 Jul 2026",
     "last_purchase_amt": 5900.0,
     "last_purchase_prod": "5L Q.D. G BROWN",
-    "total_12m": 3382840.0,
+    "total_12m": 3283640.0,
     "velocity_category": "falling",
     "health_tier": "Active but Narrow",
     "health_score": 58.2,
